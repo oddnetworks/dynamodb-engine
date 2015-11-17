@@ -21,17 +21,49 @@ exports.createEngine = function (spec) {
 	};
 	self.dynamodb = new AWS.DynamoDB(awsOptions);
 
-	self.get = function (id) {
-		if (arguments.length < 1) {
-			throw new Error('dynamoDBEngine.get(id) requires an ID String as the ' +
-											'first argument.');
+	if (!self.tableName) {
+		throw new Error('A dynamoDBEngine instance must have an ' +
+										'associated tableName.');
+	}
+
+	self.get = function (record, options) {
+		record = record || Object.create(null);
+
+		if (!record.id) {
+			throw new Error('dynamoDBEngine.get(record) requires a record.id String');
 		}
-		if (typeof id !== 'string') {
-			throw new Error('dynamoDBEngine.get(id) requires an ID String as the ' +
-											'first argument.');
+		if (typeof record.id !== 'string') {
+			throw new Error('dynamoDBEngine.get(record) record.id must be a String');
 		}
 
+		options = options || Object.create(null);
+		var idAttribute = options.idAttribute || self.idAttribute;
+		var key = {};
+		key[idAttribute] = {
+			S: record.id
+		};
+
+		var params = {
+			Key: key,
+			TableName: options.tableName || self.tableName,
+			// Projecting no attributes will fetch them all
+			ProjectionExpression: ''
+		};
+
 		return new Promise(function (resolve, reject) {
+			self.dynamodb.getItem(params, function (err, data) {
+				if (err) {
+					return reject(err);
+				}
+				if (!data) {
+					return reject(new NotFoundError(
+						'Could not find entity by id ' + record.id));
+				}
+				resolve({
+					id: record.id,
+					data: exports.deserialize(data.Item)
+				});
+			});
 		});
 	};
 
