@@ -67,13 +67,43 @@ exports.createEngine = function (spec) {
 		});
 	};
 
-	self.post = function (record) {
+	self.post = function (record, options) {
+		record = record || Object.create(null);
+
 		if (record.id) {
 			throw new Error('dynamoDBEngine.post(record) must not have a ' +
-											'record id.');
+											'record.id attribute.');
+		}
+		if (!record.data) {
+			throw new Error('dynamoDBEngine.post(record) must have a record.data ' +
+											'attribute.');
+		}
+		if (typeof record.data !== 'object') {
+			throw new Error('dynamoDBEngine.post(record) record.data must be an ' +
+											'Object.');
 		}
 
+		options = options || Object.create(null);
+
+		var idAttribute = options.idAttribute || self.idAttribute;
+		var newRecord = {
+			id: exports.uuid(),
+			data: record.data
+		};
+
+		var params = {
+			Item: exports.serializeRecord(newRecord, idAttribute),
+			TableName: options.tableName || self.tableName,
+			ConditionExpression: 'attibute_not_exists(' + idAttribute + ')'
+		};
+
 		return new Promise(function (resolve, reject) {
+			self.dynamodb.putItem(params, function (err) {
+				if (err) {
+					return reject(err);
+				}
+				resolve(newRecord);
+			});
 		});
 	};
 
