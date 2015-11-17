@@ -9,6 +9,10 @@ var AWS = require('aws-sdk');
 // spec.sslEnabled - *Boolean*
 // spec.apiVersion - *String* default: 'latest'
 // spec.logger - *Object* that responds to #write() or #log()
+// spec.tableName - *String* name of the table to use.
+// spec.idAttribute - *String* name of the key ID attribute used on models.
+// spec.errors - *Object* hash of Error types.
+// spec.errors.NotFoundError
 exports.createEngine = function (spec) {
 	var self = Object.create(null);
 	var awsOptions = {
@@ -19,6 +23,10 @@ exports.createEngine = function (spec) {
 		apiVersion: spec.apiVersion || 'latest',
 		logger: spec.logger
 	};
+	self.idAttribute = spec.idAttribute || 'id';
+	self.tableName = spec.tableName;
+	spec.errors = spec.errors || Object.create(null);
+	var NotFoundError = spec.errors.NotFoundError || exports.NotFoundError;
 	self.dynamodb = new AWS.DynamoDB(awsOptions);
 
 	if (!self.tableName) {
@@ -107,27 +115,82 @@ exports.createEngine = function (spec) {
 		});
 	};
 
-	self.put = function (record) {
-		if (typeof record.id !== 'string' || !record.id) {
-			throw new Error('dynamoDBEngine.put(record) must have a String ' +
-											'record id.');
+	self.put = function (record, options) {
+		record = record || Object.create(null);
+
+		if (!record.id) {
+			throw new Error('dynamoDBEngine.put(record) requires a record.id String');
+		}
+		if (typeof record.id !== 'string') {
+			throw new Error('dynamoDBEngine.put(record) record.id must be a String');
+		}
+		if (!record.data) {
+			throw new Error('dynamoDBEngine.put(record) must have a record.data ' +
+											'attribute.');
+		}
+		if (typeof record.data !== 'object') {
+			throw new Error('dynamoDBEngine.put(record) record.data must be an ' +
+											'Object.');
 		}
 
+		options = options || Object.create(null);
+
+		var idAttribute = options.idAttribute || self.idAttribute;
+		var newRecord = {
+			id: record.id,
+			data: record.data
+		};
+
+		var params = {
+			Item: exports.serializeRecord(newRecord, idAttribute),
+			TableName: options.tableName || self.tableName
+		};
+
 		return new Promise(function (resolve, reject) {
+			self.dynamodb.putItem(params, function (err) {
+				if (err) {
+					return reject(err);
+				}
+				resolve(newRecord);
+			});
 		});
 	};
 
-	self.remove = function (id) {
+	self.remove = function (record, options) {
+		record = record || Object.create(null);
+
 		if (arguments.length < 1) {
 			throw new Error('dynamoDBEngine.remove(id) requires an ID String as the ' +
 											'first argument.');
 		}
-		if (typeof id !== 'string') {
-			throw new Error('dynamoDBEngine.remove(id) requires an ID String as the ' +
-											'first argument.');
+		if (typeof record.id !== 'string') {
+			throw new Error('dynamoDBEngine.remove(id) first argument must be ' +
+											'a String.');
 		}
 
+		options = options || Object.create(null);
+		var idAttribute = options.idAttribute || self.idAttribute;
+		var key = {};
+		key[idAttribute] = {
+			S: record.id
+		};
+
+		var params = {
+			Key: key,
+			TableName: options.tableName || self.tableName
+		};
+
 		return new Promise(function (resolve, reject) {
+			self.dynamodb.deleteItem(params, function (err, data) {
+				if (err) {
+					return reject(err);
+				}
+				if (data) {
+					return resolve(true);
+				}
+				return reject(new NotFoundError(
+					'Could not find entity by id ' + record.id));
+			});
 		});
 	};
 
