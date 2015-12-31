@@ -15,8 +15,9 @@
   },
   "homepage": "https://github.com/oddnetworks/dynamodb-engine/",
   "dependencies": {
-    "aws-sdk"  : "~2.2.26",
-    "bluebird" : "~3.1.1"
+    "aws-sdk"   : "~2.2.26",
+    "bluebird"  : "~3.1.1",
+    "node-uuid" : "~1.4.7"
   },
   "devDependencies": {
     "sinon" : "~1.17.2",
