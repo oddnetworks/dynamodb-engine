@@ -3,10 +3,11 @@
   "version"     : "0.0.0",
   "description" : "A promisified Node.js engine for AWS DynamoDB.",
   "author"      : "Odd Networks (http://oddnetworks.co)",
-  "main"        : "./index.js",
+  "main"        : "./lib/dynamodb-engine",
   "scripts"     : {
     "lint": "xo",
-    "test": "xo && tape 'test/**/*_test.js' | faucet"
+    "test": "xo && tape 'test/**/*.test.js'",
+    "test": "xo && tape 'integration-test/**/*.test.js'"
   },
   "repository": {
     "type" : "git",
@@ -14,14 +15,13 @@
   },
   "homepage": "https://github.com/oddnetworks/dynamodb-engine/",
   "dependencies": {
-    "aws-sdk"  : "2.2.6",
-    "bluebird" : "3.0.5"
+    "aws-sdk"  : "~2.2.26",
+    "bluebird" : "~3.1.1"
   },
   "devDependencies": {
-    "faucet" : "0.0.1",
-    "sinon"  : "1.17.2",
-    "tape"   : "4.2.2",
-    "xo"     : "0.10.1"
+    "sinon" : "~1.17.2",
+    "tape"  : "~4.4.0",
+    "xo"    : "~0.12.1"
   },
   "bugs": {"url": "https://github.com/oddnetworks/dynamodb-engine/issues"},
   "license": "MIT"
