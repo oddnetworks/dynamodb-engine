@@ -55,15 +55,9 @@ test('list tables', function (t) {
 });
 
 test('create a new table', function (t) {
-	const DB = createDynamoDBEngine('a_new_table');
+	const DB = createDynamoDBEngine('table_test_table');
 
-	DB.createTable({
-		attributes: [
-			{name: 'color', type: 'String'},
-			{name: 'width', type: 'Number'},
-			{name: 'height', type: 'Number'}
-		]
-	})
+	DB.createTable()
 	.then(function (res) {
 		console.log('Table created:');
 		console.log(res);
@@ -75,3 +69,68 @@ test('create a new table', function (t) {
 		process.exit(1);
 	});
 });
+
+test('list tables again', function (t) {
+	const DB = createDynamoDBEngine();
+
+	DB.listTables()
+		.then(function (res) {
+			console.log('Table Listing:');
+			console.log(res);
+			t.end();
+		})
+		.catch(function (err) {
+			console.error('Error listing tables:');
+			console.error(err.stack);
+			process.exit(1);
+		});
+});
+
+test('delete the new table', function (t) {
+	const DB = createDynamoDBEngine('table_test_table');
+
+	DB.deleteTable()
+	.then(function (res) {
+		console.log('Table deleted:');
+		console.log(res);
+		t.end();
+	})
+	.catch(function (err) {
+		console.error('Error deleting the table:');
+		console.error(err.stack);
+		process.exit(1);
+	});
+});
+
+test('delete the table again', function (t) {
+	const DB = createDynamoDBEngine('table_test_table');
+
+	DB.deleteTable()
+	.then(function (res) {
+		console.log('Table deleted:');
+		console.log(res);
+		t.end();
+	})
+	.catch(function (err) {
+		console.error('Error deleting the table:');
+		console.error(err.stack);
+		process.exit(1);
+	});
+});
+
+test('list tables last', function (t) {
+	const DB = createDynamoDBEngine();
+
+	DB.listTables()
+		.then(function (res) {
+			console.log('Table Listing:');
+			console.log(res);
+			t.end();
+		})
+		.catch(function (err) {
+			console.error('Error listing tables:');
+			console.error(err.stack);
+			process.exit(1);
+		});
+});
+
