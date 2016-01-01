@@ -5,6 +5,10 @@ const DynamoDBEngine = require('../lib/dynamodb-engine');
 const ACCESS_KEY_ID = process.env.ACCESS_KEY_ID;
 const SECRET_ACCESS_KEY = process.env.SECRET_ACCESS_KEY;
 const REGION = process.env.REGION;
+
+// The localhost ENDPOINT should reference DynamoDB Local.
+// For more info see here:
+//   http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Tools.DynamoDBLocal.html
 const ENDPOINT = process.env.ENDPOINT || 'http://localhost:8000';
 
 if (!ACCESS_KEY_ID) {
@@ -38,6 +42,12 @@ function createDynamoDBEngine(tableName) {
 	return DB;
 }
 
+function die(err) {
+	console.log('Fatal error:');
+	console.log(err);
+	process.exit(1);
+}
+
 test('list tables', function (t) {
 	const DB = createDynamoDBEngine();
 
@@ -45,13 +55,10 @@ test('list tables', function (t) {
 		.then(function (res) {
 			console.log('Table Listing:');
 			console.log(res);
-			t.end();
+			t.equal(res.indexOf('table_test_table'), -1);
 		})
-		.catch(function (err) {
-			console.error('Error listing tables:');
-			console.error(err.stack);
-			process.exit(1);
-		});
+		.catch(die)
+		.then(t.end);
 });
 
 test('create a new table', function (t) {
@@ -59,78 +66,72 @@ test('create a new table', function (t) {
 
 	DB.createTable()
 	.then(function (res) {
-		console.log('Table created:');
-		console.log(res);
-		t.end();
+		t.equal(res.TableName, 'table_test_table');
+		t.equal(res.TableStatus, 'ACTIVE');
+		console.log('Table created: %s', res.TableName);
 	})
-	.catch(function (err) {
-		console.error('Error creating the table:');
-		console.error(err.stack);
-		process.exit(1);
-	});
+	.catch(die)
+	.then(t.end);
 });
 
-test('list tables again', function (t) {
-	const DB = createDynamoDBEngine();
+test('create the table again', function (t) {
+	const DB = createDynamoDBEngine('table_test_table');
 
-	DB.listTables()
+	const promise = new Promise(function (resolve) {
+		DB.on('log', function (log) {
+			if (log.level === 'WARN') {
+				t.equal(log.message, 'attempting to create table; ' +
+					'"table_test_table" does not exist');
+				resolve();
+			}
+		});
+
+		DB.createTable()
 		.then(function (res) {
-			console.log('Table Listing:');
-			console.log(res);
-			t.end();
+			t.equal(res.TableName, 'table_test_table');
+			console.log('Table created: %s', res.TableName);
 		})
 		.catch(function (err) {
-			console.error('Error listing tables:');
-			console.error(err.stack);
-			process.exit(1);
-		});
+			console.error('Expected error creating the table: %s', err.code);
+		})
+		.then(resolve);
+	});
+
+	promise.then(t.end).catch(die);
 });
 
 test('delete the new table', function (t) {
 	const DB = createDynamoDBEngine('table_test_table');
 
 	DB.deleteTable()
-	.then(function (res) {
-		console.log('Table deleted:');
-		console.log(res);
-		t.end();
+	.then(function () {
+		console.log('Table deleted');
 	})
-	.catch(function (err) {
-		console.error('Error deleting the table:');
-		console.error(err.stack);
-		process.exit(1);
-	});
+	.catch(die)
+	.then(t.end);
 });
 
 test('delete the table again', function (t) {
 	const DB = createDynamoDBEngine('table_test_table');
 
-	DB.deleteTable()
-	.then(function (res) {
-		console.log('Table deleted:');
-		console.log(res);
-		t.end();
-	})
-	.catch(function (err) {
-		console.error('Error deleting the table:');
-		console.error(err.stack);
-		process.exit(1);
-	});
-});
+	const promise = new Promise(function (resolve) {
+		DB.on('log', function (log) {
+			if (log.level === 'WARN') {
+				t.equal(log.message, 'attempting to delete table; ' +
+					'"table_test_table" does not exist');
+				resolve();
+			}
+		});
 
-test('list tables last', function (t) {
-	const DB = createDynamoDBEngine();
-
-	DB.listTables()
-		.then(function (res) {
-			console.log('Table Listing:');
-			console.log(res);
-			t.end();
+		DB.deleteTable()
+		.then(function () {
+			console.log('Table deleted');
 		})
 		.catch(function (err) {
-			console.error('Error listing tables:');
-			console.error(err.stack);
-			process.exit(1);
-		});
-});
+			console.error('Expected error deleting the table: %s', err.code);
+		})
+		.then(resolve);
+	});
 
+	promise.then(t.end).catch(die);
+});
