@@ -1,0 +1,133 @@
+{
+  "id": 1011032,
+  "name": "Speed Demon",
+  "description": "James Saunders, a disgruntled chemist tired of his job with the Hudson Pharmaceutical Company of West Caldwell, New Jersey, was contacted by the Grandmaster and offered superhuman powers in exchange for joining a team that would compete on his behalf.",
+  "modified": "2012-12-27T15:36:11-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0032463bef2",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011032",
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011032/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7338",
+        "name": "Avengers (1963) #85"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1738",
+        "name": "New Thunderbolts (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2222",
+        "name": "New Thunderbolts (2004) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2516",
+        "name": "New Thunderbolts (2004) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1952",
+        "name": "New Thunderbolts Vol. 1: One Step Forward (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3030",
+        "name": "New Thunderbolts Vol. 2: Modern Marvels (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4147",
+        "name": "New Thunderbolts Vol. 3: Right of Power (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46462",
+        "name": "Superior Spider-Man (2013) #1"
+      }
+    ],
+    "returned": 8
+  },
+  "series": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011032/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/788",
+        "name": "New Thunderbolts (2004 - 2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1331",
+        "name": "New Thunderbolts Vol. 1: One Step Forward (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1514",
+        "name": "New Thunderbolts Vol. 2: Modern Marvels (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1547",
+        "name": "New Thunderbolts Vol. 3: Right of Power (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/17554",
+        "name": "Superior Spider-Man (2013 - Present)"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011032/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3878",
+        "name": "6 of 6 - One Step Forward",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3886",
+        "name": "4 of 6 - Reflections",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3892",
+        "name": "1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15239",
+        "name": "The World is Not for Burning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104513",
+        "name": "story from Superior Spider-Man (2013) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011032/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/3417/speed_demon?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Speed_Demon?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011032/speed_demon?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

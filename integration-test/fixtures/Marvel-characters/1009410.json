@@ -1,0 +1,135 @@
+{
+  "id": 1009410,
+  "name": "Moira MacTaggert",
+  "description": "",
+  "modified": "2011-04-21T12:00:52-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c003d5e64f22",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009410",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009410/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20731",
+        "name": "Clandestine Classic Premiere (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36497",
+        "name": "New Mutants (2009) #24"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13930",
+        "name": "Uncanny X-Men (1963) #389"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18003",
+        "name": "X-Force (1991) #38"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21141",
+        "name": "X-Men: Clan Destine (1996) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1460",
+        "name": "X-Men: Dream's End (Trade Paperback)"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009410/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3874",
+        "name": "Clandestine Classic Premiere (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7455",
+        "name": "New Mutants (2009 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+        "name": "X-Force (1991 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4773",
+        "name": "X-Men: Clan Destine (1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1318",
+        "name": "X-Men: Dream's End (2004)"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009410/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28324",
+        "name": "Cover #28324",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28325",
+        "name": "The Good Shepherd",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38239",
+        "name": "Sleeping With The Enemy",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38285",
+        "name": "Phalanx Covenant: Life Signs Part 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46646",
+        "name": "The Destine's Darkest Dreams",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81024",
+        "name": "Interior #81024",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009410/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/303",
+        "name": "Age of X"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2850/moira_mactaggert?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/MacTaggert%2C_Moira?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009410/moira_mactaggert?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

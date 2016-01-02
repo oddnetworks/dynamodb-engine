@@ -1,0 +1,106 @@
+{
+  "id": 1009525,
+  "name": "Valeria Richards",
+  "description": "",
+  "modified": "2011-10-27T09:58:06-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/4d541255f088a",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009525",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009525/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39019",
+        "name": "Amazing Spider-Man (1999) #658"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38716",
+        "name": "Amazing Spider-Man (1999) #658 (THOR HOLLYWOOD VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39018",
+        "name": "Amazing Spider-Man (1999) #659"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35505",
+        "name": "Amazing Spider-Man (1999) #660"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35509",
+        "name": "Amazing Spider-Man (1999) #673"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009525/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009525/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/78516",
+        "name": "Amazing Spider-Man (1999) #660 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85001",
+        "name": "Amazing Spider-Man (1999) #658, THOR HOLLYWOOD VARIANT",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88566",
+        "name": "AMAZING SPIDER-MAN (1999) #659",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88567",
+        "name": "AMAZING SPIDER-MAN (1999) #659 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88569",
+        "name": "AMAZING SPIDER-MAN (1999) #658 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/95451",
+        "name": "Amazing Spider-Man (1999) #673",
+        "type": "cover"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009525/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2717/valeria_richards?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Richards%2C_Valeria?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009525/valeria_richards?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

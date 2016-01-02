@@ -1,0 +1,78 @@
+{
+  "id": 1010816,
+  "name": "Hate-Monger (Adolf Hitler)",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035ea3151e",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010816",
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010816/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27760",
+        "name": "Nick Fury, Agent of Shield (1968) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18787",
+        "name": "Super-Villain Team-Up (1975) #17"
+      }
+    ],
+    "returned": 2
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010816/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8854",
+        "name": "Nick Fury, Agent of Shield (1968 - 1971)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3674",
+        "name": "Super-Villain Team-Up (1975 - 1980)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010816/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40239",
+        "name": "Dark Victory",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60692",
+        "name": "T'was the Night Before Christmas",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010816/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/913/hate-monger?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Hate-Monger%20(Adolf%20Hitler)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010816/hate-monger_adolf_hitler?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

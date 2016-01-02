@@ -1,0 +1,212 @@
+{
+  "id": 1009208,
+  "name": "Brood",
+  "description": "",
+  "modified": "2013-10-17T14:53:39-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5260321259f91",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009208",
+  "comics": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009208/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15853",
+        "name": "Heroes for Hire (2006) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13697",
+        "name": "Uncanny X-Men (1963) #156"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13698",
+        "name": "Uncanny X-Men (1963) #157"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13702",
+        "name": "Uncanny X-Men (1963) #161"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13703",
+        "name": "Uncanny X-Men (1963) #162"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13704",
+        "name": "Uncanny X-Men (1963) #163"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13707",
+        "name": "Uncanny X-Men (1963) #166"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13738",
+        "name": "Uncanny X-Men (1963) #197"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13773",
+        "name": "Uncanny X-Men (1963) #232"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13792",
+        "name": "Uncanny X-Men (1963) #251"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14281",
+        "name": "X-Men (1991) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14373",
+        "name": "X-Men (1991) #80"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18112",
+        "name": "X-Men Unlimited (1993) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3995",
+        "name": "X-Men: Mutant Genesis (Trade Paperback)"
+      }
+    ],
+    "returned": 14
+  },
+  "series": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009208/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1121",
+        "name": "Heroes for Hire (2006 - 2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8821",
+        "name": "S.H.I.E.L.D. (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2265",
+        "name": "X-Men (1991 - 2001)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3637",
+        "name": "X-Men Unlimited (1993 - 1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1774",
+        "name": "X-Men: Mutant Genesis (2006)"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009208/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27819",
+        "name": "Pursuit!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27821",
+        "name": "Hide-'N'-Seek!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27831",
+        "name": "Gold Rush!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27832",
+        "name": "Cover #27832",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27834",
+        "name": "Cover #27834",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27840",
+        "name": "Cover #27840",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27904",
+        "name": "To Save Arcade?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27973",
+        "name": "The Brood Is Back!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28012",
+        "name": "Fever Dream",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29116",
+        "name": "A Villains Gallery",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29119",
+        "name": "Things to Come",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29304",
+        "name": "X-Villains",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32373",
+        "name": "World War Hulk 1 of 3; WWH SLUG",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38499",
+        "name": "Brood",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76346",
+        "name": "S.H.I.E.L.D (2010) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009208/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/277",
+        "name": "World War Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/353/brood?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Brood?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009208/brood?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

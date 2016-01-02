@@ -1,0 +1,122 @@
+{
+  "id": 1010695,
+  "name": "Surge",
+  "description": "Prior to enrolling at the Xavier Institute, Noriko Ashida lived on the street and was reliant on illegally obtained prescription drugs to reduce her highly accelerated mutant brain functions to a manageable rate.",
+  "modified": "2011-10-19T10:49:27-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/4c0038d51109f",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010695",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39737",
+        "name": "Magneto: Not a Hero (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4440",
+        "name": "New X-Men (2004) #28"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17223",
+        "name": "New X-Men (2004) #44"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17224",
+        "name": "New X-Men (2004) #44 (VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5636",
+        "name": "New X-Men: Childhood's End Vol. 3 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24173",
+        "name": "Runaways (2008) #10"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14683",
+        "name": "Magneto: Not a Hero (2011 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/749",
+        "name": "New X-Men (2004 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1668",
+        "name": "New X-Men: Childhood's End Vol. 3 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5338",
+        "name": "Runaways (2008 - 2009)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3411",
+        "name": "1 of 4 - Nimrod",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36098",
+        "name": "Messiah Complex 4 of 13",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36100",
+        "name": "Messiah Complex 4 of 13",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53571",
+        "name": "Interior #53571",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90198",
+        "name": "Magneto: Not a Hero (2011) #1 - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010695/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "name": "Messiah CompleX"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2267/surge?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Surge_%28Noriko_Ashida%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010695/surge?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

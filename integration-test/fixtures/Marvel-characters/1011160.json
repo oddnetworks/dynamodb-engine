@@ -1,0 +1,90 @@
+{
+  "id": 1011160,
+  "name": "Supreme Intelligence",
+  "description": "The Supreme Intelligence is an organic, computer construct, created by the Kree to act as their supreme leader.",
+  "modified": "2013-12-17T17:37:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/52b0d1eb0ca73",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011160",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17556",
+        "name": "Avengers (1998) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17518",
+        "name": "Avengers (1998) #35"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1311",
+        "name": "Avengers Assemble (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5844",
+        "name": "Avengers Assemble Vol. 4 (Hardcover)"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+        "name": "Avengers (1998 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+        "name": "Avengers Assemble (2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1816",
+        "name": "Avengers Assemble Vol. 4 (2007)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37398",
+        "name": "Interstellar Intrigues",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37487",
+        "name": "The Court Martial of Carol Danvers",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011160/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2265/supreme_intelligence?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Supreme_Intelligence?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011160/supreme_intelligence?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": 1010882,
+  "name": "Old Lace",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010882",
+  "comics": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010882/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15071",
+        "name": "Runaways (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15072",
+        "name": "Runaways (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15073",
+        "name": "Runaways (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15074",
+        "name": "Runaways (2003) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15075",
+        "name": "Runaways (2003) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24173",
+        "name": "Runaways (2008) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4429",
+        "name": "Runaways (2005) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15826",
+        "name": "Runaways (2005) #27"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1273",
+        "name": "Runaways Vol. 1: Pride & Joy (Digest)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5197",
+        "name": "Runaways Vol. 6: Parental Guidance (Digest)"
+      }
+    ],
+    "returned": 10
+  },
+  "series": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010882/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5338",
+        "name": "Runaways (2008 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2584",
+        "name": "Runaways (2003 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/843",
+        "name": "Runaways (2005 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/327",
+        "name": "Runaways Vol. 1: Pride & Joy (2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1631",
+        "name": "Runaways Vol. 6: Parental Guidance (2006)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010882/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4383",
+        "name": "5 of 5 - Parental Guidance",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30623",
+        "name": "Pride and Joy, Part 2 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30625",
+        "name": "Pride and Joy, Part 3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30626",
+        "name": "Cover #30626",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30627",
+        "name": "Pride and Joy, Part 4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30629",
+        "name": "Pride and Joy, Part 5 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30631",
+        "name": "Pride and Joy, Part 6 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32319",
+        "name": "Dead End Kids 3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53571",
+        "name": "Interior #53571",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 9
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010882/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2844/old_lace?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Arsenic_%28and_Old_Lace%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010882/old_lace?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

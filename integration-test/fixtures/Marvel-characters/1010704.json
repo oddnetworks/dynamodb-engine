@@ -1,0 +1,126 @@
+{
+  "id": 1010704,
+  "name": "Iron Lad",
+  "description": "",
+  "modified": "2011-03-10T14:57:04-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4c0038c9c6580",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010704",
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010704/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37421",
+        "name": "Avengers: The Children's Crusade - Young Avengers (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1629",
+        "name": "Young Avengers (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1932",
+        "name": "Young Avengers (2005) #1 (Director's Cut)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1721",
+        "name": "Young Avengers (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1941",
+        "name": "Young Avengers (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2396",
+        "name": "Young Avengers Vol. 1: Sidekicks (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4084",
+        "name": "Young Avengers Vol. 1: Sidekicks (Trade Paperback)"
+      }
+    ],
+    "returned": 7
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010704/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13447",
+        "name": "Avengers: The Children's Crusade - Young Avengers (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/756",
+        "name": "Young Avengers (2005 - 2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1250",
+        "name": "Young Avengers Vol. 1: Sidekicks (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1661",
+        "name": "Young Avengers Vol. 1: Sidekicks (2006)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010704/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/479",
+        "name": "Cover #479",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3502",
+        "name": "1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3504",
+        "name": "2 of 6 - Sidekicks",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3508",
+        "name": "4 of 6 - Sidekicks",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82840",
+        "name": "Avengers: The Children's Crusade - Iron Lad (2010) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82841",
+        "name": "Avengers: The Children's Crusade - Iron Lad (2010) #1 ",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010704/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1051/iron_lad?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Iron_Lad?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010704/iron_lad?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

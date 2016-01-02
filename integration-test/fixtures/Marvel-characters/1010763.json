@@ -1,0 +1,175 @@
+{
+  "id": 1010763,
+  "name": "Gamora",
+  "description": "",
+  "modified": "2013-10-17T14:57:56-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/526032a2cce62",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010763",
+  "comics": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010763/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43305",
+        "name": "Guardians of the Galaxy (2013) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46138",
+        "name": "Guardians of the Galaxy (2013) #1 (Manara Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43304",
+        "name": "Guardians of the Galaxy (2013) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16532",
+        "name": "Nova (2007) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17634",
+        "name": "Nova (2007) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37979",
+        "name": "The Thanos Imperative: Devastation (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18418",
+        "name": "Warlock and the Infinity Watch (1992) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23488",
+        "name": "Warlock Chronicles (1993) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23489",
+        "name": "Warlock Chronicles (1993) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23490",
+        "name": "Warlock Chronicles (1993) #8"
+      }
+    ],
+    "returned": 10
+  },
+  "series": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010763/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16410",
+        "name": "Guardians of the Galaxy (2013 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2504",
+        "name": "Nova (2007 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13604",
+        "name": "The Thanos Imperative: Devastation (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3654",
+        "name": "Warlock and the Infinity Watch (1992 - 1995)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6686",
+        "name": "Warlock Chronicles (1993 - 1994)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010763/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33339",
+        "name": "Annihilation: Conquest 3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36899",
+        "name": "Drax vs. Gamora 3 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39240",
+        "name": "Assault on Monster Isle",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52067",
+        "name": "Aftermath!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52069",
+        "name": "Guile",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52071",
+        "name": "Reunion",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83507",
+        "name": "Cover From The Thanos Imperative: Devestation (2010) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96970",
+        "name": "Cover #96970",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96972",
+        "name": "Cover #96972",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103824",
+        "name": "cover from Guardians of the Galaxy (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010763/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/293",
+        "name": "Annihilation: Conquest"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/235",
+        "name": "Blood and Thunder"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+        "name": "The Thanos Imperative"
+      }
+    ],
+    "returned": 3
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/20/gamora?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Gamora?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010763/gamora?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

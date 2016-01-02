@@ -1,0 +1,109 @@
+{
+  "id": 1009424,
+  "name": "Marauders",
+  "description": "",
+  "modified": "2013-12-17T17:48:07-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/52b0d48aaecb1",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009424",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009424/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29474",
+        "name": "Thor by Walter Simonson (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13891",
+        "name": "Uncanny X-Men (1963) #350"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39409",
+        "name": "X-Men: Lifedeath (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39407",
+        "name": "X-Men: Lifedeath (Hardcover)"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009424/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10491",
+        "name": "Thor by Walter Simonson (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14362",
+        "name": "X-Men: Lifedeath (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14364",
+        "name": "X-Men: Lifedeath (2011 - Present)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009424/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28226",
+        "name": "Gambit's Greatest Secret Revealed...And Some Sins Can Never Be Forgiven !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28227",
+        "name": "Meet The Uncanny X-Men",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64101",
+        "name": "Cover #64101",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89435",
+        "name": "Cover #89435",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89439",
+        "name": "Cover #89439",
+        "type": "cover"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009424/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1369/marauders?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Marauders_%28mutants%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009424/marauders?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

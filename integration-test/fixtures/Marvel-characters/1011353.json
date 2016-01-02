@@ -1,0 +1,83 @@
+{
+  "id": 1011353,
+  "name": "Cosmo (dog)",
+  "description": "",
+  "modified": "2014-07-24T15:14:21-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011353",
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011353/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39982",
+        "name": "Annihilators: Earthfall (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37979",
+        "name": "The Thanos Imperative: Devastation (2010) #1"
+      }
+    ],
+    "returned": 2
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011353/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14818",
+        "name": "Annihilators: Earthfall (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13604",
+        "name": "The Thanos Imperative: Devastation (2010)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011353/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83506",
+        "name": "Interior From The Thanos Imperative: Devestation (2010) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90732",
+        "name": "Annihilators: Earthfall (2011) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011353/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+        "name": "The Thanos Imperative"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/466/cosmo?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Cosmo_(dog)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011353/cosmo_dog?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

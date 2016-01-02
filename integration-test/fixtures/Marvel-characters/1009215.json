@@ -1,0 +1,341 @@
+{
+  "id": 1009215,
+  "name": "Luke Cage",
+  "description": "",
+  "modified": "2013-02-06T17:28:35-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5112d8b6e596c",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+  "comics": {
+    "available": 104,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009215/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37256",
+        "name": "Alias (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37267",
+        "name": "Alias (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37262",
+        "name": "Alias (2003) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37255",
+        "name": "Alias Omnibus (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24408",
+        "name": "Amazing Spider-Man (1999) #601"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32217",
+        "name": "Amazing Spider-Man (1999) #653"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35521",
+        "name": "Amazing Spider-Man (1999) #654"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39595",
+        "name": "Amazing Spider-Man (1999) #654 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35513",
+        "name": "Amazing Spider-Man (1999) #666"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35528",
+        "name": "Amazing Spider-Man (1999) #667"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41817",
+        "name": "Amazing Spider-Man (1999) #669 (Slott Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41318",
+        "name": "Amazing Spider-Man (1999) #669 (Architect Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41319",
+        "name": "Amazing Spider-Man (1999) #669 (Architect Sketch Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43221",
+        "name": "Astonishing X-Men (2004) #51 (Create Your Own Wedding Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7088",
+        "name": "Avengers (1963) #221"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29218",
+        "name": "Avengers Academy (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35849",
+        "name": "Avengers Academy (2010) #3 (MCKONE VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36489",
+        "name": "Avengers Academy (2010) #21"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37174",
+        "name": "Avengers Annual (2012) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15858",
+        "name": "Avengers Classic (2007) #1"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 52,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009215/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/672",
+        "name": "Alias (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13383",
+        "name": "Alias Omnibus (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/744",
+        "name": "Astonishing X-Men (2004 - 2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9086",
+        "name": "Avengers Academy (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13320",
+        "name": "Avengers Annual (2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2384",
+        "name": "Avengers Classic (2007 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9861",
+        "name": "Avengers Origins: Luke Cage (2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13032",
+        "name": "Avengers Vs. Pet Avengers (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15305",
+        "name": "Avengers Vs. X-Men (2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4864",
+        "name": "Avengers/Invaders (2008 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15691",
+        "name": "Black Panther: The Man Without Fear (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13527",
+        "name": "Chaos War: Avengers (2010 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13257",
+        "name": "Chaos War: Dead Avengers (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1067",
+        "name": "Civil War (2006 - 2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1760",
+        "name": "Fantastic Four Visionaries: John Byrne Vol. 6 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13691",
+        "name": "Fear Itself (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9896",
+        "name": "Hawkeye & Mockingbird (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1121",
+        "name": "Heroes for Hire (2006 - 2007)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 96,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009215/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2353",
+        "name": "1 of 5 -",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3435",
+        "name": "New Avengers (2004) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3436",
+        "name": "New Avengers (2004) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3437",
+        "name": "2 of 5 - The Raft",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3439",
+        "name": "Cover #3439",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3443",
+        "name": "4 of 5 - Breakout!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3445",
+        "name": "5 of 6 - Breakout!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3455",
+        "name": "6 of 6 - Breakout!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3457",
+        "name": "1 of 5 - The Raft",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3463",
+        "name": "3 of 3 - Sentry",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3465",
+        "name": "1 of 3 - Ronin",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3467",
+        "name": "2 of 3 - Ronin",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3469",
+        "name": "4 of 4 - Sentry",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3475",
+        "name": "3 of 3 - Ronin",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3477",
+        "name": "1 of 2 - Spider-Woman",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3479",
+        "name": "2 of 2 - Spider-Woman",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4119",
+        "name": "3 of 6 - Master of the Ring",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4499",
+        "name": "Cover #4499",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5872",
+        "name": "1 of 7 - 7XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5874",
+        "name": "Cover #5874",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009215/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+        "name": "Avengers VS X-Men"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+        "name": "Chaos War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "name": "Secret Wars II"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+        "name": "Shattered Heroes"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/305",
+        "name": "Spider-Island"
+      }
+    ],
+    "returned": 7
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/34/luke_cage?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Cage,_Luke?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009215/luke_cage?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

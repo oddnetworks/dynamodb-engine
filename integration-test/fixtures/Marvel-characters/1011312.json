@@ -1,0 +1,114 @@
+{
+  "id": 1011312,
+  "name": "Korvac",
+  "description": "",
+  "modified": "2011-03-10T16:31:51-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4ce5a6396201b",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011312",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011312/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29214",
+        "name": "Avengers Academy (2010) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29215",
+        "name": "Avengers Academy (2010) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12775",
+        "name": "Captain America (1998) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12776",
+        "name": "Captain America (1998) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33863",
+        "name": "Captain America & the Korvac Saga (2010) #3"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011312/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9086",
+        "name": "Avengers Academy (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1997",
+        "name": "Captain America (1998 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10739",
+        "name": "Captain America & the Korvac Saga (2010 - 2011)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011312/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24662",
+        "name": "1/2 Man, 1/2 Desk: The Life and Times of Korvac",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24664",
+        "name": "Captain America (1998) #18",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63619",
+        "name": "Avengers Academy #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63621",
+        "name": "Avengers Academy (2010) #11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63622",
+        "name": "Avengers Academy (2010) #11",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75874",
+        "name": "Captain America and the Korvac Saga #3",
+        "type": "cover"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011312/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1168/korvac?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Korvac?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011312/korvac?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

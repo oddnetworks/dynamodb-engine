@@ -1,0 +1,119 @@
+{
+  "id": 1011265,
+  "name": "Sinister Six",
+  "description": "",
+  "modified": "2013-12-26T14:24:53-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/52b0d6f874e15",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011265",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011265/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39018",
+        "name": "Amazing Spider-Man (1999) #659"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40882",
+        "name": "Amazing Spider-Man (1999) #659 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35505",
+        "name": "Amazing Spider-Man (1999) #660"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40888",
+        "name": "Amazing Spider-Man (1999) #660 (Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40110",
+        "name": "Amazing Spider-Man (1999) #682"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36478",
+        "name": "Avengers Academy (2010) #14"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011265/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9086",
+        "name": "Avengers Academy (2010 - 2012)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011265/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/78516",
+        "name": "Amazing Spider-Man (1999) #660 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/78558",
+        "name": "Amazing Spider-Man (1999) #660",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80986",
+        "name": "Avengers Academy #14",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88567",
+        "name": "AMAZING SPIDER-MAN (1999) #659 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91017",
+        "name": "Cover #91017",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92589",
+        "name": "Amazing Spider-Man (1999) #659, 2nd Printing Variant",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011265/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2110/sinister_six?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Sinister_Six?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011265/sinister_six?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

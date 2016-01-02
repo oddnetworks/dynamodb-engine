@@ -1,0 +1,117 @@
+{
+  "id": 1010359,
+  "name": "The Hand",
+  "description": "",
+  "modified": "2013-12-26T14:25:22-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/52bc82337d577",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010359",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010359/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40209",
+        "name": "Deadpool (2008) #50"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21537",
+        "name": "Mighty Avengers (2007) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5963",
+        "name": "New Avengers (2004) #27"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23812",
+        "name": "Secret Warriors (2008) #2"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010359/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5701",
+        "name": "Deadpool (2008 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1866",
+        "name": "Mighty Avengers (2007 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/753",
+        "name": "New Avengers (2004 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6796",
+        "name": "Secret Warriors (2008 - 2011)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010359/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7676",
+        "name": "New Avengers (2004) #27",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47481",
+        "name": "Secret Invasion 5 of 8",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52837",
+        "name": "Secret Warriors (2008) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91227",
+        "name": "Interior #91227",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010359/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "name": "Secret Invasion"
+      }
+    ],
+    "returned": 3
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2330/the_hand?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Hand?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010359/the_hand?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

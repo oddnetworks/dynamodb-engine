@@ -1,0 +1,317 @@
+{
+  "id": 1009449,
+  "name": "Mole Man",
+  "description": "",
+  "modified": "2012-03-20T12:18:14-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c003d3176a50",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
+  "comics": {
+    "available": 44,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009449/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6975",
+        "name": "Avengers (1963) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39259",
+        "name": "Avenging Spider-Man (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41093",
+        "name": "Avenging Spider-Man (2011) #1 (Humberto Ramos Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41094",
+        "name": "Avenging Spider-Man (2011) #1 (J. Scott Campbell Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41092",
+        "name": "Avenging Spider-Man (2011) #1 (Blank Cover Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41095",
+        "name": "Avenging Spider-Man (2011) #1 (Quesada Variant )"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42260",
+        "name": "Avenging Spider-Man (2011) #1 (Quesada Sketch Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29744",
+        "name": "Black Widow & the Marvel Girls (2009) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13312",
+        "name": "Fantastic Four (1996) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13317",
+        "name": "Fantastic Four (1996) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13315",
+        "name": "Fantastic Four (1996) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13076",
+        "name": "Fantastic Four (1961) #263"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13077",
+        "name": "Fantastic Four (1961) #264"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13112",
+        "name": "Fantastic Four (1961) #296"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13149",
+        "name": "Fantastic Four (1961) #329"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13169",
+        "name": "Fantastic Four (1961) #347"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13170",
+        "name": "Fantastic Four (1961) #348"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13171",
+        "name": "Fantastic Four (1961) #349"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13229",
+        "name": "Fantastic Four (1961) #400"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17460",
+        "name": "Fantastic Four 1 2 3 4 (2001)"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 27,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009449/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14246",
+        "name": "Avenging Spider-Man (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9120",
+        "name": "Black Widow & the Marvel Girls (2009 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+        "name": "Fantastic Four (1961 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2123",
+        "name": "Fantastic Four (1996 - 1997)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3292",
+        "name": "Fantastic Four 1 2 3 4 (2001)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3293",
+        "name": "Fantastic Four Visionaries: John Byrne Vol. 4 (2001 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2579",
+        "name": "Fantastic Four: 1234 (2001 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5253",
+        "name": "Fantastic Four: Lost Adventures by Stan Lee Premiere (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1812",
+        "name": "Heroes Reborn: Fantastic Four (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+        "name": "Incredible Hulk (1962 - 1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8842",
+        "name": "Incredible Hulks (2009 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1507",
+        "name": "Marvel Masterworks: Captain America Vol. 2 (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3298",
+        "name": "Marvel Masterworks: Captain America Vol. 2 (0000 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/270",
+        "name": "Marvel Masterworks: The Avengers Vol. II - 2nd Edition (1st) (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3300",
+        "name": "Marvel Masterworks: The Invincible Iron Man Vol. 1 (0000 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1698",
+        "name": "Marvel Masterworks: The Invincible Iron Man Vol.3 Variant (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3715",
+        "name": "Marvel Two-in-One (1974 - 1983)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1866",
+        "name": "Mighty Avengers (2007 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5381",
+        "name": "Mighty Avengers Vol. 1: The Ultron Initiative (2008)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 35,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009449/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8340",
+        "name": "2 of 6 - Ultron",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11950",
+        "name": "Cover #11950",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11954",
+        "name": "Beyond All Rescue!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12795",
+        "name": "R and R",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12798",
+        "name": "Inferno",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12869",
+        "name": "Homecoming!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12947",
+        "name": "No Mercy for the Mole Man!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12948",
+        "name": "Bad Dream! Part 2  ...And You Can't Wake Up!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12989",
+        "name": "Big Trouble on Little Earth!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12991",
+        "name": "Where Monsters Dwell! Or Is It...Where Creatures Roam?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12992",
+        "name": "Cover #12992",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12993",
+        "name": "Eggs Got Legs! Or Love Conquers All!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13332",
+        "name": "Even the Watchers Can Die!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14487",
+        "name": "Avengers (1963) #12 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18525",
+        "name": "None Are So Blind...!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25811",
+        "name": "[Cover B]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25812",
+        "name": "Renaissance",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25834",
+        "name": "Doomsday!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25847",
+        "name": "Repercussions",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26283",
+        "name": "Interior #26283",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009449/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1484/mole_man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Mole_Man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009449/mole_man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

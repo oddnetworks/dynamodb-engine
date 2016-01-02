@@ -1,0 +1,373 @@
+{
+  "id": 1009417,
+  "name": "Magneto",
+  "description": "",
+  "modified": "2013-10-18T17:31:15-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5261a7e53f827",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+  "comics": {
+    "available": 248,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009417/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12676",
+        "name": "Alpha Flight (1983) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12694",
+        "name": "Alpha Flight (1983) #33"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6965",
+        "name": "Avengers (1963) #110"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6970",
+        "name": "Avengers (1963) #115"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37287",
+        "name": "Avengers Academy (2010) #2 (2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41191",
+        "name": "Avengers Vs. X-Men (2012) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42492",
+        "name": "Avengers Vs. X-Men: Versus (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17795",
+        "name": "Avengers West Coast (1985) #53"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17695",
+        "name": "Avengers West Coast: Darker than Scarlet (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38892",
+        "name": "Avengers: The Children's Crusade (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31140",
+        "name": "Avengers: The Children's Crusade (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12617",
+        "name": "Black Panther (1998) #48"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12618",
+        "name": "Black Panther (1998) #49"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7455",
+        "name": "Cable (1993) #76"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7456",
+        "name": "Cable (1993) #77"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7457",
+        "name": "Cable (1993) #78"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20731",
+        "name": "Clandestine Classic Premiere (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20566",
+        "name": "Classic X-Men (1986) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20573",
+        "name": "Classic X-Men (1986) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8553",
+        "name": "Earth X (1999) #3"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 110,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009417/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+        "name": "Alpha Flight (1983 - 1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9086",
+        "name": "Avengers Academy (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15305",
+        "name": "Avengers Vs. X-Men (2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/16230",
+        "name": "Avengers Vs. X-Men: Versus (2011 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3623",
+        "name": "Avengers West Coast (1985 - 1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3462",
+        "name": "Avengers West Coast: Darker than Scarlet (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9864",
+        "name": "Avengers: The Children's Crusade (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2115",
+        "name": "Black Panther (1998 - 2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1995",
+        "name": "Cable (1993 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3874",
+        "name": "Clandestine Classic Premiere (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3751",
+        "name": "Classic X-Men (1986 - 1990)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/378",
+        "name": "Earth X (1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1806",
+        "name": "Earth X (New (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14388",
+        "name": "Essential X-Men Vol. 6 (All-New Edition) (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/740",
+        "name": "Excalibur (2004 - 2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9895",
+        "name": "Generation Hope (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13342",
+        "name": "Magneto (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18407",
+        "name": "Magneto (2014 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2035",
+        "name": "Magneto Rex (1999)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 247,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009417/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/477",
+        "name": "Cover #477",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3265",
+        "name": "2 of 2 - House of M Prelude",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3488",
+        "name": "New Avengers (2004) #20",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4153",
+        "name": "Cover #4153",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4223",
+        "name": "Cover #4223",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4354",
+        "name": "2 of 6 - True Believers",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4430",
+        "name": "Cover #4430",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4513",
+        "name": "Cover #4513",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4612",
+        "name": "Cover #4612",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4614",
+        "name": "Cover #4614",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8685",
+        "name": "Dead Days 1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14468",
+        "name": "And Now, Magneto",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14478",
+        "name": "Below Us the Battle!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15386",
+        "name": "The Fall of the Tower",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15387",
+        "name": "Cover #15387",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15394",
+        "name": "Where No X-Man Has Gone Before!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15405",
+        "name": "Cover #15405",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15408",
+        "name": "When Falls Magneto!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15434",
+        "name": "He Only Laughs When I Hurt!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15436",
+        "name": "There's Something Awful On Muir Island!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009417/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+        "name": "Avengers VS X-Men"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+        "name": "Fatal Attractions"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "name": "House of M"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+        "name": "Marvel NOW!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "name": "Messiah CompleX"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+        "name": "Mutant Massacre"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "name": "Secret Wars"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "name": "Secret Wars II"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/306",
+        "name": "X-Men: Schism"
+      }
+    ],
+    "returned": 15
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/35/magneto?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Magneto_(Max_Eisenhardt)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009417/magneto?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

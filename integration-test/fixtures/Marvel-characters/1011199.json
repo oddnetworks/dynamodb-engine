@@ -1,0 +1,99 @@
+{
+  "id": 1011199,
+  "name": "Ezekiel",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/4c002f2268bd4",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011199",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011199/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/413",
+        "name": "Amazing Spider-Man (1999) #505"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/441",
+        "name": "Amazing Spider-Man (1999) #506"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/491",
+        "name": "Amazing Spider-Man (1999) #507"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1333",
+        "name": "Amazing Spider-Man Vol. 7: The Book of Ezekiel (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2970",
+        "name": "Amazing Spider-Man Vol. 7: The Book of Ezekiel (Trade Paperback)"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011199/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1292",
+        "name": "Amazing Spider-Man Vol. 7: The Book of Ezekiel (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1291",
+        "name": "Amazing Spider-Man Vol. 7: The Book of Ezekiel (2004)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011199/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1138",
+        "name": "Interior #1138",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1140",
+        "name": "Interior #1140",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1142",
+        "name": "Interior #1142",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011199/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/654/ezekiel?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Ezekiel?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011199/ezekiel?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

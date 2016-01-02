@@ -1,0 +1,101 @@
+{
+  "id": 1011361,
+  "name": "American Eagle (Jason Strongbow)",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011361",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011361/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10105",
+        "name": "Marvel Comics Presents (1988) #27"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10042",
+        "name": "Marvel Comics Presents (1988) #128"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10045",
+        "name": "Marvel Comics Presents (1988) #130"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10063",
+        "name": "Marvel Comics Presents (1988) #147"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10064",
+        "name": "Marvel Comics Presents (1988) #148"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011361/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2039",
+        "name": "Marvel Comics Presents (1988 - 1995)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011361/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22862",
+        "name": "The Hunter and the Hunted",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22880",
+        "name": "Screams",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22990",
+        "name": "Saints and Sinner",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22996",
+        "name": "500 Guns",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23237",
+        "name": "Just Another Shade of Hate",
+        "type": ""
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011361/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/132/american_eagle?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/American_Eagle_(Jason_Strongbow)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011361/american_eagle_jason_strongbow?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

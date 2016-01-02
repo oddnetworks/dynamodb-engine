@@ -1,0 +1,123 @@
+{
+  "id": 1009676,
+  "name": "Toxin",
+  "description": "NYPD Officer Patrick Mulligan was implanted with a symbiote offspring during a chance encounter with Carnage.",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4c003a94e668a",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009676",
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009676/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1910",
+        "name": "Toxin (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2012",
+        "name": "Toxin (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2117",
+        "name": "Toxin (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2228",
+        "name": "Toxin (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2341",
+        "name": "Toxin (2005) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2477",
+        "name": "Toxin (2005) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3039",
+        "name": "Toxin: The Devil You Know (Trade Paperback)"
+      }
+    ],
+    "returned": 7
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009676/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/889",
+        "name": "Toxin (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1522",
+        "name": "Toxin: The Devil You Know (2005)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009676/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4791",
+        "name": "1 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4793",
+        "name": "2 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4795",
+        "name": "3 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4797",
+        "name": "4 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4799",
+        "name": "5 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4800",
+        "name": "6 of 6 - 6XLS- The Devil You Know",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4801",
+        "name": "6 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009676/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2400/toxin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Toxin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009676/toxin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

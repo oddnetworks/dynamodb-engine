@@ -1,0 +1,162 @@
+{
+  "id": 1011026,
+  "name": "Mantis",
+  "description": "",
+  "modified": "2013-11-01T16:34:14-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/52740fa12e826",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011026",
+  "comics": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011026/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16191",
+        "name": "Annihilation: Conquest - Starlord (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17756",
+        "name": "Avengers (1996) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17757",
+        "name": "Avengers (1996) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17762",
+        "name": "Avengers (1996) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17752",
+        "name": "Avengers (1996) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6968",
+        "name": "Avengers (1963) #113"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6970",
+        "name": "Avengers (1963) #115"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5705",
+        "name": "Heroes Reborn: Avengers (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17940",
+        "name": "West Coast Avengers Annual (1986) #3"
+      }
+    ],
+    "returned": 9
+  },
+  "series": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011026/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2541",
+        "name": "Annihilation: Conquest - Starlord (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
+        "name": "Avengers (1996 - 1997)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1813",
+        "name": "Heroes Reborn: Avengers (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3632",
+        "name": "West Coast Avengers Annual (1986 - 1988)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011026/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14473",
+        "name": "Cover #14473",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14474",
+        "name": "Your Young Men Shall Slay Visions!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14478",
+        "name": "Below Us the Battle!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33072",
+        "name": "Annihilation Conquest: Starlord (2007) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37678",
+        "name": "Shadow War!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37689",
+        "name": "First Blood",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37691",
+        "name": "In Love & War",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37702",
+        "name": "Shadowplay",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38153",
+        "name": "pin-up",
+        "type": ""
+      }
+    ],
+    "returned": 9
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011026/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/293",
+        "name": "Annihilation: Conquest"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+        "name": "Evolutionary War"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1366/mantis?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Mantis?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011026/mantis?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

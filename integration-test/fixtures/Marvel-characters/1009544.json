@@ -1,0 +1,171 @@
+{
+  "id": 1009544,
+  "name": "Risque",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c7c645aa1623",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009544",
+  "comics": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009544/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10880",
+        "name": "Spider-Man 2099 (1992) #23"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18018",
+        "name": "X-Force (1991) #51"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18023",
+        "name": "X-Force (1991) #56"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18024",
+        "name": "X-Force (1991) #57"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18028",
+        "name": "X-Force (1991) #60"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18033",
+        "name": "X-Force (1991) #65"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18037",
+        "name": "X-Force (1991) #69"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18043",
+        "name": "X-Force (1991) #74"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18070",
+        "name": "X-Force (1991) #99"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17944",
+        "name": "X-Force (1991) #100"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21295",
+        "name": "X-Men: The Complete Onslaught Epic Book 2 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17454",
+        "name": "X-Men: The Complete Onslaught Epic Vol. 1 TPB (Trade Paperback)"
+      }
+    ],
+    "returned": 12
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009544/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2070",
+        "name": "Spider-Man 2099 (1992 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+        "name": "X-Force (1991 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4919",
+        "name": "X-Men: The Complete Onslaught Epic Book 2 (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3284",
+        "name": "X-Men: The Complete Onslaught Epic Vol. 1 TPB (2007)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009544/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24088",
+        "name": "No Fury",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38170",
+        "name": "Dark Cathedral",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38316",
+        "name": "Reflections in the Night",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38326",
+        "name": "Crazy For You",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38328",
+        "name": "In the Company of Strangers Part 2: The Best Laid Plans...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38340",
+        "name": "I Know You Are But What Am I",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38350",
+        "name": "Brutal Youth",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38359",
+        "name": "Roadside Attractions",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38372",
+        "name": "Afterlife",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38433",
+        "name": "Bad Company",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009544/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1936/risque?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Risque?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009544/risque?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

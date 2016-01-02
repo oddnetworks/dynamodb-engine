@@ -20,9 +20,10 @@
     "node-uuid" : "~1.4.7"
   },
   "devDependencies": {
-    "sinon" : "~1.17.2",
-    "tape"  : "~4.4.0",
-    "xo"    : "~0.12.1"
+    "filepath" : "~1.1.0",
+    "sinon"    : "~1.17.2",
+    "tape"     : "~4.4.0",
+    "xo"       : "~0.12.1"
   },
   "bugs": {"url": "https://github.com/oddnetworks/dynamodb-engine/issues"},
   "license": "MIT"

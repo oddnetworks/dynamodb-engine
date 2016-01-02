@@ -1,0 +1,119 @@
+{
+  "id": 1011057,
+  "name": "Slapstick",
+  "description": "Steven Harmon's powers have been described as \"all of the abilities of a Saturday morning cartoon character.\"",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c00310b887bc",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011057",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011057/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17397",
+        "name": "Avengers: The Initiative (2007) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20679",
+        "name": "Avengers: The Initiative (2007) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22300",
+        "name": "Avengers: The Initiative (2007) #18 (ZOMBIE VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23968",
+        "name": "Avengers: The Initiative (2007) #23"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29817",
+        "name": "Avengers: The Initiative (2007) #34"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29931",
+        "name": "Avengers: The Initiative (2007) #35"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011057/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+        "name": "Avengers: The Initiative (2007 - 2010)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011057/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36469",
+        "name": "Avengers: The Initiative (2007) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44343",
+        "name": "Avengers: The Initiative (2007) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49105",
+        "name": "Avengers: The Initiative (2007) #18, Zombie Variant",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53155",
+        "name": "Avengers: The Initiative (2007) #23",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64779",
+        "name": "Avengers: The Initiative (2007) #34 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64976",
+        "name": "Avengers: The Initiative (2007) #35 - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011057/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2137/slapstick?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Slapstick?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011057/slapstick?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

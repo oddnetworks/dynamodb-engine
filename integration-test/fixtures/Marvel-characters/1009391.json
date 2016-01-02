@@ -1,0 +1,308 @@
+{
+  "id": 1009391,
+  "name": "Kraven the Hunter",
+  "description": "",
+  "modified": "2013-11-01T16:34:52-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/527410063de71",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009391",
+  "comics": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009391/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6488",
+        "name": "Amazing Spider-Man (1963) #104"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30310",
+        "name": "Amazing Spider-Man (1999) #635"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33626",
+        "name": "Amazing Spider-Man (1999) #635 (50/50 VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23180",
+        "name": "Amazing Spider-Man: Extra! (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23834",
+        "name": "Amazing Spider-Man: Extra! (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40360",
+        "name": "Avengers 1959 (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40357",
+        "name": "Avengers 1959 (2011) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8464",
+        "name": "Deadpool (1997) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1585",
+        "name": "Essential Peter Parker, the Spectacular Spider-Man Vol. (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2001",
+        "name": "Marvel Masterworks: The Invincible Iron Man Vol. (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15517",
+        "name": "Marvel Super-Heroes (1992) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14653",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10789",
+        "name": "Spider-Man (1990) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10800",
+        "name": "Spider-Man (1990) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1271",
+        "name": "Spider-Man Blue (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10915",
+        "name": "Spider-Man's Tangled Web (2001) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1007",
+        "name": "Spider-Man's Tangled Web Vol. III (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10933",
+        "name": "Spider-Man: Blue (2002) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10934",
+        "name": "Spider-Man: Blue (2002) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18806",
+        "name": "Startling Stories: The Megalomaniacal Spider-Man (2003) #1"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009391/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1987",
+        "name": "Amazing Spider-Man (1963 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6604",
+        "name": "Amazing Spider-Man: Extra! (2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14985",
+        "name": "Avengers 1959 (2011 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2005",
+        "name": "Deadpool (1997 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1427",
+        "name": "Essential Peter Parker, the Spectacular Spider-Man Vol. (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1494",
+        "name": "Marvel Masterworks: The Invincible Iron Man Vol. (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2301",
+        "name": "Marvel Super-Heroes (1992 - 1993)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2271",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2069",
+        "name": "Spider-Man (1990 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/325",
+        "name": "Spider-Man Blue (2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2071",
+        "name": "Spider-Man's Tangled Web (2001 - 2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/69",
+        "name": "Spider-Man's Tangled Web Vol. III (2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2072",
+        "name": "Spider-Man: Blue (2002 - 2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3679",
+        "name": "Startling Stories: The Megalomaniacal Spider-Man (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2079",
+        "name": "Tales of Suspense (1959 - 1968)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2725",
+        "name": "Tales of Suspense Transport (1959 - 1968)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14313",
+        "name": "Ultimate Six (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2093",
+        "name": "Webspinners: Tales of Spider-Man (1999 - 2000)"
+      }
+    ],
+    "returned": 19
+  },
+  "stories": {
+    "available": 27,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009391/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11843",
+        "name": "In Mortal Combat with Captain America!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13546",
+        "name": "Cover #13546",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23775",
+        "name": "Torment, Part 3 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23776",
+        "name": "Torment, Part 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23808",
+        "name": "Torment, Part 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24527",
+        "name": "Deadpool (1997) #11",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25419",
+        "name": "You Can Call Me Al Part Two",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25753",
+        "name": "[Cover B]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25754",
+        "name": "\"...As Dreams are Made on...\", Part 2 of 3: In The Nightmare Factory",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25803",
+        "name": "If I Had You",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25808",
+        "name": "All of Me",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28535",
+        "name": "[Cover B]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28536",
+        "name": "\"...As Dreams are Made on...\", Part 2 of 3: In The Nightmare Factory",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29772",
+        "name": "Kraven is the Hunter!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31604",
+        "name": "",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34348",
+        "name": "In Mortal Combat with Captain America!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40302",
+        "name": "The Megalomaniacal Spider-Man",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51401",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52881",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69446",
+        "name": "Amazing Spider-Man (1999) #635",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009391/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1174/kraven_the_hunter?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Kraven_(Sergei_Kravinoff)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009391/kraven_the_hunter?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

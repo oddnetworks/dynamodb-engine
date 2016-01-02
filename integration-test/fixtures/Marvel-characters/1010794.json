@@ -1,0 +1,105 @@
+{
+  "id": 1010794,
+  "name": "Spider-Woman (Mattie Franklin)",
+  "description": "Mattie Franklin was granted her powers when, after overhearing a phone call between her father and Norman Osborn about the Gathering of the Five, she took her father's place during the Gathering and was endowed with the awesome powers that Norman Osborn had wanted for himself.",
+  "modified": "2014-03-05T13:50:37-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/531771c2ab020",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010794",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010794/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37895",
+        "name": "Amazing Spider-Man (1999) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37899",
+        "name": "Amazing Spider-Man (1999) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37900",
+        "name": "Amazing Spider-Man (1999) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24418",
+        "name": "Amazing Spider-Man (1999) #611"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15848",
+        "name": "The Loners (2007) #3"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010794/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1938",
+        "name": "The Loners (2007 - 2008)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010794/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32363",
+        "name": "3 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54194",
+        "name": "Amazing Spider-Man (1999) #611 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94838",
+        "name": "Amazing Spider-Man (1999) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94843",
+        "name": "Amazing Spider-Man (1999) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94906",
+        "name": "Amazing Spider-Man (1999) #6",
+        "type": "cover"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010794/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1010794/spider-woman_mattie_franklin/featured?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Spider-Woman_%28Mattie_Franklin%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010794/spider-woman_mattie_franklin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

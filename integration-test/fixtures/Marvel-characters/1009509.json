@@ -1,0 +1,108 @@
+{
+  "id": 1009509,
+  "name": "Madelyne Pryor",
+  "description": "",
+  "modified": "2013-11-20T17:15:09-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/528d33ddaef70",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009509",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009509/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2371",
+        "name": "Marvel Visionaries: Chris Claremont (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23511",
+        "name": "X-Factor Annual (1986) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18174",
+        "name": "X-Man Annual (1996) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1780",
+        "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009509/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1595",
+        "name": "Marvel Visionaries: Chris Claremont (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6689",
+        "name": "X-Factor Annual (1986 - 1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3642",
+        "name": "X-Man Annual (1996 - 1997)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1452",
+        "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (2005)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009509/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37710",
+        "name": "By Friends--Betrayed!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38642",
+        "name": "Mind Games",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51870",
+        "name": "Changes !",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009509/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+        "name": "Evolutionary War"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2741/madelyne_pryor?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Pryor%2C_Madelyne?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009509/madelyne_pryor?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

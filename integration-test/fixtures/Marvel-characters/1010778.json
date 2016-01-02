@@ -1,0 +1,157 @@
+{
+  "id": 1010778,
+  "name": "Quasar (Wendell Vaughn)",
+  "description": "",
+  "modified": "2013-11-01T16:41:29-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52741155a2994",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010778",
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010778/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4318",
+        "name": "Annihilation: Nova (2006) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38642",
+        "name": "Annihilators (2010) #1 (GARNER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36647",
+        "name": "Annihilators (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38640",
+        "name": "Annihilators (2010) #2 (DAVIS VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39982",
+        "name": "Annihilators: Earthfall (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12789",
+        "name": "Captain America (1998) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39651",
+        "name": "Thanos Imperative (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37979",
+        "name": "The Thanos Imperative: Devastation (2010) #1"
+      }
+    ],
+    "returned": 8
+  },
+  "series": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010778/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1081",
+        "name": "Annihilation: Nova (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13025",
+        "name": "Annihilators (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14818",
+        "name": "Annihilators: Earthfall (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1997",
+        "name": "Captain America (1998 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14615",
+        "name": "Thanos Imperative (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13604",
+        "name": "The Thanos Imperative: Devastation (2010)"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010778/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5952",
+        "name": "Annihilation: Nova (2006) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67166",
+        "name": "Captain America (1998) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81318",
+        "name": "ANNIHILATORS 2 ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83506",
+        "name": "Interior From The Thanos Imperative: Devestation (2010) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84823",
+        "name": "ANNIHILATORS 2 DAVIS VARIANT ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85238",
+        "name": "Annihilators (2010) #1, Garner Cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89991",
+        "name": "Thanos Imperative HC",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90732",
+        "name": "Annihilators: Earthfall (2011) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010778/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/229",
+        "name": "Annihilation"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+        "name": "The Thanos Imperative"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1842/quasar?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Quasar_%28Wendell_Vaughn%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010778/quasar_wendell_vaughn?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}
