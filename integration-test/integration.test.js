@@ -1,5 +1,7 @@
 'use strict';
+const Promise = require('bluebird');
 const test = require('tape');
+const FilePath = require('filepath');
 const DynamoDBEngine = require('../lib/dynamodb-engine');
 
 const ACCESS_KEY_ID = process.env.ACCESS_KEY_ID;
@@ -70,7 +72,9 @@ test('create a new table', function (t) {
 		t.equal(res.TableStatus, 'ACTIVE');
 		console.log('Table created: %s', res.TableName);
 	})
-	.catch(die)
+	.catch(function (err) {
+		t.fail(err.message);
+	})
 	.then(t.end);
 });
 
@@ -98,6 +102,48 @@ test('create the table again', function (t) {
 	});
 
 	promise.then(t.end).catch(die);
+});
+
+test('populate records', function (t) {
+	const DB = createDynamoDBEngine('table_test_table');
+	const files = FilePath
+		.create(__dirname)
+		.append('fixtures', 'Marvel-characters')
+		.list();
+
+	Promise.all(files.map(function (file) {
+		return file.read()
+			.then(function parseJSON(text) {
+				return JSON.parse(text);
+			})
+			.then(function mapDocument(doc) {
+				const record = {
+					marvelId: doc.id.toString(),
+					name: doc.name,
+					thumbnail: doc.thumbnail.path + '.' + doc.thumbnail.extension,
+					uri: doc.resourceURI,
+					comicsAvailable: doc.comics.items.length,
+					comicsUri: doc.comics.collectionURI,
+					comics: doc.comics.items.map(function (item) {
+						return item.resourceURI;
+					})
+				};
+				if (doc.description) {
+					record.description = doc.description;
+				}
+				return record;
+			})
+			.then(function postDocument(item) {
+				return DB.post({
+					data: item
+				});
+			});
+	}))
+	.then(function (items) {
+		t.ok(items.length > 0, 'items.length');
+		t.end();
+	})
+	.catch(die);
 });
 
 test('delete the new table', function (t) {
