@@ -7,7 +7,7 @@
   "scripts"     : {
     "lint": "xo",
     "test": "xo && tape 'test/**/*.test.js'",
-    "test": "xo && tape 'integration-test/**/*.test.js'"
+    "integration-test": "xo && tape 'integration-test/**/*.test.js'"
   },
   "repository": {
     "type" : "git",
