@@ -66,7 +66,12 @@ test('list tables', function (t) {
 test('create a new table', function (t) {
 	const DB = createDynamoDBEngine('table_test_table');
 
-	DB.createTable()
+	DB.createTable({
+		throughput: {
+			read: 100,
+			write: 100
+		}
+	})
 	.then(function (res) {
 		t.equal(res.TableName, 'table_test_table');
 		t.equal(res.TableStatus, 'ACTIVE');
@@ -85,7 +90,7 @@ test('create the table again', function (t) {
 		DB.on('log', function (log) {
 			if (log.level === 'WARN') {
 				t.equal(log.message, 'attempting to create table; ' +
-					'"table_test_table" does not exist');
+					'"table_test_table" already exists');
 				resolve();
 			}
 		});
