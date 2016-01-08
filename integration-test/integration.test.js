@@ -3,6 +3,7 @@ const Promise = require('bluebird');
 const test = require('tape');
 const FilePath = require('filepath');
 const DynamoDBEngine = require('../lib/dynamodb-engine');
+const ThroughputExceededError = DynamoDBEngine.errors.ThroughputExceededError;
 
 const ACCESS_KEY_ID = process.env.ACCESS_KEY_ID;
 const SECRET_ACCESS_KEY = process.env.SECRET_ACCESS_KEY;
@@ -68,8 +69,8 @@ test('create a new table', function (t) {
 
 	DB.createTable({
 		throughput: {
-			read: 100,
-			write: 100
+			read: 3,
+			write: 3
 		}
 	})
 	.then(function (res) {
@@ -116,33 +117,45 @@ test('populate records', function (t) {
 		.append('fixtures', 'Marvel-characters')
 		.list();
 
+	function postDocument(item) {
+		const promise = DB.post({
+			data: item
+		});
+
+		// Throttle requests on ThroughputExceededError
+		return promise.catch(ThroughputExceededError, function () {
+			return Promise.delay(2000).then(function () {
+				return postDocument(item);
+			});
+		});
+	}
+
+	function mapDocument(doc) {
+		const record = {
+			marvelId: doc.id.toString(),
+			name: doc.name,
+			thumbnail: doc.thumbnail.path + '.' + doc.thumbnail.extension,
+			uri: doc.resourceURI,
+			comicsAvailable: doc.comics.items.length,
+			comicsUri: doc.comics.collectionURI,
+			comics: doc.comics.items.map(function (item) {
+				return item.resourceURI;
+			})
+		};
+		if (doc.description) {
+			record.description = doc.description;
+		}
+		return record;
+	}
+
 	Promise.all(files.map(function (file) {
-		return file.read()
+		return file
+			.read()
 			.then(function parseJSON(text) {
 				return JSON.parse(text);
 			})
-			.then(function mapDocument(doc) {
-				const record = {
-					marvelId: doc.id.toString(),
-					name: doc.name,
-					thumbnail: doc.thumbnail.path + '.' + doc.thumbnail.extension,
-					uri: doc.resourceURI,
-					comicsAvailable: doc.comics.items.length,
-					comicsUri: doc.comics.collectionURI,
-					comics: doc.comics.items.map(function (item) {
-						return item.resourceURI;
-					})
-				};
-				if (doc.description) {
-					record.description = doc.description;
-				}
-				return record;
-			})
-			.then(function postDocument(item) {
-				return DB.post({
-					data: item
-				});
-			});
+			.then(mapDocument)
+			.then(postDocument);
 	}))
 	.then(function (items) {
 		t.ok(items.length > 0, 'items.length');
