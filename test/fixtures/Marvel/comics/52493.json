@@ -1,0 +1,114 @@
+{
+  "id": 52493,
+  "digitalId": 0,
+  "title": "SILK VOL. 0: THE LIFE AND TIMES OF CINDY MOON  (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Cindy Moon exploded into the Marvel Universe when we learned she was bitten by the same radioactive spider that empowered Spider-Man! She then went on to save Peter Parker’s life (more than once!) and traverse the Spider-Verse. Now, as Silk, Cindy is on her own in New York City, searching for her past, defining her own future, and webbing up wrongdoers along the way! But she’s about to cross the Black Cat’s path, and that’s not good news for her! Silk has been picking at the edges of Black Cat’s operation, and Felicia Hardy has had about enough. Felicia gets the drop on Cindy, and Silk hits rock bottom. Can even a team-up with Spider-Man save the day? Plus: a date with Johnny Storm! Secrets of Silk’s past revealed! Will Cindy Moon ever find her family? Collecting SILK #1-7.",
+  "modified": "2015-10-26T12:31:11-0400",
+  "isbn": "978-0-7851-9704-1",
+  "upc": "",
+  "diamondCode": "AUG150909",
+  "ean": "9780785 197041 51999",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 160,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Cindy Moon exploded into the Marvel Universe when we learned she was bitten by the same radioactive spider that empowered Spider-Man! She then went on to save Peter Parker’s life (more than once!) and traverse the Spider-Verse. Now, as Silk, Cindy is on her own in New York City, searching for her past, defining her own future, and webbing up wrongdoers along the way! But she’s about to cross the Black Cat’s path, and that’s not good news for her! Silk has been picking at the edges of Black Cat’s operation, and Felicia Hardy has had about enough. Felicia gets the drop on Cindy, and Silk hits rock bottom. Can even a team-up with Spider-Man save the day? Plus: a date with Johnny Storm! Secrets of Silk’s past revealed! Will Cindy Moon ever find her family? Collecting SILK #1-7."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52493",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52493/silk_vol_0_the_life_and_times_of_cindy_moon_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19662",
+    "name": "SILK VOL. 0: THE LIFE AND TIMES OF CINDY MOON  (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-28T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-13T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 19.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/562e541f6fded",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/562e541f6fded",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52493/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+        "name": "Dave Johnson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12716",
+        "name": "Stacey Lee",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+        "name": "Robbie Thompson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52493/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52493/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116563",
+        "name": "cover from Silk (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116564",
+        "name": "story from Silk (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52493/events",
+    "items": [],
+    "returned": 0
+  }
+}

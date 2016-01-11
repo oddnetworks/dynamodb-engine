@@ -1,0 +1,73 @@
+{
+  "id": 1011059,
+  "name": "Living Tribunal",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0031062f91f",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011059",
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011059/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5084",
+        "name": "She-Hulk (2005) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5959",
+        "name": "She-Hulk Vol. 4: Laws of Attraction (Trade Paperback)"
+      }
+    ],
+    "returned": 2
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011059/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/886",
+        "name": "She-Hulk (2005 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1896",
+        "name": "She-Hulk Vol. 4: Laws of Attraction (2007)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011059/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4763",
+        "name": "Cover #4763",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011059/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2868/living_tribunal?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Living_Tribunal?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011059/living_tribunal?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

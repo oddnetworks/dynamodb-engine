@@ -1,0 +1,93 @@
+{
+  "id": 56030,
+  "digitalId": 0,
+  "title": "Agents of S.H.I.E.L.D. (2016) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "The good news for Phil Coulson is that he’s been reunited with his former love, Lola — who, it turns out, is not a flying car. The bad news is that she turned his mind into a weapon that could destroy the Marvel Universe.",
+  "modified": "2016-01-08T09:42:30-0500",
+  "isbn": "",
+  "upc": "75960608337400211",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The good news for Phil Coulson is that he’s been reunited with his former love, Lola — who, it turns out, is not a flying car. The bad news is that she turned his mind into a weapon that could destroy the Marvel Universe."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56030",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56030/agents_of_shield_2016_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20607",
+    "name": "Agents of S.H.I.E.L.D. (2016 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-02-10T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-01-27T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/568fcb1d8c367",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/568fcb1d8c367",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56030/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56030/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56030/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123023",
+        "name": "cover from Agents of S.H.I.E.L.D. (2015) #2",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56030/events",
+    "items": [],
+    "returned": 0
+  }
+}

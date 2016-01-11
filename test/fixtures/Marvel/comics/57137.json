@@ -1,0 +1,159 @@
+{
+  "id": 57137,
+  "digitalId": 0,
+  "title": "Spidey (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Think you know everything about Peter Parker’s early days? Think again. It’s action, adventure and a rip-roaring romp in classic Marvel style as SPIDEY swings onto shelves this winter! Featuring adventures from throughout the web-slinging wonder’s younger years, it’s a return to the days of overdue homework, not knowing how to talk to girls (or anybody, really) and just a plenty of danger. Witness some of Spidey’s earliest tangles with the likes of DOC OCK, SANDMAN and a host of other unexpected guests!",
+  "modified": "2015-11-30T22:33:57-0500",
+  "isbn": "",
+  "upc": "75960608356500111",
+  "diamondCode": "OCT150779",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Think you know everything about Peter Parker’s early days? Think again. It’s action, adventure and a rip-roaring romp in classic Marvel style as SPIDEY swings onto shelves this winter! Featuring adventures from throughout the web-slinging wonder’s younger years, it’s a return to the days of overdue homework, not knowing how to talk to girls (or anybody, really) and just a plenty of danger. Witness some of Spidey’s earliest tangles with the likes of DOC OCK, SANDMAN and a host of other unexpected guests!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57137",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57137/spidey_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Spidey-1/digital-comic/40637?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20861",
+    "name": "Spidey (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58102",
+      "name": "Spidey (2015) #1 (Gariba Hip-&#8203;Hop Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58104",
+      "name": "Spidey (2015) #1 (Ramos Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5655d3a0e63d5",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/5655d3a0e63d5",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5632544a5b954",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/563253cc1eb9b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/563253775eb48",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/563253058ffd8",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5630f56bb6057",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5630f54866c91",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5630f51460df7",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/55f30a6e7c20e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57137/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11875",
+        "name": "Nick Bradshaw",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+        "name": "Robbie Thompson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57137/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57137/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125091",
+        "name": "cover from Spidey (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125092",
+        "name": "story from Spidey (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57137/events",
+    "items": [],
+    "returned": 0
+  }
+}

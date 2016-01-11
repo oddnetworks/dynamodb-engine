@@ -1,0 +1,122 @@
+{
+  "id": 56503,
+  "digitalId": 0,
+  "title": "Angela: Queen of Hel (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "To the soundtrack of a totally sick Nordic death metal solo, Angela and Sera embark on the conquest to crown Angela Queen of the Dead...and encounter some who they have sent to the afterlife themselves! Friends and foes return from the abyss as Angela and Sera raise a rebellion among the dead of the Ten Realms. You’re the Mockingjay, Angela!!",
+  "modified": "2015-12-17T12:47:55-0500",
+  "isbn": "",
+  "upc": "75960608404300311",
+  "diamondCode": "OCT150926",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "To the soundtrack of a totally sick Nordic death metal solo, Angela and Sera embark on the conquest to crown Angela Queen of the Dead...and encounter some who they have sent to the afterlife themselves! Friends and foes return from the abyss as Angela and Sera raise a rebellion among the dead of the Ten Realms. You’re the Mockingjay, Angela!!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56503",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56503/angela_queen_of_hel_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Angela-Queen-of-Hel-3/digital-comic/40718?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20696",
+    "name": "Angela: Queen of Hel (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-23T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-08T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/5672ee6906b59",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/5672ee6906b59",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/564a1495e8e0b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+        "name": "Marguerite Bennett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+        "name": "Stephanie Hans",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12319",
+        "name": "Aaron Kim Jacinto",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123861",
+        "name": "cover from Angela: Queen of Hel (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123862",
+        "name": "story from Angela: Queen of Hel (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56503/events",
+    "items": [],
+    "returned": 0
+  }
+}

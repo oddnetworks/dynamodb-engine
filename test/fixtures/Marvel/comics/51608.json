@@ -1,0 +1,113 @@
+{
+  "id": 51608,
+  "digitalId": 0,
+  "title": "Daredevil Vol. 3: The Daredevil You Know (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The end begins here! Mark Waid and Chris Samnee start the slow build to the shocking climax of their beloved, Eisner Award-winning run with the return of one of Matt Murdock's oldest and (now) scariest enemies. But who? A mystery that's been building since the very beginning starts to pay off big as Daredevil's recent traumas have him coping in an unexpected way! Writing his own life story has forced Matt Murdock to face his darkest demons - and it's changing him. Kirsten and Foggy don't like the man Daredevil is becoming - and neither do the San Francisco police! As the Owl sets his machinations into motion, another old foe waits in the wings to blindside Daredevil. Matt must make some hard choices - but is he going off the deep end? Guest-starring the Stunt-Master! Collecting DAREDEVIL (2014) #11-15.",
+  "modified": "2015-07-20T12:25:54-0400",
+  "isbn": "978-0-7851-9228-2",
+  "upc": "",
+  "diamondCode": "APR150928",
+  "ean": "9780785 192282 51599",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The end begins here! Mark Waid and Chris Samnee start the slow build to the shocking climax of their beloved, Eisner Award-winning run with the return of one of Matt Murdock's oldest and (now) scariest enemies. But who? A mystery that's been building since the very beginning starts to pay off big as Daredevil's recent traumas have him coping in an unexpected way! Writing his own life story has forced Matt Murdock to face his darkest demons - and it's changing him. Kirsten and Foggy don't like the man Daredevil is becoming - and neither do the San Francisco police! As the Owl sets his machinations into motion, another old foe waits in the wings to blindside Daredevil. Matt must make some hard choices - but is he going off the deep end? Guest-starring the Stunt-Master! Collecting DAREDEVIL (2014) #11-15."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51608",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51608/daredevil_vol_3_the_daredevil_you_know_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Daredevil-Vol-3-The-Daredevil-You-Know-0/digital-comic/39432?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19363",
+    "name": "Daredevil Vol. 3: The Daredevil You Know (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-22T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-07T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 15.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/55ad206755995",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/55ad206755995",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51608/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+        "name": "Chris Samnee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51608/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51608/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114793",
+        "name": "cover from Daredevil (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114794",
+        "name": "story from Daredevil (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51608/events",
+    "items": [],
+    "returned": 0
+  }
+}

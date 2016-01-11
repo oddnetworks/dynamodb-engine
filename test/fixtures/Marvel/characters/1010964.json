@@ -1,0 +1,45 @@
+{
+  "id": 1010964,
+  "name": "Quicksilver (Age of Apocalypse)",
+  "description": "",
+  "modified": "2013-11-20T17:25:52-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/528d36e27d0ae",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010964",
+  "comics": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010964/comics",
+    "items": [],
+    "returned": 0
+  },
+  "series": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010964/series",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010964/stories",
+    "items": [],
+    "returned": 0
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010964/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/44/quicksilver?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010964/quicksilver_age_of_apocalypse?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1010768,
+  "name": "Loners",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/4c0037581a64e",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010768",
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010768/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15848",
+        "name": "The Loners (2007) #3"
+      }
+    ],
+    "returned": 1
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010768/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1938",
+        "name": "The Loners (2007 - 2008)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010768/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32363",
+        "name": "3 of 6 - 6XLS",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010768/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1273/loners?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Loners?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010768/loners?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

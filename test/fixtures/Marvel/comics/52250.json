@@ -1,0 +1,127 @@
+{
+  "id": 52250,
+  "digitalId": 39001,
+  "title": "Ms. Marvel (2014) #16",
+  "issueNumber": 16,
+  "variantDescription": "",
+  "description": "-When the world is about to end, do you still keep fighting? -From the moment Kamala put on her costume, she's been challenged, but nothing has prepared her for this:  the Last Days of the Marvel Universe.   -Fists up, let's do this, Jersey City. -Plus a VERY special guest appearance fans have been clamoring for! ",
+  "modified": "2015-06-10T10:05:29-0400",
+  "isbn": "",
+  "upc": "75960607997101611",
+  "diamondCode": "APR150705",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "-When the world is about to end, do you still keep fighting? -From the moment Kamala put on her costume, she's been challenged, but nothing has prepared her for this:  the Last Days of the Marvel Universe.   -Fists up, let's do this, Jersey City. -Plus a VERY special guest appearance fans have been clamoring for! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52250",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52250/ms_marvel_2014_16?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=39001&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18468",
+    "name": "Ms. Marvel (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-21T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 2.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/556f474cee127",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/556f474cee127",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52250/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+        "name": "Adrian Alphona",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+        "name": "Kris Anka",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52250/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52250/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116077",
+        "name": "cover from Ms. Marvel (2014) #16",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116078",
+        "name": "story from Ms. Marvel (2014) #16",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52250/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": 56248,
+  "digitalId": 0,
+  "title": "1602 Witch Hunter Angela (2015) #3 (Irving Variant)",
+  "issueNumber": 3,
+  "variantDescription": "Irving Variant",
+  "description": "\"IN WHICH HEARTS REND AND HEADS ROLL\"\n- Enchantress's prophecy strangles Angela and Sera from all sides when\nthey are forced to ride hell (and a few other realms, too) for leather to\nthe distant coast.\n- In a haunted castle, a tormented witchbreed girl named Anna Maria â€\"\na.k.a. the 1602 Rogue â€\" makes a deadly deal â€\" with a shocking price!\n- Kieron and Frazer Irving bring to life the first tale Angela tells that\nis her very own â€\" as the forces of Faerie close in!\n",
+  "modified": "2015-09-01T12:13:26-0400",
+  "isbn": "",
+  "upc": "75960608200100321",
+  "diamondCode": "JUN150755",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "\"IN WHICH HEARTS REND AND HEADS ROLL\"\n- Enchantress's prophecy strangles Angela and Sera from all sides when\nthey are forced to ride hell (and a few other realms, too) for leather to\nthe distant coast.\n- In a haunted castle, a tormented witchbreed girl named Anna Maria â€\"\na.k.a. the 1602 Rogue â€\" makes a deadly deal â€\" with a shocking price!\n- Kieron and Frazer Irving bring to life the first tale Angela tells that\nis her very own â€\" as the forces of Faerie close in!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56248",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56248/1602_witch_hunter_angela_2015_3_irving_variant/irving_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19244",
+    "name": "1602 Witch Hunter Angela (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51200",
+      "name": "1602 Witch Hunter Angela (2015) #3"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-09T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/55e492ddefd84",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/55e492ddefd84",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56248/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+        "name": "Marguerite Bennett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+        "name": "Stephanie Hans",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1063",
+        "name": "Frazer Irving",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56248/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56248/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123459",
+        "name": "cover from 1602 Witch Hunter Angela (2015) #3 (IRVING VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123460",
+        "name": "story from 1602 Witch Hunter Angela (2015) #3 (IRVING VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56248/events",
+    "items": [],
+    "returned": 0
+  }
+}

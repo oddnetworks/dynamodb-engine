@@ -1,0 +1,133 @@
+{
+  "id": 1011105,
+  "name": "Jimmy Woo",
+  "description": "Jimmy Woo is a former FBI and SHIELD agent from the '50s who now leads the Agents of Atlas in the present.",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/30/4c0030a8ec05b",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011105",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011105/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23659",
+        "name": "Agents of Atlas (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24219",
+        "name": "Agents of Atlas (2009) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24221",
+        "name": "Agents of Atlas (2009) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24222",
+        "name": "Agents of Atlas (2009) #5 (MCGUINNESS VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38497",
+        "name": "Fear Itself: The Home Front (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38495",
+        "name": "Fear Itself: The Home Front (2010) #4"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011105/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6807",
+        "name": "Agents of Atlas (2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13881",
+        "name": "Fear Itself: The Home Front (2010)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011105/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52392",
+        "name": "1 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52393",
+        "name": "1 of 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53668",
+        "name": "1 of 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53673",
+        "name": "2 of 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53674",
+        "name": "2 of 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53675",
+        "name": "2 of 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89799",
+        "name": "Fear Itself: The Home Front #2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94041",
+        "name": "Fear Itself: The Home Front (2010) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011105/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2873/jimmy_woo?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Woo%2C_Jimmy?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011105/jimmy_woo?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

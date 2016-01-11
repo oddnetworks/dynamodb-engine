@@ -1,0 +1,65 @@
+{
+  "id": 1011071,
+  "name": "Demogoblin",
+  "description": "Jason Macendale, the newest Hobgoblin was down on his luck and offered the demon N'astirh his soul in exchange for power during the  Inferno crisis, turning him into the Demogoblin.",
+  "modified": "2014-04-29T14:23:54-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/535fedd611db9",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011071",
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011071/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10025",
+        "name": "Marvel Comics Presents (1988) #112"
+      }
+    ],
+    "returned": 1
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011071/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2039",
+        "name": "Marvel Comics Presents (1988 - 1995)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011071/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22760",
+        "name": "Demogoblin's Lament",
+        "type": ""
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011071/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/538/demogoblin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Demogoblin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011071/demogoblin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

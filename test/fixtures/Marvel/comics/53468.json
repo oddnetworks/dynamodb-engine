@@ -1,0 +1,123 @@
+{
+  "id": 53468,
+  "digitalId": 0,
+  "title": "Civil War (2015) #1 (Granov Civil War Promo Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Granov Civil War Promo Variant",
+  "description": "- The Civil War never ended. Welcome to the Warzone, where six years of non-stop battle between the forces of the Blue and the Iron have split the nation down its center, utterly transforming it. In a world of new alliances and strange enemies, President Tony Stark and General Steve Rogers meet to make one last attempt at peace.",
+  "modified": "2015-07-01T17:28:28-0400",
+  "isbn": "",
+  "upc": "75960608208700121",
+  "diamondCode": "MAY150683",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- The Civil War never ended. Welcome to the Warzone, where six years of non-stop battle between the forces of the Blue and the Iron have split the nation down its center, utterly transforming it. In a world of new alliances and strange enemies, President Tony Stark and General Steve Rogers meet to make one last attempt at peace."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53468",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53468/civil_war_2015_1_granov_civil_war_promo_variant/granov_civil_war_promo_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19350",
+    "name": "Civil War (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51577",
+      "name": "Civil War (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51578",
+      "name": "Civil War (2015) #1 (Young Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-24T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/55945a9492bc6",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/55945a9492bc6",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53468/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+        "name": "Adi Granov",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53468/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53468/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118254",
+        "name": "cover from Civil War (2015) #1 (GRANOV PROMO VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118255",
+        "name": "story from Civil War (2015) #1 (GRANOV PROMO VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53468/events",
+    "items": [],
+    "returned": 0
+  }
+}

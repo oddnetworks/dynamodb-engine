@@ -1,0 +1,127 @@
+{
+  "id": 48491,
+  "digitalId": 0,
+  "title": "Bucky Barnes: Winter Soldier (2014) #11",
+  "issueNumber": 11,
+  "variantDescription": "",
+  "description": "\"CUDDLE TIME\"\n• After the climax.\n• The end is coming.\n• There might be a little death.\n",
+  "modified": "2015-09-08T12:40:39-0400",
+  "isbn": "",
+  "upc": "75960607976601111",
+  "diamondCode": "JUN150807",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "\"CUDDLE TIME\"\n• After the climax.\n• The end is coming.\n• There might be a little death.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/48491",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/48491/bucky_barnes_winter_soldier_2014_11?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Bucky-Barnes-Winter-Soldier-11/digital-comic/39929?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18337",
+    "name": "Bucky Barnes: Winter Soldier (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-16T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-02T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/55e9a721a0899",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/55e9a721a0899",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/557b2e3b1d02b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48491/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10159",
+        "name": "Michael Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12469",
+        "name": "Langdon Foss",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12421",
+        "name": "Marco Rudy",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12394",
+        "name": "Ales Kot",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48491/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48491/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109089",
+        "name": "cover from Bucky Barnes: Winter Soldier (2013) #11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109090",
+        "name": "story from Bucky Barnes: Winter Soldier (2013) #11",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48491/events",
+    "items": [],
+    "returned": 0
+  }
+}

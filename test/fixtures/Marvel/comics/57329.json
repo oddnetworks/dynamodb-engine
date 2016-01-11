@@ -1,0 +1,99 @@
+{
+  "id": 57329,
+  "digitalId": 0,
+  "title": "Web Warriors (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "The WEB-WARRIORS have to call in backup after the Electros launch an all-out siege on Earth-001! Featuring two titanic guest stars straight out of SPIDER-VERSE!",
+  "modified": "2016-01-08T14:02:44-0500",
+  "isbn": "",
+  "upc": "759606083641000411",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The WEB-WARRIORS have to call in backup after the Electros launch an all-out siege on Earth-001! Featuring two titanic guest stars straight out of SPIDER-VERSE!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57329",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57329/web_warriors_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20900",
+    "name": "Web Warriors (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-02-17T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-02-03T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5690080b276fa",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/5690080b276fa",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57329/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+        "name": "Edward Devin Lewis",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57329/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57329/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125475",
+        "name": "cover from Web Warriors (2015) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57329/events",
+    "items": [],
+    "returned": 0
+  }
+}

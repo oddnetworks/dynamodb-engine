@@ -1,0 +1,103 @@
+{
+  "id": 51375,
+  "digitalId": 0,
+  "title": "Ant-Man Vol. 1: Second-Chance Man (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Scott Lang has never exactly been the world's best super hero. Heck, most people don't even think he's been the best Ant-Man! And the last guy invented Ultron and joined the Masters of Evil, so that's saying something. But when the Superior Iron Man calls with a once-in-a-lifetime opportunity, and an old enemy returns (sort of), Scott's going to get a chance to turn it all around and be the hero he's always dreamed of being. That's right, Ant-Man's starting a new life -a bold new adventure - and you know what that means! It means he needs to borrow some money. Sure he's been to prison! Sure he's been through a messy divorce! Sure he's been, um...dead. But this time is different! This time nothing is gonna stop the astonishing Ant-Man!",
+  "modified": "2015-06-23T15:14:48-0400",
+  "isbn": "978-0-7851-9387-6",
+  "upc": "",
+  "diamondCode": "MAR150796",
+  "ean": "9780785 193876 51599",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 120,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Scott Lang has never exactly been the world's best super hero. Heck, most people don't even think he's been the best Ant-Man! And the last guy invented Ultron and joined the Masters of Evil, so that's saying something. But when the Superior Iron Man calls with a once-in-a-lifetime opportunity, and an old enemy returns (sort of), Scott's going to get a chance to turn it all around and be the hero he's always dreamed of being. That's right, Ant-Man's starting a new life -a bold new adventure - and you know what that means! It means he needs to borrow some money. Sure he's been to prison! Sure he's been through a messy divorce! Sure he's been, um...dead. But this time is different! This time nothing is gonna stop the astonishing Ant-Man!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51375",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51375/ant-man_vol_1_second-chance_man_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Ant-Man-0/digital-comic/38977?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19276",
+    "name": "Ant-Man Vol. 1: Second-Chance Man (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-24T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 15.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5589a5e0734f0",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5589a5e0734f0",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51375/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51375/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51375/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114327",
+        "name": "cover from Ant-Man (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51375/events",
+    "items": [],
+    "returned": 0
+  }
+}

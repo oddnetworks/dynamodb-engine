@@ -1,0 +1,119 @@
+{
+  "id": 57707,
+  "digitalId": 0,
+  "title": "Hercules (2015) #2 (Texeira Marvel 92 Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Texeira Marvel 92 Variant",
+  "description": "• Creatures of ancient myth still linger in the world, but they are on the brink of extinction. The Modern Age has no place for them. But Hercules has moved with the times--only he can protect them against the crushing weight of the future. Except he is part of the old age too, born in ancient times before the risk of civilization, the world’s first super hero, a champion through the ages. If he fails in this struggle, he dies with them. Forever.",
+  "modified": "2015-12-02T14:59:17-0500",
+  "isbn": "",
+  "upc": "75960608410400221",
+  "diamondCode": "OCT150913",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Creatures of ancient myth still linger in the world, but they are on the brink of extinction. The Modern Age has no place for them. But Hercules has moved with the times--only he can protect them against the crushing weight of the future. Except he is part of the old age too, born in ancient times before the risk of civilization, the world’s first super hero, a champion through the ages. If he fails in this struggle, he dies with them. Forever."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57707",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57707/hercules_2015_2_texeira_marvel_92_variant/texeira_marvel_92_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20812",
+    "name": "Hercules (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56907",
+      "name": "Hercules (2015) #2"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5646497bf4153",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/5646497bf4153",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57707/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+        "name": "Luke Ross",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11501",
+        "name": "Mark Texeira",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57707/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57707/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126169",
+        "name": "cover from Hercules (2015) #2 (TEXEIRA MARVEL 92 VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126170",
+        "name": "story from Hercules (2015) #2 (TEXEIRA MARVEL 92 VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57707/events",
+    "items": [],
+    "returned": 0
+  }
+}

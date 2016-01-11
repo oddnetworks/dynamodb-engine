@@ -1,0 +1,126 @@
+{
+  "id": 56877,
+  "digitalId": 0,
+  "title": "Extraordinary X-Men (2015) #1 (Cosplay Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Cosplay Variant",
+  "description": "The fate of mutantkind is decided here! Staring down the threat of extinction once more, veteran X-Man Storm pulls together the team she’ll need to ensure her race’s survival. Together, these EXTRAORDINARY X-MEN will struggle with the familiar burden of being hated and feared, while facing threats the likes of which they’ve never seen. Here’s hoping they survive the experience!",
+  "modified": "2015-10-27T15:31:23-0400",
+  "isbn": "",
+  "upc": "75960608302200131",
+  "diamondCode": "AUG150754",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The fate of mutantkind is decided here! Staring down the threat of extinction once more, veteran X-Man Storm pulls together the team she’ll need to ensure her race’s survival. Together, these EXTRAORDINARY X-MEN will struggle with the familiar burden of being hated and feared, while facing threats the likes of which they’ve never seen. Here’s hoping they survive the experience!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56877",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56877/extraordinary_x-men_2015_1_cosplay_variant/cosplay_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20460",
+    "name": "Extraordinary X-Men (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55433",
+      "name": "Extraordinary X-Men (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55928",
+      "name": "Extraordinary X-Men (2015) #1 (Greene Hip-&#8203;Hop Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56878",
+      "name": "Extraordinary X-Men (2015) #1 (Campbell Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/562fcf1ac6db8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/562fcf1ac6db8",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5602c03d44925",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56877/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56877/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56877/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124571",
+        "name": "cover from Extraordinary X-Men (2015) #1 (COSPLAY VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124572",
+        "name": "story from Extraordinary X-Men (2015) #1 (COSPLAY VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56877/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": 52401,
+  "digitalId": 38156,
+  "title": "Rocket Raccoon (2014) #11",
+  "issueNumber": 11,
+  "variantDescription": "",
+  "description": "Does the book of Half-World actually exist? Or was it all just one big HOAX? And finally, is Rocket really alone in the world? You'll laugh, you'll cry, you'll wish you were a raccoon! (I mean a gun-wielding, smack-talking tough guy who happens to be covered in fur!)",
+  "modified": "2015-05-04T16:19:29-0400",
+  "isbn": "",
+  "upc": "75960608045801111",
+  "diamondCode": "MAR150747",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Does the book of Half-World actually exist? Or was it all just one big HOAX? And finally, is Rocket really alone in the world? You'll laugh, you'll cry, you'll wish you were a raccoon! (I mean a gun-wielding, smack-talking tough guy who happens to be covered in fur!)"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52401",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52401/rocket_raccoon_2014_11?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Rocket-Raccoon-11/digital-comic/38156?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38156&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18806",
+    "name": "Rocket Raccoon (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-06T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-22T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-02T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-01T13:44:26-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5547d3b82f62b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5547d3b82f62b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/54f7415743fbf",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52401/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12445",
+        "name": "Jake Parker",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52401/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52401/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116379",
+        "name": "cover from Rocket Raccoon (2014) #11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116380",
+        "name": "story from Rocket Raccoon (2014) #11",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52401/events",
+    "items": [],
+    "returned": 0
+  }
+}

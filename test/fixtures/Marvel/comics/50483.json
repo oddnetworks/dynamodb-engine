@@ -1,0 +1,122 @@
+{
+  "id": 50483,
+  "digitalId": 0,
+  "title": "Spider-Man 2099 Vol. 2: Spider-Verse (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Miguel O'Hara is finally back in his home era, 2099! But there's no time for nostalgia as Spider-Man 2099, Lady Spider and the six-armed Spider-Man are on the run from the ravenous Inheritors! Miguel and Lady Spider bring past and future science to bear, desperate for a clue to help battle Morlun and his family. But can they regroup with the rest of the spiders in time to win the final battle? Then, battered and bloody, Miguel returns to his home dimension to discover that the malicious Maestro has taken charge! Looks like Spidey may have to call in some Strange backup. And Miguel and Peter Parker's worlds collide once again when Alchemax and Parker Industries are caught in a bidding war! Has Miguel's time traveling put his friends in imminent danger? Collecting Spider-Man 2099 (2014) #6-12.",
+  "modified": "2015-07-15T12:54:50-0400",
+  "isbn": "978-0-7851-9080-6",
+  "upc": "",
+  "diamondCode": "APR150935",
+  "ean": "9780785 190806 51999",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 160,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Miguel O'Hara is finally back in his home era, 2099! But there's no time for nostalgia as Spider-Man 2099, Lady Spider and the six-armed Spider-Man are on the run from the ravenous Inheritors! Miguel and Lady Spider bring past and future science to bear, desperate for a clue to help battle Morlun and his family. But can they regroup with the rest of the spiders in time to win the final battle? Then, battered and bloody, Miguel returns to his home dimension to discover that the malicious Maestro has taken charge! Looks like Spidey may have to call in some Strange backup. And Miguel and Peter Parker's worlds collide once again when Alchemax and Parker Industries are caught in a bidding war! Has Miguel's time traveling put his friends in imminent danger? Collecting Spider-Man 2099 (2014) #6-12."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/50483",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/50483/spider-man_2099_vol_2_spider-verse_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Spider-Man-2099-0/digital-comic/39314?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18870",
+    "name": "Spider-Man 2099 Vol. 2: Spider-Verse (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-30T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 19.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/55a531c3a8830",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/55a531c3a8830",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/55a52ded70283",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50483/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8495",
+        "name": "Francesco Mattina",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11965",
+        "name": "William Sliney",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50483/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50483/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112992",
+        "name": "cover from Spider-Man 2099 (2016)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112993",
+        "name": "story from Spider-Man 2099 (2016)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50483/events",
+    "items": [],
+    "returned": 0
+  }
+}

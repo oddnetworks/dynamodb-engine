@@ -1,0 +1,82 @@
+{
+  "id": 1010717,
+  "name": "Debrii",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038c02e75a",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010717",
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010717/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2408",
+        "name": "New Warriors (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3119",
+        "name": "New Warriors (2005) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3462",
+        "name": "New Warriors: Reality Check (Trade Paperback)"
+      }
+    ],
+    "returned": 3
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010717/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/839",
+        "name": "New Warriors (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1410",
+        "name": "New Warriors: Reality Check (2006)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010717/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4320",
+        "name": "4 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4324",
+        "name": "6 of 6",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010717/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/533/debrii?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Debrii?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010717/debrii?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

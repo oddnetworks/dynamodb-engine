@@ -1,0 +1,139 @@
+{
+  "id": 55637,
+  "digitalId": 0,
+  "title": "Silk (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "SILK IS BACK AND BADDER THAN EVER! Cindy Moon has been working to find the missing members of her family since she escaped the bunker that was her home prior to the events of SPIDER-VERSE. But her quest has taken her down a darker path than she expected, and she's now in cahoots with none other than the most ferocious feline in the Marvel Universe - BLACK CAT! What's gotten under her skin, and is there any redeeming the SINISTER SILK? !",
+  "modified": "2015-11-19T13:26:47-0500",
+  "isbn": "",
+  "upc": "75960608311400111",
+  "diamondCode": "SEP150746",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "SILK IS BACK AND BADDER THAN EVER! Cindy Moon has been working to find the missing members of her family since she escaped the bunker that was her home prior to the events of SPIDER-VERSE. But her quest has taken her down a darker path than she expected, and she's now in cahoots with none other than the most ferocious feline in the Marvel Universe - BLACK CAT! What's gotten under her skin, and is there any redeeming the SINISTER SILK? !"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55637",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55637/silk_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Silk-1/digital-comic/40517?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20499",
+    "name": "Silk (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57115",
+      "name": "Silk (2015) #1 (Shim Hip-&#8203;Hop Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-25T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-10T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/564e12f5cfe7c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/564e12f5cfe7c",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/562fe71730a89",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/562fe6a2727d3",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/562fe593df6e7",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/55e6ffac51996",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55637/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12778",
+        "name": "Helen Chen",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12716",
+        "name": "Stacey Lee",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+        "name": "Robbie Thompson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55637/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55637/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122317",
+        "name": "cover from Silk (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122318",
+        "name": "story from Silk (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55637/events",
+    "items": [],
+    "returned": 0
+  }
+}

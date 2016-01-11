@@ -1,0 +1,49 @@
+{
+  "id": 1011118,
+  "name": "Hulk (Marvel Zombies)",
+  "description": "",
+  "modified": "2014-03-05T13:25:50-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/53176c115da55",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011118",
+  "comics": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011118/comics",
+    "items": [],
+    "returned": 0
+  },
+  "series": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011118/series",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011118/stories",
+    "items": [],
+    "returned": 0
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011118/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/25/hulk?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Hulk_(Marvel_Zombies)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011118/hulk_marvel_zombies?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

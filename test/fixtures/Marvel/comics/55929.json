@@ -1,0 +1,114 @@
+{
+  "id": 55929,
+  "digitalId": 0,
+  "title": "Fury: S.H.I.E.L.D. 50th Anniversary (2015) #1 (Ward Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Ward Variant",
+  "description": "• A mission 50 years in the making!\n• When a villain from the past shows up in the present day, Nick Fury is forced to team-up with Nick Fury Sr.!\n• Will the Nick Fury of the present be able to work alongside his father?\n",
+  "modified": "2015-09-15T14:22:54-0400",
+  "isbn": "",
+  "upc": "75960608325100121",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• A mission 50 years in the making!\n• When a villain from the past shows up in the present day, Nick Fury is forced to team-up with Nick Fury Sr.!\n• Will the Nick Fury of the present be able to work alongside his father?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55929",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55929/fury_shield_50th_anniversary_2015_1_ward_variant/ward_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20577",
+    "name": "Fury: S.H.I.E.L.D. 50th Anniversary (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-23T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-31T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/55f70da39bda4",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/55f70da39bda4",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55929/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12298",
+        "name": "Scott Hepburn",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12711",
+        "name": "David Walker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12470",
+        "name": "Christian Ward",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55929/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55929/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122843",
+        "name": "cover from Fury: S.H.I.E.L.D. 50th Anniversary (2015) #1 (WARD VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122844",
+        "name": "story from Fury: S.H.I.E.L.D. 50th Anniversary (2015) #1 (WARD VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55929/events",
+    "items": [],
+    "returned": 0
+  }
+}

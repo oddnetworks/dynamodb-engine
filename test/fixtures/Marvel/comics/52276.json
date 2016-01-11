@@ -1,0 +1,113 @@
+{
+  "id": 52276,
+  "digitalId": 0,
+  "title": "New Avengers: Ultron Forever (2015) #1 (Au Movie Connecting Variant E)",
+  "issueNumber": 1,
+  "variantDescription": "Au Movie Connecting Variant E",
+  "description": "PART 2 OF 3 â€\" The epic Avengers adventure continues! - When Thors clash! Vision versus Vision - to the death! The strangest Hulk-out of all! The Loki of the 25th Century! - Ultron makes his move - but does Doctor Doom have something even worse up his metal sleeve? ",
+  "modified": "2015-04-22T14:45:07-0400",
+  "isbn": "",
+  "upc": "75960608186800121",
+  "diamondCode": "FEB150703",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "PART 2 OF 3 â€\" The epic Avengers adventure continues! - When Thors clash! Vision versus Vision - to the death! The strangest Hulk-out of all! The Loki of the 25th Century! - Ultron makes his move - but does Doctor Doom have something even worse up his metal sleeve? "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52276",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52276/new_avengers_ultron_forever_2015_1_au_movie_connecting_variant_e/au_movie_connecting_variant_e?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19603",
+    "name": "New Avengers: Ultron Forever (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-15T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5537e5fb0c303",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5537e5fb0c303",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/54beb2e2864ae",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52276/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+        "name": "Alan Davis",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+        "name": "Al Ewing",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52276/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52276/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116129",
+        "name": "cover from New Avengers: Ultron Forever (2015) #1 (MOVIE VARIANT A)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116130",
+        "name": "story from New Avengers: Ultron Forever (2015) #1 (MOVIE VARIANT A)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52276/events",
+    "items": [],
+    "returned": 0
+  }
+}

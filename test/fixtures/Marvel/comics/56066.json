@@ -1,0 +1,118 @@
+{
+  "id": 56066,
+  "digitalId": 0,
+  "title": "Deadpool (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "He’s annoying. He’s dangerous. He smells terrible. But the public love him. That’s right—the Merc with the Mouth may make money for missions of murky morality...but he’s become the most popular hero in the world for it. Eat that, Spidey! The world belongs to...DEADPOOL. The fan favorite team of Gerry Duggan and Mike Hawthorne return to bring Deadpool in to his most successful adventures yet!",
+  "modified": "2015-11-12T12:26:03-0500",
+  "isbn": "",
+  "upc": "75960608332900211",
+  "diamondCode": "SEP150707",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "He’s annoying. He’s dangerous. He smells terrible. But the public love him. That’s right—the Merc with the Mouth may make money for missions of murky morality...but he’s become the most popular hero in the world for it. Eat that, Spidey! The world belongs to...DEADPOOL. The fan favorite team of Gerry Duggan and Mike Hawthorne return to bring Deadpool in to his most successful adventures yet!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56066",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56066/deadpool_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Deadpool-2/digital-comic/40509?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20613",
+    "name": "Deadpool (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-18T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-03T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/563771da20f05",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/563771da20f05",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56066/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/942",
+        "name": "Mike Hawthorne",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9586",
+        "name": "Tony Moore",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56066/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56066/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123095",
+        "name": "cover from Deadpool (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123096",
+        "name": "story from Deadpool (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56066/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": 1011055,
+  "name": "Gideon",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4c00311236811",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011055",
+  "comics": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011055/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23514",
+        "name": "X-Factor Annual (1986) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17994",
+        "name": "X-Force (1991) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18005",
+        "name": "X-Force (1991) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18027",
+        "name": "X-Force (1991) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17943",
+        "name": "X-Force (1991) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17965",
+        "name": "X-Force (1991) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17977",
+        "name": "X-Force (1991) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17978",
+        "name": "X-Force (1991) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17987",
+        "name": "X-Force (1991) #23"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18021",
+        "name": "X-Force (1991) #54"
+      }
+    ],
+    "returned": 10
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011055/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6689",
+        "name": "X-Factor Annual (1986 - 1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+        "name": "X-Force (1991 - 2004)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011055/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38168",
+        "name": "Answers (and Questions)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38206",
+        "name": "When Externals Clash!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38207",
+        "name": "Traitors to the Cause",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38233",
+        "name": "Payback!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38235",
+        "name": "To The Pain",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38253",
+        "name": "Compromising Positions",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38267",
+        "name": "Battlecry",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38289",
+        "name": "Sabotage Part 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38322",
+        "name": "Q & A",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38334",
+        "name": "Under the Gun",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51884",
+        "name": "King of Pain",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 11
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011055/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/32",
+        "name": "Kings of Pain"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/803/gideon?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Gideon?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011055/gideon?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

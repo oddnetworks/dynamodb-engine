@@ -1,0 +1,133 @@
+{
+  "id": 56889,
+  "digitalId": 0,
+  "title": "Guardians of Infinity (2015) #1 (Rudy Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Rudy Hip-&#8203;Hop Variant",
+  "description": "WHO ARE THE GUARDIANS 1000?!\nDefending the galaxy is a good gig, but Drax isn’t thrilled with the combat hours (not enough of them) and Rocket isn’t thrilled with the compensation (not enough of it). They’re off on an adventure to supplement both, and Groot is happy to come along. But instead of the perks they want, they’re about to get more trouble than they can handle. Good thing the Guardians 3000 are on hand to help! But what about…THE GUARDIANS 1000??!!\nAlso in this issue, Latour and Cheung tell a one-off story of Ben Grimm and Rocket Raccoon, stuck on a planet where culture is based on Earth-style professional wrestling…but the stakes are life and death! THIS AIN’T KAYFABE, BROTHER!\n",
+  "modified": "2015-12-01T14:40:06-0500",
+  "isbn": "",
+  "upc": "75960608396100121",
+  "diamondCode": "OCT150749",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "WHO ARE THE GUARDIANS 1000?!\nDefending the galaxy is a good gig, but Drax isn’t thrilled with the combat hours (not enough of them) and Rocket isn’t thrilled with the compensation (not enough of it). They’re off on an adventure to supplement both, and Groot is happy to come along. But instead of the perks they want, they’re about to get more trouble than they can handle. Good thing the Guardians 3000 are on hand to help! But what about…THE GUARDIANS 1000??!!\nAlso in this issue, Latour and Cheung tell a one-off story of Ben Grimm and Rocket Raccoon, stuck on a planet where culture is based on Earth-style professional wrestling…but the stakes are life and death! THIS AIN’T KAYFABE, BROTHER!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56889",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56889/guardians_of_infinity_2015_1_rudy_hip-8203hop_variant/rudy_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20807",
+    "name": "Guardians of Infinity (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58086",
+      "name": "Guardians of Infinity (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58087",
+      "name": "Guardians of Infinity (2015) #1 (Barberi Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/55f73a0a7c78b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/55f73a0a7c78b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56889/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11306",
+        "name": "Jason Latour",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/412",
+        "name": "Carlo Barberi",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12421",
+        "name": "Marco Rudy",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56889/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56889/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124595",
+        "name": "cover from Guardians of Infinity (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124596",
+        "name": "story from Guardians of Infinity (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56889/events",
+    "items": [],
+    "returned": 0
+  }
+}

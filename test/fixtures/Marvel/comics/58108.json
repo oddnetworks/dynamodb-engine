@@ -1,0 +1,118 @@
+{
+  "id": 58108,
+  "digitalId": 0,
+  "title": "The Totally Awesome Hulk (2015) #1 (Woo Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Woo Variant",
+  "description": "THERE’S A BRAND NEW HULK IN TOWN, AND HIS NAME IS AMADEUS CHO!\nGet ready for the craziest Hulk story of the millennium as a kid genius decides he’s gonna be the best Hulk ever -- and just possibly brings the entire Marvel Universe crashing down into chaos! Totally awesome beach day! Massive monster mayhem! She-Hulk and Lady Hellbender! Massive heart and ridiculous action brought to you by PLANET HULK writer Greg Pak and superstar artist Frank Cho! Is it possible for us to fit in one more exclamation point? YES!\n",
+  "modified": "2015-12-01T13:18:01-0500",
+  "isbn": "",
+  "upc": "75960608333600161",
+  "diamondCode": "OCT150743",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THERE’S A BRAND NEW HULK IN TOWN, AND HIS NAME IS AMADEUS CHO!\nGet ready for the craziest Hulk story of the millennium as a kid genius decides he’s gonna be the best Hulk ever -- and just possibly brings the entire Marvel Universe crashing down into chaos! Totally awesome beach day! Massive monster mayhem! She-Hulk and Lady Hellbender! Massive heart and ridiculous action brought to you by PLANET HULK writer Greg Pak and superstar artist Frank Cho! Is it possible for us to fit in one more exclamation point? YES!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/58108",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/58108/the_totally_awesome_hulk_2015_1_woo_variant/woo_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20614",
+    "name": "The Totally Awesome Hulk (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56083",
+      "name": "The Totally Awesome Hulk (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57599",
+      "name": "The Totally Awesome Hulk (2015) #1 (Christopher Action Figure Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/56311033e946f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/56311033e946f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58108/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+        "name": "Frank Cho",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58108/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58108/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126874",
+        "name": "cover from Hulk (2015) #1 (WOO VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126875",
+        "name": "story from Hulk (2015) #1 (WOO VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58108/events",
+    "items": [],
+    "returned": 0
+  }
+}

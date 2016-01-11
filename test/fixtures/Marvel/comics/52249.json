@@ -1,0 +1,135 @@
+{
+  "id": 52249,
+  "digitalId": 38262,
+  "title": "Ms. Marvel (2014) #15",
+  "issueNumber": 15,
+  "variantDescription": "",
+  "description": "True love or true enemy? There's a reason it's called a CRUSH. Ms. Marvel faces her most confusing challenge yet!",
+  "modified": "2015-11-16T12:56:46-0500",
+  "isbn": "",
+  "upc": "75960607997101511",
+  "diamondCode": "MAR150709",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "True love or true enemy? There's a reason it's called a CRUSH. Ms. Marvel faces her most confusing challenge yet!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52249",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52249/ms_marvel_2014_15?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38262&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18468",
+    "name": "Ms. Marvel (2014 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53657",
+      "name": "Ms. Marvel (2014) #15 (Campion Nyc Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-13T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-16T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 2.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/564a18ce5b827",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/564a18ce5b827",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/554bd2c7319a5",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/5502e1266fb56",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52249/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+        "name": "Kris Anka",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+        "name": "Takeshi Miyazawa",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52249/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52249/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116075",
+        "name": "cover from Ms. Marvel (2014) #15",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116076",
+        "name": "story from Ms. Marvel (2014) #15",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52249/events",
+    "items": [],
+    "returned": 0
+  }
+}

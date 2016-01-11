@@ -1,0 +1,132 @@
+{
+  "id": 53335,
+  "digitalId": 0,
+  "title": "X-Men '92 (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "• Professor X-Face to faces with the X-Sentinel!\n• Can the X-Men overcome Cassandra Nova's \"rehabilitations\"?\n",
+  "modified": "2015-09-28T12:25:11-0400",
+  "isbn": "",
+  "upc": "75960608264300411",
+  "diamondCode": "JUL150749",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Professor X-Face to faces with the X-Sentinel!\n• Can the X-Men overcome Cassandra Nova's \"rehabilitations\"?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53335",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53335/x-men_92_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20007",
+    "name": "X-Men '92 (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57776",
+      "name": "X-Men '92 (2015) #4 (Nakayama Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-30T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-16T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/560969d832972",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/560969d832972",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/55fb217c3b3c4",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/55d2226ee5003",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53335/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+        "name": "Chad Bowers",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+        "name": "Chris Sims",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+        "name": "Scott Koblish",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+        "name": "Pepe Larraz",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53335/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53335/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118034",
+        "name": "cover from X-Men '92 (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118035",
+        "name": "story from X-Men '92 (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53335/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": 52184,
+  "digitalId": 37055,
+  "title": "MARVEL UNIVERSE ULTIMATE SPIDER-MAN: WEB WARRIORS (2014) #6",
+  "issueNumber": 6,
+  "variantDescription": "",
+  "description": "Spidey and the Hulk switch minds, resulting in a rampaging web-swinger! It's clobberin' time, as the Incredible Spider-Hulk stands toe-to-toe with the Thing!",
+  "modified": "2015-04-21T15:08:00-0400",
+  "isbn": "",
+  "upc": "75960608161500611",
+  "diamondCode": "FEB150755",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Spidey and the Hulk switch minds, resulting in a rampaging web-swinger! It's clobberin' time, as the Incredible Spider-Hulk stands toe-to-toe with the Thing!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52184",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52184/marvel_universe_ultimate_spider-man_web_warriors_2014_6?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=37055&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19563",
+    "name": "MARVEL UNIVERSE ULTIMATE SPIDER-MAN: WEB WARRIORS (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-15T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-10-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 2.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/552e97629c74e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/552e97629c74e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52184/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "writer"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52184/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52184/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115945",
+        "name": "cover from Ultimate Spider-Man: Web Warriors (2014) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115946",
+        "name": "story from Ultimate Spider-Man: Web Warriors (2014) #6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52184/events",
+    "items": [],
+    "returned": 0
+  }
+}

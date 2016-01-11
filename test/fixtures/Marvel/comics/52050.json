@@ -1,0 +1,122 @@
+{
+  "id": 52050,
+  "digitalId": 0,
+  "title": "Loki: Agent of Asgard (2014) #16",
+  "issueNumber": 16,
+  "variantDescription": "",
+  "description": "THE LAST DAYS OF LOKI ARE UPON US! The final hours of Asgard build to their cosmic climax! Will King Loki succeed? Can the Gods survive? Is there any hope at all? And are we ever going to reveal what happened to AAAH AAAAAH WHO THE HECK IS THAT ON THE COVER AAAAAAAAAAAHHHH!",
+  "modified": "2015-07-19T13:26:32-0400",
+  "isbn": "",
+  "upc": "75960607977301611",
+  "diamondCode": "MAY150651",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE LAST DAYS OF LOKI ARE UPON US! The final hours of Asgard build to their cosmic climax! Will King Loki succeed? Can the Gods survive? Is there any hope at all? And are we ever going to reveal what happened to AAAH AAAAAH WHO THE HECK IS THAT ON THE COVER AAAAAAAAAAAHHHH!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52050",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52050/loki_agent_of_asgard_2014_16?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Loki-Agent-of-Asgard-16/digital-comic/39395?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18340",
+    "name": "Loki: Agent of Asgard (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-22T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-08T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/55abdd1370742",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/55abdd1370742",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/5575acade9a74",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52050/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+        "name": "Al Ewing",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8933",
+        "name": "Lee Garbett",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52050/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52050/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115677",
+        "name": "cover from Loki: Agent of Asgard (2014) #16",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115678",
+        "name": "story from Loki: Agent of Asgard (2014) #16",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52050/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

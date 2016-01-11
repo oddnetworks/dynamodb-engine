@@ -1,0 +1,129 @@
+{
+  "id": 51775,
+  "digitalId": 37663,
+  "title": "Deathlok (2014) #7",
+  "issueNumber": 7,
+  "variantDescription": "",
+  "description": "Deathlok is sent on a mission that he can't stomach â€\" what will happen when he challenges CONTROL? Agent Hope knows the only way to Henry Hayes is through his daughter, and she enlists unlikely help to bring the girl in. DOMINO sets her own plan in motion...",
+  "modified": "2015-04-27T14:15:44-0400",
+  "isbn": "",
+  "upc": "75960608126400711",
+  "diamondCode": "FEB150804",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Deathlok is sent on a mission that he can't stomach â€\" what will happen when he challenges CONTROL? Agent Hope knows the only way to Henry Hayes is through his daughter, and she enlists unlikely help to bring the girl in. DOMINO sets her own plan in motion..."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51775",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51775/deathlok_2014_7?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Deathlok-7/digital-comic/37663?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=37663&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19405",
+    "name": "Deathlok (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-01T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-10-12T00:00:00-0400"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-04-09T15:56:22-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/5526ad7c030ba",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/5526ad7c030ba",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/54c268d559477",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51775/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11799",
+        "name": "Nathan Edmondson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+        "name": "Mike Perkins",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51775/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51775/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115127",
+        "name": "cover from Deathlok (2014) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115128",
+        "name": "story from Deathlok (2014) #7",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51775/events",
+    "items": [],
+    "returned": 0
+  }
+}

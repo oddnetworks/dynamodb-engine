@@ -1,0 +1,329 @@
+{
+  "id": 1009535,
+  "name": "Red Skull",
+  "description": "",
+  "modified": "2013-10-17T15:12:19-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/526036550cd37",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+  "comics": {
+    "available": 106,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009535/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24371",
+        "name": "All Winners Comics 70th Anniversary Special (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12558",
+        "name": "All-Winners Comics (1941) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17546",
+        "name": "Avengers (1998) #60"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17555",
+        "name": "Avengers (1998) #69"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7270",
+        "name": "Avengers (1963) #386"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7271",
+        "name": "Avengers (1963) #387"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1098",
+        "name": "Avengers Vol. 1: World Trust (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1170",
+        "name": "Avengers Vol. 2: Red Zone (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1214",
+        "name": "Avengers Vol. II: Red Zone (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24549",
+        "name": "Avengers/Invaders (2008) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23975",
+        "name": "Avengers/Invaders (2008) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23974",
+        "name": "Avengers/Invaders (2008) #10 (BREITWEISER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29743",
+        "name": "Black Widow & the Marvel Girls (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16240",
+        "name": "Cap Transport (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16244",
+        "name": "Cap Transport (2005) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16247",
+        "name": "Cap Transport (2005) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16234",
+        "name": "Cap Transport (2005) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16235",
+        "name": "Cap Transport (2005) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16238",
+        "name": "Cap Transport (2005) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16241",
+        "name": "Cap Transport (2005) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 55,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009535/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7534",
+        "name": "All Winners Comics 70th Anniversary Special (2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2114",
+        "name": "All-Winners Comics (1941 - 1947)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+        "name": "Avengers (1998 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/158",
+        "name": "Avengers Vol. 1: World Trust (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/227",
+        "name": "Avengers Vol. 2: Red Zone (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/271",
+        "name": "Avengers Vol. II: Red Zone (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4864",
+        "name": "Avengers/Invaders (2008 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9120",
+        "name": "Black Widow & the Marvel Girls (2009 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2722",
+        "name": "Cap Transport (2005 - 2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1997",
+        "name": "Captain America (1998 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/485",
+        "name": "Captain America (2002 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+        "name": "Captain America (1968 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+        "name": "Captain America (2004 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1766",
+        "name": "Captain America and the Falcon: Nomad (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1459",
+        "name": "Captain America by Jack Kirby: Bicentennial Battles (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/197",
+        "name": "Captain America Vol. 2: The Extremists (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/12849",
+        "name": "Captain America Vs. the Red Skull (2010 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3752",
+        "name": "Captain America's Bicentennial Battles (1976)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8213",
+        "name": "Captain America: Reborn (2009 - 2010)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 98,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009535/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4228",
+        "name": "Interior #4228",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4230",
+        "name": "2 of 8 - Out of Time",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4236",
+        "name": "5 of 8 - Out of Time",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4258",
+        "name": "1 of 3 -",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4264",
+        "name": "1 of",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4266",
+        "name": "Interior #4266",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4268",
+        "name": "3 of ? - Twenty-first Century Blitz",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4270",
+        "name": "4 of ? - Twenty-first Century Blitz",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4276",
+        "name": "3 of 3 - Civil War",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7702",
+        "name": "2 of 6 - Death of the Dream",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7703",
+        "name": "2 of 6 - Death of the Dream",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9007",
+        "name": "[untitled]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9076",
+        "name": "The Four Trials of Justice",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11873",
+        "name": "Cover #11873",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11875",
+        "name": "The Fantastic Origin of the Red Skull",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11878",
+        "name": "Lest Tyranny Triumph!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11881",
+        "name": "The Sentinel and the Spy!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11899",
+        "name": "The Sleeper Shall Awake!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11928",
+        "name": "Cover #11928",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11930",
+        "name": "He Who Holds the Cosmic Cube",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009535/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      }
+    ],
+    "returned": 4
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1901/red_skull?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Red_Skull_%28Johann_Shmidt%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009535/red_skull?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

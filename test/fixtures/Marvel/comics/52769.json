@@ -1,0 +1,109 @@
+{
+  "id": 52769,
+  "digitalId": 0,
+  "title": "The Marvel Legacy of Jack Kirby (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Jack Kirby earned the nickname “King” over 50 plus years in comics, from co-creating Captain America to the Fantastic Four to Devil Dinosaur. In addition, Jack’s explosive layouts, high drama and fantastic imagination helped evolve the art form in ways few others can claim. Now, the House of Ideas explores that work in THE MARVEL LEGACY OF JACK KIRBY HC. In essays and commentary, this deluxe, oversized volume reviews the comics, the influence and the times of Kirby, and puts a special focus on the month that changed everything, November 1961. Don’t ask — just buy!!! ",
+  "modified": "2015-10-06T10:45:23-0400",
+  "isbn": "978-0-7851-9793-5",
+  "upc": "",
+  "diamondCode": "APR150904",
+  "ean": "9780785 197935 54999",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 1,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Jack Kirby earned the nickname “King” over 50 plus years in comics, from co-creating Captain America to the Fantastic Four to Devil Dinosaur. In addition, Jack’s explosive layouts, high drama and fantastic imagination helped evolve the art form in ways few others can claim. Now, the House of Ideas explores that work in THE MARVEL LEGACY OF JACK KIRBY HC. In essays and commentary, this deluxe, oversized volume reviews the comics, the influence and the times of Kirby, and puts a special focus on the month that changed everything, November 1961. Don’t ask — just buy!!! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52769",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52769/the_marvel_legacy_of_jack_kirby_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19746",
+    "name": "The Marvel Legacy of Jack Kirby (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-07T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-18T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 49.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5613dd75ebce3",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5613dd75ebce3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52769/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10363",
+        "name": "John Rhett Thomas",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52769/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52769/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117115",
+        "name": "cover from The Marvel Legacy of Jack Kirby (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117116",
+        "name": "story from The Marvel Legacy of Jack Kirby (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52769/events",
+    "items": [],
+    "returned": 0
+  }
+}

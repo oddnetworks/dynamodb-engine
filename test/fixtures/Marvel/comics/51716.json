@@ -1,0 +1,136 @@
+{
+  "id": 51716,
+  "digitalId": 0,
+  "title": "Deadpool's Secret Secret Wars (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "You guys understand this is NOT A SECRET WARS TIE-IN, right? It's nothing less than the TRUTH that THEY DON'T WANT YOU TO KNOW! THIS is how the ORIGINAL SECRET WARS really ended! YOU WILL NOT BELIEVE IT! Which is your right.",
+  "modified": "2015-06-19T12:36:27-0400",
+  "isbn": "",
+  "upc": "759606082101000411",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "You guys understand this is NOT A SECRET WARS TIE-IN, right? It's nothing less than the TRUTH that THEY DON'T WANT YOU TO KNOW! THIS is how the ORIGINAL SECRET WARS really ended! YOU WILL NOT BELIEVE IT! Which is your right."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51716",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51716/deadpools_secret_secret_wars_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Deadpool-s-Secret-Secret-Wars-4/digital-comic/39761?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19390",
+    "name": "Deadpool's Secret Secret Wars (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-26T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-12T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/55d51278625bd",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/55d51278625bd",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/55d3a6452b22e",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/558445c0258a3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51716/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/460",
+        "name": "Tony Harris",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9081",
+        "name": "Matteo Lolli",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+        "name": "Jordan White",
+        "role": "editor"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51716/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51716/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115009",
+        "name": "cover from Deadpool's Secret Secret Wars (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115010",
+        "name": "story from Deadpool's Secret Secret Wars (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51716/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

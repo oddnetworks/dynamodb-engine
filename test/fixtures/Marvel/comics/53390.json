@@ -1,0 +1,147 @@
+{
+  "id": 53390,
+  "digitalId": 38765,
+  "title": "Daredevil (2014) #15.1",
+  "issueNumber": 15.1,
+  "variantDescription": "",
+  "description": "- The life and times of Daredevil. 50 years in the making!",
+  "modified": "2015-05-14T13:07:38-0400",
+  "isbn": "",
+  "upc": "75960608257500121",
+  "diamondCode": "FEB150783",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- The life and times of Daredevil. 50 years in the making!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53390",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53390/daredevil_2014_15.1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Daredevil-15-1/digital-comic/38765?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38765&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "inAppLink",
+      "url": "http://applink.marvel.com/issue/38765?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18457",
+    "name": "Daredevil (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-20T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-06T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-16T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-20T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    },
+    {
+      "type": "digitalPurchasePrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5554d3b880977",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/5554d3b880977",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/54b9406f9fa84",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53390/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+        "name": "Marc Guggenheim",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12504",
+        "name": "Peter Krause",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+        "name": "Chris Samnee",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53390/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53390/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118145",
+        "name": "cover from Daredevil (2014) #15.1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118146",
+        "name": "story from Daredevil (2014) #15.1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53390/events",
+    "items": [],
+    "returned": 0
+  }
+}

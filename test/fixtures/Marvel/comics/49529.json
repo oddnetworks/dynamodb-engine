@@ -1,0 +1,129 @@
+{
+  "id": 49529,
+  "digitalId": 38816,
+  "title": "Spider-Woman (2014) #8",
+  "issueNumber": 8,
+  "variantDescription": "",
+  "description": "- A knockdown drag-out bout between Spider-Woman and a dangerous new foe â€\" LADY CATERPILLAR!   - AND Spider-Woman's first joint-investigation with Ben Urich comes to a close! ",
+  "modified": "2015-12-07T14:42:32-0500",
+  "isbn": "",
+  "upc": "75960608033500811",
+  "diamondCode": "APR150876",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- A knockdown drag-out bout between Spider-Woman and a dangerous new foe â€\" LADY CATERPILLAR!   - AND Spider-Woman's first joint-investigation with Ben Urich comes to a close! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/49529",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/49529/spider-woman_2014_8?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Spider-Woman-8/digital-comic/38816?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38816&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18894",
+    "name": "Spider-Woman (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-20T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-07T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-29T09:41:51-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5665e118d3a72",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5665e118d3a72",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5568c59a84582",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49529/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1117",
+        "name": "Javier Rodriguez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49529/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49529/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111136",
+        "name": "cover from new series (2014) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111137",
+        "name": "story from new series (2014) #8",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49529/events",
+    "items": [],
+    "returned": 0
+  }
+}

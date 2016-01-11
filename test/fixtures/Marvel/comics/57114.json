@@ -1,0 +1,114 @@
+{
+  "id": 57114,
+  "digitalId": 0,
+  "title": "Secret Wars: Agents of Atlas (2015) #1 (Wilson Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Wilson Variant",
+  "description": "SON OF ANARCHY!\n• An oppressive domain run by BARON ZEMO!\n• The peoples’ only hope? An underground group of rebels… GORILLA-MAN! M-11! NAMORA! VENUS! MARVEL BOY!\n• But their leader JIMMY WOO…captured!\nCan AGENT COULSON help save the resistance or will he lead them to their doom?\n",
+  "modified": "2015-10-16T11:44:14-0400",
+  "isbn": "",
+  "upc": "75960608328200121",
+  "diamondCode": "AUG150663",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "SON OF ANARCHY!\n• An oppressive domain run by BARON ZEMO!\n• The peoples’ only hope? An underground group of rebels… GORILLA-MAN! M-11! NAMORA! VENUS! MARVEL BOY!\n• But their leader JIMMY WOO…captured!\nCan AGENT COULSON help save the resistance or will he lead them to their doom?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57114",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57114/secret_wars_agents_of_atlas_2015_1_wilson_variant/wilson_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20550",
+    "name": "Secret Wars: Agents of Atlas (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55847",
+      "name": "Secret Wars: Agents of Atlas (2015) #1"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-21T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-07T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5605613da674f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5605613da674f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57114/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4999",
+        "name": "Steve Pugh",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12447",
+        "name": "Tom Taylor",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57114/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57114/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125045",
+        "name": "cover from Secret Wars: Agents of Atlas (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125046",
+        "name": "story from Secret Wars: Agents of Atlas (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57114/events",
+    "items": [],
+    "returned": 0
+  }
+}

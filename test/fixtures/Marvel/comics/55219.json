@@ -1,0 +1,119 @@
+{
+  "id": 55219,
+  "digitalId": 0,
+  "title": "X-Tinction Agenda (2015) #2 (ANKA VARIANT)",
+  "issueNumber": 2,
+  "variantDescription": "ANKA VARIANT",
+  "description": "- The Secret Wars sequel to the landmark inaugural X-Crossover continues!  \n- In desperate need of a cure for their people, Havok, Wolfsbane and the Press Gang have invaded X-City.\n- As old friends become new enemies, the war to save Genosha from extinction is on!\n",
+  "modified": "2015-06-30T12:24:58-0400",
+  "isbn": "",
+  "upc": "75960608243800221",
+  "diamondCode": "MAY150739",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- The Secret Wars sequel to the landmark inaugural X-Crossover continues!  \n- In desperate need of a cure for their people, Havok, Wolfsbane and the Press Gang have invaded X-City.\n- As old friends become new enemies, the war to save Genosha from extinction is on!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55219",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55219/x-tinction_agenda_2015_2_anka_variant/anka_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19813",
+    "name": "X-Tinction Agenda (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52965",
+      "name": "X-Tinction Agenda (2015) #2"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-01T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-17T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/5592c1539699e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/5592c1539699e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+        "name": "Kris Anka",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12500",
+        "name": "Carmine DiGiandomenico",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+        "name": "Marc Guggenheim",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121530",
+        "name": "cover from X-Tinction Agenda (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121531",
+        "name": "story from X-Tinction Agenda (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55219/events",
+    "items": [],
+    "returned": 0
+  }
+}

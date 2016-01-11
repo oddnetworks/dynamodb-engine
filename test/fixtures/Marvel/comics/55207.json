@@ -1,0 +1,119 @@
+{
+  "id": 55207,
+  "digitalId": 0,
+  "title": "Inferno (2015) #3 (Doe Variant)",
+  "issueNumber": 3,
+  "variantDescription": "Doe Variant",
+  "description": "- What has Illyana done to Nightcrawler (and can we get the action figure)?\n- Can Colossus really trust the Goblin Queen?\n- Where did that weird little demon's master go and what do they want with Boom Boom?\n- Kindergarten Cable? Seriously?\n- These questions and more will be answered in our hellacious third issue.\n",
+  "modified": "2015-07-06T10:51:05-0400",
+  "isbn": "",
+  "upc": "75960608219300321",
+  "diamondCode": "MAY150754",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- What has Illyana done to Nightcrawler (and can we get the action figure)?\n- Can Colossus really trust the Goblin Queen?\n- Where did that weird little demon's master go and what do they want with Boom Boom?\n- Kindergarten Cable? Seriously?\n- These questions and more will be answered in our hellacious third issue.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55207",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55207/inferno_2015_3_doe_variant/doe_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19470",
+    "name": "Inferno (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51973",
+      "name": "Inferno (2015) #3"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-24T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/559a9520ab3ab",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/559a9520ab3ab",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55207/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1054",
+        "name": "Juan Doe",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+        "name": "Javier Garron",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55207/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55207/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121506",
+        "name": "cover from Inferno (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121507",
+        "name": "story from Inferno (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55207/events",
+    "items": [],
+    "returned": 0
+  }
+}

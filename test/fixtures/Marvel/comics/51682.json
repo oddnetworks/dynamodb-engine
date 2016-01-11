@@ -1,0 +1,123 @@
+{
+  "id": 51682,
+  "digitalId": 0,
+  "title": "Darth Vader (2015) #14",
+  "issueNumber": 14,
+  "variantDescription": "",
+  "description": "Han & Luke take on Vader’s forces...and more? Meanwhile...Leia makes a hard decision. Marvel’s first Star Wars event continues here!",
+  "modified": "2015-12-18T12:05:27-0500",
+  "isbn": "",
+  "upc": "759606081241001411",
+  "diamondCode": "OCT150943",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Han & Luke take on Vader’s forces...and more? Meanwhile...Leia makes a hard decision. Marvel’s first Star Wars event continues here!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51682",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51682/darth_vader_2015_14?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Darth-Vader-14/digital-comic/40721?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19379",
+    "name": "Darth Vader (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-23T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-08T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/56743c1fa4ffc",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/56743c1fa4ffc",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114941",
+        "name": "cover from Darth Vader (2015) #14",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114942",
+        "name": "story from Darth Vader (2015) #14",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51682/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/327",
+        "name": "Star Wars"
+      }
+    ],
+    "returned": 1
+  }
+}

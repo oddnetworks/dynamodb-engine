@@ -1,0 +1,321 @@
+{
+  "id": 1009379,
+  "name": "Rick Jones",
+  "description": "",
+  "modified": "2013-11-01T16:41:20-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/5274112b036ff",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009379",
+  "comics": {
+    "available": 34,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009379/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37281",
+        "name": "Alias (2003) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37282",
+        "name": "Alias (2003) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37283",
+        "name": "Alias (2003) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37255",
+        "name": "Alias Omnibus (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17490",
+        "name": "Avengers (1998) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17523",
+        "name": "Avengers (1998) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17508",
+        "name": "Avengers (1998) #26"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17532",
+        "name": "Avengers (1998) #48"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7352",
+        "name": "Avengers (1963) #98"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1311",
+        "name": "Avengers Assemble (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4461",
+        "name": "Avengers Assemble Vol. 3 (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1038",
+        "name": "Avengers: The Kang Dynasty (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6152",
+        "name": "Captain America (2004) #26"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7491",
+        "name": "Captain America (1968) #110"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21424",
+        "name": "Captain America: The Death of Captain America Vol. 1 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17325",
+        "name": "Captain America: The Death of Captain America Vol. 1 Premiere (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16088",
+        "name": "Hulk: Future Imperfect (1992) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16089",
+        "name": "Hulk: Future Imperfect (1992) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17696",
+        "name": "Hulk: The End (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17694",
+        "name": "Hulk: The End Premiere (Hardcover)"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009379/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/672",
+        "name": "Alias (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13383",
+        "name": "Alias Omnibus (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+        "name": "Avengers (1998 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+        "name": "Avengers Assemble (2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1737",
+        "name": "Avengers Assemble Vol. 3 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/98",
+        "name": "Avengers: The Kang Dynasty (2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+        "name": "Captain America (1968 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+        "name": "Captain America (2004 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5061",
+        "name": "Captain America: The Death of Captain America Vol. 1 (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3127",
+        "name": "Captain America: The Death of Captain America Vol. 1 Premiere (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2582",
+        "name": "Hulk: Future Imperfect (1992 - 1993)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3463",
+        "name": "Hulk: The End (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3461",
+        "name": "Hulk: The End Premiere (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+        "name": "Incredible Hulk (1962 - 1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2983",
+        "name": "Incredible Hulk Annual (1968 - 1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/8842",
+        "name": "Incredible Hulks (2009 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2039",
+        "name": "Marvel Comics Presents (1988 - 1995)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1696",
+        "name": "Marvel Comics Presents: Wolverine Vol. 3 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1683",
+        "name": "Marvel Masterworks: Ant-Man/Giant-Man Vol. (2006)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 29,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009379/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7703",
+        "name": "2 of 6 - Death of the Dream",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12283",
+        "name": "Trapped in the Lair of the Leader!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15267",
+        "name": "Let Slip the Dogs of War",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17474",
+        "name": "Cover #17474",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18807",
+        "name": "Cover #18807",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23402",
+        "name": "Last Resort",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32831",
+        "name": "Part 1 of 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32833",
+        "name": "Part 2 of 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35352",
+        "name": "Hero Worship",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35365",
+        "name": "You're Invited!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37337",
+        "name": "Cover #37337",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37338",
+        "name": "Once an Avenger...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37374",
+        "name": "...Under Cover of Night!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37408",
+        "name": "Cover #37408",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37429",
+        "name": "Let Slip The Dogs of War!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37430",
+        "name": "--They First Make Mad!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37431",
+        "name": "\"Whatever Gods There Be!\"",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37765",
+        "name": "The Invasion of the Lava Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37774",
+        "name": "Masters of Evil",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69703",
+        "name": "Interior #69703",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009379/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+        "name": "Chaos War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2702/rick_jones?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Jones%2C_Rick?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009379/rick_jones?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

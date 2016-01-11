@@ -1,0 +1,131 @@
+{
+  "id": 56930,
+  "digitalId": 0,
+  "title": "Howling Commandos of S.H.I.E.L.D. (2015) #1 (Santiago Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Santiago Hip-&#8203;Hop Variant",
+  "description": "Hidden deep beneath AREA 13 lies the clandestine headquarters of S.T.A.K.E.--a top secret division of S.H.I.E.L.D. housing aliens, mythical beasts, and all manner of extra-normal entities. Under the command of legendary soldier DUM DUM DUGAN, these monsters step out of the shadows and defend the world against supernatural threats too dangerous for normal men as THE ALL-NEW, ALL-DIFFERENT HOWLING COMMANDOS OF S.H.I.E.L.D.!",
+  "modified": "2015-10-19T16:52:17-0400",
+  "isbn": "",
+  "upc": "759606083511000171",
+  "diamondCode": "AUG150780",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Hidden deep beneath AREA 13 lies the clandestine headquarters of S.T.A.K.E.--a top secret division of S.H.I.E.L.D. housing aliens, mythical beasts, and all manner of extra-normal entities. Under the command of legendary soldier DUM DUM DUGAN, these monsters step out of the shadows and defend the world against supernatural threats too dangerous for normal men as THE ALL-NEW, ALL-DIFFERENT HOWLING COMMANDOS OF S.H.I.E.L.D.!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56930",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56930/howling_commandos_of_shield_2015_1_santiago_hip-8203hop_variant/santiago_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20815",
+    "name": "Howling Commandos of S.H.I.E.L.D. (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56925",
+      "name": "Howling Commandos of S.H.I.E.L.D. (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56927",
+      "name": "Howling Commandos of S.H.I.E.L.D. (2015) #1 (Shalvey Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56928",
+      "name": "Howling Commandos of S.H.I.E.L.D. (2015) #1 (Schoonover Design Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-28T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-14T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/55db8e24bdc1b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/560c0add363b4",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/55db8e24bdc1b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56930/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12459",
+        "name": "Frank Barbiere",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12752",
+        "name": "Brent Schoonover",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56930/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011295",
+        "name": "The Howling Commandos"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56930/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124677",
+        "name": "cover from Howling Commandos of S.H.I.E.L.D. (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124678",
+        "name": "story from Howling Commandos of S.H.I.E.L.D. (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56930/events",
+    "items": [],
+    "returned": 0
+  }
+}

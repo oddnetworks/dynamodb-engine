@@ -1,0 +1,109 @@
+{
+  "id": 51831,
+  "digitalId": 0,
+  "title": "Fantastic Four Vol. 4: The End Is Fourever (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The Internet-wrecking end of the Fantastic Four is here! As the hunt for Reed Richards and the missing Future Foundation kids continues, the mastermind behind everything unveils his ultimate plan - but how does young Franklin Richards factor in? The Quiet Man's invasion of Earth begins - using the creatures from the \"Franklinverse,\" as well as corrupted versions of the heroes from Heroes Reborn! Do the Fantastic Four have enough power to fight them on the streets of New York? Meanwhile, Sue, Namor and Jim Hammond travel to the Franklinverse to combat this threat at its source - but find a nightmare scenario! Will the Thing survive the twisted heroes' worldwide assault? Will Johnny get his powers back? Will Reed and Sue be a family again? And how does all of this add up to...the end? Collecting FANTASTIC FOUR (2014) #642-645 and material from MARVEL 75TH ANNIVERSARY CELEBRATION. ",
+  "modified": "2015-06-12T16:08:36-0400",
+  "isbn": "978-0-7851-9744-7",
+  "upc": "",
+  "diamondCode": "MAR150805",
+  "ean": "9780785 197447 51599",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 128,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The Internet-wrecking end of the Fantastic Four is here! As the hunt for Reed Richards and the missing Future Foundation kids continues, the mastermind behind everything unveils his ultimate plan - but how does young Franklin Richards factor in? The Quiet Man's invasion of Earth begins - using the creatures from the \"Franklinverse,\" as well as corrupted versions of the heroes from Heroes Reborn! Do the Fantastic Four have enough power to fight them on the streets of New York? Meanwhile, Sue, Namor and Jim Hammond travel to the Franklinverse to combat this threat at its source - but find a nightmare scenario! Will the Thing survive the twisted heroes' worldwide assault? Will Johnny get his powers back? Will Reed and Sue be a family again? And how does all of this add up to...the end? Collecting FANTASTIC FOUR (2014) #642-645 and material from MARVEL 75TH ANNIVERSARY CELEBRATION. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51831",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51831/fantastic_four_vol_4_the_end_is_fourever_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19424",
+    "name": "Fantastic Four Vol. 4: The End Is Fourever (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-02T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 15.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/557b3b7718316",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/557b3b7718316",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51831/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+        "name": "Leonard Kirk",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+        "name": "James Robinson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51831/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51831/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115239",
+        "name": "cover from Fantastic Four: The End Is Fourever (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115240",
+        "name": "story from Fantastic Four: The End Is Fourever (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51831/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": 56234,
+  "digitalId": 0,
+  "title": "All-New X-Men (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "Which is more stubborn: A teenage X-Man or a homicidal villain whose power is literally to render\nhimself immovable? Find out here, when the ALL-NEW X-MEN take on THE BLOB!",
+  "modified": "2016-01-08T14:17:27-0500",
+  "isbn": "",
+  "upc": "75960608342800511",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Which is more stubborn: A teenage X-Man or a homicidal villain whose power is literally to render\nhimself immovable? Find out here, when the ALL-NEW X-MEN take on THE BLOB!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56234",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56234/all-new_x-men_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20622",
+    "name": "All-New X-Men (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-02-24T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-02-10T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56900b85adf2e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/56900b85adf2e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56234/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56234/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56234/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123431",
+        "name": "cover from X-Supremacy (2015) #5",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56234/events",
+    "items": [],
+    "returned": 0
+  }
+}

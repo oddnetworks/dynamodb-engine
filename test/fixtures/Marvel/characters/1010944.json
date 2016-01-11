@@ -1,0 +1,118 @@
+{
+  "id": 1010944,
+  "name": "Magneto (Age of Apocalypse)",
+  "description": "",
+  "modified": "2014-03-05T13:40:56-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/53176f5026364",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010944",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010944/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38523",
+        "name": "Age of X: Universe (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32578",
+        "name": "Uncanny X-Force (2010) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40102",
+        "name": "Uncanny X-Force (2010) #12 (Kubert Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40018",
+        "name": "Uncanny X-Force (2010) #12 (I Am Captain America Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12370",
+        "name": "X-Men: Omega (1995) #1"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010944/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13896",
+        "name": "Age of X: Universe (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9976",
+        "name": "Uncanny X-Force (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2101",
+        "name": "X-Men: Omega (1995)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010944/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67135",
+        "name": "X-MEN: OMEGA 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73562",
+        "name": "Interior #73562",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84589",
+        "name": "Cover #84589",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90807",
+        "name": "Interior #90807",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90993",
+        "name": "Interior #90993",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010944/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/303",
+        "name": "Age of X"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/35/magneto?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Magneto_%28Age_of_Apocalypse%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010944/magneto_age_of_apocalypse?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

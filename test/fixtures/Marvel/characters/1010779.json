@@ -1,0 +1,112 @@
+{
+  "id": 1010779,
+  "name": "Pete Wisdom",
+  "description": "Pete Wisdom is a former agent of the British intelligence agency Black Air, which was charged with the observation of, and interaction with, extranormal activity, and he was the agency's liaison with the British superhero group Excalibur, whom he eventually aided in exposing Black Air's subversive criminal activities.",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/4c003740c9027",
+    "extension": "png"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010779",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010779/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3056",
+        "name": "New Excalibur (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5085",
+        "name": "New Excalibur (2005) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15838",
+        "name": "New Excalibur (2005) #21"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4417",
+        "name": "New Excalibur Vol. 1: Defenders of the Realm (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6132",
+        "name": "New Excalibur Vol. 2: Last Days of Camelot (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17960",
+        "name": "X-Force (1991) #115"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010779/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/935",
+        "name": "New Excalibur (2005 - 2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1549",
+        "name": "New Excalibur Vol. 1: Defenders of the Realm (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1897",
+        "name": "New Excalibur Vol. 2: Last Days of Camelot (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+        "name": "X-Force (1991 - 2004)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010779/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5142",
+        "name": "1 of 3 TBA",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5162",
+        "name": "3 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32337",
+        "name": "4 of 7 - Battle of Britains",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38197",
+        "name": "Epitaph Part 2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010779/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2825/pete_wisdom?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Wisdom%2C_Peter?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010779/pete_wisdom?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

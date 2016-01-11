@@ -1,0 +1,132 @@
+{
+  "id": 51205,
+  "digitalId": 0,
+  "title": "A-Force (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "She-Hulk has violated the most sacred rule of Battleworld...and now A-Force is on the run from the planet's protectors: The Thor Corps! And while trying to prove her innocence, She-Hulk discovers that one of her own may have engineered her downfall...",
+  "modified": "2015-07-21T11:41:15-0400",
+  "isbn": "",
+  "upc": "75960608201800311",
+  "diamondCode": "MAY150718",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "She-Hulk has violated the most sacred rule of Battleworld...and now A-Force is on the run from the planet's protectors: The Thor Corps! And while trying to prove her innocence, She-Hulk discovers that one of her own may have engineered her downfall..."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51205",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51205/a-force_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/A-Force-3/digital-comic/39670?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19245",
+    "name": "A-Force (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-12T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-29T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/55c5179272636",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/55c5179272636",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/5575a08f86c60",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51205/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+        "name": "Marguerite Bennett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+        "name": "Jorge Molina",
+        "role": "penciller"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51205/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51205/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113987",
+        "name": "cover from A-Force (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113988",
+        "name": "story from A-Force (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51205/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 1010911,
+  "name": "Black Widow (Ultimate)",
+  "description": "",
+  "modified": "2014-03-05T13:19:36-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/53176a690b261",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010911",
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010911/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15773",
+        "name": "Ultimate Marvel Team-Up (2001) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5132",
+        "name": "Ultimate Marvel Team-Up Ultimate Collection (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18474",
+        "name": "Ultimate War (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18476",
+        "name": "Ultimate War (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18477",
+        "name": "Ultimate War (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2476",
+        "name": "Ultimate X-Men (2000) #64"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3507",
+        "name": "Ultimate X-Men Vol. 13: Magnetic North (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1158",
+        "name": "Ultimate X-Men Vol. 5: Ultimate War (Trade Paperback)"
+      }
+    ],
+    "returned": 8
+  },
+  "series": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010911/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2311",
+        "name": "Ultimate Marvel Team-Up (2001 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1823",
+        "name": "Ultimate Marvel Team-Up Ultimate Collection (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3659",
+        "name": "Ultimate War (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/474",
+        "name": "Ultimate X-Men (2000 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1607",
+        "name": "Ultimate X-Men Vol. 13: Magnetic North (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/216",
+        "name": "Ultimate X-Men Vol. 5: Ultimate War (1999)"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010911/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1460",
+        "name": "4 of 5 - Magnetic North",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32095",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32096",
+        "name": "[untitled]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39348",
+        "name": "Interior #39348",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39354",
+        "name": "Interior #39354",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39357",
+        "name": "Interior #39357",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010911/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/6/black_widow?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Black_Widow_(Ultimate)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010911/black_widow_ultimate?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

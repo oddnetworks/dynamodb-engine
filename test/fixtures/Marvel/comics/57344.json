@@ -1,0 +1,153 @@
+{
+  "id": 57344,
+  "digitalId": 0,
+  "title": "Weirdworld (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "From the pages of Secret Wars, now in the All-New Marvel U! Imagine being trapped in a world of sword and sorcery…with no sword and sorcery experience to speak of. This is the story of Becca, a girl stuck in Weirdworld, with only one mission: get home alive! Marvel's own twisted fantasy realm comes alive before your eyes! Barbarians! Wizards! And tricked out sports cars!",
+  "modified": "2015-12-15T10:24:57-0500",
+  "isbn": "",
+  "upc": "75960608416600111",
+  "diamondCode": "OCT150793",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "From the pages of Secret Wars, now in the All-New Marvel U! Imagine being trapped in a world of sword and sorcery…with no sword and sorcery experience to speak of. This is the story of Becca, a girl stuck in Weirdworld, with only one mission: get home alive! Marvel's own twisted fantasy realm comes alive before your eyes! Barbarians! Wizards! And tricked out sports cars!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57344",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57344/weirdworld_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Weirdworld-1/digital-comic/40696?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20903",
+    "name": "Weirdworld (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-16T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-01T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5654dbb79a780",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/5669dd73c089e",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5669da4d564f1",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/5669da1692e30",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/5669d9c52915d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5669d875b754e",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/5654dbb79a780",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5644cd569c0ef",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/5644cd2e6beac",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5644ccc290c32",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/5644cc16c2af0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/55e714250cd8e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57344/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+        "name": "Mike Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11530",
+        "name": "Sam Humphries",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57344/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57344/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125505",
+        "name": "cover from Weirdworld (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125506",
+        "name": "story from Weirdworld (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57344/events",
+    "items": [],
+    "returned": 0
+  }
+}

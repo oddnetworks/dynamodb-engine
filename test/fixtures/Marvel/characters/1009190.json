@@ -1,0 +1,100 @@
+{
+  "id": 1009190,
+  "name": "Blackheart",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/4c0040a0ee5ba",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009190",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009190/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8263",
+        "name": "Daredevil (1964) #270"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36560",
+        "name": "Journey Into Mystery (2011) #627"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18043",
+        "name": "X-Force (1991) #74"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18069",
+        "name": "X-Force (1991) #98"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009190/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2002",
+        "name": "Daredevil (1964 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14764",
+        "name": "Journey Into Mystery (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+        "name": "X-Force (1991 - 2004)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009190/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/16101",
+        "name": "Introducing--The Macabre Menace of Blackheart !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38372",
+        "name": "Afterlife",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38430",
+        "name": "Temptation",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81145",
+        "name": "Interior #81145",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009190/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/289/blackheart?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Blackheart?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009190/blackheart?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": 52664,
+  "digitalId": 0,
+  "title": "Star Wars (2015) #13",
+  "issueNumber": 13,
+  "variantDescription": "",
+  "description": "• Bringing together the smash-hit Star Wars and Darth Vader series!\n• Leia comes face to face with true evil!\n",
+  "modified": "2015-12-01T11:11:29-0500",
+  "isbn": "",
+  "upc": "75960608113401311",
+  "diamondCode": "SEP150832",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Bringing together the smash-hit Star Wars and Darth Vader series!\n• Leia comes face to face with true evil!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52664",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52664/star_wars_2015_13?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Star-Wars-13/digital-comic/40638?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19242",
+    "name": "Star Wars (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5655d6e20939b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5655d6e20939b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52664/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+        "name": "Jason Aaron",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52664/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52664/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116905",
+        "name": "cover from Star Wars (2015) #13",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116906",
+        "name": "story from Star Wars (2015) #13",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52664/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/327",
+        "name": "Star Wars"
+      }
+    ],
+    "returned": 1
+  }
+}

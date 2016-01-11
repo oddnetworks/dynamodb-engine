@@ -1,0 +1,49 @@
+{
+  "id": 1011019,
+  "name": "Molecule Man",
+  "description": "",
+  "modified": "2013-11-20T17:15:03-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/528d33c2a72b2",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011019",
+  "comics": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011019/comics",
+    "items": [],
+    "returned": 0
+  },
+  "series": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011019/series",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011019/stories",
+    "items": [],
+    "returned": 0
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011019/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1485/molecule_man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Molecule_Man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011019/molecule_man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": 53572,
+  "digitalId": 0,
+  "title": "Spider-Verse (2015) #1 (Rodriguez Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Rodriguez Variant",
+  "description": "- Spinning out of the SPIDER-VERSE event, a team of Spiders finds themselves face-to-face with Battleworld! Starring SPIDER-GWEN, SPIDER-MAN NOIR, SPIDER-MAN: INDIA, MAYDAY PARKER, SPIDER-UK and SPIDER-HAM! ",
+  "modified": "2015-05-18T11:36:50-0400",
+  "isbn": "",
+  "upc": "75960608240700121",
+  "diamondCode": "MAR150677",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- Spinning out of the SPIDER-VERSE event, a team of Spiders finds themselves face-to-face with Battleworld! Starring SPIDER-GWEN, SPIDER-MAN NOIR, SPIDER-MAN: INDIA, MAYDAY PARKER, SPIDER-UK and SPIDER-HAM! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53572",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53572/spider-verse_2015_1_rodriguez_variant/rodriguez_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19685",
+    "name": "Spider-Verse (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52575",
+      "name": "Spider-Verse (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55975",
+      "name": "Spider-Verse (2015) #1 (Mayhew Hastings Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-20T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-06T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/555a0183b4c16",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/555a0183b4c16",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/553815fa635f8",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/54dccbbb389d9",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53572/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12297",
+        "name": "Andre Araujo",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12452",
+        "name": "Mike Costa",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12399",
+        "name": "Robbi Rodriguez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53572/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53572/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118419",
+        "name": "cover from Spider-Verse (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118420",
+        "name": "story from Spider-Verse (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53572/events",
+    "items": [],
+    "returned": 0
+  }
+}

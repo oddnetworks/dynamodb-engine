@@ -1,0 +1,104 @@
+{
+  "id": 52709,
+  "digitalId": 0,
+  "title": "Star Wars: The Original Marvel Years (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The very first STAR WARS comic-book series continues! After the events of THE EMPIRE STRIKES BACK, loveable rogue Han Solo is lost, frozen in carbonite. But as the search for Solo begins, Imperial Forces and other troubles keep getting in the way. Princess Leia clashes with Darth Vader! Luke Skywalker goes on trial for treason! C-3PO and R2-D2 face danger on a droid moon! Lando Calrissian finds Cloud City deserted! If the Crimson Forever doesn't get the rebels, maybe the new Imperial super-weapon will! And a new member joins the gang, with a crush on a certain handsome Jedi! Meanwhile, the discovery of a gold statue of Han reveals a hidden story from his and Chewbacca's past. And who are the Hoojibs? It's Star Wars in the Mighty Marvel Manner! Collecting STAR WARS (1977) #45-78 and ANNUAL #2.",
+  "modified": "2015-06-01T15:39:58-0400",
+  "isbn": "978-0-7851-9343-2",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "9780785 193432 59999",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 848,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The very first STAR WARS comic-book series continues! After the events of THE EMPIRE STRIKES BACK, loveable rogue Han Solo is lost, frozen in carbonite. But as the search for Solo begins, Imperial Forces and other troubles keep getting in the way. Princess Leia clashes with Darth Vader! Luke Skywalker goes on trial for treason! C-3PO and R2-D2 face danger on a droid moon! Lando Calrissian finds Cloud City deserted! If the Crimson Forever doesn't get the rebels, maybe the new Imperial super-weapon will! And a new member joins the gang, with a crush on a certain handsome Jedi! Meanwhile, the discovery of a gold statue of Han reveals a hidden story from his and Chewbacca's past. And who are the Hoojibs? It's Star Wars in the Mighty Marvel Manner! Collecting STAR WARS (1977) #45-78 and ANNUAL #2."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52709",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52709/star_wars_the_original_marvel_years_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19721",
+    "name": "Star Wars: The Original Marvel Years (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-19T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 125
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/556cb23e5498b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/556cb23e5498b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52709/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4985",
+        "name": "Greg Hildebrandt",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52709/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52709/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116995",
+        "name": "cover from Star Wars: The Original Marvel Years (2015) (HILDEBRANDT COVER)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116996",
+        "name": "story from Star Wars: The Original Marvel Years (2015) (HILDEBRANDT COVER)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52709/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id": 49460,
+  "digitalId": 0,
+  "title": "Hawkeye Vol. 2 (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Matt Fraction and David Aja’s Eisner Award-winning reinvention of the arrowed Avenger concludes! Kate Bishop heads to Los Angeles to get away from New York and Clint Barton — but she can’t escape trouble, because Madame Masque is hanging out poolside! As Kate helps a reclusive artist find his lost masterpiece, Madame Masque finds Kate. By which we mean tries to kill her again. Meanwhile, back in New York, Hawkeye is reeling from recent events. And just when Clint’s rock bottom couldn’t arrive fast enough, his brother shows up. After a lifetime of bad decisions, Clint and Barney Barton realize they’ll have to save one another — if they don’t kill each other first. And when Clown and the Tracksuit Draculas lay siege to their building, it doesn’t go well! Read this book, bro! Collecting HAWKEYE (2012) #12-22 and ANNUAL #1. ",
+  "modified": "2015-12-07T15:53:47-0500",
+  "isbn": "978-0-7851-5461-7",
+  "upc": "",
+  "diamondCode": "APR150916",
+  "ean": "9780785 154617 53499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 280,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Matt Fraction and David Aja’s Eisner Award-winning reinvention of the arrowed Avenger concludes! Kate Bishop heads to Los Angeles to get away from New York and Clint Barton — but she can’t escape trouble, because Madame Masque is hanging out poolside! As Kate helps a reclusive artist find his lost masterpiece, Madame Masque finds Kate. By which we mean tries to kill her again. Meanwhile, back in New York, Hawkeye is reeling from recent events. And just when Clint’s rock bottom couldn’t arrive fast enough, his brother shows up. After a lifetime of bad decisions, Clint and Barney Barton realize they’ll have to save one another — if they don’t kill each other first. And when Clown and the Tracksuit Draculas lay siege to their building, it doesn’t go well! Read this book, bro! Collecting HAWKEYE (2012) #12-22 and ANNUAL #1. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/49460",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/49460/hawkeye_vol_2_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18607",
+    "name": "Hawkeye Vol. 2 (2014)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-20T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 34.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5665f2087ecf2",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/5665f2087ecf2",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49460/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+        "name": "David Aja",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11886",
+        "name": "Francesco Francavilla",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2985",
+        "name": "Javier Pulido",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12136",
+        "name": "Annie Wu",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+        "name": "Matt Fraction",
+        "role": "writer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49460/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49460/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110997",
+        "name": "cover from Hawkeye (2014)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110998",
+        "name": "story from Hawkeye (2014)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49460/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": 54829,
+  "digitalId": 0,
+  "title": "Avengers (2012) #44 (Cheung Final Issue Variant)",
+  "issueNumber": 44,
+  "variantDescription": "Cheung Final Issue Variant",
+  "description": "FINAL ISSUE! ",
+  "modified": "2015-04-21T12:37:52-0400",
+  "isbn": "",
+  "upc": "75960607902504451",
+  "diamondCode": "JAN158251",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 56,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "FINAL ISSUE! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/54829",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/54829/avengers_2012_44_cheung_final_issue_variant/cheung_final_issue_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/16452",
+    "name": "Avengers (2012 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/48398",
+      "name": "Avengers (2012) #44"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51415",
+      "name": "Avengers (2012) #44 (Au Movie Connecting Variant a)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53343",
+      "name": "Avengers (2012) #44 (Harris Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53344",
+      "name": "Avengers (2012) #44 (Cheung End of an Era Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-15T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/55367c464f68b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/55367c464f68b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54829/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54829/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54829/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120875",
+        "name": "cover from Avengers (2012) #44 (TBD ARTIST FINAL ISSUE VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120876",
+        "name": "story from Avengers (2012) #44 (TBD ARTIST FINAL ISSUE VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54829/events",
+    "items": [],
+    "returned": 0
+  }
+}

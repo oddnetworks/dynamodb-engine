@@ -1,0 +1,139 @@
+{
+  "id": 52010,
+  "digitalId": 38159,
+  "title": "Kanan (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "His master betrayed and killed, young Caleb Dume is alone. When being a Jedi makes him a target, what can a Padawan do? Continuing the story of the birth of Star Wars Rebels' Kanan Jarrus! ",
+  "modified": "2015-05-04T14:49:36-0400",
+  "isbn": "",
+  "upc": "75960608158500211",
+  "diamondCode": "MAR150685",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "His master betrayed and killed, young Caleb Dume is alone. When being a Jedi makes him a target, what can a Padawan do? Continuing the story of the birth of Star Wars Rebels' Kanan Jarrus! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52010",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52010/kanan_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Kanan-The-Last-Padawan-2/digital-comic/38159?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38159&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19486",
+    "name": "Kanan (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-06T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-22T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-02T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-01T13:38:13-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/5536b3dc21d00",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/5536b3dc21d00",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/54f71d1e2dce1",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52010/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+        "name": "Pepe Larraz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10174",
+        "name": "Greg Weisman",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52010/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52010/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115597",
+        "name": "cover from Kanan - The Last Padawan (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115598",
+        "name": "story from Kanan - The Last Padawan (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52010/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/327",
+        "name": "Star Wars"
+      }
+    ],
+    "returned": 1
+  }
+}

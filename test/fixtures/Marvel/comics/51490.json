@@ -1,0 +1,133 @@
+{
+  "id": 51490,
+  "digitalId": 0,
+  "title": "Avengers: Millennium (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "At a secret Hydra installation in rural Japan, the Avengers discover a time portal that sends them on a millennia-spanning adventure! But what kind of bad guys have a time machine that they don't use to change the past? Bad guys who know that they win! Now the Avengers must leap through time to figure out what kind of horrors Hydra's cooked up for the world, but something goes horribly wrong. And suddenly the only thing standing between our immutable past and our wasted, ruined future are the Avengers - united against a doomsday weapon thousands of years in the hatching! Plus: classic tales of time travel! Captain America returns to the fateful day he lost Bucky, and the Avengers face their WWII counterparts: the Invaders! Collecting AVENGERS: MILLENNIUM #1-4, and AVENGERS (1963) #56 and #71. ",
+  "modified": "2015-06-01T16:42:55-0400",
+  "isbn": "978-0-7851-9166-7",
+  "upc": "",
+  "diamondCode": "MAR150794",
+  "ean": "9780785 191667 51799",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 136,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "At a secret Hydra installation in rural Japan, the Avengers discover a time portal that sends them on a millennia-spanning adventure! But what kind of bad guys have a time machine that they don't use to change the past? Bad guys who know that they win! Now the Avengers must leap through time to figure out what kind of horrors Hydra's cooked up for the world, but something goes horribly wrong. And suddenly the only thing standing between our immutable past and our wasted, ruined future are the Avengers - united against a doomsday weapon thousands of years in the hatching! Plus: classic tales of time travel! Captain America returns to the fateful day he lost Bucky, and the Avengers face their WWII counterparts: the Invaders! Collecting AVENGERS: MILLENNIUM #1-4, and AVENGERS (1963) #56 and #71. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51490",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51490/avengers_millennium_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Avengers-TBD-Infinite-Comic-0/digital-comic/38726?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19315",
+    "name": "Avengers: Millennium (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-19T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 17.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/556cc19b95b1b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/556cc19b95b1b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51490/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/827",
+        "name": "Carmine Di Giandomenico",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12452",
+        "name": "Mike Costa",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51490/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51490/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114557",
+        "name": "cover from Avengers: TBD Infinite Comic (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114558",
+        "name": "story from Avengers: TBD Infinite Comic (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51490/events",
+    "items": [],
+    "returned": 0
+  }
+}

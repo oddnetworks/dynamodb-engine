@@ -1,0 +1,150 @@
+{
+  "id": 53312,
+  "digitalId": 0,
+  "title": "Uncanny X-Men (2013) #600",
+  "issueNumber": 600,
+  "variantDescription": "",
+  "description": "The final explosive issue in Brian Michael Bendis' epic X-Men saga! Scott Summers â€\" savior or destroyer? Questions will be answered! The Jean Grey School, the New Xavier School â€\" it's all going to change. The X-Men are at a crossroads. And not everyone will make it through in one piece. Featuring 40 pages of a host of popular X-Men creators! ",
+  "modified": "2015-11-02T18:30:04-0500",
+  "isbn": "",
+  "upc": "75960607916260011",
+  "diamondCode": "MAR150760",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 64,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The final explosive issue in Brian Michael Bendis' epic X-Men saga! Scott Summers â€\" savior or destroyer? Questions will be answered! The Jean Grey School, the New Xavier School â€\" it's all going to change. The X-Men are at a crossroads. And not everyone will make it through in one piece. Featuring 40 pages of a host of popular X-Men creators! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53312",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53312/uncanny_x-men_2013_600?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Uncanny-X-Men-600/digital-comic/40163?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/17602",
+    "name": "Uncanny X-Men (2013 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53715",
+      "name": "Uncanny X-Men (2013) #600 (Anka Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53716",
+      "name": "Uncanny X-Men (2013) #600 (Smith Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 5.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/561e617d948c9",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/561e617d948c9",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/560d4fb8dd739",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/54d38a627e7ae",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53312/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+        "name": "Kris Anka",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+        "name": "Mahmud Asrar",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+        "name": "Stuart Immonen",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1063",
+        "name": "Frazer Irving",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+        "name": "Chris Bachalo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53312/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53312/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118018",
+        "name": "cover from Uncanny X-Men (2013) #600",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118019",
+        "name": "story from Uncanny X-Men (2013) #600",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53312/events",
+    "items": [],
+    "returned": 0
+  }
+}

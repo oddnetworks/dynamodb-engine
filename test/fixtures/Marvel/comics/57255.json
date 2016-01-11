@@ -1,0 +1,121 @@
+{
+  "id": 57255,
+  "digitalId": 0,
+  "title": "Ultimates (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "Galactus is beyond good and evil. Galactus is a necessary part of the universe. When Galactus hungers -- living worlds must die. The Ultimates have heard it all before, and respectfully... they don’t agree. But can even the ultimate superteam end the threat of the devourer of worlds for good? And if they do -- WHAT will take his place?",
+  "modified": "2015-12-07T14:02:40-0500",
+  "isbn": "",
+  "upc": "75960608361900211",
+  "diamondCode": "OCT150884",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Galactus is beyond good and evil. Galactus is a necessary part of the universe. When Galactus hungers -- living worlds must die. The Ultimates have heard it all before, and respectfully... they don’t agree. But can even the ultimate superteam end the threat of the devourer of worlds for good? And if they do -- WHAT will take his place?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57255",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57255/ultimates_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Ultimates-2/digital-comic/40665?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+    "name": "Ultimates (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5665d4f25441a",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/567448114172f",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5665d4f25441a",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/563d0e0eaf44f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57255/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+        "name": "Al Ewing",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+        "name": "Kenneth Rocafort",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57255/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57255/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125327",
+        "name": "cover from Ultimates (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125328",
+        "name": "story from Ultimates (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57255/events",
+    "items": [],
+    "returned": 0
+  }
+}

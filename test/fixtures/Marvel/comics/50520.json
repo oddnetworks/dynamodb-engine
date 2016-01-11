@@ -1,0 +1,129 @@
+{
+  "id": 50520,
+  "digitalId": 0,
+  "title": "Miracleman Book 3: Olympus (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The first era of the critically acclaimed MIRACLEMAN saga reaches its climax! As the alien Qys close in, a hidden survivor of Project Zarathustra is revealed! Mankind's fate hangs in the balance before a tribunal of the Warpsmiths, while Johnny Bates' torment sets the stage for the horrific return of Kid Miracleman. Pushing the concept of the super hero to its logical conclusion, OLYMPUS presents a vision of a utopia as shocking as it compelling in one of the most challenging works of super-hero fiction, finally back in print after more than 20 years. Plus: In a pair of all-new tales, Joe Quesada illustrates Grant Morrison's lost Miracleman story, a disturbing confrontation prior to the Battle of London - and Peter Milligan and Mike Allred reunite for a new Miracleman classic! Collecting MIRACLEMAN (2014) #11-16 and ALL-NEW MIRACLEMAN ANNUAL #1.",
+  "modified": "2015-04-07T14:24:43-0400",
+  "isbn": "978-0-7851-9089-9",
+  "upc": "",
+  "diamondCode": "DEC140968",
+  "ean": "9780785 190899 53999",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 328,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The first era of the critically acclaimed MIRACLEMAN saga reaches its climax! As the alien Qys close in, a hidden survivor of Project Zarathustra is revealed! Mankind's fate hangs in the balance before a tribunal of the Warpsmiths, while Johnny Bates' torment sets the stage for the horrific return of Kid Miracleman. Pushing the concept of the super hero to its logical conclusion, OLYMPUS presents a vision of a utopia as shocking as it compelling in one of the most challenging works of super-hero fiction, finally back in print after more than 20 years. Plus: In a pair of all-new tales, Joe Quesada illustrates Grant Morrison's lost Miracleman story, a disturbing confrontation prior to the Battle of London - and Peter Milligan and Mike Allred reunite for a new Miracleman classic! Collecting MIRACLEMAN (2014) #11-16 and ALL-NEW MIRACLEMAN ANNUAL #1."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/50520",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/50520/miracleman_book_3_olympus_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18881",
+    "name": "Miracleman Book 3: Olympus (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-03-10T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 39.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5523fcf2342ef",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/5523fcf2342ef",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50520/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+        "name": "Mike Allred",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1343",
+        "name": "John Totleben",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+        "name": "Peter Milligan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/64",
+        "name": "Grant Morrison",
+        "role": "writer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50520/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50520/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113054",
+        "name": "cover from Miracleman Book 3: Olympus (2015) (VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113055",
+        "name": "story from Miracleman Book 3: Olympus (2015) (VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50520/events",
+    "items": [],
+    "returned": 0
+  }
+}

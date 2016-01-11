@@ -1,0 +1,139 @@
+{
+  "id": 55934,
+  "digitalId": 0,
+  "title": "Guardians of the Galaxy (2015) #1 (Crystal Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Crystal Hip-&#8203;Hop Variant",
+  "description": "THE RACCOON’S IN CHARGE!\nPeter Quill has abandoned the Guardians and his role as Star-Lord to be Emperor of the Spartax. Rocket didn’t wait a single minute to take the reins and become team leader of Drax, Venom, Groot, Kitty Pryde (A.K.A. Star-Lady ?!?!) and new Guardian BEN GRIMM, the everloving THING! \n",
+  "modified": "2015-10-12T14:38:25-0400",
+  "isbn": "",
+  "upc": "75960608303900121",
+  "diamondCode": "AUG150761",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE RACCOON’S IN CHARGE!\nPeter Quill has abandoned the Guardians and his role as Star-Lord to be Emperor of the Spartax. Rocket didn’t wait a single minute to take the reins and become team leader of Drax, Venom, Groot, Kitty Pryde (A.K.A. Star-Lady ?!?!) and new Guardian BEN GRIMM, the everloving THING! \n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55934",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55934/guardians_of_the_galaxy_2015_1_crystal_hip-8203hop_variant/crystal_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20465",
+    "name": "Guardians of the Galaxy (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55462",
+      "name": "Guardians of the Galaxy (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56890",
+      "name": "Guardians of the Galaxy (2015) #1 (Young Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56891",
+      "name": "Guardians of the Galaxy (2015) #1 (Cosplay Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56892",
+      "name": "Guardians of the Galaxy (2015) #1 (Schiti Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56893",
+      "name": "Guardians of the Galaxy (2015) #1 (Christopher Action Figure Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-14T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-30T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56005ed73efe4",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/56005ed73efe4",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/55db8c6dd437e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55934/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9443",
+        "name": "Shawn Crystal",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11912",
+        "name": "Valerio Schiti",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55934/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55934/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122853",
+        "name": "cover from Guardians of the Galaxy (2015) #1 (CRYSTAL HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122854",
+        "name": "story from Guardians of the Galaxy (2015) #1 (CRYSTAL HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55934/events",
+    "items": [],
+    "returned": 0
+  }
+}

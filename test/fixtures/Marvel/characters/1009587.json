@@ -1,0 +1,110 @@
+{
+  "id": 1009587,
+  "name": "Shriek",
+  "description": "Shriek became a groupie for a rock band and a drug dealer on the side until the vigilantes Cloak and Dagger happened by during one of her deals.",
+  "modified": "2013-11-20T17:27:36-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/528d36b054844",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009587",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009587/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14656",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #201"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14657",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #202"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14658",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #203"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14680",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #223"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1404",
+        "name": "Spider-Man Maximum Carnage (Trade Paperback)"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009587/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2271",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1169",
+        "name": "Spider-Man Maximum Carnage (2004)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009587/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29780",
+        "name": "Maximum Carnage, Part Five: Over the Line!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29782",
+        "name": "Maximum Carnage, Part 9 of 14",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29783",
+        "name": "Maximum Carnage, Part Nine: The Turning Point",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29786",
+        "name": "Maximum Carnage, Part 13: War of the Heart",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29877",
+        "name": "Aftershocks, Part 2: Schemes & Dreams: For Future Screams",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009587/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+        "name": "Maximum Carnage"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2086/shriek?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Shriek?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009587/shriek?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

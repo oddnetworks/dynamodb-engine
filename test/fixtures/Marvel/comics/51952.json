@@ -1,0 +1,109 @@
+{
+  "id": 51952,
+  "digitalId": 0,
+  "title": "Howard the Duck Vol. 0: What the Duck (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Hot off the pages of the...well, the post-credits scene at the end of a popular movie...Howard the Duck is back! Join the foul-mouthed fowl, trapped in a world he never made (but has grown accustomed to) as he takes on weird cases that only a talking duck can crack - as the Marvel Universe's resident private investigator! Howard's first case begins with the Black Cat but soon goes cosmic, landing him in the Collector's clutches! But he's not alone - Rocket Raccoon is a prisoner, as well! Can these two anthropomorphic animals turn the tables and break free? Well, yeah. Plus: Howard investigates a a senior citizens crime spree, teams up with Doctor Strange for some magical antics and learns a lot about new friend Tara Tam, because communication is key. Plus: a SECRET WARS tie-in! Sort of. Collecting HOWARD THE DUCK (2015) #1-5.",
+  "modified": "2015-09-15T13:57:33-0400",
+  "isbn": "978-0-7851-9772-0",
+  "upc": "",
+  "diamondCode": "JUL150828",
+  "ean": "9780785 197720 51699",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Hot off the pages of the...well, the post-credits scene at the end of a popular movie...Howard the Duck is back! Join the foul-mouthed fowl, trapped in a world he never made (but has grown accustomed to) as he takes on weird cases that only a talking duck can crack - as the Marvel Universe's resident private investigator! Howard's first case begins with the Black Cat but soon goes cosmic, landing him in the Collector's clutches! But he's not alone - Rocket Raccoon is a prisoner, as well! Can these two anthropomorphic animals turn the tables and break free? Well, yeah. Plus: Howard investigates a a senior citizens crime spree, teams up with Doctor Strange for some magical antics and learns a lot about new friend Tara Tam, because communication is key. Plus: a SECRET WARS tie-in! Sort of. Collecting HOWARD THE DUCK (2015) #1-5."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51952",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51952/howard_the_duck_vol_0_what_the_duck_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19463",
+    "name": "Howard the Duck Vol. 0: What the Duck (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-23T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-08T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 16.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/55ca0cb047b56",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/55ca0cb047b56",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51952/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10090",
+        "name": "Joe Quinones",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+        "name": "Chip Zdarsky",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51952/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51952/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115481",
+        "name": "cover from Howard the Duck (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115482",
+        "name": "story from Howard the Duck (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51952/events",
+    "items": [],
+    "returned": 0
+  }
+}

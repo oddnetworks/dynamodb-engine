@@ -1,0 +1,103 @@
+{
+  "id": 48468,
+  "digitalId": 39622,
+  "title": "Ultimate Spider-Man Infinite Digital Comic (2015) #12",
+  "issueNumber": 12,
+  "variantDescription": "",
+  "description": "A crime-wave has hit New York City! Our resident Wall-Crawler is up to his ears in Bad Guys, and it's got him all spun out! How much more of this crime-spree can Spidey take?",
+  "modified": "2015-10-12T13:41:16-0400",
+  "isbn": "",
+  "upc": "75960607967401211",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Infinite Comic",
+  "pageCount": 10,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "A crime-wave has hit New York City! Our resident Wall-Crawler is up to his ears in Bad Guys, and it's got him all spun out! How much more of this crime-spree can Spidey take?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/48468",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/48468/ultimate_spider-man_infinite_digital_comic_2015_12?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18336",
+    "name": "Ultimate Spider-Man Infinite Digital Comic (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-25T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-26T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-08-25T15:16:44-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 0
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/55a80e4094131",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/55a80e4094131",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48468/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+        "name": "Edward Devin Lewis",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48468/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48468/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109043",
+        "name": "Ultimate Spider-Man Infinite Digital Comic (2015) #12",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48468/events",
+    "items": [],
+    "returned": 0
+  }
+}

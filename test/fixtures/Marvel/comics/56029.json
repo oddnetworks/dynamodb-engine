@@ -1,0 +1,133 @@
+{
+  "id": 56029,
+  "digitalId": 0,
+  "title": "Agents of S.H.I.E.L.D. (2016) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "It’s high-stakes espionage in the Marvel Universe in this brand-new series inspired by the hit television show Marvel’s Agents of S.H.I.E.L.D. Tony Stark guest-stars in the beginning of “THE COULSON PROTOCOLS.”",
+  "modified": "2016-01-08T15:43:59-0500",
+  "isbn": "",
+  "upc": "75960608337400111",
+  "diamondCode": "NOV150768",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "It’s high-stakes espionage in the Marvel Universe in this brand-new series inspired by the hit television show Marvel’s Agents of S.H.I.E.L.D. Tony Stark guest-stars in the beginning of “THE COULSON PROTOCOLS.”"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56029",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56029/agents_of_shield_2016_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Agents-of-S-H-I-E-L-D-1/digital-comic/40844?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20607",
+    "name": "Agents of S.H.I.E.L.D. (2016 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-13T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-28T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/567acebfb0fdc",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/30/567acebfb0fdc",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/566af21762df4",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/566af0f7aed34",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/566af0adbadd0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/566af023901db",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/566aefa378f8a",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56029/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+        "name": "Marc Guggenheim",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+        "name": "Mike Norton",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12435",
+        "name": "German Peralta",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56029/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56029/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123021",
+        "name": "cover from Agents of S.H.I.E.L.D. (2015) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56029/events",
+    "items": [],
+    "returned": 0
+  }
+}

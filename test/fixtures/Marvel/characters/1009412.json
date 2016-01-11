@@ -1,0 +1,45 @@
+{
+  "id": 1009412,
+  "name": "Madame Hydra",
+  "description": "",
+  "modified": "2011-02-16T15:55:04-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4d5c39a54b1dd",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009412",
+  "comics": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009412/comics",
+    "items": [],
+    "returned": 0
+  },
+  "series": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009412/series",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009412/stories",
+    "items": [],
+    "returned": 0
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009412/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2729/madame_hydra?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009412/madame_hydra?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

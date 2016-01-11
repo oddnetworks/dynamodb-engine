@@ -1,0 +1,65 @@
+{
+  "id": 1011114,
+  "name": "Spider-Man (Marvel Zombies)",
+  "description": "Zombie Spider-Man ate his own wife and aunt, the only two people left in the world who truly loved him.",
+  "modified": "2014-03-05T13:53:01-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/531772716d0ac",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011114",
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011114/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22259",
+        "name": "Amazing Spider-Man (1999) #573 (ZOMBIE VARIANT (1 FOR 10))"
+      }
+    ],
+    "returned": 1
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011114/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011114/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49022",
+        "name": "New Ways to Die 6 of 6",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011114/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/54/spider-man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Spider-Man_%28Marvel_Zombies%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011114/spider-man_marvel_zombies?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

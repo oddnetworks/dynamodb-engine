@@ -1,0 +1,138 @@
+{
+  "id": 57057,
+  "digitalId": 0,
+  "title": "Patsy Walker, A.K.A. Hellcat! (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "PATSY WALKER has managed to escape her past, her enemies and Hell itself (literally), but nothing compares to job hunting in New York City! Between trying to make rent and dodging (literal) bullets, Patsy barely has time to deal with her mother’s exploitative romance comics about her childhood resurfacing, much less how they start to interfere with her work and dating life. As she goes from living a double life to a triple, what the Hell is Patsy Walker supposed to do? Raise your (literal) claws for PATSY WALKER, AKA HELLCAT!",
+  "modified": "2015-11-20T15:50:25-0500",
+  "isbn": "",
+  "upc": "75960608407400111",
+  "diamondCode": "OCT150801",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "PATSY WALKER has managed to escape her past, her enemies and Hell itself (literally), but nothing compares to job hunting in New York City! Between trying to make rent and dodging (literal) bullets, Patsy barely has time to deal with her mother’s exploitative romance comics about her childhood resurfacing, much less how they start to interfere with her work and dating life. As she goes from living a double life to a triple, what the Hell is Patsy Walker supposed to do? Raise your (literal) claws for PATSY WALKER, AKA HELLCAT!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57057",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57057/patsy_walker_aka_hellcat_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Patsy-Walker-1/digital-comic/40727?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20845",
+    "name": "Patsy Walker, A.K.A. Hellcat! (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-23T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-08T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/55f1a65d7073f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/564f847909d7d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/564f83736d4c6",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/564f8293044b6",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/a0/564f820204893",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/564f8089cd82b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/55f1a65d7073f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12787",
+        "name": "Kate Leth",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+        "name": "Wilson Moss",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12786",
+        "name": "Brittney Williams",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124931",
+        "name": "cover from Patsy Walker (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124932",
+        "name": "story from Patsy Walker (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57057/events",
+    "items": [],
+    "returned": 0
+  }
+}

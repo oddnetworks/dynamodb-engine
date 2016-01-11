@@ -1,0 +1,83 @@
+{
+  "id": 1010994,
+  "name": "Wild Child (Age of Apocalypse)",
+  "description": "Kyle Gibney was one of the original volunteers for Beta Flight, Canada's attempt at building a super soldier program to secure their borders against the onslaught of Apocalypse and his Infinite soldiers.",
+  "modified": "2013-11-20T17:27:05-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/528d36110a1b9",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010994",
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010994/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32578",
+        "name": "Uncanny X-Force (2010) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40018",
+        "name": "Uncanny X-Force (2010) #12 (I Am Captain America Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40102",
+        "name": "Uncanny X-Force (2010) #12 (Kubert Variant)"
+      }
+    ],
+    "returned": 3
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010994/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9976",
+        "name": "Uncanny X-Force (2010 - 2012)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010994/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73562",
+        "name": "Interior #73562",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90807",
+        "name": "Interior #90807",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90993",
+        "name": "Interior #90993",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010994/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2567/wild_child?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Wild_Child_%28Age_of_Apocalypse%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010994/wild_child_age_of_apocalypse?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

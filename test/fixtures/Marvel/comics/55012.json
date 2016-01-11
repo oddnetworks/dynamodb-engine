@@ -1,0 +1,135 @@
+{
+  "id": 55012,
+  "digitalId": 0,
+  "title": "Mrs. Deadpool and the Howling Commandos (2015) #1 (Warren Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Warren Variant",
+  "description": "- She is Shiklah-undisputed Queen of the Monster Metropolis below Manhattan! - In the world that was, she married Deadpool, the Merc with the Mouth... - ...But nothing on Battleworld is quite as it was. - Now, she commands the Howling Commandos: Werewolf By Night! Frankenstein's Monster! The Living Mummy! Man-Thing! And Marcus the Centaur! - What would her late husband think of that??? ",
+  "modified": "2015-06-02T15:17:10-0400",
+  "isbn": "",
+  "upc": "75960608224700121",
+  "diamondCode": "APR150818",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- She is Shiklah-undisputed Queen of the Monster Metropolis below Manhattan! - In the world that was, she married Deadpool, the Merc with the Mouth... - ...But nothing on Battleworld is quite as it was. - Now, she commands the Howling Commandos: Werewolf By Night! Frankenstein's Monster! The Living Mummy! Man-Thing! And Marcus the Centaur! - What would her late husband think of that??? "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55012",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55012/mrs_deadpool_and_the_howling_commandos_2015_1_warren_variant/warren_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19591",
+    "name": "Mrs. Deadpool and the Howling Commandos (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52240",
+      "name": "Mrs. Deadpool and the Howling Commandos (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55013",
+      "name": "Mrs. Deadpool and the Howling Commandos (2015) #1 ( BRADSHAW TEAM VARIANT)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55014",
+      "name": "Mrs. Deadpool and the Howling Commandos (2015) #1 (CAMUNCOLI HOWLING VARIANT)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/556dffe53ce12",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/556dffe53ce12",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/0/03/5554d21320a96",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/54ff43b938363",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55012/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9394",
+        "name": "Salvador Espin",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/840",
+        "name": "Adam Warren",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55012/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55012/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121187",
+        "name": "cover from Mrs. Deadpool and the Howling Commandos (2015) #1 (WARREN VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121188",
+        "name": "story from Mrs. Deadpool and the Howling Commandos (2015) #1 (WARREN VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55012/events",
+    "items": [],
+    "returned": 0
+  }
+}

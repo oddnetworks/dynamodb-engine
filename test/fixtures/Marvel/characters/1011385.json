@@ -1,0 +1,132 @@
+{
+  "id": 1011385,
+  "name": "Cypher",
+  "description": "",
+  "modified": "2011-02-28T16:06:26-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/10/4ce5a70abf6fb",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011385",
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011385/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40170",
+        "name": "New Mutants (2010) #23 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36501",
+        "name": "New Mutants (2009) #25"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40987",
+        "name": "New Mutants (2009) #25 (X-Man Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39280",
+        "name": "New Mutants (2010) #25 (Adams Variant )"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36498",
+        "name": "New Mutants (2009) #31"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38080",
+        "name": "New Mutants (2010) #33"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41448",
+        "name": "New Mutants (2010) #33 (Keown Variant)"
+      }
+    ],
+    "returned": 7
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011385/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/11477",
+        "name": "New Mutants (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7455",
+        "name": "New Mutants (2009 - 2011)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011385/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81031",
+        "name": "Cover #81031",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89149",
+        "name": "Cover #89149",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91137",
+        "name": "Cover #91137",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92797",
+        "name": "New Mutants #25 X-Man Variant",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93786",
+        "name": "Interior #93786",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94610",
+        "name": "Interior #94610",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94883",
+        "name": "New Mutants (2009) #31",
+        "type": "cover"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011385/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+        "name": "X-Men: Regenesis"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/491/cypher?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Cypher_(Douglas_Ramsey)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011385/cypher?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

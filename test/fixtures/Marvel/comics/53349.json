@@ -1,0 +1,127 @@
+{
+  "id": 53349,
+  "digitalId": 0,
+  "title": "Howard the Duck (2015) #2 (Samnee Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Samnee Variant",
+  "description": "- Howard's first big case has taken him across the universe and landed him in the clutches of THE COLLECTOR! - But he's not alone as the very popular ROCKET RACOON is a prisoner as well! Have you ever seen a comic book sequel to a post-credits scene in a movie? - Well, you will now! Join comics legend STAN LEE in reading this issue (I'm assuming he'll read it. Hi Stan!)! ",
+  "modified": "2015-03-31T16:29:47-0400",
+  "isbn": "",
+  "upc": "759606081951000231",
+  "diamondCode": "FEB150774",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- Howard's first big case has taken him across the universe and landed him in the clutches of THE COLLECTOR! - But he's not alone as the very popular ROCKET RACOON is a prisoner as well! Have you ever seen a comic book sequel to a post-credits scene in a movie? - Well, you will now! Join comics legend STAN LEE in reading this issue (I'm assuming he'll read it. Hi Stan!)! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53349",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53349/howard_the_duck_2015_2_samnee_variant/samnee_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19241",
+    "name": "Howard the Duck (2015)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51955",
+      "name": "Howard the Duck (2015) #2"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53076",
+      "name": "Howard the Duck (2015) #2 (Zdarsky Vote Howard Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53350",
+      "name": "Howard the Duck (2015) #2 (Asrar Jewels Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-03-25T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/551b02215e7ec",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/551b02215e7ec",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53349/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10090",
+        "name": "Joe Quinones",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+        "name": "Chris Samnee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+        "name": "Chip Zdarsky",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53349/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53349/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118063",
+        "name": "cover from Howard the Duck (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118064",
+        "name": "story from Howard the Duck (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53349/events",
+    "items": [],
+    "returned": 0
+  }
+}

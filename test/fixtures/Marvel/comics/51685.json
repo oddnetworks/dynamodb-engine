@@ -1,0 +1,104 @@
+{
+  "id": 51685,
+  "digitalId": 0,
+  "title": "DEADPOOL: PAWS (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Marvel's popular Merc with a Mouth in an all-new ARRGGH * Hey hey, book readers, take off those big thick glasses - this is Deadpool speaking! Sorry Marvel, somethin' happened to your copy guy. Anyway, this is my first prose novel, and they got this dude Stefan Petrucha to write it. He's good people - he's written novels (Ripper, Dead Mann Walking) and comics (Power Rangers, X-Files). But here's the thing: This book is about dogs. Dogs that turn into big nasty monsters. And then I gotta kill 'em. Thing is, I like killing people - the ones that deserve it, anyway - but I won't kill dogs. No way. So that's what we call a character dilemma. What - wait for the paperback? Who said that?! I'll gut you right now-",
+  "modified": "2015-07-28T15:28:13-0400",
+  "isbn": "978-0-7851-9327-2",
+  "upc": "",
+  "diamondCode": "MAY150816",
+  "ean": "9780785 193272 52499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 304,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Marvel's popular Merc with a Mouth in an all-new ARRGGH * Hey hey, book readers, take off those big thick glasses - this is Deadpool speaking! Sorry Marvel, somethin' happened to your copy guy. Anyway, this is my first prose novel, and they got this dude Stefan Petrucha to write it. He's good people - he's written novels (Ripper, Dead Mann Walking) and comics (Power Rangers, X-Files). But here's the thing: This book is about dogs. Dogs that turn into big nasty monsters. And then I gotta kill 'em. Thing is, I like killing people - the ones that deserve it, anyway - but I won't kill dogs. No way. So that's what we call a character dilemma. What - wait for the paperback? Who said that?! I'll gut you right now-"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51685",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51685/deadpool_paws_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19380",
+    "name": "DEADPOOL: PAWS (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-05T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 24.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/55b7d3dcbff38",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/55b7d3dcbff38",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51685/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3518",
+        "name": "Stefan Petrucha",
+        "role": "writer"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51685/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51685/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114947",
+        "name": "cover from Deadpool (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114948",
+        "name": "story from Deadpool (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51685/events",
+    "items": [],
+    "returned": 0
+  }
+}

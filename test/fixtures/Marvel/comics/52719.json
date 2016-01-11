@@ -1,0 +1,134 @@
+{
+  "id": 52719,
+  "digitalId": 38256,
+  "title": "Storm (2014) #11",
+  "issueNumber": 11,
+  "variantDescription": "",
+  "description": "Storm has traveled the globe on a mission to better the world for man and mutant alike. But when one of her failures resurfaces in the form of a new threat, will Storm be able to right the wrong, or will she be doomed to relive history? ",
+  "modified": "2015-05-08T10:52:39-0400",
+  "isbn": "",
+  "upc": "75960608104201111",
+  "diamondCode": "MAR150778",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Storm has traveled the globe on a mission to better the world for man and mutant alike. But when one of her failures resurfaces in the form of a new threat, will Storm be able to right the wrong, or will she be doomed to relive history? "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52719",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52719/storm_2014_11?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Storm-11/digital-comic/38256?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38256&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19046",
+    "name": "Storm (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-13T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-16T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-08T11:41:14-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/554cccd96fe38",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/554cccd96fe38",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5503466d8d9c4",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52719/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+        "name": "Stephanie Hans",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12431",
+        "name": "Victor Ibanez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52719/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52719/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117015",
+        "name": "cover from Storm (2014) #11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117016",
+        "name": "story from Storm (2014) #11",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52719/events",
+    "items": [],
+    "returned": 0
+  }
+}

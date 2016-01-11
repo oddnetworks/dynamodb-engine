@@ -1,0 +1,109 @@
+{
+  "id": 52172,
+  "digitalId": 0,
+  "title": "Marvel Universe Guardians of the Galaxy (Digest)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Featuring screen-capture images from MARVEL'S GUARDIANS OF THE GALAXY Based on the highly anticipated new animated series coming to Disney XD in 2015, follow the further adventures of the Guardians of the Galaxy! - With a galaxy full of danger, only the Guardians stand between us and the destruction of everything! Be glad these guys are on our side! - Learn more about the most daring heroes in the galaxy as they face down deadly villains and fearsome foes - all while trying to get along with one another! - Rocket and Groot find themselves in the spotlight as one adventure hits home for the unlikely pals! - As the threats build and the pressure mounts, is this the end for our dear Guardians...or can they save the galaxy one more time? Collecting MARVEL UNIVERSE GUARDIANS OF THE GALAXY #1-4. ",
+  "modified": "2015-07-07T11:16:31-0400",
+  "isbn": "978-0-7851-9315-9",
+  "upc": "",
+  "diamondCode": "APR150919",
+  "ean": "9780785 193159 50999",
+  "issn": "",
+  "format": "Digest",
+  "pageCount": 88,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Featuring screen-capture images from MARVEL'S GUARDIANS OF THE GALAXY Based on the highly anticipated new animated series coming to Disney XD in 2015, follow the further adventures of the Guardians of the Galaxy! - With a galaxy full of danger, only the Guardians stand between us and the destruction of everything! Be glad these guys are on our side! - Learn more about the most daring heroes in the galaxy as they face down deadly villains and fearsome foes - all while trying to get along with one another! - Rocket and Groot find themselves in the spotlight as one adventure hits home for the unlikely pals! - As the threats build and the pressure mounts, is this the end for our dear Guardians...or can they save the galaxy one more time? Collecting MARVEL UNIVERSE GUARDIANS OF THE GALAXY #1-4. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52172",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52172/marvel_universe_guardians_of_the_galaxy_digest?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19562",
+    "name": "Marvel Universe Guardians of the Galaxy (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-23T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 9.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/559bebc2d4d06",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/559bebc2d4d06",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52172/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11398",
+        "name": "Adam Archer",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52172/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52172/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115921",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115922",
+        "name": "story from Marvel Universe Guardians of the Galaxy (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52172/events",
+    "items": [],
+    "returned": 0
+  }
+}

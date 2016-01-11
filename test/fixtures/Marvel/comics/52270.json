@@ -1,0 +1,129 @@
+{
+  "id": 52270,
+  "digitalId": 0,
+  "title": "New Avengers by Jonathan Hickman (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The Multiverse is collapsing, destroying entire dimensions, and the Illuminati must combat the ever-increasing Incursions even as they cope with their own personal challenges. The worldwide Terrigenesis has thrown Black Bolt’s kingdom into chaos. Reed Richards transforms one of his greatest inventions to view the deaths of worlds. And Doctor Strange considers selling his soul as Black Panther and Namor continue their royal feud. But as the Incursions quicken and the team encounters the power of the Great Society, it becomes clear that only one parallel Earth can survive. Can any of them find the strength to press the button that destroys a world? There’s no turning back for the Illuminati, and they’ll pay the price for their sins. Be there as the Illuminati shatters under the weight of an exploding planet! Collecting NEW AVENGERS (2013) #13-23.",
+  "modified": "2015-11-03T13:25:20-0500",
+  "isbn": "978-0-7851-9709-6",
+  "upc": "",
+  "diamondCode": "MAY150813",
+  "ean": "9780785 197096 53499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 280,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The Multiverse is collapsing, destroying entire dimensions, and the Illuminati must combat the ever-increasing Incursions even as they cope with their own personal challenges. The worldwide Terrigenesis has thrown Black Bolt’s kingdom into chaos. Reed Richards transforms one of his greatest inventions to view the deaths of worlds. And Doctor Strange considers selling his soul as Black Panther and Namor continue their royal feud. But as the Incursions quicken and the team encounters the power of the Great Society, it becomes clear that only one parallel Earth can survive. Can any of them find the strength to press the button that destroys a world? There’s no turning back for the Illuminati, and they’ll pay the price for their sins. Be there as the Illuminati shatters under the weight of an exploding planet! Collecting NEW AVENGERS (2013) #13-23."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52270",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52270/new_avengers_by_jonathan_hickman_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19597",
+    "name": "New Avengers by Jonathan Hickman (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-15T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 34.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5637e01750241",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5637e01750241",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52270/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5747",
+        "name": "Rags Morales",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11912",
+        "name": "Valerio Schiti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/234",
+        "name": "Kev Walker",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+        "name": "Dale Keown",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52270/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52270/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116117",
+        "name": "cover from New Avengers by Jonathan Hickman (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116118",
+        "name": "story from New Avengers by Jonathan Hickman (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52270/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": 52968,
+  "digitalId": 38827,
+  "title": "Years of Future Past (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "In the dystopian nations of BATTLEWORLD, the mutants of New York City must fight to survive the rule of the Sentinels! At their center is Kate Pryde, a heroine tried and tested by war, and mother of the last mutant ever to be born before the purges of the Mutant Control Act! With revolution on the wind, the X-Men are not a broken team with nothing left to lose, but a desperate family with more at risk than ever before! ",
+  "modified": "2015-06-01T10:43:10-0400",
+  "isbn": "",
+  "upc": "75960608244500111",
+  "diamondCode": "APR150809",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "In the dystopian nations of BATTLEWORLD, the mutants of New York City must fight to survive the rule of the Sentinels! At their center is Kate Pryde, a heroine tried and tested by war, and mother of the last mutant ever to be born before the purges of the Mutant Control Act! With revolution on the wind, the X-Men are not a broken team with nothing left to lose, but a desperate family with more at risk than ever before! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52968",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52968/years_of_future_past_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Years-of-Future-Past-1/digital-comic/38827?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38827&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19814",
+    "name": "Years of Future Past (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-20T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-07T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-29T11:22:40-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/55006c1f99767",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/554a80ac3bc1f",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/55006ccd77aee",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/30/55006cad1c3ab",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/03/55006c765585b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/55006c1f99767",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+        "name": "Marguerite Bennett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+        "name": "Mike Norton",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117513",
+        "name": "cover from Years of Future Past (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117514",
+        "name": "story from Years of Future Past (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52968/events",
+    "items": [],
+    "returned": 0
+  }
+}

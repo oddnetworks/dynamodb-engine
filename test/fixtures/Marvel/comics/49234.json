@@ -1,0 +1,134 @@
+{
+  "id": 49234,
+  "digitalId": 0,
+  "title": "UNCANNY AVENGERS VOL. 5: AXIS PRELUDE (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The march to AXIS begins here as the Uncanny Avengers are reunited! The threat of Kang is over, but what are the repercussions? A dark secret is revealed in Genosha, Havok and his team are defeated at the hands of the sinister S-Men...and the Red Skull's revenge is now unstoppable. The great vanishing has begun, the Uncanny Avengers are too late...and Havok witnesses the Skull's greatest atrocity yet! Meanwhile, Magneto discovers the Skull's possession of his dead friend Charles Xavier's brain and powers, and becomes determined to shut the villain's scheme down! Prepare for a Magneto vs. Red Skull blood match that will result in a terribly altered Marvel Universe! Plus: the Mojoverse gathers an all-new, all-creepy Avengers! It's the shocking debut of the Avengers of the Supernatural! Collecting UNCANNY AVENGERS (2012) #23-25 and ANNUAL #1, and MAGNETO (2014) #9-10.",
+  "modified": "2015-07-24T13:56:27-0400",
+  "isbn": "978-0-7851-5426-6",
+  "upc": "",
+  "diamondCode": "MAY150825",
+  "ean": "9780785 154266 51999",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 144,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The march to AXIS begins here as the Uncanny Avengers are reunited! The threat of Kang is over, but what are the repercussions? A dark secret is revealed in Genosha, Havok and his team are defeated at the hands of the sinister S-Men...and the Red Skull's revenge is now unstoppable. The great vanishing has begun, the Uncanny Avengers are too late...and Havok witnesses the Skull's greatest atrocity yet! Meanwhile, Magneto discovers the Skull's possession of his dead friend Charles Xavier's brain and powers, and becomes determined to shut the villain's scheme down! Prepare for a Magneto vs. Red Skull blood match that will result in a terribly altered Marvel Universe! Plus: the Mojoverse gathers an all-new, all-creepy Avengers! It's the shocking debut of the Avengers of the Supernatural! Collecting UNCANNY AVENGERS (2012) #23-25 and ANNUAL #1, and MAGNETO (2014) #9-10."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/49234",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/49234/uncanny_avengers_vol_5_axis_prelude_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18516",
+    "name": "UNCANNY AVENGERS VOL. 5: AXIS PRELUDE (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-29T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-14T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 19.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/55b279f5d65f1",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/55b279f5d65f1",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49234/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+        "name": "Daniel Acuna",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7718",
+        "name": "Sanford Greene",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10146",
+        "name": "Gabriel Hernandez Walta",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+        "name": "Rick Remender",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+        "name": "Paul Renaud",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49234/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49234/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110553",
+        "name": "cover from Uncanny Avengers: Days of Future Now (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110554",
+        "name": "story from Uncanny Avengers: Days of Future Now (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49234/events",
+    "items": [],
+    "returned": 0
+  }
+}

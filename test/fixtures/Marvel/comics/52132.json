@@ -1,0 +1,119 @@
+{
+  "id": 52132,
+  "digitalId": 0,
+  "title": "Marvel Masterworks: The Fantastic Four (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The Fantastic Four continue their explorations into the impossible - when they confront none other than the Impossible Man! From a tale that rampages through the Marvel Bullpen and features the return of the Frightful Four, Impy will both torment and team up with our heroes in an attempt to make them a Fantastic Five! Then, Reed Richards is replaced by his evil Counter-Earth counterpart. It's a saga so epic in scope that it pulls in Thundra, Tigra, the Mad Thinker and Annihilus - as Reed battles for his life in the heart of the Negative Zone! With little time to rest, our heroes must then battle through the Eliminator, Salem's Seven, Klaw and the Molecule Man in a series of struggles so shocking that they may tear apart the FF forever! Collecting FANTASTIC FOUR (1961) #176-191. ",
+  "modified": "2015-06-08T12:40:06-0400",
+  "isbn": "978-0-7851-9192-6",
+  "upc": "",
+  "diamondCode": "JAN150889",
+  "ean": "9780785 191926 57500",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 272,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The Fantastic Four continue their explorations into the impossible - when they confront none other than the Impossible Man! From a tale that rampages through the Marvel Bullpen and features the return of the Frightful Four, Impy will both torment and team up with our heroes in an attempt to make them a Fantastic Five! Then, Reed Richards is replaced by his evil Counter-Earth counterpart. It's a saga so epic in scope that it pulls in Thundra, Tigra, the Mad Thinker and Annihilus - as Reed battles for his life in the heart of the Negative Zone! With little time to rest, our heroes must then battle through the Eliminator, Salem's Seven, Klaw and the Molecule Man in a series of struggles so shocking that they may tear apart the FF forever! Collecting FANTASTIC FOUR (1961) #176-191. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52132",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52132/marvel_masterworks_the_fantastic_four_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19534",
+    "name": "Marvel Masterworks: The Fantastic Four (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 75
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5575bf6a0bc30",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5575bf6a0bc30",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52132/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/103",
+        "name": "George Perez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/967",
+        "name": "Len Wein",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52132/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52132/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115841",
+        "name": "cover from Marvel Masterworks: The Fantastic Four (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115842",
+        "name": "story from Marvel Masterworks: The Fantastic Four (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52132/events",
+    "items": [],
+    "returned": 0
+  }
+}

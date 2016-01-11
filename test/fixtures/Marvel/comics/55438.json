@@ -1,0 +1,119 @@
+{
+  "id": 55438,
+  "digitalId": 0,
+  "title": "Extraordinary X-Men (2015) #6",
+  "issueNumber": 6,
+  "variantDescription": "",
+  "description": "This month, it’s mutants, monsters and…RHINOSAURS?! With the doors of X-Haven thrown open wide to mutantkind, the Extraordinary X-Men continue their mission of providing relief and rescue to any mutant in need. But when they respond to a distress call originating in WEIRDWORLD, are the X-Men in over their heads…or worse, about to lose them?",
+  "modified": "2015-12-30T14:22:41-0500",
+  "isbn": "",
+  "upc": "75960608302200611",
+  "diamondCode": "NOV150888",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "This month, it’s mutants, monsters and…RHINOSAURS?! With the doors of X-Haven thrown open wide to mutantkind, the Extraordinary X-Men continue their mission of providing relief and rescue to any mutant in need. But when they respond to a distress call originating in WEIRDWORLD, are the X-Men in over their heads…or worse, about to lose them?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55438",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55438/extraordinary_x-men_2015_6?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20460",
+    "name": "Extraordinary X-Men (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-27T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-01-12T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/56842f5a7b873",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/56842f5a7b873",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55438/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12431",
+        "name": "Victor Ibanez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55438/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55438/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121919",
+        "name": "cover from Extraordinary X-Men (2015) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121920",
+        "name": "story from Extraordinary X-Men (2015) #6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55438/events",
+    "items": [],
+    "returned": 0
+  }
+}

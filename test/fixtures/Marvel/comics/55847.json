@@ -1,0 +1,127 @@
+{
+  "id": 55847,
+  "digitalId": 0,
+  "title": "Secret Wars: Agents of Atlas (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "SON OF ANARCHY! An oppressive domain run by BARON ZEMO! The peoples' only hope? An underground group of rebels... GORILLA-MAN! M-11! NAMORA! VENUS! MARVEL BOY! But their leader JIMMY WOO...captured! Can AGENT COULSON help save the resistance or will he lead them to their doom?",
+  "modified": "2015-10-16T11:39:12-0400",
+  "isbn": "",
+  "upc": "75960608328200111",
+  "diamondCode": "AUG150662",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "SON OF ANARCHY! An oppressive domain run by BARON ZEMO! The peoples' only hope? An underground group of rebels... GORILLA-MAN! M-11! NAMORA! VENUS! MARVEL BOY! But their leader JIMMY WOO...captured! Can AGENT COULSON help save the resistance or will he lead them to their doom?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55847",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55847/secret_wars_agents_of_atlas_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Secret-Wars-Agents-of-Atlas-1/digital-comic/40276?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20550",
+    "name": "Secret Wars: Agents of Atlas (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57114",
+      "name": "Secret Wars: Agents of Atlas (2015) #1 (Wilson Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-21T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-07T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/56211975b770d",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/56211975b770d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/55f7204cb5d00",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55847/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+        "name": "Leonard Kirk",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4999",
+        "name": "Steve Pugh",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12447",
+        "name": "Tom Taylor",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55847/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55847/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122727",
+        "name": "cover from Secret Wars: Agents of Atlas (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122728",
+        "name": "story from Secret Wars: Agents of Atlas (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55847/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": 55526,
+  "digitalId": 0,
+  "title": "INVINCIBLE IRON MAN (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "The big finale to our big first storyline. Cards are turned over. Truths are revealed. Tony’s life is turned upside down!",
+  "modified": "2015-12-29T15:57:51-0500",
+  "isbn": "",
+  "upc": "759606083061000511",
+  "diamondCode": "NOV150732",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The big finale to our big first storyline. Cards are turned over. Truths are revealed. Tony’s life is turned upside down!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55526",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55526/invincible_iron_man_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/INVINCIBLE-IRON-MAN-5/digital-comic/40799?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20476",
+    "name": "INVINCIBLE IRON MAN (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-06T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-21T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/5682f1003be0a",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/5682f1003be0a",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/567aff71c25d8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55526/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+        "name": "David Marquez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55526/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55526/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122095",
+        "name": "cover from Iron Man (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122096",
+        "name": "story from Iron Man (2015) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55526/events",
+    "items": [],
+    "returned": 0
+  }
+}

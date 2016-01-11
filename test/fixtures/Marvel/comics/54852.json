@@ -1,0 +1,123 @@
+{
+  "id": 54852,
+  "digitalId": 0,
+  "title": "Marvel Zombies (2015) #1 (OPENA ANT-SIZED VARIANT)",
+  "issueNumber": 1,
+  "variantDescription": "OPENA ANT-SIZED VARIANT",
+  "description": "- Elsa Bloodstone is stationed on the Shield, burdened with the Sisyphean task of keeping the zombie hordes from rampaging through Battleworld. - In those moments where she's not enrapt in the throes of battle, she meditates on her deceased father...how everything he taught her gave her the means to fight the zombies, but all the love he didn't give her is what motivated the self-destructive actions that landed her on the Wall in the first place. - But when she sees a human child caught in the middle of the zombieverse, she'll muster every ounce of determination she has to throw herself into the zombie horde to rescue the girl. - And once Elsa finds her, she's going to have to fight her way back out... ",
+  "modified": "2015-06-02T14:35:57-0400",
+  "isbn": "",
+  "upc": "75960608213100131",
+  "diamondCode": "APR150733",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- Elsa Bloodstone is stationed on the Shield, burdened with the Sisyphean task of keeping the zombie hordes from rampaging through Battleworld. - In those moments where she's not enrapt in the throes of battle, she meditates on her deceased father...how everything he taught her gave her the means to fight the zombies, but all the love he didn't give her is what motivated the self-destructive actions that landed her on the Wall in the first place. - But when she sees a human child caught in the middle of the zombieverse, she'll muster every ounce of determination she has to throw herself into the zombie horde to rescue the girl. - And once Elsa finds her, she's going to have to fight her way back out... "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/54852",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/54852/marvel_zombies_2015_1_opena_ant-sized_variant/opena_ant-sized_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19418",
+    "name": "Marvel Zombies (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51808",
+      "name": "Marvel Zombies (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/54987",
+      "name": "Marvel Zombies (2015) #1 (Land Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/556df63f11502",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/556df63f11502",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54852/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+        "name": "Jerome Opena",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5635",
+        "name": "Simon Spurrier",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/234",
+        "name": "Kev Walker",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54852/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54852/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120921",
+        "name": "cover from Elsa Bloodstone Vs. Marvel Zombies (2015) #1 (TBD ARTIST ANT-SIZED VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120922",
+        "name": "story from Elsa Bloodstone Vs. Marvel Zombies (2015) #1 (TBD ARTIST ANT-SIZED VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54852/events",
+    "items": [],
+    "returned": 0
+  }
+}

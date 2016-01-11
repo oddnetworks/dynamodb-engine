@@ -1,0 +1,142 @@
+{
+  "id": 52467,
+  "digitalId": 0,
+  "title": "Secret Wars Journal (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "• Horror icons THE SOSKA SISTERS make their mighty Marvel debut in a twisted tale of demonic disease! Fortunately for the savaged citizens of the Wasteland, NIGHT NURSE is on duty!\n• Audacious AARON ALEXOVICH also enters the hallowed House of Ideas with a superlative story of Doom's PR and Outreach robot extraordinaire, MILL-E: THE MODEL CITIZEN!\n",
+  "modified": "2015-09-10T15:01:05-0400",
+  "isbn": "",
+  "upc": "75960608232200511",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Horror icons THE SOSKA SISTERS make their mighty Marvel debut in a twisted tale of demonic disease! Fortunately for the savaged citizens of the Wasteland, NIGHT NURSE is on duty!\n• Audacious AARON ALEXOVICH also enters the hallowed House of Ideas with a superlative story of Doom's PR and Outreach robot extraordinaire, MILL-E: THE MODEL CITIZEN!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52467",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52467/secret_wars_journal_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Secret-Wars-Journal-5/digital-comic/39935?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20605",
+    "name": "Secret Wars Journal (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-16T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-19T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/55e88e895a53b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/60/55e88e895a53b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/55d20032be0f2",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52467/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12770",
+        "name": "Aaron Alexovich",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12768",
+        "name": "Jen Soska",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12769",
+        "name": "Sylvia Soska",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12693",
+        "name": "Alec Morgan",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8623",
+        "name": "Impacto - Diogo Saito",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12767",
+        "name": "Vanesa Del Rey",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52467/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52467/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116511",
+        "name": "cover from Secret Wars Anthology (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116512",
+        "name": "story from Secret Wars Anthology (2015) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52467/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

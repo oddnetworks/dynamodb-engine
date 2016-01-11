@@ -1,0 +1,105 @@
+{
+  "id": 1010880,
+  "name": "Fixer (Paul Norbert Ebersol)",
+  "description": "",
+  "modified": "2011-08-23T19:20:05-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010880",
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010880/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33346",
+        "name": "Captain America (2004) #606 (HEROIC AGE VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37336",
+        "name": "Thunderbolts (2006) #155"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38615",
+        "name": "Thunderbolts (2006) #155 (CAPTAIN AMERICA 70TH ANNIVERSARY VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35662",
+        "name": "Thunderbolts (2006) #156"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37333",
+        "name": "Thunderbolts (2006) #163"
+      }
+    ],
+    "returned": 5
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010880/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+        "name": "Captain America (2004 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18527",
+        "name": "Thunderbolts (2006 - 2012)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010880/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/78867",
+        "name": "Thunderbolts (2006) #156",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82690",
+        "name": "Interior #82690",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82696",
+        "name": "THUNDERBOLTS 155",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90111",
+        "name": "THUNDERBOLTS 155 CAPTAIN AMERICA 70TH ANNIVERSARY VARIANT",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94772",
+        "name": "Captain America (2004) #606, HEROIC AGE VARIANT",
+        "type": "cover"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010880/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/704/fixer?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Fixer%20(Paul%20Norbert%20Ebersol)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010880/fixer_paul_norbert_ebersol?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

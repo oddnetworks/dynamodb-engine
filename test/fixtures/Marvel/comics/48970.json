@@ -1,0 +1,98 @@
+{
+  "id": 48970,
+  "digitalId": 0,
+  "title": "Marvel's Ant-Man: The Art of the Movie (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Experience the true scale of the Marvel Cinematic Universe with the latest entry in Marvel's ART OF series. Armed with the astonishing ability to shrink in size but increase in strength, master thief Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, protect his spectacular Ant-Man suit from a new generation of towering threats. Stars Paul Rudd and Michael Douglas take up the mantles of Scott Lang and Hank Pym as Marvel's Ant-Man brings the founding Avengers member to the big screen for the first time. In this keepsake volume, explore script secrets and production designs that showcase the creativity of Marvel's talented filmmakers. With intricate concept art, full-color photography from the set and finished film, and commentary from the filmmakers, including Director Peyton Reed, this collectible will delight new and old fans alike! ",
+  "modified": "2015-07-13T15:09:57-0400",
+  "isbn": "978-0-7851-9008-0",
+  "upc": "",
+  "diamondCode": "APR150909",
+  "ean": "9780785 190080 54999",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 1,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Experience the true scale of the Marvel Cinematic Universe with the latest entry in Marvel's ART OF series. Armed with the astonishing ability to shrink in size but increase in strength, master thief Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, protect his spectacular Ant-Man suit from a new generation of towering threats. Stars Paul Rudd and Michael Douglas take up the mantles of Scott Lang and Hank Pym as Marvel's Ant-Man brings the founding Avengers member to the big screen for the first time. In this keepsake volume, explore script secrets and production designs that showcase the creativity of Marvel's talented filmmakers. With intricate concept art, full-color photography from the set and finished film, and commentary from the filmmakers, including Director Peyton Reed, this collectible will delight new and old fans alike! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/48970",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/48970/marvels_ant-man_the_art_of_the_movie_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18427",
+    "name": "Marvel's Ant-Man: The Art of the Movie (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-30T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 49.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/55a407d924ac8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/55a407d924ac8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48970/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48970/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48970/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110027",
+        "name": "cover from Marvel's Ant-Man: The Art of the Movie (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110028",
+        "name": "story from Marvel's Ant-Man: The Art of the Movie (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48970/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": 55099,
+  "digitalId": 0,
+  "title": "Guardians Team-Up Vol. 2: Unlikely Story (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Nightcrawler journeys to a far off world to represent Earth in their celebrated interplanetary blade-fighting competition. His hopes to acquit himself well are abruptly stalled when it turns out he's facing Gamora in the semifinals. COLLECTING: GUARDIANS TEAM-UP (2015) #6-10, DEADPOOL TEAM-UP #883.",
+  "modified": "2016-01-08T13:05:24-0500",
+  "isbn": "978-0-7851-9911-3",
+  "upc": "",
+  "diamondCode": "OCT150980",
+  "ean": "9780785 199113 51699",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 136,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Nightcrawler journeys to a far off world to represent Earth in their celebrated interplanetary blade-fighting competition. His hopes to acquit himself well are abruptly stalled when it turns out he's facing Gamora in the semifinals. COLLECTING: GUARDIANS TEAM-UP (2015) #6-10, DEADPOOL TEAM-UP #883."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55099",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/55099/guardians_team-up_vol_2_unlikely_story_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20364",
+    "name": "Guardians Team-Up Vol. 2: Unlikely Story (2016)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-13T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-29T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 16.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/568ffdc76b849",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/568ffdc76b849",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55099/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9443",
+        "name": "Shawn Crystal",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/805",
+        "name": "Mike Norton",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2985",
+        "name": "Javier Pulido",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12705",
+        "name": "Diogo Saido",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12419",
+        "name": "NICK GIOVANNETTI",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12418",
+        "name": "Paul Scheer",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9550",
+        "name": "Tim Seeley",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3260",
+        "name": "Bill Willingham",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55099/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55099/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121334",
+        "name": "cover from Guardians Team-Up (2016)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121335",
+        "name": "story from Guardians Team-Up (2016)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55099/events",
+    "items": [],
+    "returned": 0
+  }
+}

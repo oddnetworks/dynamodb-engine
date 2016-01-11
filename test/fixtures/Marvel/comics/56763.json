@@ -1,0 +1,139 @@
+{
+  "id": 56763,
+  "digitalId": 0,
+  "title": "A-Force (2016) #1 (Hughes Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Hughes Hip-&#8203;Hop Variant",
+  "description": "A-FORCE, ASSEMBLE! From the ashes of Battleworld, Marvel’s newest hero SINGULARITY has risen and entered the Marvel Universe. But she didn’t make the journey alone. To combat the most fearsome threats from across the multiverse, Singularity will summon the world’s mightiest team of Avengers to her side: SHE-HULK. CAPTAIN MARVEL. DAZZLER. MEDUSA. NICO MINORU. Together, they are A FORCE to be reckoned with!",
+  "modified": "2015-12-28T16:43:42-0500",
+  "isbn": "",
+  "upc": "75960608330500131",
+  "diamondCode": "OCT150737",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "A-FORCE, ASSEMBLE! From the ashes of Battleworld, Marvel’s newest hero SINGULARITY has risen and entered the Marvel Universe. But she didn’t make the journey alone. To combat the most fearsome threats from across the multiverse, Singularity will summon the world’s mightiest team of Avengers to her side: SHE-HULK. CAPTAIN MARVEL. DAZZLER. MEDUSA. NICO MINORU. Together, they are A FORCE to be reckoned with!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56763",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56763/a-force_2016_1_hughes_hip-8203hop_variant/hughes_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20606",
+    "name": "A-Force (2016 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56012",
+      "name": "A-Force (2016) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56380",
+      "name": "A-Force (2016) #1 (Cosplay Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57628",
+      "name": "A-Force (2016) #1 (Js Campbell Marvel 92 Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57676",
+      "name": "A-Force (2016) #1 (Ibanez Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-06T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-21T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/565f4d3d69d98",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/a0/565f4d3d69d98",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/55f1ed0724feb",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/55db856d0a383",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56763/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7245",
+        "name": "Adam Hughes",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+        "name": "Jorge Molina",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56763/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56763/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124343",
+        "name": "cover from A-Force (2015) #1 (HUGHES HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124344",
+        "name": "story from A-Force (2015) #1 (HUGHES HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56763/events",
+    "items": [],
+    "returned": 0
+  }
+}

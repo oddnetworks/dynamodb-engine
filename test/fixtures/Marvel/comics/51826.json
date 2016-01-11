@@ -1,0 +1,131 @@
+{
+  "id": 51826,
+  "digitalId": 0,
+  "title": "Fantastic Four (2014) #645 (Golden Connecting Variant)",
+  "issueNumber": 645,
+  "variantDescription": "Golden Connecting Variant",
+  "description": "THE MOST CONTROVERSIAL FANTASTIC FOUR STORY CONCLUDES IN AN EXTRA-SIZED SPECIAL! - Will the Fantastic Four defeat The Quiet Man and the corrupted forces of the Heroes Reborn universe? - Will the Johnny get his powers back? Will Reed and Sue be a family again? - Will this be the end or will this be 4ever?! ",
+  "modified": "2015-04-21T14:17:44-0400",
+  "isbn": "",
+  "upc": "75960608044164531",
+  "diamondCode": "FEB150797",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 72,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE MOST CONTROVERSIAL FANTASTIC FOUR STORY CONCLUDES IN AN EXTRA-SIZED SPECIAL! - Will the Fantastic Four defeat The Quiet Man and the corrupted forces of the Heroes Reborn universe? - Will the Johnny get his powers back? Will Reed and Sue be a family again? - Will this be the end or will this be 4ever?! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51826",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51826/fantastic_four_2014_645_golden_connecting_variant/golden_connecting_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18700",
+    "name": "Fantastic Four (2014 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51824",
+      "name": "Fantastic Four (2014) #645"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51825",
+      "name": "Fantastic Four (2014) #645 (Komarck Spotlight Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53192",
+      "name": "Fantastic Four (2014) #645 (Avengers Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-15T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 5.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5536911cb5691",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5536911cb5691",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/55242ec1055d9",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51826/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7231",
+        "name": "Michael Golden",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+        "name": "Leonard Kirk",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+        "name": "James Robinson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51826/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51826/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115229",
+        "name": "cover from Fantastic Four (2014) #645 (TBD ARTIST CONNECTING VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115230",
+        "name": "story from Fantastic Four (2014) #645 (TBD ARTIST CONNECTING VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51826/events",
+    "items": [],
+    "returned": 0
+  }
+}

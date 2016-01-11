@@ -1,0 +1,103 @@
+{
+  "id": 51700,
+  "digitalId": 0,
+  "title": "Deadpool & Cable: Split Second Infinite Comic (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Call them a duo with a special kind of dynamics...call them the odd couple but with guns...call them 90s comics distilled down into two characters- Deadpool and Cable are back, baby! That’s right, The Merc with the Mouth and the Soldier with the Scowl are together again in this all-new series! When Cable gets a vision of a terrible future set off by the death of one man, he knows he must protect him no matter what! I’ll get you three guesses who’s been hired to kill that guy. Go on, guess. The fan favorite team of Fabian Nicieza & Reilly Brown have reunited to get the gang back together- and it feels so good!",
+  "modified": "2015-10-21T15:23:17-0400",
+  "isbn": "",
+  "upc": "75960608251300111",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Digital Comic",
+  "pageCount": 15,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Call them a duo with a special kind of dynamics...call them the odd couple but with guns...call them 90s comics distilled down into two characters- Deadpool and Cable are back, baby! That’s right, The Merc with the Mouth and the Soldier with the Scowl are together again in this all-new series! When Cable gets a vision of a terrible future set off by the death of one man, he knows he must protect him no matter what! I’ll get you three guesses who’s been hired to kill that guy. Go on, guess. The fan favorite team of Fabian Nicieza & Reilly Brown have reunited to get the gang back together- and it feels so good!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51700",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51700/deadpool_cable_split_second_infinite_comic_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Deadpool-Cable-TBD-Infinite-Comic-1/digital-comic/40265?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19383",
+    "name": "Deadpool & Cable: Split Second Infinite Comic (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-22T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-08T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 0
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5627e5ab98788",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/a0/5627e5ab98788",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51700/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+        "name": "Jordan White",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51700/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51700/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114977",
+        "name": "cover from Deadpool & Cable: TBD Infinite Comic (2015) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51700/events",
+    "items": [],
+    "returned": 0
+  }
+}

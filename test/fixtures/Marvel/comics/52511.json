@@ -1,0 +1,118 @@
+{
+  "id": 52511,
+  "digitalId": 0,
+  "title": "Silver Surfer (2014) #15",
+  "issueNumber": 15,
+  "variantDescription": "",
+  "description": "• Does one Norrin Radd have to die for another Silver Surfer to live?\n• In the space outside of time and the time outside of space, beings of\ngreat cosmic power battle for the final shape of the next reality!\n• This may be the “Last Days” of The Silver Surfer...\n•...but it also might be the FIRST Day of an All-New Marvel Universe!\n",
+  "modified": "2015-11-19T14:21:36-0500",
+  "isbn": "",
+  "upc": "75960607962901511",
+  "diamondCode": "JUN150692",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Does one Norrin Radd have to die for another Silver Surfer to live?\n• In the space outside of time and the time outside of space, beings of\ngreat cosmic power battle for the final shape of the next reality!\n• This may be the “Last Days” of The Silver Surfer...\n•...but it also might be the FIRST Day of an All-New Marvel Universe!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52511",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52511/silver_surfer_2014_15?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Silver-Surfer-15/digital-comic/40160?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18310",
+    "name": "Silver Surfer (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-25T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-10T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/564e1f32de22d",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/564e1f32de22d",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52511/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12396",
+        "name": "Michael Allred",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52511/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52511/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116599",
+        "name": "cover from Silver Surfer (2014) #15",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116600",
+        "name": "story from Silver Surfer (2014) #15",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52511/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

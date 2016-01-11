@@ -1,0 +1,119 @@
+{
+  "id": 53294,
+  "digitalId": 0,
+  "title": "Inhumans: Attilan Rising (2015) #5 (Johnson Design Variant)",
+  "issueNumber": 5,
+  "variantDescription": "Johnson Design Variant",
+  "description": "• Medusa finds more than she bargained for with Black Bolt: a new understanding.\n• With Medusa on their side, the Resistance has their best shot to make change on Battleworld!\n• But is it too late?\n",
+  "modified": "2015-09-14T15:53:06-0400",
+  "isbn": "",
+  "upc": "75960608205600521",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Medusa finds more than she bargained for with Black Bolt: a new understanding.\n• With Medusa on their side, the Resistance has their best shot to make change on Battleworld!\n• But is it too late?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53294",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53294/inhumans_attilan_rising_2015_5_johnson_design_variant/johnson_design_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19477",
+    "name": "Inhumans: Attilan Rising (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51999",
+      "name": "Inhumans: Attilan Rising (2015) #5"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-23T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-31T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/55f7192acd133",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/55f7192acd133",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53294/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+        "name": "Dave Johnson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12468",
+        "name": "John Timms",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53294/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53294/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117981",
+        "name": "cover from Inhumans: Attilan Rising (2015) #5 (TBD ARTIST DESIGN VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117982",
+        "name": "story from Inhumans: Attilan Rising (2015) #5 (TBD ARTIST DESIGN VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53294/events",
+    "items": [],
+    "returned": 0
+  }
+}

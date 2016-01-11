@@ -1,0 +1,124 @@
+{
+  "id": 52054,
+  "digitalId": 0,
+  "title": "Luke Cage: Second Chances Vol. 1 (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Power Man no more! Harlem's favorite son is ripping up the silk shirt and\ngetting back in the game as Luke Cage, Hero for Hire - and he's working\novertime! With Chicago as his new home, it's no surprise Luke soon has his\nhands full with the Untouchables! And that puts him square in the\nPunisher's sights. Bullets are one thing for a guy with steel-hard skin,\nbut he'll need a power upgrade before locking horns with the Rhino and\nbutting heads with the Hulk! It's far from a sweet Christmas when a new\nfoe strikes - one with ties to one of his greatest enemies! With his\nfamily's lives at stake, Luke sure is a friend in need. Good thing Iron\nFist is his friend indeed! Collecting CAGE (1992) #1-12 and material from\nMARVEL COMICS PRESENTS (1988) #82.\n",
+  "modified": "2015-09-02T16:28:27-0400",
+  "isbn": "978-0-7851-9298-5",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "9780785 192985 53499",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 320,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Power Man no more! Harlem's favorite son is ripping up the silk shirt and\ngetting back in the game as Luke Cage, Hero for Hire - and he's working\novertime! With Chicago as his new home, it's no surprise Luke soon has his\nhands full with the Untouchables! And that puts him square in the\nPunisher's sights. Bullets are one thing for a guy with steel-hard skin,\nbut he'll need a power upgrade before locking horns with the Rhino and\nbutting heads with the Hulk! It's far from a sweet Christmas when a new\nfoe strikes - one with ties to one of his greatest enemies! With his\nfamily's lives at stake, Luke sure is a friend in need. Good thing Iron\nFist is his friend indeed! Collecting CAGE (1992) #1-12 and material from\nMARVEL COMICS PRESENTS (1988) #82.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52054",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52054/luke_cage_second_chances_vol_1_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19496",
+    "name": "Luke Cage: Second Chances Vol. 1 (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-09T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-25T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 34.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/55e75ae93015a",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/55e75ae93015a",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52054/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3412",
+        "name": "Marcus McLaurin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2292",
+        "name": "Gordon Purcell",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/384",
+        "name": "Rurik Tyler",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/960",
+        "name": "Sal Velluto",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1281",
+        "name": "Dwayne Turner",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52054/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52054/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115685",
+        "name": "cover from Luke Cage: Second Chances (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115686",
+        "name": "story from Luke Cage: Second Chances (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52054/events",
+    "items": [],
+    "returned": 0
+  }
+}

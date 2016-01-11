@@ -1,0 +1,113 @@
+{
+  "id": 52681,
+  "digitalId": 0,
+  "title": "JOURNEY TO STAR WARS: THE FORCE AWAKENS - SHATTERED EMPIRE (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "Concluding the first new-canon comic tale set between episodes VI and VII! As the Empire Shatters around them, Rebel heroes fight for a better tomorrow! Greg Rucka (Punisher, Cyclops, Wolverine) and Marco Checchetto (Punisher, Avengers World) take us into the more recent long, long time ago!",
+  "modified": "2015-10-12T12:22:55-0400",
+  "isbn": "",
+  "upc": "75960608199800311",
+  "diamondCode": "AUG150863",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Concluding the first new-canon comic tale set between episodes VI and VII! As the Empire Shatters around them, Rebel heroes fight for a better tomorrow! Greg Rucka (Punisher, Cyclops, Wolverine) and Marco Checchetto (Punisher, Avengers World) take us into the more recent long, long time ago!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52681",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52681/journey_to_star_wars_the_force_awakens_-_shattered_empire_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Star-Wars-Journey-to-Episode-VII-3/digital-comic/40242?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19705",
+    "name": "JOURNEY TO STAR WARS: THE FORCE AWAKENS - SHATTERED EMPIRE (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-14T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-23T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/561bd3f71f493",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/561bd3f71f493",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52681/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+        "name": "Marco Checchetto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/28",
+        "name": "Greg Rucka",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52681/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52681/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116939",
+        "name": "cover from Star Wars: Journey to Episode VII (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116940",
+        "name": "story from Star Wars: Journey to Episode VII (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52681/events",
+    "items": [],
+    "returned": 0
+  }
+}

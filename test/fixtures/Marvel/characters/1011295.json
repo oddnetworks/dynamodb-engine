@@ -1,0 +1,92 @@
+{
+  "id": 1011295,
+  "name": "The Howling Commandos",
+  "description": "",
+  "modified": "2015-09-30T12:27:59-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4ce5a603588f5",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011295",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011295/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56925",
+        "name": "Howling Commandos of S.H.I.E.L.D. (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56928",
+        "name": "Howling Commandos of S.H.I.E.L.D. (2015) #1 (Schoonover Design Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56927",
+        "name": "Howling Commandos of S.H.I.E.L.D. (2015) #1 (Shalvey Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56930",
+        "name": "Howling Commandos of S.H.I.E.L.D. (2015) #1 (Santiago Hip-&#8203;Hop Variant)"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011295/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/20815",
+        "name": "Howling Commandos of S.H.I.E.L.D. (2015 - Present)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011295/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124667",
+        "name": "cover from Howling Commandos of S.H.I.E.L.D. (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124671",
+        "name": "cover from Howling Commandos of S.H.I.E.L.D. (2015) #1 (SHALVEY VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124673",
+        "name": "cover from Howling Commandos of S.H.I.E.L.D. (2015) #1 (TBD ARTIST DESIGN VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124677",
+        "name": "cover from Howling Commandos of S.H.I.E.L.D. (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "cover"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011295/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/characters/1011295/the_howling_commandos?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/The_Howling_Commandos?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011295/the_howling_commandos?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

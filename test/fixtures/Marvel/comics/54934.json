@@ -1,0 +1,109 @@
+{
+  "id": 54934,
+  "digitalId": 0,
+  "title": "Infinity Gauntlet: Warzones! (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Anwen Bakian’s family lives in a post-apocalyptic wasteland, scrounging for food and avoiding giant carnivorous bugs. Mom left years ago to join the Nova Force and never returned. So it’s just Anwen, her dad, her sister and her grandpa. That is, until she finds a mysterious stone that holds incredible cosmic power — and the Mad Titan Thanos enters the picture! Now, the search for the Infinity Stones begins as the Bakian family finds themselves allied with Thanos. (Don’t they know Thanos can’t be trusted? No? Someone please tell them!) The search soon explodes into all-out war, and the fate of Battleworld hangs in the balance — but so does the fate of one family that has been torn apart. Don’t miss this incredible tale that sets up the cosmic Marvel Universe for years to come! Collecting INFINITY GAUNTLET (2015) #1-5.",
+  "modified": "2015-12-08T10:45:27-0500",
+  "isbn": "978-0-7851-9874-1",
+  "upc": "",
+  "diamondCode": "AUG150874",
+  "ean": "9780785 198741 51699",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Anwen Bakian’s family lives in a post-apocalyptic wasteland, scrounging for food and avoiding giant carnivorous bugs. Mom left years ago to join the Nova Force and never returned. So it’s just Anwen, her dad, her sister and her grandpa. That is, until she finds a mysterious stone that holds incredible cosmic power — and the Mad Titan Thanos enters the picture! Now, the search for the Infinity Stones begins as the Bakian family finds themselves allied with Thanos. (Don’t they know Thanos can’t be trusted? No? Someone please tell them!) The search soon explodes into all-out war, and the fate of Battleworld hangs in the balance — but so does the fate of one family that has been torn apart. Don’t miss this incredible tale that sets up the cosmic Marvel Universe for years to come! Collecting INFINITY GAUNTLET (2015) #1-5."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/54934",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/54934/infinity_gauntlet_warzones_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20314",
+    "name": "Infinity Gauntlet: Warzones! (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-24T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 16.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/5665e48dbc11c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/5665e48dbc11c",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54934/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+        "name": "Dustin Weaver",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54934/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54934/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121063",
+        "name": "cover from Infinity Gauntlet: Warzones (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121064",
+        "name": "story from Infinity Gauntlet: Warzones (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54934/events",
+    "items": [],
+    "returned": 0
+  }
+}

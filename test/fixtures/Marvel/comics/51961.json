@@ -1,0 +1,122 @@
+{
+  "id": 51961,
+  "digitalId": 0,
+  "title": "Howard the Human (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Spend a day with Howard, a private investigator and the only human living in city full of animals. But not, like, criminals and lowlifes. We're talking elephants, apes, ducks and kitty cats. Catching a case, grinding a few gears, dodging some bullets and almost getting killed by an anthropomorchic monstrosity. It's just another Monday for Howard the Human brought to you by Skottie Young (ROCKET RACCOON) and Jim Mahfood (MIAMI VICE REMIX).",
+  "modified": "2015-07-29T09:04:28-0400",
+  "isbn": "",
+  "upc": "75960608218600111",
+  "diamondCode": "JUN150729",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Spend a day with Howard, a private investigator and the only human living in city full of animals. But not, like, criminals and lowlifes. We're talking elephants, apes, ducks and kitty cats. Catching a case, grinding a few gears, dodging some bullets and almost getting killed by an anthropomorchic monstrosity. It's just another Monday for Howard the Human brought to you by Skottie Young (ROCKET RACCOON) and Jim Mahfood (MIAMI VICE REMIX)."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51961",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51961/howard_the_human_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Howard-the-Human-1/digital-comic/39733?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19466",
+    "name": "Howard the Human (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-19T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-05T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/55ce55a148cd0",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/55ce55a148cd0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/553ff48ac45cb",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51961/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/245",
+        "name": "Jim Mahfood",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11808",
+        "name": "Jonathan Moisan",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51961/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51961/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115499",
+        "name": "cover from Howard the Human (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115500",
+        "name": "story from Howard the Human (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51961/events",
+    "items": [],
+    "returned": 0
+  }
+}

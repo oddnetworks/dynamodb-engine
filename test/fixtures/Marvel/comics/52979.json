@@ -1,0 +1,113 @@
+{
+  "id": 52979,
+  "digitalId": 0,
+  "title": "Giant-Size Little Marvel: AVX (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "- Playtime is serious business in the land of Marville and our tiniest\nheroes are putting in work to prove to their new neighbors which crew\ntoughest.\n- The smaller they are, the harder they brawl--this is BATTLEWORD after\nall.\n\n",
+  "modified": "2015-07-27T11:31:10-0400",
+  "isbn": "",
+  "upc": "75960608245200311",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- Playtime is serious business in the land of Marville and our tiniest\nheroes are putting in work to prove to their new neighbors which crew\ntoughest.\n- The smaller they are, the harder they brawl--this is BATTLEWORD after\nall.\n\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52979",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52979/giant-size_little_marvel_avx_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Giant-Size-Little-Marvel-AVX-3/digital-comic/39630?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19817",
+    "name": "Giant-Size Little Marvel: AVX (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56254",
+      "name": "Giant-Size Little Marvel: AVX (2015) #3 (CHEUNG VARIANT)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-05T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-22T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/55a7fbd3630b1",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/55a7fbd3630b1",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52979/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52979/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52979/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117535",
+        "name": "cover from Young Universe (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117536",
+        "name": "story from Young Universe (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52979/events",
+    "items": [],
+    "returned": 0
+  }
+}

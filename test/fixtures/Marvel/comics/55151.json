@@ -1,0 +1,124 @@
+{
+  "id": 55151,
+  "digitalId": 0,
+  "title": "Marvel Masterworks: The Sub-Mariner Vol. 7 (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "If ever there was a collection worthy of the title \"Marvel Masterworks,\" Bill Everett's seminal '70s return to the Sub-Mariner, the character he made a legend, is it! Beginning with Sub-Mariner #50, Everett began a run as writer/artist that rivaled the greatest work of his career. His luxuriant artwork and signature anarchic take on Sub-Mariner made every page an action-packed classic. Villains from Subby's past like Prince Byrrah set the stage, while the debut of Namorita and a new fi re-vs.-water nemesis, Sunfi re, ratchet up the drama. COLLECTING: SUB-MARINER (1968) #50-60.",
+  "modified": "2016-01-08T13:07:34-0500",
+  "isbn": "978-0-7851-9915-1",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "9780785 199151 57500",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 240,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "If ever there was a collection worthy of the title \"Marvel Masterworks,\" Bill Everett's seminal '70s return to the Sub-Mariner, the character he made a legend, is it! Beginning with Sub-Mariner #50, Everett began a run as writer/artist that rivaled the greatest work of his career. His luxuriant artwork and signature anarchic take on Sub-Mariner made every page an action-packed classic. Villains from Subby's past like Prince Byrrah set the stage, while the debut of Namorita and a new fi re-vs.-water nemesis, Sunfi re, ratchet up the drama. COLLECTING: SUB-MARINER (1968) #50-60."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55151",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/55151/marvel_masterworks_the_sub-mariner_vol_7_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20390",
+    "name": "Marvel Masterworks: The Sub-Mariner Vol. 7 (2016)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-13T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-24T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 75
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/568ffe931b54f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/568ffe931b54f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55151/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1245",
+        "name": "Mike Friedrich",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/144",
+        "name": "Steve Gerber",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1290",
+        "name": "Alan Weiss",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55151/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55151/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121413",
+        "name": "cover from Marvel Masterworks: The Sub-Mariner (2016)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121414",
+        "name": "story from Marvel Masterworks: The Sub-Mariner (2016)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55151/events",
+    "items": [],
+    "returned": 0
+  }
+}

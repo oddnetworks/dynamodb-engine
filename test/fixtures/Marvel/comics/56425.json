@@ -1,0 +1,124 @@
+{
+  "id": 56425,
+  "digitalId": 0,
+  "title": "All-New Wolverine (2015) #1 (Adams Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Adams Variant",
+  "description": "LAURA KINNEY EMBRACES HER DESTINY. HERE! COMES! WOLVERINE!\nX-23 was created to be a weapon and for a time, that’s all she was. But with the help of her mentor, LOGAN—the original WOLVERINE—she escaped that dark past. Tragically, Logan has fallen, but Laura will continue in his footsteps as a hero. Recent events have her doing everything in her power to keep those around her alive, as violent forces are hell-bent on mutual destruction. If anyone can stop them, it’s Laura. She is the best there is at what she does. She is THE ALL-NEW WOLVERINE.\n",
+  "modified": "2015-11-05T14:27:39-0500",
+  "isbn": "",
+  "upc": "75960608359600131",
+  "diamondCode": "SEP150723",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "LAURA KINNEY EMBRACES HER DESTINY. HERE! COMES! WOLVERINE!\nX-23 was created to be a weapon and for a time, that’s all she was. But with the help of her mentor, LOGAN—the original WOLVERINE—she escaped that dark past. Tragically, Logan has fallen, but Laura will continue in his footsteps as a hero. Recent events have her doing everything in her power to keep those around her alive, as violent forces are hell-bent on mutual destruction. If anyone can stop them, it’s Laura. She is the best there is at what she does. She is THE ALL-NEW WOLVERINE.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56425",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56425/all-new_wolverine_2015_1_adams_variant/adams_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20682",
+    "name": "All-New Wolverine (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56424",
+      "name": "All-New Wolverine (2015) #1"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-11T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/561e86f5a6eca",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/561e86f5a6eca",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56425/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12392",
+        "name": "David Lopez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12780",
+        "name": "David Navarrot",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12447",
+        "name": "Tom Taylor",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56425/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56425/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123705",
+        "name": "cover from All-New Wolverine (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123706",
+        "name": "story from All-New Wolverine (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56425/events",
+    "items": [],
+    "returned": 0
+  }
+}

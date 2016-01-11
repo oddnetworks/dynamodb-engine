@@ -1,0 +1,109 @@
+{
+  "id": 51399,
+  "digitalId": 0,
+  "title": "Ant-Man: Natural Enemy (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Marvel's smallest hero stars in his biggest story yet: an all-new, original prose novel timed to coincide with the ANT-MAN feature film! Meet Scott Lang: ex-con, single father and part-time super hero. Scott and his teenage daughter, Cassie, are just settling down in a new city when a criminal from Scott's past comes gunning for them. But is the killer really after Scott, or the secrets of the Ant-Man tech? And just how far will Scott go to protect his only child? Award-winning crime writer Jason Starr (Twisted City, WOLVERINE MAX) spins a thrilling tale of desperation, secrets and microscopic adventure. ",
+  "modified": "2015-06-11T15:53:38-0400",
+  "isbn": "978-0-7851-9323-4",
+  "upc": "",
+  "diamondCode": "MAR150797",
+  "ean": "9780785 193234 52499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 256,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Marvel's smallest hero stars in his biggest story yet: an all-new, original prose novel timed to coincide with the ANT-MAN feature film! Meet Scott Lang: ex-con, single father and part-time super hero. Scott and his teenage daughter, Cassie, are just settling down in a new city when a criminal from Scott's past comes gunning for them. But is the killer really after Scott, or the secrets of the Ant-Man tech? And just how far will Scott go to protect his only child? Award-winning crime writer Jason Starr (Twisted City, WOLVERINE MAX) spins a thrilling tale of desperation, secrets and microscopic adventure. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51399",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51399/ant-man_natural_enemy_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19280",
+    "name": "Ant-Man: Natural Enemy (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-13T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 24.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/556cbbc198b5e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/556cbbc198b5e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51399/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12561",
+        "name": "Mike Deodato Jr.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8698",
+        "name": "Jason Starr",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51399/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51399/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114375",
+        "name": "cover from Ant-Man: Natural Enemy (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114376",
+        "name": "story from Ant-Man: Natural Enemy (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51399/events",
+    "items": [],
+    "returned": 0
+  }
+}

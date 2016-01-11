@@ -1,0 +1,135 @@
+{
+  "id": 57509,
+  "digitalId": 0,
+  "title": "Howard the Duck (2015) #1 (Mcleod Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Mcleod Variant",
+  "description": "First spectacular issue!\nA great jumping on point! Sure to go up in value! Don’t miss out on the series everyone is calling “Howard the Duck”! The last page will shock you! Nothing will EVER be the same again! Hey! Where are you going? Come back! Waugh!\n",
+  "modified": "2015-10-29T16:48:23-0400",
+  "isbn": "",
+  "upc": "75960608305300161",
+  "diamondCode": "SEP150777",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "First spectacular issue!\nA great jumping on point! Sure to go up in value! Don’t miss out on the series everyone is calling “Howard the Duck”! The last page will shock you! Nothing will EVER be the same again! Hey! Where are you going? Come back! Waugh!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57509",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57509/howard_the_duck_2015_1_mcleod_variant/mcleod_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20471",
+    "name": "Howard the Duck (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55498",
+      "name": "Howard the Duck (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55937",
+      "name": "Howard the Duck (2015) #1 (Doe Hip-&#8203;Hop Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56922",
+      "name": "Howard the Duck (2015) #1 (Aja Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57795",
+      "name": "Howard the Duck (2015) #1 (Movie Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/563284b6564a6",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/563284b6564a6",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/561d456f064a0",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57509/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8125",
+        "name": "Bob McLeod",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10090",
+        "name": "Joe Quinones",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+        "name": "Chip Zdarsky",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57509/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57509/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125836",
+        "name": "cover from Howard the Duck (2015) #1 (MCLEOD VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125837",
+        "name": "story from Howard the Duck (2015) #1 (MCLEOD VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57509/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": 52273,
+  "digitalId": 0,
+  "title": "Avengers: Time Runs Out Vol. 4 (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "For Earth's Mightiest Heroes and the Illuminati, it all ends here! After two years of carefully crafting his cataclysmic saga, writer Jonathan Hickman jumps ahead eight months to the grand finale, the honest-to-goodness immediate future of the Marvel Universe - and the day of the Final Incursion! The Illuminati's desperate, world-destroying actions have fragmented the Avengers, turning lifelong friends into sworn foes! But as the final incursion looms, will the Avengers, Illuminati and Cabal band together to save what they can, or destroy one another? And have all the battles they've endured, and the sacrifices they've made, prepared either group for the inevitable moment where time runs out...and the Secret Wars begin? The final act of the astonishing climax to Jonathan Hickman's legendary run is here! Collecting AVENGERS (2012) #43-44 and NEW AVENGERS (2013) #31-33. ",
+  "modified": "2015-06-11T16:16:06-0400",
+  "isbn": "978-0-7851-9224-4",
+  "upc": "",
+  "diamondCode": "MAR150795",
+  "ean": "9780785 192244 52499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 152,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "For Earth's Mightiest Heroes and the Illuminati, it all ends here! After two years of carefully crafting his cataclysmic saga, writer Jonathan Hickman jumps ahead eight months to the grand finale, the honest-to-goodness immediate future of the Marvel Universe - and the day of the Final Incursion! The Illuminati's desperate, world-destroying actions have fragmented the Avengers, turning lifelong friends into sworn foes! But as the final incursion looms, will the Avengers, Illuminati and Cabal band together to save what they can, or destroy one another? And have all the battles they've endured, and the sacrifices they've made, prepared either group for the inevitable moment where time runs out...and the Secret Wars begin? The final act of the astonishing climax to Jonathan Hickman's legendary run is here! Collecting AVENGERS (2012) #43-44 and NEW AVENGERS (2013) #31-33. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52273",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52273/avengers_time_runs_out_vol_4_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/New-Avengers-Time-Runs-Out-0/digital-comic/38963?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19600",
+    "name": "Avengers: Time Runs Out Vol. 4 (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-02T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 24.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5579eae0d7284",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5579eae0d7284",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52273/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+        "name": "Stefano Caselli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12561",
+        "name": "Mike Deodato Jr.",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/234",
+        "name": "Kev Walker",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+        "name": "Dustin Weaver",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52273/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52273/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116123",
+        "name": "cover from New Avengers: Time Runs Out (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116124",
+        "name": "story from New Avengers: Time Runs Out (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52273/events",
+    "items": [],
+    "returned": 0
+  }
+}

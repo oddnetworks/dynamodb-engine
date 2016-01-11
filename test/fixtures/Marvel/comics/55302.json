@@ -1,0 +1,122 @@
+{
+  "id": 55302,
+  "digitalId": 0,
+  "title": "Amazing Spider-Man (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "Not only has Spider-Man gone global – so have his enemies! Someone in Africa is masquerading as a member of the GOBLIN family! Where there’s goblins, there’s Spidey, and it’s up to everyone’s favorite wall-crawler to get to the bottom of what’s going on!\n",
+  "modified": "2015-12-01T15:21:16-0500",
+  "isbn": "",
+  "upc": "75960608297100411",
+  "diamondCode": "OCT150858",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Not only has Spider-Man gone global – so have his enemies! Someone in Africa is masquerading as a member of the GOBLIN family! Where there’s goblins, there’s Spidey, and it’s up to everyone’s favorite wall-crawler to get to the bottom of what’s going on!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55302",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55302/amazing_spider-man_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-4/digital-comic/40651?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20432",
+    "name": "Amazing Spider-Man (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/565e003371152",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/565e003371152",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/563d0a6503ae2",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55302/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+        "name": "Alex Ross",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55302/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55302/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121647",
+        "name": "cover from The Amazing Spider-Man (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121648",
+        "name": "story from The Amazing Spider-Man (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55302/events",
+    "items": [],
+    "returned": 0
+  }
+}

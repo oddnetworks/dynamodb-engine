@@ -1,0 +1,130 @@
+{
+  "id": 51797,
+  "digitalId": 39115,
+  "title": "Runaways (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "- The best and brightest teens from all corners of Battleworld are chosen to attend a prestigious school on the planet's capital! - But what does the new class do when they discover the school's beloved headmaster is actually a diabolical super villain? RUN AWAY! - A SECRET WARS story like none other from the remarkable minds of Noelle Stevenson (LUMBERJANES) and Sanford Greene (UNCANNY AVENGERS)! ",
+  "modified": "2015-07-16T12:27:27-0400",
+  "isbn": "",
+  "upc": "75960608211700111",
+  "diamondCode": "APR150727",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- The best and brightest teens from all corners of Battleworld are chosen to attend a prestigious school on the planet's capital! - But what does the new class do when they discover the school's beloved headmaster is actually a diabolical super villain? RUN AWAY! - A SECRET WARS story like none other from the remarkable minds of Noelle Stevenson (LUMBERJANES) and Sanford Greene (UNCANNY AVENGERS)! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51797",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51797/runaways_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Runaways-1/digital-comic/39115?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=39115&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19416",
+    "name": "Runaways (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/54779",
+      "name": "Runaways (2015) #1 (Noto Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-25T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-14T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-06-18T09:43:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/556f5ce39cb51",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/556f5ce39cb51",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51797/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7718",
+        "name": "Sanford Greene",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12475",
+        "name": "Noelle Stevenson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51797/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51797/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115171",
+        "name": "cover from Doomed Youth (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115172",
+        "name": "story from Doomed Youth (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51797/events",
+    "items": [],
+    "returned": 0
+  }
+}

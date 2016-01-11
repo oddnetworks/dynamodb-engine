@@ -1,0 +1,123 @@
+{
+  "id": 51679,
+  "digitalId": 0,
+  "title": "Darth Vader (2015) #11",
+  "issueNumber": 11,
+  "variantDescription": "",
+  "description": "• Aphra’s private investigation on behalf of Vader...\n• Vader’s investigation on behalf of the Empire...\n• It all come crashing together...with deadly results.\n",
+  "modified": "2015-10-13T15:01:25-0400",
+  "isbn": "",
+  "upc": "759606081241001111",
+  "diamondCode": "JUL150777",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Aphra’s private investigation on behalf of Vader...\n• Vader’s investigation on behalf of the Empire...\n• It all come crashing together...with deadly results.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51679",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51679/darth_vader_2015_11?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Darth-Vader-11/digital-comic/40270?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19379",
+    "name": "Darth Vader (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-21T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-07T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/561d53202b717",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/561d53202b717",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51679/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+        "name": "Adi Granov",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51679/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51679/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114935",
+        "name": "cover from Darth Vader (2015) #11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114936",
+        "name": "story from Darth Vader (2015) #11",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51679/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/327",
+        "name": "Star Wars"
+      }
+    ],
+    "returned": 1
+  }
+}

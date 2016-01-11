@@ -1,0 +1,112 @@
+{
+  "id": 52309,
+  "digitalId": 0,
+  "title": "Old Man Logan (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "As the mysteries of Battleworld begin to unravel, Logan finds himself in a world eerily similar to the one he himself helped dismantle. But in trying to untangle the web of secrets, he soon realizes that he may not even be able to trust his own memories. And this new neighborhood may not be as friendly as he thought...",
+  "modified": "2015-08-24T13:21:26-0400",
+  "isbn": "",
+  "upc": "75960608226100411",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "As the mysteries of Battleworld begin to unravel, Logan finds himself in a world eerily similar to the one he himself helped dismantle. But in trying to untangle the web of secrets, he soon realizes that he may not even be able to trust his own memories. And this new neighborhood may not be as friendly as he thought..."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52309",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52309/old_man_logan_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Old-Man-Logan-4/digital-comic/39769?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19614",
+    "name": "Old Man Logan (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-26T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-05T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55d5088cdf821",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55d5088cdf821",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/55c100b58171b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52309/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+        "name": "Mark Paniccia",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52309/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52309/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116195",
+        "name": "cover from Old Man Logan (2015) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52309/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

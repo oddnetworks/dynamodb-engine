@@ -1,0 +1,93 @@
+{
+  "id": 52667,
+  "digitalId": 0,
+  "title": "Star Wars Legends Epic Collection: Rise of the Sith Vol. 1 (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": null,
+  "modified": "2015-08-19T19:51:33-0400",
+  "isbn": "978-0-7851-9722-5",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "9780785 197225 53499",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 488,
+  "textObjects": [],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52667",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52667/star_wars_legends_epic_collection_rise_of_the_sith_vol_1_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19694",
+    "name": "Star Wars Legends Epic Collection: Rise of the Sith Vol. 1 (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-26T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-11T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 34.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/55d50c525d6e3",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/55d50c525d6e3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52667/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52667/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52667/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116911",
+        "name": "cover from Star Wars Legends Epic Collection: Rise of the Sith (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52667/events",
+    "items": [],
+    "returned": 0
+  }
+}

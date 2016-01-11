@@ -1,0 +1,123 @@
+{
+  "id": 57116,
+  "digitalId": 0,
+  "title": "Silk (2015) #2 (Hembeck Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Hembeck Variant",
+  "description": "• SILK! BLACK CAT! IN CAHOOTS!\n• But not everyone in Cat’s criminal crew are happy about it!\n• Neither is everyone in Cindy’s life, including a certain CEO of Parker Industries.\n",
+  "modified": "2015-12-14T18:40:49-0500",
+  "isbn": "",
+  "upc": "75960608311400221",
+  "diamondCode": "OCT150863",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• SILK! BLACK CAT! IN CAHOOTS!\n• But not everyone in Cat’s criminal crew are happy about it!\n• Neither is everyone in Cindy’s life, including a certain CEO of Parker Industries.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57116",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57116/silk_2015_2_hembeck_variant/hembeck_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20499",
+    "name": "Silk (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55639",
+      "name": "Silk (2015) #2"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58098",
+      "name": "Silk (2015) #2 (Bagley Marvel 92 Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-16T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-01T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/55f70031cee38",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/55f70031cee38",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57116/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2997",
+        "name": "Fred Hembeck",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12716",
+        "name": "Stacey Lee",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+        "name": "Robbie Thompson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57116/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57116/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125049",
+        "name": "cover from Silk (2015) #2 (HEMBECK VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125050",
+        "name": "story from Silk (2015) #2 (HEMBECK VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57116/events",
+    "items": [],
+    "returned": 0
+  }
+}

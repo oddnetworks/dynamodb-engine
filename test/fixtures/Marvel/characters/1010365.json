@@ -1,0 +1,129 @@
+{
+  "id": 1010365,
+  "name": "Nebula",
+  "description": "",
+  "modified": "2013-11-20T17:14:56-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/30/528d339973337",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010365",
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010365/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13158",
+        "name": "Fantastic Four (1961) #337"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13159",
+        "name": "Fantastic Four (1961) #338"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13163",
+        "name": "Fantastic Four (1961) #341"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13169",
+        "name": "Fantastic Four (1961) #347"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13535",
+        "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38966",
+        "name": "Spider-Man: Am I an Avenger? (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1152",
+        "name": "X-Men Legends Vol. 3: Art Adams Book I (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1185",
+        "name": "X-Men Legends Vol. III: Arthur Adams Book I (Trade Paperback)"
+      }
+    ],
+    "returned": 8
+  },
+  "series": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010365/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+        "name": "Fantastic Four (1961 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2254",
+        "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14078",
+        "name": "Spider-Man: Am I an Avenger? (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/211",
+        "name": "X-Men Legends Vol. 3: Art Adams Book I (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/242",
+        "name": "X-Men Legends Vol. III: Arthur Adams Book I (2003)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010365/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12967",
+        "name": "Into the Time Stream!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12969",
+        "name": "Kangs for the Memories!!!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12977",
+        "name": "The Ultimate Solution",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12989",
+        "name": "Big Trouble on Little Earth!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85502",
+        "name": "Interior #85502",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010365/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/40/nebula?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Nebula?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010365/nebula?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

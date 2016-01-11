@@ -1,0 +1,127 @@
+{
+  "id": 57078,
+  "digitalId": 0,
+  "title": "Red Wolf (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "NEW TIME! NEW PLACE! After his battle with the SURVEYOR, RED WOLF awakens in a world very different from his own…But some problems remain the same. Like dangerous men who ride into town looking to cause trouble. Like snakes in the grass. It will take all of Red Wolf’s poise and cunning to keep his wits about him in this strange new world. Thank goodness no one’s shooting at him. Oh. Wait.",
+  "modified": "2015-12-30T10:29:50-0500",
+  "isbn": "",
+  "upc": "75960608411100211",
+  "diamondCode": "NOV150846",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "NEW TIME! NEW PLACE! After his battle with the SURVEYOR, RED WOLF awakens in a world very different from his own…But some problems remain the same. Like dangerous men who ride into town looking to cause trouble. Like snakes in the grass. It will take all of Red Wolf’s poise and cunning to keep his wits about him in this strange new world. Thank goodness no one’s shooting at him. Oh. Wait."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57078",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57078/red_wolf_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Red-Wolf-2/digital-comic/40858?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20849",
+    "name": "Red Wolf (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-13T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-28T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/56903fe2ec401",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/56903fe2ec401",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/5683f99e2bf1b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57078/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11799",
+        "name": "Nathan Edmondson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+        "name": "Dalibor Talajic",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+        "name": "Jacob Thomas",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12783",
+        "name": "Jefferey Veregge",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57078/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57078/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124973",
+        "name": "cover from Red Wolf (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124974",
+        "name": "story from Red Wolf (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57078/events",
+    "items": [],
+    "returned": 0
+  }
+}

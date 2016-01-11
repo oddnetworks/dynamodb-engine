@@ -1,0 +1,134 @@
+{
+  "id": 53690,
+  "digitalId": 39066,
+  "title": "Ant-Man: Larger than Life (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Join Hank Pym, a.k.a. ANT-MAN, as he learns that a little experiment can land him in BIG trouble! Can Ant-Man tame something as painfully formidable as the Bullet Ant before it's too late?! Find out! PLUS: Reprinting Tales to Astonish #27 (the first appearance of Hank Pym) and Tales to Astonish#35 (the first of appearance of Ant-Man in costume)! ",
+  "modified": "2015-06-15T16:41:58-0400",
+  "isbn": "",
+  "upc": "75960608282700111",
+  "diamondCode": "APR150872",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 48,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Join Hank Pym, a.k.a. ANT-MAN, as he learns that a little experiment can land him in BIG trouble! Can Ant-Man tame something as painfully formidable as the Bullet Ant before it's too late?! Find out! PLUS: Reprinting Tales to Astonish #27 (the first appearance of Hank Pym) and Tales to Astonish#35 (the first of appearance of Ant-Man in costume)! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53690",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53690/ant-man_larger_than_life_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Ant-Man-Larger-than-Life-1/digital-comic/39066?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=39066&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20087",
+    "name": "Ant-Man: Larger than Life (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-24T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-21T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-06-18T10:55:59-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/557f37025536f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/557f37025536f",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/552575da5f976",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53690/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12387",
+        "name": "Jung-Sik Ahn",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12502",
+        "name": "Andrea Divito",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12501",
+        "name": "Corona Pilgrim",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53690/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53690/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118619",
+        "name": "cover from Ant-Man: Larger than Life (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118620",
+        "name": "story from Ant-Man: Larger than Life (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53690/events",
+    "items": [],
+    "returned": 0
+  }
+}

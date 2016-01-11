@@ -1,0 +1,119 @@
+{
+  "id": 55501,
+  "digitalId": 0,
+  "title": "Howard the Duck (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "She’s obsessed, she’s powerful, she’s ALMOST the new herald of Galactus! And like the rest of the universe, SCOUT is after Howard. But with an eye to ending the hunger of the Devourer of Worlds! Plus: The Silver Surfer! The Stranger! The Guardians of the Galaxy! All in a story of Howard on the run we’re calling … FOWL MOVEMENT! Oh god, are we really calling it that?",
+  "modified": "2016-01-07T15:01:20-0500",
+  "isbn": "",
+  "upc": "75960608305300411",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "She’s obsessed, she’s powerful, she’s ALMOST the new herald of Galactus! And like the rest of the universe, SCOUT is after Howard. But with an eye to ending the hunger of the Devourer of Worlds! Plus: The Silver Surfer! The Stranger! The Guardians of the Galaxy! All in a story of Howard on the run we’re calling … FOWL MOVEMENT! Oh god, are we really calling it that?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55501",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55501/howard_the_duck_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20471",
+    "name": "Howard the Duck (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-02-03T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-01-20T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/568ec47829075",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/568ec47829075",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55501/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+        "name": "Wilson Moss",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10090",
+        "name": "Joe Quinones",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12339",
+        "name": "Kevin P. Wada",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+        "name": "Chip Zdarsky",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55501/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55501/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122045",
+        "name": "cover from Howard the Duck (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122046",
+        "name": "story from Howard the Duck (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55501/events",
+    "items": [],
+    "returned": 0
+  }
+}

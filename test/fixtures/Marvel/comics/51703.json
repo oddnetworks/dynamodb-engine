@@ -1,0 +1,97 @@
+{
+  "id": 51703,
+  "digitalId": 0,
+  "title": "Deadpool & Cable: Split Second Infinite Comic (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": null,
+  "modified": "2015-11-25T10:37:01-0500",
+  "isbn": "",
+  "upc": "75960608251300411",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Digital Comic",
+  "pageCount": 15,
+  "textObjects": [],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51703",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51703/deadpool_cable_split_second_infinite_comic_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Deadpool-Cable-Split-Second-Infinite-Comic-4/digital-comic/40629?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19383",
+    "name": "Deadpool & Cable: Split Second Infinite Comic (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-20T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 0
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5655d56dbaca6",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/5655d56dbaca6",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51703/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+        "name": "Jordan White",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51703/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51703/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114983",
+        "name": "cover from Deadpool & Cable: TBD Infinite Comic (2015) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51703/events",
+    "items": [],
+    "returned": 0
+  }
+}

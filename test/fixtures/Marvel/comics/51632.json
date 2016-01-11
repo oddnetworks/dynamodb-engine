@@ -1,0 +1,123 @@
+{
+  "id": 51632,
+  "digitalId": 0,
+  "title": "Dark Tower: The Drawing of the Three - Lady of Shadows (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "A NEW CHARACTER ADDS HER STORY TO STEPHEN KING'S DARK FANTASY EPIC!\n- Roland and Eddie are on a quest to find the 3rd member of their ka-tet.\n- Enter Odetta Holmes, a wealthy, Civil Rights activist, living in the South.\n- But Odetta has a dark secret--and to uncover that secret, we'll have to go all the way back to the beginning...\n",
+  "modified": "2015-08-26T14:17:45-0400",
+  "isbn": "",
+  "upc": "75960608130100111",
+  "diamondCode": "JUL150795",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "A NEW CHARACTER ADDS HER STORY TO STEPHEN KING'S DARK FANTASY EPIC!\n- Roland and Eddie are on a quest to find the 3rd member of their ka-tet.\n- Enter Odetta Holmes, a wealthy, Civil Rights activist, living in the South.\n- But Odetta has a dark secret--and to uncover that secret, we'll have to go all the way back to the beginning...\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51632",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51632/dark_tower_the_drawing_of_the_three_-_lady_of_shadows_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19371",
+    "name": "Dark Tower: The Drawing of the Three - Lady of Shadows (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-02T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-19T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/55de0295db4ab",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/55de0295db4ab",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/557a0607abe00",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51632/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10365",
+        "name": "Robin Furth",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12262",
+        "name": "Nimit Malavia",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12398",
+        "name": "Jonathan Marks",
+        "role": "artist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51632/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51632/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114841",
+        "name": "cover from Dark Tower: The Drawing of the Three - Lady of Shadows (2020) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114842",
+        "name": "story from Dark Tower: The Drawing of the Three - Lady of Shadows (2020) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51632/events",
+    "items": [],
+    "returned": 0
+  }
+}

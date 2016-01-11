@@ -1,0 +1,120 @@
+{
+  "id": 52175,
+  "digitalId": 38615,
+  "title": "Marvel Universe Guardians of the Galaxy (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "Based on the hit new series, follow the further adventures of the Guardians of the Galaxy! Final issue! - Is this the end for our dear Guardians or can they save the galaxy one more time? Rocket and Groot finally get the spotlight! ",
+  "modified": "2015-11-16T12:58:07-0500",
+  "isbn": "",
+  "upc": "759606081401000411",
+  "diamondCode": "MAR150753",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Based on the hit new series, follow the further adventures of the Guardians of the Galaxy! Final issue! - Is this the end for our dear Guardians or can they save the galaxy one more time? Rocket and Groot finally get the spotlight! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52175",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52175/marvel_universe_guardians_of_the_galaxy_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38615&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19561",
+    "name": "Marvel Universe Guardians of the Galaxy (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-13T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-16T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 2.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/564a191f1a012",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/564a191f1a012",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/554bd1a9f3419",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/90/5502df23a2073",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52175/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "writer"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52175/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52175/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115927",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115928",
+        "name": "story from Marvel Universe Guardians of the Galaxy (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52175/events",
+    "items": [],
+    "returned": 0
+  }
+}

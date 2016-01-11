@@ -1,0 +1,113 @@
+{
+  "id": 1010801,
+  "name": "Ant-Man (Scott Lang)",
+  "description": "",
+  "modified": "2015-09-25T17:14:28-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/52696868356a0",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010801",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010801/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55329",
+        "name": "The Astonishing Ant-Man (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57205",
+        "name": "The Astonishing Ant-Man (2015) #1 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55910",
+        "name": "The Astonishing Ant-Man (2015) #1 (Brooks Hip-&#8203;Hop Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57206",
+        "name": "The Astonishing Ant-Man (2015) #1 (Cosplay Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7088",
+        "name": "Avengers (1963) #221"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4802",
+        "name": "Women of Marvel (Trade Paperback)"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010801/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/20437",
+        "name": "The Astonishing Ant-Man (2015 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1777",
+        "name": "Women of Marvel (2006)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010801/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14715",
+        "name": "Cover #14715",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121702",
+        "name": "story from Ant-Man (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122805",
+        "name": "cover from Ant-Man (2015) #1 (BROOKS HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125227",
+        "name": "cover from Ant-Man (2015) #1 (YOUNG VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125229",
+        "name": "cover from Ant-Man (2015) #1 (COSPLAY VARIANT)",
+        "type": "cover"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010801/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/characters/1010801/ant-man_scott_lang?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Ant-Man_(Scott_Lang)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010801/ant-man_scott_lang?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

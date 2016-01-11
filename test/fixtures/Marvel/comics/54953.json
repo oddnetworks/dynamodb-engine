@@ -1,0 +1,124 @@
+{
+  "id": 54953,
+  "digitalId": 0,
+  "title": "Spider-Island: Warzones! (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "In the Battleworld zone known as Spider-Island, Peter Parker has lost — and the Spider Queen has turned Manhattan into an island of arachnid madness! With Spider-Man defeated and captive, does Flash Thompson — A.K.A. Venom — stand a chance? Venom and his squad of monstrous heroes wage all-out war on the Queen, but to reclaim a Manhattan completely overrun by her spider-army, Venom will need a little help from his friend. (Which friend? We’ll give you a hint: thwip!) Venom and his allies take the fight straight to the Queen, but one among them will have to make the ultimate sacrifice! Plus: Mayday Parker and her amazing Spider-Family are back as we visit the MC2 patch of Battleworld! Collecting SPIDER-ISLAND (2015) #1-5.",
+  "modified": "2015-11-10T15:01:19-0500",
+  "isbn": "978-0-7851-9885-7",
+  "upc": "",
+  "diamondCode": "AUG150883",
+  "ean": "9780785 198857 51799",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 120,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "In the Battleworld zone known as Spider-Island, Peter Parker has lost — and the Spider Queen has turned Manhattan into an island of arachnid madness! With Spider-Man defeated and captive, does Flash Thompson — A.K.A. Venom — stand a chance? Venom and his squad of monstrous heroes wage all-out war on the Queen, but to reclaim a Manhattan completely overrun by her spider-army, Venom will need a little help from his friend. (Which friend? We’ll give you a hint: thwip!) Venom and his allies take the fight straight to the Queen, but one among them will have to make the ultimate sacrifice! Plus: Mayday Parker and her amazing Spider-Family are back as we visit the MC2 patch of Battleworld! Collecting SPIDER-ISLAND (2015) #1-5."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/54953",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/54953/spider-island_warzones_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20326",
+    "name": "Spider-Island: Warzones! (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-11T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 17.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5640d601e6f69",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5640d601e6f69",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54953/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+        "name": "Ron Frenz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3820",
+        "name": "Paco Diaz Luque",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54953/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54953/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121101",
+        "name": "cover from Spider-Island: Warzones (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121102",
+        "name": "story from Spider-Island: Warzones (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54953/events",
+    "items": [],
+    "returned": 0
+  }
+}

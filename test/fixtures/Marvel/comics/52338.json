@@ -1,0 +1,127 @@
+{
+  "id": 52338,
+  "digitalId": 0,
+  "title": "Planet Hulk (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "BRANDED BY BATTLE! ABSOLVED BY BLOOD! For STEVE ROGERS and DEVIL DINOSAUR...there is no end to HULK, no promise of salvation. Crawl in the mud and the blood, until the claws of death reach your throat! THERE IS NO ESCAPE...PLANET HULK IS INSIDE US ALL!",
+  "modified": "2015-09-14T09:50:06-0400",
+  "isbn": "",
+  "upc": "75960608228500511",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "BRANDED BY BATTLE! ABSOLVED BY BLOOD! For STEVE ROGERS and DEVIL DINOSAUR...there is no end to HULK, no promise of salvation. Crawl in the mud and the blood, until the claws of death reach your throat! THERE IS NO ESCAPE...PLANET HULK IS INSIDE US ALL!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52338",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52338/planet_hulk_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Planet-Hulk-5/digital-comic/39901?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19625",
+    "name": "Planet Hulk (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-09T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-19T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/55e5cbd701beb",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/55e5cbd701beb",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/55d1f715b88ad",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52338/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11530",
+        "name": "Sam Humphries",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12406",
+        "name": "Marc Laming",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12288",
+        "name": "Michael Del Mundo",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52338/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52338/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116253",
+        "name": "cover from Planet Hulk (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116254",
+        "name": "story from Planet Hulk (2015) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52338/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": 53545,
+  "digitalId": 0,
+  "title": "Inferno (2015) #1 (Granov Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Granov Variant",
+  "description": "Spinning out of the universe-shattering events of Secret Wars comes a new twist on the X-Men classic that's a whole hell of a lot hotter than you remember. 5 years ago a band of demons rose up out of the fiery depths and turned Manhattan into Hell on Earth. The X-Men fought to vanquish the demon horde and... The X-Men failed. Welcome back to the Inferno. On this the fifth anniversary of Manhattan's fall, Piotr Rasputin is leading a small band of mutants back into the Inferno. Colossus doesn't know what they'll find on the other side of those flames but he knows for certain... They're not coming back without his sister. ",
+  "modified": "2015-05-26T13:03:56-0400",
+  "isbn": "",
+  "upc": "75960608219300121",
+  "diamondCode": "MAR150651",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Spinning out of the universe-shattering events of Secret Wars comes a new twist on the X-Men classic that's a whole hell of a lot hotter than you remember. 5 years ago a band of demons rose up out of the fiery depths and turned Manhattan into Hell on Earth. The X-Men fought to vanquish the demon horde and... The X-Men failed. Welcome back to the Inferno. On this the fifth anniversary of Manhattan's fall, Piotr Rasputin is leading a small band of mutants back into the Inferno. Colossus doesn't know what they'll find on the other side of those flames but he knows for certain... They're not coming back without his sister. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53545",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53545/inferno_2015_1_granov_variant/granov_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19470",
+    "name": "Inferno (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51971",
+      "name": "Inferno (2015) #1"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-27T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-13T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5564a6aba9f47",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/5564a6aba9f47",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/5540fe9f9bd2b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/54db8a0ae4fc3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53545/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+        "name": "Javier Garron",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+        "name": "Adi Granov",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53545/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53545/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118365",
+        "name": "cover from Inferno (2015) #1 (GRANOV VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118366",
+        "name": "story from Inferno (2015) #1 (GRANOV VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53545/events",
+    "items": [],
+    "returned": 0
+  }
+}

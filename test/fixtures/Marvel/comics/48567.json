@@ -1,0 +1,123 @@
+{
+  "id": 48567,
+  "digitalId": 0,
+  "title": "Bucky Barnes: The Winter Soldier Vol. 2 (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "As Bucky Barnes fights for his life, the planet Mer-Z-Bow approaches civil war — its first in seven centuries. And the Winter Soldier might be the catalyst! The other Bucky Barnes came to this dimension to help. But did the man who seeks to end war just cause one in another universe? Who sent Crossbones to kill Bucky? Who benefits from erasing their steps the most? As the two Buckys sort things out, the mastermind is uncovered, and Daisy Johnson hunts for the “gun planet” — a planet that is an actual gun, now aimed at Mer-Z-Bow! Quake and Ventolin join forces, but the lies fly far and wide. Bucky and Bucky have a transdimensional team-up — but as the situation on Mer-Z-Bow reaches a climax, are two Buckys one too many? Collecting BUCKY BARNES: THE WINTER SOLDIER #6-11.",
+  "modified": "2015-10-19T14:13:47-0400",
+  "isbn": "978-0-7851-8930-5",
+  "upc": "",
+  "diamondCode": "AUG150902",
+  "ean": "9780785 189305 51799",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 136,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "As Bucky Barnes fights for his life, the planet Mer-Z-Bow approaches civil war — its first in seven centuries. And the Winter Soldier might be the catalyst! The other Bucky Barnes came to this dimension to help. But did the man who seeks to end war just cause one in another universe? Who sent Crossbones to kill Bucky? Who benefits from erasing their steps the most? As the two Buckys sort things out, the mastermind is uncovered, and Daisy Johnson hunts for the “gun planet” — a planet that is an actual gun, now aimed at Mer-Z-Bow! Quake and Ventolin join forces, but the lies fly far and wide. Bucky and Bucky have a transdimensional team-up — but as the situation on Mer-Z-Bow reaches a climax, are two Buckys one too many? Collecting BUCKY BARNES: THE WINTER SOLDIER #6-11."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/48567",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/48567/bucky_barnes_the_winter_soldier_vol_2_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18346",
+    "name": "Bucky Barnes: The Winter Soldier Vol. 2 (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-21T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-06T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 17.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/562145e68169e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/562516589dbc8",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/562145e68169e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48567/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+        "name": "Mike Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12469",
+        "name": "Langdon Foss",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12421",
+        "name": "Marco Rudy",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12394",
+        "name": "Ales Kot",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48567/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48567/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109229",
+        "name": "cover from Bucky Barnes: Winter Soldier (2014)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109230",
+        "name": "story from Bucky Barnes: Winter Soldier (2014)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48567/events",
+    "items": [],
+    "returned": 0
+  }
+}

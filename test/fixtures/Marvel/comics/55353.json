@@ -1,0 +1,124 @@
+{
+  "id": 55353,
+  "digitalId": 0,
+  "title": "All-New, All-Different Avengers (2015) #1 (Chiang Inhuman 50th Anniversary Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Chiang Inhuman 50th Anniversary Variant",
+  "description": "The Avengers are dead--long live the Avengers! Earth’s Mightiest Heroes--Captain America, Thor, Vision, and Iron Man--are living separate lives, not tied to any team--but when a threat from beyond the stars targets our world, fate draws them together once more, alongside Nova, Ms. Marvel, and Miles Morales a.k.a. Spider-Man!",
+  "modified": "2015-11-05T14:56:24-0500",
+  "isbn": "",
+  "upc": "75960608299500121",
+  "diamondCode": "SEP150658",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 48,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The Avengers are dead--long live the Avengers! Earth’s Mightiest Heroes--Captain America, Thor, Vision, and Iron Man--are living separate lives, not tied to any team--but when a threat from beyond the stars targets our world, fate draws them together once more, alongside Nova, Ms. Marvel, and Miles Morales a.k.a. Spider-Man!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55353",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55353/all-new_all-different_avengers_2015_1_chiang_inhuman_50th_anniversary_variant/chiang_inhuman_50th_anniversary_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20443",
+    "name": "All-New, All-Different Avengers (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55351",
+      "name": "All-New, All-Different Avengers (2015) #1"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-11T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/562160e1a0e31",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/562160e1a0e31",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55353/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+        "name": "Mahmud Asrar",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+        "name": "Adam Kubert",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8247",
+        "name": "Cliff Chiang",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55353/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55353/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121749",
+        "name": "cover from Avengers (2015) #1 (TBD ARTIST INHUMAN 50TH ANNIVERSARY VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121750",
+        "name": "story from Avengers (2015) #1 (TBD ARTIST INHUMAN 50TH ANNIVERSARY VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55353/events",
+    "items": [],
+    "returned": 0
+  }
+}

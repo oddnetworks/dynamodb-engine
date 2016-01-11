@@ -1,0 +1,122 @@
+{
+  "id": 56782,
+  "digitalId": 0,
+  "title": "Black Knight (2015) #1 (Gariba Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Gariba Hip-&#8203;Hop Variant",
+  "description": "What do you do when it’s your destiny to be damned? For centuries, that is the question that has plagued each wielder of the Ebony Blade... with all of them eventually meeting untimely ends due to the sword’s curse. And it is the question the current Black Knight, Dane Whitman, must ask himself as his addiction to the blade grows ever stronger and he finds himself in the aptly named Weirdworld. What are the circumstances that brought him to leave Earth and enter this strange and dangerous realm? And what do the Uncanny Avengers have to do with it? Find out here in this new ongoing tale of sword, sorcery and one man’s struggle to not lose his soul.",
+  "modified": "2015-11-10T16:48:28-0500",
+  "isbn": "",
+  "upc": "75960608409800121",
+  "diamondCode": "SEP150756",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "What do you do when it’s your destiny to be damned? For centuries, that is the question that has plagued each wielder of the Ebony Blade... with all of them eventually meeting untimely ends due to the sword’s curse. And it is the question the current Black Knight, Dane Whitman, must ask himself as his addiction to the blade grows ever stronger and he finds himself in the aptly named Weirdworld. What are the circumstances that brought him to leave Earth and enter this strange and dangerous realm? And what do the Uncanny Avengers have to do with it? Find out here in this new ongoing tale of sword, sorcery and one man’s struggle to not lose his soul."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56782",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56782/black_knight_2015_1_gariba_hip-8203hop_variant/gariba_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20788",
+    "name": "Black Knight (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56781",
+      "name": "Black Knight (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56783",
+      "name": "Black Knight (2015) #1 (Christopher Action Figure Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57381",
+      "name": "Black Knight (2015) #1 (Powell Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-18T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5627a21d590f8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5627a21d590f8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56782/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12488",
+        "name": "Luca Pizzari",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+        "name": "Frank Tieri",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56782/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56782/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124381",
+        "name": "cover from Black Knight (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124382",
+        "name": "story from Black Knight (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56782/events",
+    "items": [],
+    "returned": 0
+  }
+}

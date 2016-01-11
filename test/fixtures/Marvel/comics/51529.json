@@ -1,0 +1,109 @@
+{
+  "id": 51529,
+  "digitalId": 0,
+  "title": "Black Widow Vol. 3: Last Days (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The world has turned against Black Widow. Her web is broken. It's all been worth it, though, because the path to Chaos is finally at her feet. But can Natasha still turn to the Avengers or S.H.I.E.L.D.? And how far can she travel her brutal road to the answers she needs, while still calling herself a hero? As Chaos looms, an enemy resurfaces with a surprising agenda, and Natasha gets an offer she can't refuse. This is it: Black Widow goes head-to-head with Chaos at long last! Then, at the end of all things, Black Widow finds herself unexpectedly connected to one of the darkest moments of her past. See how the first lines of red in her ledger were written. Will Natasha fall into darkness? Is it too late for redemption? Collecting BLACK WIDOW (2014) #13-20.",
+  "modified": "2015-09-15T12:58:04-0400",
+  "isbn": "978-0-7851-9253-4",
+  "upc": "",
+  "diamondCode": "JUL150829",
+  "ean": "9780785 192534 52499",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 176,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The world has turned against Black Widow. Her web is broken. It's all been worth it, though, because the path to Chaos is finally at her feet. But can Natasha still turn to the Avengers or S.H.I.E.L.D.? And how far can she travel her brutal road to the answers she needs, while still calling herself a hero? As Chaos looms, an enemy resurfaces with a surprising agenda, and Natasha gets an offer she can't refuse. This is it: Black Widow goes head-to-head with Chaos at long last! Then, at the end of all things, Black Widow finds herself unexpectedly connected to one of the darkest moments of her past. See how the first lines of red in her ledger were written. Will Natasha fall into darkness? Is it too late for redemption? Collecting BLACK WIDOW (2014) #13-20."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51529",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51529/black_widow_vol_3_last_days_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19339",
+    "name": "Black Widow Vol. 3: Last Days (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-23T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-08T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 24.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/55ca170a86969",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/55ca170a86969",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51529/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11799",
+        "name": "Nathan Edmondson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+        "name": "Phil Noto",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51529/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51529/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114635",
+        "name": "cover from Black Widow (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114636",
+        "name": "story from Black Widow (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51529/events",
+    "items": [],
+    "returned": 0
+  }
+}

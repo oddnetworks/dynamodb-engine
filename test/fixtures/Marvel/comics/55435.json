@@ -1,0 +1,113 @@
+{
+  "id": 55435,
+  "digitalId": 0,
+  "title": "Extraordinary X-Men (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "• Mutantkind is teetering on the brink of extinction and the X-MEN are in dire straits!\n• STORM and ICEMAN defend the last remaining mutants from a demonic attack!\n• The world’s newest mutant discovers she has a terrifying power!\n• And OLD MAN LOGAN and JEAN GREY meet for the first time…\n",
+  "modified": "2015-11-30T16:22:16-0500",
+  "isbn": "",
+  "upc": "75960608302200311",
+  "diamondCode": "SEP150809",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Mutantkind is teetering on the brink of extinction and the X-MEN are in dire straits!\n• STORM and ICEMAN defend the last remaining mutants from a demonic attack!\n• The world’s newest mutant discovers she has a terrifying power!\n• And OLD MAN LOGAN and JEAN GREY meet for the first time…\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55435",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55435/extraordinary_x-men_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Extraordinary-X-Men-3/digital-comic/40631?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20460",
+    "name": "Extraordinary X-Men (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5655d0eb01f4b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5655d0eb01f4b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55435/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55435/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55435/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121913",
+        "name": "cover from Extraordinary X-Men (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121914",
+        "name": "story from Extraordinary X-Men (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55435/events",
+    "items": [],
+    "returned": 0
+  }
+}

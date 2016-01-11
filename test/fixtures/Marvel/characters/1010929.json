@@ -1,0 +1,73 @@
+{
+  "id": 1010929,
+  "name": "Green Goblin (Ultimate)",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c003439f081b",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010929",
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010929/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17213",
+        "name": "Ultimate Spider-Man (2000) #116"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20719",
+        "name": "Ultimate Spider-Man Vol. 19: Death of a Goblin (Trade Paperback)"
+      }
+    ],
+    "returned": 2
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010929/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3854",
+        "name": "Ultimate Spider-Man Vol. 19: Death of a Goblin (2008)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010929/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36079",
+        "name": "Death of the Goblin 5 of 6",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010929/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/852/green_goblin?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Green_Goblin_%28Ultimate%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010929/green_goblin_ultimate?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

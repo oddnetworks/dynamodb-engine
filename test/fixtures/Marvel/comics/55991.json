@@ -1,0 +1,114 @@
+{
+  "id": 55991,
+  "digitalId": 0,
+  "title": "Ultimate End (2015) #4 (SHIRAHAMA MANGA VARIANT)",
+  "issueNumber": 4,
+  "variantDescription": "SHIRAHAMA MANGA VARIANT",
+  "description": "- TONY VS TONY, CLINT VS CLINT, HULK VS HULK!\n- The tear between domains deepens...\n- How long can two territories occupy the same space?\n-  Here comes MILES...\n",
+  "modified": "2015-07-28T12:48:22-0400",
+  "isbn": "",
+  "upc": "75960608235300431",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- TONY VS TONY, CLINT VS CLINT, HULK VS HULK!\n- The tear between domains deepens...\n- How long can two territories occupy the same space?\n-  Here comes MILES...\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55991",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55991/ultimate_end_2015_4_shirahama_manga_variant/shirahama_manga_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19658",
+    "name": "Ultimate End (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52484",
+      "name": "Ultimate End (2015) #4"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-05T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-22T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/55b7b0215841c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/55b7b0215841c",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55991/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55991/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55991/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122967",
+        "name": "cover from Ultimate End (2015) #4 (TBD ARTIST MANGA VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122968",
+        "name": "story from Ultimate End (2015) #4 (TBD ARTIST MANGA VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55991/events",
+    "items": [],
+    "returned": 0
+  }
+}

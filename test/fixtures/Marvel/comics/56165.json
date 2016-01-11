@@ -1,0 +1,118 @@
+{
+  "id": 56165,
+  "digitalId": 0,
+  "title": "Spider-Woman (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "TRAPPED in an alien hospital with a bunch of other moms-to-be, Jessica Drew has suddenly found herself in over her head! It’s anything but business as usual as Jess realizes she’s the only person who can save the day – but only if she can keep herself and her baby safe in the process!",
+  "modified": "2015-11-16T15:11:15-0500",
+  "isbn": "",
+  "upc": "75960608338100211",
+  "diamondCode": "OCT150871",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "TRAPPED in an alien hospital with a bunch of other moms-to-be, Jessica Drew has suddenly found herself in over her head! It’s anything but business as usual as Jess realizes she’s the only person who can save the day – but only if she can keep herself and her baby safe in the process!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56165",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56165/spider-woman_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Spider-Woman-2/digital-comic/40729?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20618",
+    "name": "Spider-Woman (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-23T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-08T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/564a398ab4edf",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/564a398ab4edf",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+        "name": "Edward Devin Lewis",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1117",
+        "name": "Javier Rodriguez",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123293",
+        "name": "cover from Spider-Woman (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123294",
+        "name": "story from Spider-Woman (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56165/events",
+    "items": [],
+    "returned": 0
+  }
+}

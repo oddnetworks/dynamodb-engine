@@ -1,0 +1,122 @@
+{
+  "id": 52900,
+  "digitalId": 0,
+  "title": "What If? Infinity- Guardians of the Galaxy (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "What if the GUARDIANS OF THE GALAXY found out the ILLUMINATI were hiding Thanos? Thanos is the most wanted man in the universe and for years he was secretly being held by the Illuminati. The Guardians of the Galaxy just found out and they are ****** off.\n",
+  "modified": "2015-10-16T13:33:08-0400",
+  "isbn": "",
+  "upc": "75960608139400411",
+  "diamondCode": "AUG150774",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "What if the GUARDIANS OF THE GALAXY found out the ILLUMINATI were hiding Thanos? Thanos is the most wanted man in the universe and for years he was secretly being held by the Illuminati. The Guardians of the Galaxy just found out and they are ****** off.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52900",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52900/what_if_infinity-_guardians_of_the_galaxy_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/What-If-Infinity-Guardians-Of-The-Galaxy-1/digital-comic/40280?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/21154",
+    "name": "What If? Infinity- Guardians of the Galaxy (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-21T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-07T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/562132a2a2550",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/562132a2a2550",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/55a406e5c9722",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52900/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12776",
+        "name": "Jason Copland",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12703",
+        "name": "Dave Rapoza",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8847",
+        "name": "Joshua Williamson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52900/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52900/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117377",
+        "name": "cover from What If? Infinity (2020) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117378",
+        "name": "story from What If? Infinity (2020) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52900/events",
+    "items": [],
+    "returned": 0
+  }
+}

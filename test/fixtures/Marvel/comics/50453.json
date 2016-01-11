@@ -1,0 +1,99 @@
+{
+  "id": 50453,
+  "digitalId": 0,
+  "title": "Cyclops Vol. 2: A Pirate's Life For Me (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "RESCUED ! But by whom? And is it really a rescue...or does this put Scott at greater risk than before? And what bounty are they hunting? Lots of shooting and things blowing up! The bad news: the Starjammers are about to die! The good news: Cyclops is no longer a Starjammer. Scott Summers is aboard a new space pirate ship, with a cruel, cutthroat captain, and a crew of criminals and killers. None of them trust Scott-- and a few just might want to kill him! But, hey, that Captain's daughter is kinda cute, right?Collects Cyclops (2014) #6-12.",
+  "modified": "2015-06-24T17:50:58-0400",
+  "isbn": "978-0-7851-9076-9",
+  "upc": "",
+  "diamondCode": "APR150930",
+  "ean": "9780785 190769 51999",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 160,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "RESCUED ! But by whom? And is it really a rescue...or does this put Scott at greater risk than before? And what bounty are they hunting? Lots of shooting and things blowing up! The bad news: the Starjammers are about to die! The good news: Cyclops is no longer a Starjammer. Scott Summers is aboard a new space pirate ship, with a cruel, cutthroat captain, and a crew of criminals and killers. None of them trust Scott-- and a few just might want to kill him! But, hey, that Captain's daughter is kinda cute, right?Collects Cyclops (2014) #6-12."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/50453",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/50453/cyclops_vol_2_a_pirates_life_for_me_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18866",
+    "name": "Cyclops Vol. 2: A Pirate's Life For Me (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-24T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-09T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 19.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5589b15a75399",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5589b15a75399",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50453/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50453/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50453/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112932",
+        "name": "cover from Starjammers (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50453/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": 1010829,
+  "name": "Bengal",
+  "description": "",
+  "modified": "2013-10-24T13:01:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5269523ee6c03",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010829",
+  "comics": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010829/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20679",
+        "name": "Avengers: The Initiative (2007) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21975",
+        "name": "Avengers: The Initiative (2007) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23112",
+        "name": "Avengers: The Initiative (2007) #21"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23968",
+        "name": "Avengers: The Initiative (2007) #23"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24167",
+        "name": "Avengers: The Initiative (2007) #24"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29817",
+        "name": "Avengers: The Initiative (2007) #34"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29931",
+        "name": "Avengers: The Initiative (2007) #35"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16057",
+        "name": "Marvel Knights (2000) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16058",
+        "name": "Marvel Knights (2000) #12"
+      }
+    ],
+    "returned": 9
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010829/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+        "name": "Avengers: The Initiative (2007 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2576",
+        "name": "Marvel Knights (2000 - 2001)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010829/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32756",
+        "name": "Hero for Hire",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32758",
+        "name": "The Long, Long Night",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44343",
+        "name": "Avengers: The Initiative (2007) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48362",
+        "name": "Avengers: The Initiative (2007) #17 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51249",
+        "name": "Avengers: The Initiative (2007) #21 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53156",
+        "name": "Avengers: The Initiative (2007) #23 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53551",
+        "name": "Avengers: The Initiative (2007) #24 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64779",
+        "name": "Avengers: The Initiative (2007) #34 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64976",
+        "name": "Avengers: The Initiative (2007) #35 - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 9
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010829/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "name": "Secret Invasion"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      }
+    ],
+    "returned": 3
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/257/bengal?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Bengal_(Duc_No_Tranh)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010829/bengal?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

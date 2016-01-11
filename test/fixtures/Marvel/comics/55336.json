@@ -1,0 +1,99 @@
+{
+  "id": 55336,
+  "digitalId": 0,
+  "title": "The Astonishing Ant-Man (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "Cassie Lang used to be cool. She used to be a super hero! But nowadays, she’s de-powered, her friends are on the other side of the country and she sucks at basketball. It’s the worst. But Cassie is about to find out what being a hero really means. It isn’t about changing size, it’s about what’s in your heart.*",
+  "modified": "2016-01-08T13:46:08-0500",
+  "isbn": "",
+  "upc": "75960608298800511",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Cassie Lang used to be cool. She used to be a super hero! But nowadays, she’s de-powered, her friends are on the other side of the country and she sucks at basketball. It’s the worst. But Cassie is about to find out what being a hero really means. It isn’t about changing size, it’s about what’s in your heart.*"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55336",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55336/the_astonishing_ant-man_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20437",
+    "name": "The Astonishing Ant-Man (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-02-17T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-02-03T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/568fc8af91377",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/70/568fc8af91377",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55336/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+        "name": "Wilson Moss",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55336/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55336/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121715",
+        "name": "cover from Ant-Man (2015) #5",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55336/events",
+    "items": [],
+    "returned": 0
+  }
+}

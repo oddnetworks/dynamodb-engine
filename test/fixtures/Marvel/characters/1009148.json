@@ -1,0 +1,329 @@
+{
+  "id": 1009148,
+  "name": "Absorbing Man",
+  "description": "",
+  "modified": "2013-10-24T14:32:08-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5269678709fb7",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+  "comics": {
+    "available": 43,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009148/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36481",
+        "name": "Avengers Academy (2010) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36480",
+        "name": "Avengers Academy (2010) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36479",
+        "name": "Avengers Academy (2010) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36484",
+        "name": "Avengers Academy (2010) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36489",
+        "name": "Avengers Academy (2010) #21"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6935",
+        "name": "Avengers Annual (1967) #20"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12783",
+        "name": "Captain America (1998) #24"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20427",
+        "name": "Dazzler (1981) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20428",
+        "name": "Dazzler (1981) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41433",
+        "name": "Fear Itself (2010) #2 (3rd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38452",
+        "name": "Fear Itself: Fellowship of Fear (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39848",
+        "name": "Fear Itself: The Worthy (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40977",
+        "name": "Fear Itself: The Worthy (2011) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/9072",
+        "name": "Incredible Hulk (1962) #261"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29794",
+        "name": "Iron Man 2.0 (2011) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29795",
+        "name": "Iron Man 2.0 (2011) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/9698",
+        "name": "Journey Into Mystery (1952) #122"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5234",
+        "name": "Marvel Adventures Fantastic Four (2005) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6277",
+        "name": "Marvel Adventures Fantastic Four Vol. 5: All 4 One, 4 for All (Digest)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39537",
+        "name": "Marvel Masterworks: The Mighty Thor Vol. 3 (Trade Paperback)"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 28,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009148/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9086",
+        "name": "Avengers Academy (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1988",
+        "name": "Avengers Annual (1967 - 1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1997",
+        "name": "Captain America (1998 - 2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3745",
+        "name": "Dazzler (1981 - 1986)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13691",
+        "name": "Fear Itself (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13857",
+        "name": "Fear Itself: Fellowship of Fear (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13827",
+        "name": "Fear Itself: The Worthy (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+        "name": "Incredible Hulk (1962 - 1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9924",
+        "name": "Iron Man 2.0 (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2032",
+        "name": "Journey Into Mystery (1952 - 1966)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/926",
+        "name": "Marvel Adventures Fantastic Four (2005 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1959",
+        "name": "Marvel Adventures Fantastic Four Vol. 5: All 4 One, 4 for All (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14492",
+        "name": "Marvel Masterworks: The Mighty Thor Vol. 3 (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14491",
+        "name": "Marvel Masterworks: The Mighty Thor Vol. 3 Variant (DM Only) (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1588",
+        "name": "Marvel Masterworks: The Mighty Thor Vol. 4 (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2301",
+        "name": "Marvel Super-Heroes (1992 - 1993)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1866",
+        "name": "Mighty Avengers (2007 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2059",
+        "name": "Paradise X (2002 - 2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2431",
+        "name": "Paradise X Vol. 1 (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6796",
+        "name": "Secret Warriors (2008 - 2011)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 43,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009148/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4988",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11028",
+        "name": "Journey Into Mystery (1952) #122",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/16688",
+        "name": "Thor (1966) #206",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/16691",
+        "name": "Thor (1966) #207",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17049",
+        "name": "Thor (1966) #375",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17050",
+        "name": "Shadows of the Past",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17051",
+        "name": "Heroes Always Win...Don't They?",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17342",
+        "name": "Cover #17342",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17412",
+        "name": "A Wing and a Prayer",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18670",
+        "name": "Encounter On Easter Island!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21604",
+        "name": "Secret Wars (1984) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21606",
+        "name": "Secret Wars (1984) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26016",
+        "name": "Paradise X Issue 0",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26025",
+        "name": "Cover #26025",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28708",
+        "name": "The Hunted Part 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31596",
+        "name": "",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31597",
+        "name": "Downtown Demolition",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37745",
+        "name": "A Wing and a Prayer",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39926",
+        "name": "And the Absorbing Man Makes Three!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39927",
+        "name": "Hammer Time!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009148/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "name": "Secret Wars"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+        "name": "Shattered Heroes"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      }
+    ],
+    "returned": 4
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/84/absorbing_man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Absorbing_Man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009148/absorbing_man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

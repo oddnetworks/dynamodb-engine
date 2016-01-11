@@ -1,0 +1,154 @@
+{
+  "id": 52593,
+  "digitalId": 38894,
+  "title": "Squadron Sinister (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "They're the WORLD'S GREATEST... VILLAINS.  The SQUADRON SINISTER.  And they're taking Battleworld by force in this Secret Wars tie-in for fans of crime epics like The Godfather, The Sopranos and Sons of Anarchy. But will controlling one Domain be enough for Hyperion and his gang?",
+  "modified": "2015-06-09T15:35:31-0400",
+  "isbn": "",
+  "upc": "75960608239100111",
+  "diamondCode": "APR150777",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "They're the WORLD'S GREATEST... VILLAINS.  The SQUADRON SINISTER.  And they're taking Battleworld by force in this Secret Wars tie-in for fans of crime epics like The Godfather, The Sopranos and Sons of Anarchy. But will controlling one Domain be enough for Hyperion and his gang?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52593",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52593/squadron_sinister_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Squadron-Sinister-1/digital-comic/38894?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38894&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "inAppLink",
+      "url": "http://applink.marvel.com/issue/38894?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19689",
+    "name": "Squadron Sinister (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52594",
+      "name": "Squadron Sinister (2015) #1 (Young Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/54784",
+      "name": "Squadron Sinister (2015) #1 (Cheung Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-18T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-14T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-06-11T15:30:41-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    },
+    {
+      "type": "digitalPurchasePrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/54ff162409ec8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/555f679a600e3",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/555f67594cde2",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/555f66d713096",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/54ff162409ec8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52593/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+        "name": "Marc Guggenheim",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+        "name": "Carlos Pacheco",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52593/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52593/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116763",
+        "name": "cover from Squadron Sinister (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116764",
+        "name": "story from Squadron Sinister (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52593/events",
+    "items": [],
+    "returned": 0
+  }
+}

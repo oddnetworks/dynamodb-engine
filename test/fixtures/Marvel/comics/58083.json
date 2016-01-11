@@ -1,0 +1,139 @@
+{
+  "id": 58083,
+  "digitalId": 0,
+  "title": "Daredevil (2015) #1 (Quesada Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Quesada Variant",
+  "description": "• After the stunning, heart-stopping events of Vision #1, the Avengers will never be the same.\n• The Vision and his family attempt to cope with these events in their own, unique way. Though they put on a happy face, each of them can feel their anger growing, blistering, tearing them apart.\n• Will the Visions be able to hold together, or will that anger destroy them and the world around them?\n",
+  "modified": "2015-12-01T14:29:42-0500",
+  "isbn": "",
+  "upc": "75960608350300171",
+  "diamondCode": "OCT150756",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• After the stunning, heart-stopping events of Vision #1, the Avengers will never be the same.\n• The Vision and his family attempt to cope with these events in their own, unique way. Though they put on a happy face, each of them can feel their anger growing, blistering, tearing them apart.\n• Will the Visions be able to hold together, or will that anger destroy them and the world around them?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/58083",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/58083/daredevil_2015_1_quesada_variant/quesada_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20780",
+    "name": "Daredevil (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56708",
+      "name": "Daredevil (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56709",
+      "name": "Daredevil (2015) #1 (Cosplay Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56821",
+      "name": "Daredevil (2015) #1 (Maleev Hip-&#8203;Hop Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57549",
+      "name": "Daredevil (2015) #1 (Sale Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57553",
+      "name": "Daredevil (2015) #1 (Christopher Action Figure Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57657",
+      "name": "Daredevil (2015) #1 (Stroman Marvel 92 Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/56392ecd11824",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/56392ecd11824",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58083/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+        "name": "Ron Garney",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58083/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58083/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126824",
+        "name": "cover from Daredevil (2015) #1 (QUESADA VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126825",
+        "name": "story from Daredevil (2015) #1 (QUESADA VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58083/events",
+    "items": [],
+    "returned": 0
+  }
+}

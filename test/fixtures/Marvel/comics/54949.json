@@ -1,0 +1,114 @@
+{
+  "id": 54949,
+  "digitalId": 0,
+  "title": "Secret Wars 2099 (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Travel to the Battleworld domain of 2099 and see the future in a whole new light. Introducing the Avengers 2099! Can the ideal of Earth’s Mightiest Heroes survive in a world where megacorporations rule with an iron fist? Find out as the 2099 Avengers come face-to-face with a tremendous beast who’s no stranger to the team! (You won’t like him when he’s angry.) Then, the Defenders of 2099 square off against the Avengers! When corporations control super heroes, what differences could have driven the Defenders to stand against Earth’s Mightiest Heroes? To find out, the Avengers take on Alchemax — and Miguel Stone bears his talons for the first time! And even as Captain America discovers the truth about her own dual identity, an ancient evil appears, intent on destroying the 2099 Avengers! Collecting SECRET WARS 2099 #1-5.",
+  "modified": "2015-11-16T15:17:50-0500",
+  "isbn": "978-0-7851-9883-3",
+  "upc": "",
+  "diamondCode": "AUG150880",
+  "ean": "9780785 198833 51699",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Travel to the Battleworld domain of 2099 and see the future in a whole new light. Introducing the Avengers 2099! Can the ideal of Earth’s Mightiest Heroes survive in a world where megacorporations rule with an iron fist? Find out as the 2099 Avengers come face-to-face with a tremendous beast who’s no stranger to the team! (You won’t like him when he’s angry.) Then, the Defenders of 2099 square off against the Avengers! When corporations control super heroes, what differences could have driven the Defenders to stand against Earth’s Mightiest Heroes? To find out, the Avengers take on Alchemax — and Miguel Stone bears his talons for the first time! And even as Captain America discovers the truth about her own dual identity, an ancient evil appears, intent on destroying the 2099 Avengers! Collecting SECRET WARS 2099 #1-5."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/54949",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/54949/secret_wars_2099_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20325",
+    "name": "Secret Wars 2099 (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-18T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-03T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 16.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/564a272732b9e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/564a272732b9e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54949/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12703",
+        "name": "Dave Rapoza",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11965",
+        "name": "William Sliney",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54949/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54949/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121093",
+        "name": "cover from Secret Wars 2099 (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121094",
+        "name": "story from Secret Wars 2099 (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54949/events",
+    "items": [],
+    "returned": 0
+  }
+}

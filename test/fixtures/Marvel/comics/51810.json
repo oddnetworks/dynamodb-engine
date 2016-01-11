@@ -1,0 +1,122 @@
+{
+  "id": 51810,
+  "digitalId": 0,
+  "title": "Marvel Zombies (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "Stranded in the Deadlands and saddled with a mysterious child, Elsa Bloodstone is determined to traverse the zombie-ridden landscape and get home. But haunted by ghosts from her past-including visions of her stern father, Ulysses Bloodstone â€\" Elsa begins to realize it may not be the zombies she fears most...",
+  "modified": "2015-07-19T14:13:10-0400",
+  "isbn": "",
+  "upc": "75960608213100211",
+  "diamondCode": "MAY150663",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Stranded in the Deadlands and saddled with a mysterious child, Elsa Bloodstone is determined to traverse the zombie-ridden landscape and get home. But haunted by ghosts from her past-including visions of her stern father, Ulysses Bloodstone â€\" Elsa begins to realize it may not be the zombies she fears most..."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51810",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51810/marvel_zombies_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Marvel-Zombies-2/digital-comic/39399?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19418",
+    "name": "Marvel Zombies (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55209",
+      "name": "Marvel Zombies (2015) #2 (Walta Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-22T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-29T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/55abe6ea118f2",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/55abe6ea118f2",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/55564e71b1c14",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51810/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5635",
+        "name": "Simon Spurrier",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/234",
+        "name": "Kev Walker",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51810/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51810/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115197",
+        "name": "cover from Elsa Bloodstone Vs. Marvel Zombies (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115198",
+        "name": "story from Elsa Bloodstone Vs. Marvel Zombies (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51810/events",
+    "items": [],
+    "returned": 0
+  }
+}

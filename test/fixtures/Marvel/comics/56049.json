@@ -1,0 +1,113 @@
+{
+  "id": 56049,
+  "digitalId": 0,
+  "title": "Uncanny X-Men (2016) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "In a world that’s never hated or feared mutants more, there is only one constant: BIGGER THREATS REQUIRE MORE THREATENING X-MEN. Refusing to accept one more mutant death, the most ruthless mutants on Earth have banded together to proactively mow down their enemies. But with a team populated by relentless killers, one question applies above all others: Can they stay away from each other’s throats long enough to sever their targets’?",
+  "modified": "2016-01-04T14:24:16-0500",
+  "isbn": "",
+  "upc": "75960608331200111",
+  "diamondCode": "OCT150769",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "In a world that’s never hated or feared mutants more, there is only one constant: BIGGER THREATS REQUIRE MORE THREATENING X-MEN. Refusing to accept one more mutant death, the most ruthless mutants on Earth have banded together to proactively mow down their enemies. But with a team populated by relentless killers, one question applies above all others: Can they stay away from each other’s throats long enough to sever their targets’?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56049",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56049/uncanny_x-men_2016_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Uncanny-X-Men-1/digital-comic/40813?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20612",
+    "name": "Uncanny X-Men (2016 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-06T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-21T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/568ab2e071c9f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/568ab2e071c9f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56049/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56049/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56049/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123061",
+        "name": "cover from Cyclops & the Brotherhood: X-Men (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123062",
+        "name": "story from Cyclops & the Brotherhood: X-Men (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56049/events",
+    "items": [],
+    "returned": 0
+  }
+}

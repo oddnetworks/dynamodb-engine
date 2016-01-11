@@ -1,0 +1,119 @@
+{
+  "id": 1011020,
+  "name": "Darkhawk",
+  "description": "",
+  "modified": "2013-10-24T13:16:45-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5269553f4bc6a",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011020",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011020/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17490",
+        "name": "Avengers (1998) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17501",
+        "name": "Avengers (1998) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17512",
+        "name": "Avengers (1998) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17523",
+        "name": "Avengers (1998) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17536",
+        "name": "Avengers (1998) #51"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1311",
+        "name": "Avengers Assemble (Hardcover)"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011020/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+        "name": "Avengers (1998 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+        "name": "Avengers Assemble (2004)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011020/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37337",
+        "name": "Cover #37337",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37338",
+        "name": "Once an Avenger...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37359",
+        "name": "Cover #37359",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37360",
+        "name": "The Call",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37386",
+        "name": "Fata Morgana",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37409",
+        "name": "Too Many Avengers!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37440",
+        "name": "Prisoners: A Love Story",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011020/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/characters/1011020/darkhawk?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Darkhawk?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011020/darkhawk?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

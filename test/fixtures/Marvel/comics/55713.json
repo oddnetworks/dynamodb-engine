@@ -1,0 +1,134 @@
+{
+  "id": 55713,
+  "digitalId": 0,
+  "title": "Spider-Man 2099 (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "With a job at PARKER INDUSTRIES, a stable relationship, and uncertain of what impact his actions will have on the future, Miguel O’Hara has decided that it’s time to hang up the webs and retire from being Spider-Man. But when a dangerous new threat appears and puts his new life in jeopardy, he’s got no choice but to don some new threads and tackle the problem the only way he knows how: head on! By the webslinging wonders Peter David and Will Sliney (you know ‘em, you love ‘em.) this is one EXPLOSIVE Spider-Title you won’t want to miss.",
+  "modified": "2015-10-20T14:41:56-0400",
+  "isbn": "",
+  "upc": "75960608315200211",
+  "diamondCode": "AUG150818",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "With a job at PARKER INDUSTRIES, a stable relationship, and uncertain of what impact his actions will have on the future, Miguel O’Hara has decided that it’s time to hang up the webs and retire from being Spider-Man. But when a dangerous new threat appears and puts his new life in jeopardy, he’s got no choice but to don some new threads and tackle the problem the only way he knows how: head on! By the webslinging wonders Peter David and Will Sliney (you know ‘em, you love ‘em.) this is one EXPLOSIVE Spider-Title you won’t want to miss."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55713",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55713/spider-man_2099_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Spider-Man-2099-2/digital-comic/40346?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20511",
+    "name": "Spider-Man 2099 (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-28T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-14T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/562688eca5e26",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/562688eca5e26",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/560ebe99dea8c",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/560ebe13907f0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/560ebd8dba8fc",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/560ebd0b55dd9",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55713/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8495",
+        "name": "Francesco Mattina",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11965",
+        "name": "William Sliney",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55713/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55713/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122469",
+        "name": "cover from Spider-Man 2099 (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122470",
+        "name": "story from Spider-Man 2099 (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55713/events",
+    "items": [],
+    "returned": 0
+  }
+}

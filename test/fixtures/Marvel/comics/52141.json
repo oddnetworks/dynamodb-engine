@@ -1,0 +1,114 @@
+{
+  "id": 52141,
+  "digitalId": 0,
+  "title": "Marvel Masterworks: The Mighty Thor (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The Mighty Thor adds another volume to his saga of Asgardian adventure as the Marvel Masterworks roll on! Thor is lucky to have the mighty Hercules at his side - because Loki has teamed with Firelord in a bid to usurp Odin's throne! Meanwhile, Jane Foster has returned, and Thor is torn between aiding her on Earth and remaining in defense of Asgard! And when the Absorbing Man and Ulik the Troll enter the fray, the drama reaches epic proportions that will have you on the edge of your seat! Before it's over, Thor will battle the gods of Egypt to save Odin from death itself. And to top off this voluminous volume, we're including a rare Hercules solo tale from Marvel Premiere! Collecting THOR (1966) #229-241 and MARVEL PREMIERE #26. ",
+  "modified": "2015-07-13T15:09:58-0400",
+  "isbn": "978-0-7851-9188-9",
+  "upc": "",
+  "diamondCode": "FEB150856",
+  "ean": "9780785 191889 57500",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 280,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The Mighty Thor adds another volume to his saga of Asgardian adventure as the Marvel Masterworks roll on! Thor is lucky to have the mighty Hercules at his side - because Loki has teamed with Firelord in a bid to usurp Odin's throne! Meanwhile, Jane Foster has returned, and Thor is torn between aiding her on Earth and remaining in defense of Asgard! And when the Absorbing Man and Ulik the Troll enter the fray, the drama reaches epic proportions that will have you on the edge of your seat! Before it's over, Thor will battle the gods of Egypt to save Odin from death itself. And to top off this voluminous volume, we're including a rare Hercules solo tale from Marvel Premiere! Collecting THOR (1966) #229-241 and MARVEL PREMIERE #26. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52141",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52141/marvel_masterworks_the_mighty_thor_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19543",
+    "name": "Marvel Masterworks: The Mighty Thor (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 75
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/55a3f8487f542",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/55a3f8487f542",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52141/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52141/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52141/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115859",
+        "name": "cover from Marvel Masterworks: The Mighty Thor (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115860",
+        "name": "story from Marvel Masterworks: The Mighty Thor (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52141/events",
+    "items": [],
+    "returned": 0
+  }
+}

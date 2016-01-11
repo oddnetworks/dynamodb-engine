@@ -1,0 +1,78 @@
+{
+  "id": 1014873,
+  "name": "Spider-Man (2099)",
+  "description": "",
+  "modified": "2013-08-15T14:16:16-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/520d1ad3e543f",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014873",
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014873/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55711",
+        "name": "Spider-Man 2099 (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24042",
+        "name": "Timestorm 2009/2099 (2009) #1"
+      }
+    ],
+    "returned": 2
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014873/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/20511",
+        "name": "Spider-Man 2099 (2015 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7220",
+        "name": "Timestorm 2009/2099 (2009)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014873/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53309",
+        "name": "Cover #53309",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122465",
+        "name": "cover from Spider-Man 2099 (2015) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1014873/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1014873/spider-man_2099/featured?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Spider-Man%20(2099)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1014873/spider-man_2099?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

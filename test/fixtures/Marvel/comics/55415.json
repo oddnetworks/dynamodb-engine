@@ -1,0 +1,150 @@
+{
+  "id": 55415,
+  "digitalId": 0,
+  "title": "Doctor Strange (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Who do you call when things are coming out of your dreams and trying to kill you? Or when your daughter is cursing in Latin and walking like a spider? Or when your dog keeps screaming at you to strangle your neighbors? Doctor Strange, of course. He's the only person standing between us and the forces of darkness, but has he been paying his tab? Every act of magic has a cost and Jason Aaron (THOR, ORIGINAL SIN) and Chris Bachalo (UNCANNY X-MEN) are going to put Stephen Strange through hell to even the scales.",
+  "modified": "2015-09-25T15:46:04-0400",
+  "isbn": "",
+  "upc": "75960608301500111",
+  "diamondCode": "AUG150741",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Who do you call when things are coming out of your dreams and trying to kill you? Or when your daughter is cursing in Latin and walking like a spider? Or when your dog keeps screaming at you to strangle your neighbors? Doctor Strange, of course. He's the only person standing between us and the forces of darkness, but has he been paying his tab? Every act of magic has a cost and Jason Aaron (THOR, ORIGINAL SIN) and Chris Bachalo (UNCANNY X-MEN) are going to put Stephen Strange through hell to even the scales."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55415",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55415/doctor_strange_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Doctor-Strange-1/digital-comic/40149?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20457",
+    "name": "Doctor Strange (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56850",
+      "name": "Doctor Strange (2015) #1 (Young Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56851",
+      "name": "Doctor Strange (2015) #1 (Doe Hip-&#8203;Hop Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56852",
+      "name": "Doctor Strange (2015) #1 (Cosplay Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56853",
+      "name": "Doctor Strange (2015) #1 (Nowlan Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-07T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-23T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5605a1db4b9a5",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5605a1db4b9a5",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/55f1e1801c811",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/55f1e0d689cb0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/55f1e0386b744",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/55f1dff5b3919",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/e0/55897317a7026",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55415/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+        "name": "Jason Aaron",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+        "name": "Chris Bachalo",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55415/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55415/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121873",
+        "name": "cover from Doctor Strange (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121874",
+        "name": "story from Doctor Strange (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55415/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": 57041,
+  "digitalId": 0,
+  "title": "Nova (2015) #1 (Canette Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Canette Hip-&#8203;Hop Variant",
+  "description": "TWO NOVAS?!?! Sam Alexander’s missing father is finally back and the two are making adventure a family business. With their Nova helmets that enable them to fly and shoot energy beams, they’re policing the Milky Way with their Nova Corps of two. But is everything what it seems? And if that weren’t enough, Sam is also now an Avenger!",
+  "modified": "2015-11-02T16:46:10-0500",
+  "isbn": "",
+  "upc": "75960608353400131",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "TWO NOVAS?!?! Sam Alexander’s missing father is finally back and the two are making adventure a family business. With their Nova helmets that enable them to fly and shoot energy beams, they’re policing the Milky Way with their Nova Corps of two. But is everything what it seems? And if that weren’t enough, Sam is also now an Avenger!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57041",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57041/nova_2015_1_canette_hip-8203hop_variant/canette_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20844",
+    "name": "Nova (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57039",
+      "name": "Nova (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57040",
+      "name": "Nova (2015) #1 (Cosplay Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57462",
+      "name": "Nova (2015) #1 (Samnee Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/5637d7ca9379d",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/5637d7ca9379d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/561410c87c4a9",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/55db9140326d0",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57041/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1017",
+        "name": "Eric Canete",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9432",
+        "name": "Sean Ryan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12777",
+        "name": "Cory Smith",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57041/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57041/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124899",
+        "name": "cover from Nova (2015) #1 (CANETTE HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124900",
+        "name": "story from Nova (2015) #1 (CANETTE HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57041/events",
+    "items": [],
+    "returned": 0
+  }
+}

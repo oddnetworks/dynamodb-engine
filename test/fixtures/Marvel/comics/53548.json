@@ -1,0 +1,114 @@
+{
+  "id": 53548,
+  "digitalId": 0,
+  "title": "Inhuman Annual (2015) #1 (Nakayama Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Nakayama Variant",
+  "description": "- All the threads of the first year come to a head in this epic oversized Annual! - Medusa! Lash! Ennilux! Reader! Lineage! - What will be left standing before Secret Wars pulls it all crashing to the floor?!?!? ",
+  "modified": "2015-05-04T14:39:43-0400",
+  "isbn": "",
+  "upc": "75960608277300121",
+  "diamondCode": "MAR150681",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- All the threads of the first year come to a head in this epic oversized Annual! - Medusa! Lash! Ennilux! Reader! Lineage! - What will be left standing before Secret Wars pulls it all crashing to the floor?!?!? "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53548",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53548/inhuman_annual_2015_1_nakayama_variant/nakayama_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20039",
+    "name": "Inhuman Annual (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-06T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-22T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5547b7efb6ed9",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/5547b7efb6ed9",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53548/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+        "name": "David Nakayama",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+        "name": "Ryan Stegman",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53548/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53548/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118371",
+        "name": "cover from Inhuman Annual (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118372",
+        "name": "story from Inhuman Annual (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53548/events",
+    "items": [],
+    "returned": 0
+  }
+}

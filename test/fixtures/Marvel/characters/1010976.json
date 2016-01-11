@@ -1,0 +1,141 @@
+{
+  "id": 1010976,
+  "name": "Silver Samurai (Age of Apocalypse)",
+  "description": "Silver Samurai was a mutant rebel in his homeland of Japan, where, alongside Sunfire, he stood as the last line of defense against the hordes of Apocalypse.",
+  "modified": "2014-04-29T15:00:49-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/20/535ff6c2ee685",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010976",
+  "comics": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010976/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1489",
+        "name": "Official Handbook of the Marvel Universe (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1590",
+        "name": "Official Handbook of the Marvel Universe (2004) #9 (THE WOMEN OF MARVEL)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1689",
+        "name": "Official Handbook of the Marvel Universe (2004) #10 (MARVEL KNIGHTS)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1749",
+        "name": "Official Handbook of the Marvel Universe (2004) #11 (X-MEN - AGE OF APOCALYPSE)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1886",
+        "name": "Official Handbook of the Marvel Universe (2004) #12 (SPIDER-MAN)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1994",
+        "name": "Official Handbook of the Marvel Universe (2004) #13 (TEAMS)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32578",
+        "name": "Uncanny X-Force (2010) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40018",
+        "name": "Uncanny X-Force (2010) #12 (I Am Captain America Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40102",
+        "name": "Uncanny X-Force (2010) #12 (Kubert Variant)"
+      }
+    ],
+    "returned": 9
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010976/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/787",
+        "name": "Official Handbook of the Marvel Universe (2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9976",
+        "name": "Uncanny X-Force (2010 - 2012)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010976/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4153",
+        "name": "Cover #4153",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4223",
+        "name": "Cover #4223",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4430",
+        "name": "Cover #4430",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4513",
+        "name": "Cover #4513",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4612",
+        "name": "Cover #4612",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4614",
+        "name": "Cover #4614",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73562",
+        "name": "Interior #73562",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90807",
+        "name": "Interior #90807",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90993",
+        "name": "Interior #90993",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 9
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010976/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2101/silver_samurai?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Silver_Samurai_%28Age_of_Apocalypse%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010976/silver_samurai_age_of_apocalypse?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

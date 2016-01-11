@@ -1,0 +1,142 @@
+{
+  "id": 52327,
+  "digitalId": 39078,
+  "title": "Where Monsters Dwell (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "Karl Kauffman, a.k.a. The Phantom Eagle, is in way over his head and he is only just scratching the surface of the Valley of Flames. This new terrifying area of the Marvel Universe is full of suprises! ",
+  "modified": "2015-06-16T15:52:49-0400",
+  "isbn": "",
+  "upc": "75960608227800211",
+  "diamondCode": "APR150847",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Karl Kauffman, a.k.a. The Phantom Eagle, is in way over his head and he is only just scratching the surface of the Valley of Flames. This new terrifying area of the Marvel Universe is full of suprises! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52327",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52327/where_monsters_dwell_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Where-Monsters-Dwell-2/digital-comic/39078?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=39078&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "inAppLink",
+      "url": "http://applink.marvel.com/issue/39078?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19622",
+    "name": "Where Monsters Dwell (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-24T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-21T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-06-24T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    },
+    {
+      "type": "digitalPurchasePrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55807dcdb326b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/55807dcdb326b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/555357cbaac97",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52327/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1011",
+        "name": "Russ Braun",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+        "name": "Frank Cho",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2",
+        "name": "Garth Ennis",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52327/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52327/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116231",
+        "name": "cover from Phantom Eagle (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116232",
+        "name": "story from Phantom Eagle (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52327/events",
+    "items": [],
+    "returned": 0
+  }
+}

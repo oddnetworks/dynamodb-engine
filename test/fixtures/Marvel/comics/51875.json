@@ -1,0 +1,138 @@
+{
+  "id": 51875,
+  "digitalId": 38255,
+  "title": "Guardians 3000 (2014) #8",
+  "issueNumber": 8,
+  "variantDescription": "",
+  "description": "Stranded on 21st century Earth, the 31st century Guardians finally have a chance to locate the anomaly that is ripping the past, present and future of the Universal Time-stream apart. But locating it is one thing...preventing it is something else altogether. Shocking twists and end-of-the-World action! ",
+  "modified": "2015-11-09T12:33:38-0500",
+  "isbn": "",
+  "upc": "759606081371000811",
+  "diamondCode": "MAR150741",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Stranded on 21st century Earth, the 31st century Guardians finally have a chance to locate the anomaly that is ripping the past, present and future of the Universal Time-stream apart. But locating it is one thing...preventing it is something else altogether. Shocking twists and end-of-the-World action! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51875",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51875/guardians_3000_2014_8?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Guardians-3000-8/digital-comic/38255?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38255&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19434",
+    "name": "Guardians 3000 (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-13T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-09T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-08T11:17:07-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5640d8e29807c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/5640d8e29807c",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/554bc976e6ab0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/5501d87dce596",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51875/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12696",
+        "name": "Nico Leon",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12369",
+        "name": "Gerardo Sandoval",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51875/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51875/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115327",
+        "name": "cover from Guardians 3000 (2014) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115328",
+        "name": "story from Guardians 3000 (2014) #8",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51875/events",
+    "items": [],
+    "returned": 0
+  }
+}

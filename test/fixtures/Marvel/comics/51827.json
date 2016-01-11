@@ -1,0 +1,109 @@
+{
+  "id": 51827,
+  "digitalId": 0,
+  "title": "Fantastic Four by Aguirre-Sacasa & Mcniven (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "It's the Fantastic Four like you've never seen them before, courtesy of comics superstars Roberto Aguirre-Sacasa and Steve McNiven! The members of Marvel's First Family face their most personal crisis yet: bankruptcy! To overcome it, they'll need to call on the humor, determination and family ties that have delivered them from danger time and again. Metal-faced despots, intergalactic deities and subterranean savages couldn't destroy the Fantastic Four, but will the team be torn apart by the realities of life? Then, Reed, Sue and Ben take Franklin and his friends camping in New Jersey's Pine Barrens. But their getaway takes a terrifying turn when the campers realize something otherworldly is stalking them in the woods. Could it be the mysterious Jersey Devil? All this, and a classic knock-down, drag-out brawl between the Thing and the Human Torch! Collecting MARVEL KNIGHTS 4 #1-7. ",
+  "modified": "2015-07-13T16:07:26-0400",
+  "isbn": "978-0-7851-9743-0",
+  "upc": "",
+  "diamondCode": "APR150938",
+  "ean": "9780785 197430 52499",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 176,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "It's the Fantastic Four like you've never seen them before, courtesy of comics superstars Roberto Aguirre-Sacasa and Steve McNiven! The members of Marvel's First Family face their most personal crisis yet: bankruptcy! To overcome it, they'll need to call on the humor, determination and family ties that have delivered them from danger time and again. Metal-faced despots, intergalactic deities and subterranean savages couldn't destroy the Fantastic Four, but will the team be torn apart by the realities of life? Then, Reed, Sue and Ben take Franklin and his friends camping in New Jersey's Pine Barrens. But their getaway takes a terrifying turn when the campers realize something otherworldly is stalking them in the woods. Could it be the mysterious Jersey Devil? All this, and a classic knock-down, drag-out brawl between the Thing and the Human Torch! Collecting MARVEL KNIGHTS 4 #1-7. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51827",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51827/fantastic_four_by_aguirre-sacasa_mcniven_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19420",
+    "name": "Fantastic Four by Aguirre-Sacasa & Mcniven (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-30T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 24.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/55a41463b6b58",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/55a41463b6b58",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51827/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+        "name": "Roberto Aguirre-Sacasa",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+        "name": "Steve McNiven",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51827/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51827/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115231",
+        "name": "cover from Fantastic Four by Aguirre-Sacasa & Mcniven (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115232",
+        "name": "story from Fantastic Four by Aguirre-Sacasa & Mcniven (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51827/events",
+    "items": [],
+    "returned": 0
+  }
+}

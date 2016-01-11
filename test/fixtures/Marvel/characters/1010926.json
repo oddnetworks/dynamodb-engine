@@ -1,0 +1,130 @@
+{
+  "id": 1010926,
+  "name": "Giant-Man (Ultimate)",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4c00343fc70c8",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010926",
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010926/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39576",
+        "name": "Marvel Masterworks: The Avengers Vol. 3 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2158",
+        "name": "Ultimates 2 (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5715",
+        "name": "Ultimates 2 (2004) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15893",
+        "name": "Ultimates 2 Vol. 2: Grand Theft America (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17378",
+        "name": "Ultimates 3 (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17377",
+        "name": "Ultimates 3 (2007) #1 (Villains Gatefold)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24316",
+        "name": "Ultimates 3: Who Killed the Scarlet Witch? (Trade Paperback)"
+      }
+    ],
+    "returned": 7
+  },
+  "series": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010926/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14531",
+        "name": "Marvel Masterworks: The Avengers Vol. 3 (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/709",
+        "name": "Ultimates 2 (2004 - 2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2422",
+        "name": "Ultimates 2 Vol. 2: Grand Theft America (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3188",
+        "name": "Ultimates 3 (2007 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7515",
+        "name": "Ultimates 3: Who Killed the Scarlet Witch? (2009 - Present)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010926/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2735",
+        "name": "1 of 2 - Wedding of the Century",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2749",
+        "name": "6 of 6 - Grand Theft America",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8131",
+        "name": "6 of 6 - Grand Theft America",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36428",
+        "name": "Sex, Lies, and DVDs 1 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36430",
+        "name": "Sex, Lies, and DVDs 1 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89773",
+        "name": "Marvel Masterworks: Avengers Vol. 3 TPB",
+        "type": "cover"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010926/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/800/giant-man?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Giant-Man_%28Ultimate%29?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010926/giant-man_ultimate?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1010922,
+  "name": "Electro (Ultimate)",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4c0034491f280",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010922",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010922/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14838",
+        "name": "Ultimate Spider-Man (2000) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6181",
+        "name": "Ultimate Spider-Man Ultimate Collection Book 1 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2979",
+        "name": "Ultimate Spider-Man Vol. 2: Learning Curve (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1014",
+        "name": "Ultimate Spider-Man Vol. II: Learning Curve (Trade Paperback)"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010922/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1919",
+        "name": "Ultimate Spider-Man Ultimate Collection Book 1 (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1162",
+        "name": "Ultimate Spider-Man Vol. 2: Learning Curve (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/76",
+        "name": "Ultimate Spider-Man Vol. II: Learning Curve (1999)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010922/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30295",
+        "name": "Battle Royal",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30297",
+        "name": "[",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010922/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/604/electro?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Electro_(Ultimate)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010922/electro_ultimate?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

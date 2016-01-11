@@ -1,0 +1,113 @@
+{
+  "id": 56231,
+  "digitalId": 0,
+  "title": "All-New X-Men (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "Hated and feared more than ever, the world is a dangerous place for mutants. As the few remaining X-MEN retreat into seclusion, a handful of mutant teenagers refuse to allow their destiny to be decided for them. CYCLOPS. BEAST. ICEMAN. ANGEL. THE ALL-NEW WOLVERINE. KID APOCALYPSE. OYA. Stepping out of the shadows of their predecessors, the ALL-NEW X-MEN are striking out on their own, determined to write their own futures!",
+  "modified": "2015-12-08T16:27:33-0500",
+  "isbn": "",
+  "upc": "75960608342800211",
+  "diamondCode": "SEP150670",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Hated and feared more than ever, the world is a dangerous place for mutants. As the few remaining X-MEN retreat into seclusion, a handful of mutant teenagers refuse to allow their destiny to be decided for them. CYCLOPS. BEAST. ICEMAN. ANGEL. THE ALL-NEW WOLVERINE. KID APOCALYPSE. OYA. Stepping out of the shadows of their predecessors, the ALL-NEW X-MEN are striking out on their own, determined to write their own futures!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56231",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56231/all-new_x-men_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/All-New-X-Men-2/digital-comic/40678?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20622",
+    "name": "All-New X-Men (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-16T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-01T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/566748d89a07c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/566748d89a07c",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56231/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56231/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56231/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123425",
+        "name": "cover from X-Supremacy (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123426",
+        "name": "story from X-Supremacy (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56231/events",
+    "items": [],
+    "returned": 0
+  }
+}

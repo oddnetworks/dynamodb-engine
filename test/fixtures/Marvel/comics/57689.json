@@ -1,0 +1,119 @@
+{
+  "id": 57689,
+  "digitalId": 0,
+  "title": "Deadpool (2015) #3 (Liefeld Marvel 92 Variant)",
+  "issueNumber": 3,
+  "variantDescription": "Liefeld Marvel 92 Variant",
+  "description": "• MORE DEADPOOL THAN YOU WANTED!\n• That’s right—Wade’s called in some help being him.\n• And you won’t believe (or recognize?) who he signed up!\n• (Unless you are intimately familiar with Marvel Encyclopediae.)\n",
+  "modified": "2015-12-01T16:44:48-0500",
+  "isbn": "",
+  "upc": "75960608332900341",
+  "diamondCode": "OCT150821",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• MORE DEADPOOL THAN YOU WANTED!\n• That’s right—Wade’s called in some help being him.\n• And you won’t believe (or recognize?) who he signed up!\n• (Unless you are intimately familiar with Marvel Encyclopediae.)\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57689",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57689/deadpool_2015_3_liefeld_marvel_92_variant/liefeld_marvel_92_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20613",
+    "name": "Deadpool (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56067",
+      "name": "Deadpool (2015) #3"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5646474975fc8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5646474975fc8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57689/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/942",
+        "name": "Mike Hawthorne",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+        "name": "Rob Liefeld",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57689/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57689/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126133",
+        "name": "cover from Deadpool (2015) #3 (LIEFELD MARVEL 92 VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126134",
+        "name": "story from Deadpool (2015) #3 (LIEFELD MARVEL 92 VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57689/events",
+    "items": [],
+    "returned": 0
+  }
+}

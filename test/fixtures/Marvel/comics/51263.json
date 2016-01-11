@@ -1,0 +1,125 @@
+{
+  "id": 51263,
+  "digitalId": 39384,
+  "title": "All-New Hawkeye (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "In a very special issue, the past and the present collide as a young Clint and an older Hawkeye attempt to save whatever innocence they have left. Jeff Lemire and Ramon Perez bring you an issue unlike any other--reminding us why Hawkeye is a series unlike any other.",
+  "modified": "2015-07-14T13:34:22-0400",
+  "isbn": "",
+  "upc": "75960608170700411",
+  "diamondCode": "APR150874",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "In a very special issue, the past and the present collide as a young Clint and an older Hawkeye attempt to save whatever innocence they have left. Jeff Lemire and Ramon Perez bring you an issue unlike any other--reminding us why Hawkeye is a series unlike any other."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51263",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51263/all-new_hawkeye_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/All-New-Hawkeye-4/digital-comic/39384?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=39384&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19255",
+    "name": "All-New Hawkeye (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-22T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-08T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-07T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-12-07T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/5513083cd42ad",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/5513083cd42ad",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51263/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11531",
+        "name": "Ramon Perez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51263/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51263/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114103",
+        "name": "cover from All-New Hawkeye (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114104",
+        "name": "story from All-New Hawkeye (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51263/events",
+    "items": [],
+    "returned": 0
+  }
+}

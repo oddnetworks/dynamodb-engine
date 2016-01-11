@@ -1,0 +1,143 @@
+{
+  "id": 58425,
+  "digitalId": 0,
+  "title": "Secret Wars, Too (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "THE BEYONDERS TRY THEIR (SCARY, EXTRA-DIMENSIONAL) HAND AT MARKETING:\n• We are Beyond. Dreamers. Destroyers. All of reality our whim. And frankly… we get bored.\n• These tales from across the multifarious domains of Battleworld – not of heroism or consequence, but of humor – provide a brief respite from millennia of omnipotence.\n• We cannot be comprehended by the miniscule human mind. Turn your attention to this book instead of trying.\n• You are welcome.\n",
+  "modified": "2015-11-16T08:38:35-0500",
+  "isbn": "",
+  "upc": "",
+  "diamondCode": "SEP150794",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 0,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE BEYONDERS TRY THEIR (SCARY, EXTRA-DIMENSIONAL) HAND AT MARKETING:\n• We are Beyond. Dreamers. Destroyers. All of reality our whim. And frankly… we get bored.\n• These tales from across the multifarious domains of Battleworld – not of heroism or consequence, but of humor – provide a brief respite from millennia of omnipotence.\n• We cannot be comprehended by the miniscule human mind. Turn your attention to this book instead of trying.\n• You are welcome.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/58425",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/58425/secret_wars_too_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Secret-Wars-Too-1/digital-comic/40516?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/21326",
+    "name": "Secret Wars, Too (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-18T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-28T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/5644f584de8f2",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/5644f584de8f2",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58425/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9438",
+        "name": "Sergio Aragones",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+        "name": "Al Ewing",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12476",
+        "name": "Rob Guillory",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+        "name": "Declan Shalvey",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5007",
+        "name": "Eric Powell",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12709",
+        "name": "Ramon Villalobos",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12494",
+        "name": "Chip Zdarsky",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58425/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58425/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127532",
+        "name": "cover from Secret Wars, Too (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127533",
+        "name": "story from Secret Wars, Too (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58425/events",
+    "items": [],
+    "returned": 0
+  }
+}

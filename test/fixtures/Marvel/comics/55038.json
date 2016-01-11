@@ -1,0 +1,118 @@
+{
+  "id": 55038,
+  "digitalId": 0,
+  "title": "Inhumans: Attilan Rising (2015) #2 (Stokoe Gwendusa Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Stokoe Gwendusa Variant",
+  "description": "- What is the Quiet Room? - There's a rebellion brewing on Battleworld and it's centered around a mysterious silent man. - Medusa will stop at nothing until the rebellion is squashed! ",
+  "modified": "2015-06-02T13:59:36-0400",
+  "isbn": "",
+  "upc": "75960608205600231",
+  "diamondCode": "APR150744",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- What is the Quiet Room? - There's a rebellion brewing on Battleworld and it's centered around a mysterious silent man. - Medusa will stop at nothing until the rebellion is squashed! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55038",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55038/inhumans_attilan_rising_2015_2_stokoe_gwendusa_variant/stokoe_gwendusa_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19477",
+    "name": "Inhumans: Attilan Rising (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53291",
+      "name": "Inhumans: Attilan Rising (2015) #2 (Tbd Artist Design Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51996",
+      "name": "Inhumans: Attilan Rising (2015) #2"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/556dedcc1ac23",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/556dedcc1ac23",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55038/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12468",
+        "name": "John Timms",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55038/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55038/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121239",
+        "name": "cover from Inhumans: Attilan Rising (2015) #2 (TBD ARTIST GWENDUSA VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121240",
+        "name": "story from Inhumans: Attilan Rising (2015) #2 (TBD ARTIST GWENDUSA VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55038/events",
+    "items": [],
+    "returned": 0
+  }
+}

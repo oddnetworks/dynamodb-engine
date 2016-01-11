@@ -1,0 +1,136 @@
+{
+  "id": 52856,
+  "digitalId": 0,
+  "title": "Uncanny Inhumans (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Meet the Uncanny Inhumans. MEDUSA! BLACK BOLT! TRITON! READER! HUMAN TORCH?! BEAST?! It's eight months later and everything is different for the Inhumans. Medusa and Johnny Storm are an item. Black Bolt is running covert missions of his own. And something so big happened between the Inhumans and the X-Men that Beast is now on the side of the Inhumans. And if that's not enough, the most dangerous villain throughout Marvel's history is against them-KANG THE CONQUEROR. Don't miss what the epic team behind DEATH OF WOLVERINE (Charles Soule and Steve McNiven) have in store for you. All this plus a bonus story by Charles and Brandon Peterson (UNCANNY X-MEN).",
+  "modified": "2015-10-16T12:37:56-0400",
+  "isbn": "",
+  "upc": "75960608181300111",
+  "diamondCode": "AUG150831",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Meet the Uncanny Inhumans. MEDUSA! BLACK BOLT! TRITON! READER! HUMAN TORCH?! BEAST?! It's eight months later and everything is different for the Inhumans. Medusa and Johnny Storm are an item. Black Bolt is running covert missions of his own. And something so big happened between the Inhumans and the X-Men that Beast is now on the side of the Inhumans. And if that's not enough, the most dangerous villain throughout Marvel's history is against them-KANG THE CONQUEROR. Don't miss what the epic team behind DEATH OF WOLVERINE (Charles Soule and Steve McNiven) have in store for you. All this plus a bonus story by Charles and Brandon Peterson (UNCANNY X-MEN)."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52856",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52856/uncanny_inhumans_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Uncanny-Inhumans-1/digital-comic/40278?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19780",
+    "name": "Uncanny Inhumans (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55994",
+      "name": "Uncanny Inhumans (2015) #1 (Scott Hip-&#8203;Hop Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-21T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-07T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/562126a812c39",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/03/562126a812c39",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/560af520f37df",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/559179916a000",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52856/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+        "name": "Steve McNiven",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+        "name": "Brandon Peterson",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52856/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+        "name": "Inhumans"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52856/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117289",
+        "name": "cover from Uncanny Inhumans (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117290",
+        "name": "story from Uncanny Inhumans (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52856/events",
+    "items": [],
+    "returned": 0
+  }
+}

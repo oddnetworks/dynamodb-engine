@@ -1,0 +1,109 @@
+{
+  "id": 50328,
+  "digitalId": 0,
+  "title": "Miracleman by Gaiman & Buckingham (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "• Miracleman’s creator, Dr. Emil Gargunza, is back! But how does Andy Warhol factor into this return?\n• Gaiman and Buckingham explore the nature of identity and art in the Golden Age with “Notes from the Underground.”\n• “Retrieval” continues as familiar faces are discovered deep within the Warp Well!\n• Including material originally presented in MIRACLEMAN (1985) #19, plus bonus content.\n",
+  "modified": "2015-09-30T14:26:22-0400",
+  "isbn": "",
+  "upc": "75960608051900311",
+  "diamondCode": "AUG150842",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 48,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Miracleman’s creator, Dr. Emil Gargunza, is back! But how does Andy Warhol factor into this return?\n• Gaiman and Buckingham explore the nature of identity and art in the Golden Age with “Notes from the Underground.”\n• “Retrieval” continues as familiar faces are discovered deep within the Warp Well!\n• Including material originally presented in MIRACLEMAN (1985) #19, plus bonus content.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/50328",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/50328/miracleman_by_gaiman_buckingham_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18826",
+    "name": "Miracleman by Gaiman & Buckingham (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-07T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-23T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/560c25046e900",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/560c25046e900",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50328/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/71",
+        "name": "Mark Buckingham",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/567",
+        "name": "Neil Gaiman",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50328/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50328/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112689",
+        "name": "cover from Miracleman by Gaiman & Buckingham (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112690",
+        "name": "story from Miracleman by Gaiman & Buckingham (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50328/events",
+    "items": [],
+    "returned": 0
+  }
+}

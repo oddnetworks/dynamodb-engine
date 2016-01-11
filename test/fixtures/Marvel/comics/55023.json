@@ -1,0 +1,114 @@
+{
+  "id": 55023,
+  "digitalId": 0,
+  "title": "Korvac Saga (2015) #1 (Lieber Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Lieber Variant",
+  "description": "- Lord Michael Korvac governs the Forest Hills, but his domain is threatened by rival lords, chaotic threats from beyond the Wall, and, worst of all, a dark madness that is spreading through the population. - Led by the noble Major Victory, Korvac's loyal Guardians must find the source of the evil before it corrupts the world as they know it. ",
+  "modified": "2015-06-16T14:19:29-0400",
+  "isbn": "",
+  "upc": "75960608280300121",
+  "diamondCode": "APR150829",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- Lord Michael Korvac governs the Forest Hills, but his domain is threatened by rival lords, chaotic threats from beyond the Wall, and, worst of all, a dark madness that is spreading through the population. - Led by the noble Major Victory, Korvac's loyal Guardians must find the source of the evil before it corrupts the world as they know it. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55023",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55023/korvac_saga_2015_1_lieber_variant/lieber_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20070",
+    "name": "Korvac Saga (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53631",
+      "name": "Korvac Saga (2015) #1"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-24T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-10T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/558065733ff5a",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/558065733ff5a",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55023/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12493",
+        "name": "Otto Schmidt",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55023/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55023/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121209",
+        "name": "cover from The Korvac Saga (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121210",
+        "name": "story from The Korvac Saga (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55023/events",
+    "items": [],
+    "returned": 0
+  }
+}

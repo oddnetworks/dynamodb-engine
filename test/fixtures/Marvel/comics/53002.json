@@ -1,0 +1,129 @@
+{
+  "id": 53002,
+  "digitalId": 0,
+  "title": "Guardians of the Galaxy by Jim Valentino Vol. 3 (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Jim Valentino completes his explosive exploration of the Marvel Universe of the 31st century! The original-and-future Guardians welcome the return of their ally Starhawk — but why is that bad news for Major Victory? The ruthless Rancor is also back, and that’s trouble for everybody. Will she find her ancestor, Wolverine? Silver Surfer’s reappearance may be worst of all — because where he soars, Galactus is sure to follow! Then, it’s back to the beginning with the secret origin of the Guardians of the Galaxy! But who or what are the Galactic Guardians? And it all ends in the modern day, where our time-traveling heroes face the Masters of Evil in the middle of a cosmic epic. To INFINITY WAR and beyond! Collecting GUARDIANS OF THE GALAXY (1990) #21-29 and ANNUAL #2, and MARVEL SUPER-HEROES (1967) #18.",
+  "modified": "2015-10-27T14:08:34-0400",
+  "isbn": "978-0-7851-9812-3",
+  "upc": "",
+  "diamondCode": "AUG150910",
+  "ean": "9780785 198123 53499",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 312,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Jim Valentino completes his explosive exploration of the Marvel Universe of the 31st century! The original-and-future Guardians welcome the return of their ally Starhawk — but why is that bad news for Major Victory? The ruthless Rancor is also back, and that’s trouble for everybody. Will she find her ancestor, Wolverine? Silver Surfer’s reappearance may be worst of all — because where he soars, Galactus is sure to follow! Then, it’s back to the beginning with the secret origin of the Guardians of the Galaxy! But who or what are the Galactic Guardians? And it all ends in the modern day, where our time-traveling heroes face the Masters of Evil in the middle of a cosmic epic. To INFINITY WAR and beyond! Collecting GUARDIANS OF THE GALAXY (1990) #21-29 and ANNUAL #2, and MARVEL SUPER-HEROES (1967) #18."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53002",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/53002/guardians_of_the_galaxy_by_jim_valentino_vol_3_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19829",
+    "name": "Guardians of the Galaxy by Jim Valentino Vol. 3 (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-28T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-13T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 34.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/562e51c075727",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/562e51c075727",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53002/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3780",
+        "name": "J.j. Birch",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11501",
+        "name": "Mark Texeira",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/199",
+        "name": "Herb Trimpe",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/60",
+        "name": "Arnold Drake",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1333",
+        "name": "Jim Valentino",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53002/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53002/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117613",
+        "name": "cover from Guardians of the Galaxy by Jim Valentino (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117614",
+        "name": "story from Guardians of the Galaxy by Jim Valentino (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53002/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": 52522,
+  "digitalId": 0,
+  "title": "Spider-Gwen Vol. 0: Most Wanted? (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "The breakout character hit of the year is Gwen Stacy: Spider-Woman! In one universe, it wasn’t Peter Parker who was bitten by the radioactive spider, but Gwen Stacy! She’s smart, charming and can lift a car — just don’t tell her father the police chief! And now, in the wake of Spider-Verse, Gwen swings into her own solo adventures! And she soon finds herself between a rock and a hard place when the Vulture attacks, and NYPD Lieutenant Frank Castle sets his sights on bringing her down. Then, still haunted by Peter’s death, Gwen visits his only family: Ben and May Parker. But what really happened the day Peter died? Find out right here as the spectacular Spider-Gwen steals not only the spotlight, but also the hearts of comic fans worldwide! Collecting EDGE OF SPIDER-VERSE #2 and SPIDER-GWEN #1-5.",
+  "modified": "2015-11-23T13:21:35-0500",
+  "isbn": "978-0-7851-9773-7",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "9780785 197737 51699",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 136,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The breakout character hit of the year is Gwen Stacy: Spider-Woman! In one universe, it wasn’t Peter Parker who was bitten by the radioactive spider, but Gwen Stacy! She’s smart, charming and can lift a car — just don’t tell her father the police chief! And now, in the wake of Spider-Verse, Gwen swings into her own solo adventures! And she soon finds herself between a rock and a hard place when the Vulture attacks, and NYPD Lieutenant Frank Castle sets his sights on bringing her down. Then, still haunted by Peter’s death, Gwen visits his only family: Ben and May Parker. But what really happened the day Peter died? Find out right here as the spectacular Spider-Gwen steals not only the spotlight, but also the hearts of comic fans worldwide! Collecting EDGE OF SPIDER-VERSE #2 and SPIDER-GWEN #1-5."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52522",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52522/spider-gwen_vol_0_most_wanted_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19671",
+    "name": "Spider-Gwen Vol. 0: Most Wanted? (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-25T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-10T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 16.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/56534e465660e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/56534e465660e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52522/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11306",
+        "name": "Jason Latour",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12399",
+        "name": "Robbi Rodriguez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52522/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52522/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116621",
+        "name": "cover from Spider-Gwen (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116622",
+        "name": "story from Spider-Gwen (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52522/events",
+    "items": [],
+    "returned": 0
+  }
+}

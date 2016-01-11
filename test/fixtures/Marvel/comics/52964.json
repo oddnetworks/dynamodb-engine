@@ -1,0 +1,143 @@
+{
+  "id": 52964,
+  "digitalId": 38825,
+  "title": "X-Tinction Agenda (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Ten years since the fall of Cameron Hodge and his fascist regime. Ten years that Havok and Wolfsbane have labored to rebuild Genosha. But their work may be for naught, as a plague has spread across their nation, infecting mutants and threatening their race with extinction.   With the country quarantined and seemingly abandoned by the rest of the world, including the X-Men, old friends may become new enemies as Genosha's rulers fight to save their people! Experience an alternate future fueled by the events of the landmark first X-Crossover of 1990, X-Tinction Agenda! ",
+  "modified": "2015-06-01T10:39:34-0400",
+  "isbn": "",
+  "upc": "75960608243800111",
+  "diamondCode": "APR150819",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Ten years since the fall of Cameron Hodge and his fascist regime. Ten years that Havok and Wolfsbane have labored to rebuild Genosha. But their work may be for naught, as a plague has spread across their nation, infecting mutants and threatening their race with extinction.   With the country quarantined and seemingly abandoned by the rest of the world, including the X-Men, old friends may become new enemies as Genosha's rulers fight to save their people! Experience an alternate future fueled by the events of the landmark first X-Crossover of 1990, X-Tinction Agenda! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52964",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52964/x-tinction_agenda_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/X-Tinction-Agenda-1/digital-comic/38825?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38825&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19813",
+    "name": "X-Tinction Agenda (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-20T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-07T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-29T11:21:09-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/54f5f7378c16b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/5548ed3b267e8",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/5548e9c4e99ce",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/54f5f7378c16b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12500",
+        "name": "Carmine DiGiandomenico",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+        "name": "Marc Guggenheim",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+        "name": "David Nakayama",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117505",
+        "name": "cover from X-Tinction Agenda (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117506",
+        "name": "story from X-Tinction Agenda (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52964/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

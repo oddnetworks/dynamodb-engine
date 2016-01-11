@@ -1,0 +1,142 @@
+{
+  "id": 1009706,
+  "name": "Warstar",
+  "description": "Warstar, a former member of the Imperial Guard, was one of eight Imperial Guardsmen chosen to battle the team of superhuman Earthling mutants known as the X-Men over the fate of Phoenix, a primal force of the cosmos that had assumed the form of the X-Man Jean Grey.",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/4c003a73b6673",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009706",
+  "comics": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009706/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15916",
+        "name": "Fantastic Four/Inhumans (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/9325",
+        "name": "Inhumans (2000) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1587",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12455",
+        "name": "Uncanny X-Men (1963) #137"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13698",
+        "name": "Uncanny X-Men (1963) #157"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13816",
+        "name": "Uncanny X-Men (1963) #275"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13928",
+        "name": "Uncanny X-Men (1963) #387"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1079",
+        "name": "X-Men Visionaries: Jim Lee (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4115",
+        "name": "X-Men: The Dark Phoenix Saga (New Printing) (Trade Paperback)"
+      }
+    ],
+    "returned": 9
+  },
+  "series": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009706/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2445",
+        "name": "Fantastic Four/Inhumans (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2027",
+        "name": "Inhumans (2000)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1440",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+        "name": "Uncanny X-Men (1963 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/139",
+        "name": "X-Men Visionaries: Jim Lee (2002)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1775",
+        "name": "X-Men: The Dark Phoenix Saga (New Printing) (2006)"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009706/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15462",
+        "name": "The Fate of the Phoenix!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25378",
+        "name": "The Darkest Hour",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27821",
+        "name": "Hide-'N'-Seek!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28060",
+        "name": "The Path Not Taken",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28321",
+        "name": "Cry Justice, Cry Vengeance",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009706/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+        "name": "Maximum Security"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2531/warstar?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Warstar?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009706/warstar?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

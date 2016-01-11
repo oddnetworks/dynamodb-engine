@@ -1,0 +1,93 @@
+{
+  "id": 56910,
+  "digitalId": 0,
+  "title": "Hercules (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "The Uprising Storm is sweeping in to destroy all remnants of the ancient world and its ways, and only HERCULES stands in its path. Meanwhile, Herc has been pushing his buddy Gilgamesh to get off the couch and back into the hero business. Now Gil has finally stepped up...and walked into a world of trouble. Hercules has got to save the world...but first, he’s got to save his old friend from a miserable death...",
+  "modified": "2016-01-08T14:39:50-0500",
+  "isbn": "",
+  "upc": "75960608410400411",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The Uprising Storm is sweeping in to destroy all remnants of the ancient world and its ways, and only HERCULES stands in its path. Meanwhile, Herc has been pushing his buddy Gilgamesh to get off the couch and back into the hero business. Now Gil has finally stepped up...and walked into a world of trouble. Hercules has got to save the world...but first, he’s got to save his old friend from a miserable death..."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56910",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56910/hercules_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20812",
+    "name": "Hercules (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-02-24T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-02-10T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/569010d489392",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/569010d489392",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56910/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56910/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56910/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124637",
+        "name": "cover from Hercules (2015) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56910/events",
+    "items": [],
+    "returned": 0
+  }
+}

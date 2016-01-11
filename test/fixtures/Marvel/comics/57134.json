@@ -1,0 +1,118 @@
+{
+  "id": 57134,
+  "digitalId": 0,
+  "title": "Spider-Woman (2015) #1 (Cosplay Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Cosplay Variant",
+  "description": "BABY ON BOARD!\nJessica Drew is a private investigator, a super hero and… a mom to be? Since we last saw her, Spider-Woman’s got a whole NEW responsibility -- she’s super heroing for two now, after all! Ben Urich and Porcupine are still along for the adventure, too, and aren’t making Jess’ life any easier – half the time they won’t even let her leave the car! How’s a gal supposed to save innocent people and keep herself out of harm’s way? See how in the mother of all Spider-Stories!\n",
+  "modified": "2015-11-12T15:58:39-0500",
+  "isbn": "",
+  "upc": "75960608338100121",
+  "diamondCode": "SEP150675",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "BABY ON BOARD!\nJessica Drew is a private investigator, a super hero and… a mom to be? Since we last saw her, Spider-Woman’s got a whole NEW responsibility -- she’s super heroing for two now, after all! Ben Urich and Porcupine are still along for the adventure, too, and aren’t making Jess’ life any easier – half the time they won’t even let her leave the car! How’s a gal supposed to save innocent people and keep herself out of harm’s way? See how in the mother of all Spider-Stories!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57134",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57134/spider-woman_2015_1_cosplay_variant/cosplay_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20618",
+    "name": "Spider-Woman (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56164",
+      "name": "Spider-Woman (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57135",
+      "name": "Spider-Woman (2015) #1 (Bustos Hip-&#8203;Hop Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-18T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-03T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5630f5eac5b20",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/5630f5eac5b20",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57134/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1117",
+        "name": "Javier Rodriguez",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57134/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57134/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125085",
+        "name": "cover from Spider-Woman (2015) #1 (COSPLAY VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125086",
+        "name": "story from Spider-Woman (2015) #1 (COSPLAY VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57134/events",
+    "items": [],
+    "returned": 0
+  }
+}

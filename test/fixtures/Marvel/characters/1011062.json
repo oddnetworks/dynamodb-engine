@@ -1,0 +1,94 @@
+{
+  "id": 1011062,
+  "name": "Stranger",
+  "description": "By his own account, the Stranger is a composite being possessing the combined strength and intellect of the billions of humanoid beings who once lived on the planet Gigantus, an ancient world in the Andromeda Galaxy whose size approached the limit at which a planet can exist before fissioning into a sun.",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0030fd08ad6",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011062",
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011062/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6995",
+        "name": "Avengers (1963) #138"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3965",
+        "name": "Marvel Masterworks: Ant-Man/Giant-Man Vol. (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17465",
+        "name": "Marvel Masterworks: Ant-Man/Giant-Man Vol. 1 (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11438",
+        "name": "Tales to Astonish (1959) #90"
+      }
+    ],
+    "returned": 4
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011062/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1683",
+        "name": "Marvel Masterworks: Ant-Man/Giant-Man Vol. (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3297",
+        "name": "Marvel Masterworks: Ant-Man/Giant-Man Vol. 1 (0000 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2080",
+        "name": "Tales to Astonish (1959 - 1968)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011062/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12368",
+        "name": "The Abomination!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14528",
+        "name": "Stranger in a Strange Man!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011062/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2230/stranger?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Stranger?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011062/stranger?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

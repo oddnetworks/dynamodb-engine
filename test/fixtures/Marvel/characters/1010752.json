@@ -1,0 +1,112 @@
+{
+  "id": 1010752,
+  "name": "Karolina Dean ",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/50/4c00377435871",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010752",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010752/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1678",
+        "name": "Runaways (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24173",
+        "name": "Runaways (2008) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4429",
+        "name": "Runaways (2005) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15826",
+        "name": "Runaways (2005) #27"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2425",
+        "name": "Runaways Vol. 4: True Believers (Digest)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5197",
+        "name": "Runaways Vol. 6: Parental Guidance (Digest)"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010752/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5338",
+        "name": "Runaways (2008 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/843",
+        "name": "Runaways (2005 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1445",
+        "name": "Runaways Vol. 4: True Believers (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1631",
+        "name": "Runaways Vol. 6: Parental Guidance (2006)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010752/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4352",
+        "name": "1 of 6 - In with the New",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4383",
+        "name": "5 of 5 - Parental Guidance",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32319",
+        "name": "Dead End Kids 3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53571",
+        "name": "Interior #53571",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010752/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2818/karolina_dean_?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Lucy_In_The_Sky?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010752/karolina_dean_?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

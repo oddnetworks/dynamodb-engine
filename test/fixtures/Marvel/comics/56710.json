@@ -1,0 +1,134 @@
+{
+  "id": 56710,
+  "digitalId": 0,
+  "title": "Daredevil (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney’s office. Fighting crime in the shadows, prosecuting bad guys in the light, it’s a whole new chapter for our man without fear—including the arrival of the devil’s advocate. Welcome to Hell, Blindspot.",
+  "modified": "2015-12-17T13:01:23-0500",
+  "isbn": "",
+  "upc": "75960608350300211",
+  "diamondCode": "OCT150758",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney’s office. Fighting crime in the shadows, prosecuting bad guys in the light, it’s a whole new chapter for our man without fear—including the arrival of the devil’s advocate. Welcome to Hell, Blindspot."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56710",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56710/daredevil_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Daredevil-2/digital-comic/40720?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20780",
+    "name": "Daredevil (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56711",
+      "name": "Daredevil (2015) #2 (Hembeck Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57658",
+      "name": "Daredevil (2015) #2 (Yu Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-23T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-08T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/5672f74776804",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/5672f74776804",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/565f1040987be",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/565f0fde8ce77",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/564a1abbcf9b0",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+        "name": "Ron Garney",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124275",
+        "name": "cover from Daredevil (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124276",
+        "name": "story from Daredevil (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56710/events",
+    "items": [],
+    "returned": 0
+  }
+}

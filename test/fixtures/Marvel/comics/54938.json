@@ -1,0 +1,134 @@
+{
+  "id": 54938,
+  "digitalId": 0,
+  "title": "Marvel 1872 (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "In the Battleworld zone of 1872, Sheriff Steve Rogers faces corruption and fear in the boom town of Timely. Can Anthony Stark pull Rogers’ fat from the fire? Probably not, since the only thing he seems capable of pulling is a cork from a bottle. Things in Timely are bad, and getting worse — and when a stranger arrives in town, Timely will be changed forever. For anyone left standing when the dust clears, that is. It’s a Dead Man’s Hand composed of Bullseye, Elektra, Grizzly, Doc Ock and ringleader Wilson Fisk. But what concoction is the timid Dr. Banner cooking up in his apothecary? Will Justice stand tall at high noon, or die in the street? Plus: classic appearances of Will Talltrees, the Marvel Universe’s modern Red Wolf! Collecting 1872 #1-4, AVENGERS (1963) #80 and material from MARVEL COMICS PRESENTS (1988) #170.",
+  "modified": "2015-11-23T13:46:53-0500",
+  "isbn": "978-0-7851-9877-2",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "9780785 198772 51599",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 120,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "In the Battleworld zone of 1872, Sheriff Steve Rogers faces corruption and fear in the boom town of Timely. Can Anthony Stark pull Rogers’ fat from the fire? Probably not, since the only thing he seems capable of pulling is a cork from a bottle. Things in Timely are bad, and getting worse — and when a stranger arrives in town, Timely will be changed forever. For anyone left standing when the dust clears, that is. It’s a Dead Man’s Hand composed of Bullseye, Elektra, Grizzly, Doc Ock and ringleader Wilson Fisk. But what concoction is the timid Dr. Banner cooking up in his apothecary? Will Justice stand tall at high noon, or die in the street? Plus: classic appearances of Will Talltrees, the Marvel Universe’s modern Red Wolf! Collecting 1872 #1-4, AVENGERS (1963) #80 and material from MARVEL COMICS PRESENTS (1988) #170."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/54938",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/54938/marvel_1872_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20317",
+    "name": "Marvel 1872 (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-25T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-05T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 15.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/56535050d45bd",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/56535050d45bd",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54938/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12483",
+        "name": "Nik Virella",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3804",
+        "name": "Alan Cowsill",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+        "name": "Alex Maleev",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54938/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54938/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121071",
+        "name": "cover from Marvel 1872 (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121072",
+        "name": "story from Marvel 1872 (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/54938/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": 52498,
+  "digitalId": 37765,
+  "title": "Silk (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "SILK VS. BLACK CAT-- not looking good for Ms. Moon! Silk's been picking at the edges of Black Cat's operation and Felicia Hardy has had about enough. Plus a last page appearance of some very familiar folks!",
+  "modified": "2015-04-27T12:11:30-0400",
+  "isbn": "",
+  "upc": "75960608180600311",
+  "diamondCode": "FEB150727",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "SILK VS. BLACK CAT-- not looking good for Ms. Moon! Silk's been picking at the edges of Black Cat's operation and Felicia Hardy has had about enough. Plus a last page appearance of some very familiar folks!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52498",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52498/silk_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Silk-3/digital-comic/37765?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=37765&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19661",
+    "name": "Silk (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53018",
+      "name": "Silk (2015) #3 (Anka Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53408",
+      "name": "Silk (2015) #3 (Pitarra Wtd Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55642",
+      "name": "Silk (2015) #3 (Nauck Phantom Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-29T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-15T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-10-26T00:00:00-0400"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-04-24T12:08:28-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/553e5b8988ffb",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/90/553e5b8988ffb",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/54cbbdc46fc3f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52498/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12437",
+        "name": "Stacy Lee",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+        "name": "Robbie Thompson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52498/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52498/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116573",
+        "name": "cover from Silk (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116574",
+        "name": "story from Silk (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52498/events",
+    "items": [],
+    "returned": 0
+  }
+}

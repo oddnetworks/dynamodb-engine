@@ -1,0 +1,345 @@
+{
+  "id": 1009168,
+  "name": "Banshee",
+  "description": "",
+  "modified": "2013-11-01T16:27:08-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+  "comics": {
+    "available": 166,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009168/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12676",
+        "name": "Alpha Flight (1983) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12754",
+        "name": "Alpha Flight (1983) #88"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37881",
+        "name": "Chaos War: X-Men (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20566",
+        "name": "Classic X-Men (1986) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20567",
+        "name": "Classic X-Men (1986) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20570",
+        "name": "Classic X-Men (1986) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20572",
+        "name": "Classic X-Men (1986) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20580",
+        "name": "Classic X-Men (1986) #25"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20590",
+        "name": "Classic X-Men (1986) #34"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20592",
+        "name": "Classic X-Men (1986) #36"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8556",
+        "name": "Earth X (1999) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4241",
+        "name": "Earth X (New (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8580",
+        "name": "Excalibur (1988) #115"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1587",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17692",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. 6 (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17693",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. 6 (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39530",
+        "name": "Marvel Masterworks: The X-Men Vol. 3 DM Variant TPB (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39531",
+        "name": "Marvel Masterworks: The X-Men Vol. 3 TPB (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1377",
+        "name": "Marvel Masterworks: The X-Men Vol. 4 (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1192",
+        "name": "Marvel Masterworks: The X-Men Vol. III - 2nd Edition (1st) (Trade Paperback)"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 44,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009168/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+        "name": "Alpha Flight (1983 - 1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13588",
+        "name": "Chaos War: X-Men (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3751",
+        "name": "Classic X-Men (1986 - 1990)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/378",
+        "name": "Earth X (1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1806",
+        "name": "Earth X (New (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2011",
+        "name": "Excalibur (1988 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1440",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3460",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. 6 (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3459",
+        "name": "Marvel Masterworks: The Uncanny X-Men Vol. 6 (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14485",
+        "name": "Marvel Masterworks: The X-Men Vol. 3 DM Variant TPB (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14486",
+        "name": "Marvel Masterworks: The X-Men Vol. 3 TPB (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1364",
+        "name": "Marvel Masterworks: The X-Men Vol. 4 (2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/249",
+        "name": "Marvel Masterworks: The X-Men Vol. III - 2nd Edition (1st) (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1689",
+        "name": "Marvel Masterworks: The X-Men Vol.6 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3716",
+        "name": "Marvel Team-Up (1972 - 1985)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1595",
+        "name": "Marvel Visionaries: Chris Claremont (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1430",
+        "name": "Marvel Weddings (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2055",
+        "name": "New Mutants (1983 - 1991)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1763",
+        "name": "New Mutants Classic Vol. 1 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2059",
+        "name": "Paradise X (2002 - 2003)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 179,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009168/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15379",
+        "name": "Betrayed By Professor X !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15380",
+        "name": "Greater Love Hath No X-Man...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15382",
+        "name": "Like a Phoenix, From the Ashes!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15384",
+        "name": "Who Will Stop the Juggernaut?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15385",
+        "name": "Death Siege!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15386",
+        "name": "The Fall of the Tower",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15388",
+        "name": "The Gentleman's Name is Magneto",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15390",
+        "name": "Phoenix Unleashed!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15392",
+        "name": "Dark Shroud of the Past !",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15393",
+        "name": "Beginning the Incredible Saga of -- the Starjammers !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15394",
+        "name": "Where No X-Man Has Gone Before!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15395",
+        "name": "Cover #15395",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15396",
+        "name": "Armageddon Now !",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15397",
+        "name": "Wanted: Wolverine Dead or Alive!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15398",
+        "name": "Home are the Heroes!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15401",
+        "name": "Cover #15401",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15402",
+        "name": "The \"X\"-Sanction!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15403",
+        "name": "Cover #15403",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15404",
+        "name": "Mindgames!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15406",
+        "name": "Magneto Triumphant!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009168/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+        "name": "Chaos War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/240",
+        "name": "Days of Future Present"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+        "name": "Fatal Attractions"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "name": "Messiah CompleX"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/280",
+        "name": "X-Tinction Agenda"
+      }
+    ],
+    "returned": 8
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/232/banshee?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Banshee?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009168/banshee?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

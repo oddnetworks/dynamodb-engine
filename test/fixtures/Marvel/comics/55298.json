@@ -1,0 +1,122 @@
+{
+  "id": 55298,
+  "digitalId": 0,
+  "title": "Amazing Spider-Man (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "THE WORLD'S GREATEST SUPER HERO!\nSpider-Man has gone global! Parker Industries is more successful than ever, with offices in New York, Shanghai, London and San Francisco and Peter Parker is racking up the frequent flyer miles with his \"bodyguard\" Spider-Man in tow, of course. But success breeds enemies and a reinvigorated Zodiac have also widened their scope to threaten the whole world. Join Dan Slott and Giuseppe Camuncoli as they take Spider-Man to the next level! This huge first issue also includes stories featuring Silk, Spidey 2099, Spider-Woman and much more!",
+  "modified": "2015-09-22T13:34:50-0400",
+  "isbn": "",
+  "upc": "75960608297100111",
+  "diamondCode": "AUG150700",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 72,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE WORLD'S GREATEST SUPER HERO!\nSpider-Man has gone global! Parker Industries is more successful than ever, with offices in New York, Shanghai, London and San Francisco and Peter Parker is racking up the frequent flyer miles with his \"bodyguard\" Spider-Man in tow, of course. But success breeds enemies and a reinvigorated Zodiac have also widened their scope to threaten the whole world. Join Dan Slott and Giuseppe Camuncoli as they take Spider-Man to the next level! This huge first issue also includes stories featuring Silk, Spidey 2099, Spider-Woman and much more!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55298",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55298/amazing_spider-man_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-1/digital-comic/40144?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20432",
+    "name": "Amazing Spider-Man (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-07T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-23T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 5.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56018e2b604d1",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/56018e2b604d1",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/55ef4161a856f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55298/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+        "name": "Alex Ross",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55298/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55298/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121639",
+        "name": "cover from The Amazing Spider-Man (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121640",
+        "name": "story from The Amazing Spider-Man (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55298/events",
+    "items": [],
+    "returned": 0
+  }
+}

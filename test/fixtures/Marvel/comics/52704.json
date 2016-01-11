@@ -1,0 +1,101 @@
+{
+  "id": 52704,
+  "digitalId": 0,
+  "title": "Star Wars: The Empire Strikes Back (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": null,
+  "modified": "2015-08-11T12:01:40-0400",
+  "isbn": "978-0-7851-9367-8",
+  "upc": "",
+  "diamondCode": "APR150894",
+  "ean": "9780785 193678 52499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 144,
+  "textObjects": [],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52704",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52704/star_wars_the_empire_strikes_back_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Star-Wars-The-Empire-Strikes-Back-0/digital-comic/39606?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19716",
+    "name": "Star Wars: The Empire Strikes Back (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-12T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-14T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 24.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/55c51a1c247f2",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/55c51a1c247f2",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/552814ea1ffa3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52704/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52704/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52704/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116985",
+        "name": "cover from Star Wars: The Empire Strikes Back (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52704/events",
+    "items": [],
+    "returned": 0
+  }
+}

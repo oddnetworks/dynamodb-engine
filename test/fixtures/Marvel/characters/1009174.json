@@ -1,0 +1,171 @@
+{
+  "id": 1009174,
+  "name": "Beak",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0040b8329ad",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009174",
+  "comics": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009174/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5451",
+        "name": "New X-Men (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14936",
+        "name": "New X-Men (2001) #117"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14938",
+        "name": "New X-Men (2001) #119"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14944",
+        "name": "New X-Men (2001) #125"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14945",
+        "name": "New X-Men (2001) #126"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14950",
+        "name": "New X-Men (2001) #131"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14954",
+        "name": "New X-Men (2001) #135"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14955",
+        "name": "New X-Men (2001) #136"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14956",
+        "name": "New X-Men (2001) #137"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14957",
+        "name": "New X-Men (2001) #138"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2592",
+        "name": "New X-Men Vol. 2: Imperial (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/994",
+        "name": "New X-Men Vol. III: New Worlds (Trade Paperback)"
+      }
+    ],
+    "returned": 12
+  },
+  "series": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009174/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2281",
+        "name": "New X-Men (2001 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1807",
+        "name": "New X-Men (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1166",
+        "name": "New X-Men Vol. 2: Imperial (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/56",
+        "name": "New X-Men Vol. III: New Worlds (1999)"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009174/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30425",
+        "name": "The Prime of Miss Emma Frost",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30427",
+        "name": "Riot at Xavier's",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30429",
+        "name": "when X is not X",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30431",
+        "name": "teaching children about fractals",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30444",
+        "name": "Some Angels Falling",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30453",
+        "name": "Cover #30453",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30454",
+        "name": "All Hell",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30456",
+        "name": "Cover #30456",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30457",
+        "name": "Losers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30474",
+        "name": "Germ Free Generation: two of three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30478",
+        "name": "Danger Rooms",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 11
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009174/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/249/beak?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Beak?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009174/beak?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

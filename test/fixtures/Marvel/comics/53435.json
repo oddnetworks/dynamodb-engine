@@ -1,0 +1,122 @@
+{
+  "id": 53435,
+  "digitalId": 0,
+  "title": "Avengers: Millennium (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "At a secret Hydra installation hidden away in rural Japan, the Avengers discover a time-portal that sends them on an adventure that spans millennia. But what kind of bad guys have a time machine they don't use to change the past? Bad guys who know they win... The only thing standing between our immutable past and our wasted, ruined future are the Avengers, finally reunited to battle a doomsday weapon thousands of years in the hatching. ",
+  "modified": "2015-04-16T14:01:14-0400",
+  "isbn": "",
+  "upc": "759606082651000411",
+  "diamondCode": "FEB150696",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "At a secret Hydra installation hidden away in rural Japan, the Avengers discover a time-portal that sends them on an adventure that spans millennia. But what kind of bad guys have a time machine they don't use to change the past? Bad guys who know they win... The only thing standing between our immutable past and our wasted, ruined future are the Avengers, finally reunited to battle a doomsday weapon thousands of years in the hatching. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53435",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53435/avengers_millennium_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Avengers-Millennium-4/digital-comic/37972?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20023",
+    "name": "Avengers: Millennium (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-22T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-08T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/552ff7966d924",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/80/552ff7966d924",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/54d2549f1bdc6",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53435/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12452",
+        "name": "Mike Costa",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12500",
+        "name": "Carmine DiGiandomenico",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53435/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53435/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118220",
+        "name": "cover from Avengers: Millennium (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118221",
+        "name": "story from Avengers: Millennium (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53435/events",
+    "items": [],
+    "returned": 0
+  }
+}

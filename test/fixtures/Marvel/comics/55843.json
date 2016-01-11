@@ -1,0 +1,112 @@
+{
+  "id": 55843,
+  "digitalId": 0,
+  "title": "Mockingbird: S.H.I.E.L.D. 50th Anniversary (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Mockingbird has always been one of S.H.I.E.L.D.'s best agents, but what happens when someone close to her is murdered? Forced to take matters into her own hands, someone is bound to pay! New York Times Bestselling Author Chelsea Cain joins the Marvel Universe to tell a story of bloody revenge! Plus! A special bonus story by superstar young adult author, Margaret Stohl (Beautiful Creatures), writer for the upcoming YA novel, Black Widow: Forever Red!",
+  "modified": "2015-08-27T16:38:00-0400",
+  "isbn": "",
+  "upc": "75960608326800111",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Mockingbird has always been one of S.H.I.E.L.D.'s best agents, but what happens when someone close to her is murdered? Forced to take matters into her own hands, someone is bound to pay! New York Times Bestselling Author Chelsea Cain joins the Marvel Universe to tell a story of bloody revenge! Plus! A special bonus story by superstar young adult author, Margaret Stohl (Beautiful Creatures), writer for the upcoming YA novel, Black Widow: Forever Red!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55843",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55843/mockingbird_shield_50th_anniversary_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Mockingbird-S-H-I-E-L-D-50th-Anniversary-1/digital-comic/39845?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20547",
+    "name": "Mockingbird: S.H.I.E.L.D. 50th Anniversary (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-02T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-10T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/55df743305bb4",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/55df743305bb4",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/55ca1eb84fc60",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55843/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9233",
+        "name": "Paul Renaud",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55843/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55843/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122719",
+        "name": "cover from Mockingbird: S.H.I.E.L.D. 50th Anniversary (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122720",
+        "name": "story from Mockingbird: S.H.I.E.L.D. 50th Anniversary (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55843/events",
+    "items": [],
+    "returned": 0
+  }
+}

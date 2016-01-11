@@ -1,0 +1,133 @@
+{
+  "id": 57779,
+  "digitalId": 0,
+  "title": "Gwenpool Special (2015) #1 (Luppachino Ms. Marvel Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Luppachino Ms. Marvel Variant",
+  "description": "• AN ALL-NEW, ALL-DIFFERENT MARVEL HOLIDAY SPECIAL!\n• She-Hulk throws a holiday party and invites the entire Marvel U!\n• Deadpool teams up with both Hawkeyes – Kate and Clint – to…stop a pickpocket?!\n• Ms. Marvel takes on her most dangerous threat yet: the holiday blues!\n• And then there’s the reason for the season(al special): GWENPOOL!\n• Yup, you read that right – Gwen. Pool. C’mon, you know you’re curious.\n",
+  "modified": "2015-12-02T14:36:44-0500",
+  "isbn": "",
+  "upc": "75960608430200131",
+  "diamondCode": "OCT150809",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 64,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• AN ALL-NEW, ALL-DIFFERENT MARVEL HOLIDAY SPECIAL!\n• She-Hulk throws a holiday party and invites the entire Marvel U!\n• Deadpool teams up with both Hawkeyes – Kate and Clint – to…stop a pickpocket?!\n• Ms. Marvel takes on her most dangerous threat yet: the holiday blues!\n• And then there’s the reason for the season(al special): GWENPOOL!\n• Yup, you read that right – Gwen. Pool. C’mon, you know you’re curious.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57779",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57779/gwenpool_special_2015_1_luppachino_ms_marvel_variant/luppachino_ms_marvel_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/21033",
+    "name": "Gwenpool Special (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57777",
+      "name": "Gwenpool Special (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57778",
+      "name": "Gwenpool Special (2015) #1 (Rodriguez Gwenpool Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 5.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/563d1b2413b8b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/c0/563d1b2413b8b",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57779/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12759",
+        "name": "Christopher Hastings",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12469",
+        "name": "Langdon Foss",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11263",
+        "name": "EMANUELA LUPACCHINO",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57779/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57779/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126330",
+        "name": "cover from Gwenpool Special (2015) #1 (TBD ARTIST SHE-HULK VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126331",
+        "name": "story from Gwenpool Special (2015) #1 (TBD ARTIST SHE-HULK VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57779/events",
+    "items": [],
+    "returned": 0
+  }
+}

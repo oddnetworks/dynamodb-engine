@@ -1,0 +1,118 @@
+{
+  "id": 48983,
+  "digitalId": 0,
+  "title": "Captain Marvel Vol. 2: Stay Fly (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Captain Marvel's space adventure with her pet cat, Chewie, continues! But when they have an unexpected alien visitor, Carol learns that Rocket Raccoon was right: There's more to Chewie than meets the eye! Chewie is a Flerkin...and a mom to hundreds! Is this the end for Carol and her pet? Then, Carol has her hands full with a special guest-star from the X-Universe: rock and roll maven Lila Cheney! And Christmas comes to the Carol Corps as we celebrate 100 issues and nearly 50 years of Carol Danvers' high-flying adventures! But after tracking Captain Marvel and Tic for weeks, the Haffensye Consortium has finally caught up to them both! Carol was barely able to survive the last time she squared off against the Haffensye - will the astronomical Avenger be so lucky again? Collecting CAPTAIN MARVEL (2014) #7-12. ",
+  "modified": "2015-04-07T15:42:42-0400",
+  "isbn": "978-0-7851-9014-1",
+  "upc": "",
+  "diamondCode": "JAN150902",
+  "ean": "9780785 190141 51599",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 120,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Captain Marvel's space adventure with her pet cat, Chewie, continues! But when they have an unexpected alien visitor, Carol learns that Rocket Raccoon was right: There's more to Chewie than meets the eye! Chewie is a Flerkin...and a mom to hundreds! Is this the end for Carol and her pet? Then, Carol has her hands full with a special guest-star from the X-Universe: rock and roll maven Lila Cheney! And Christmas comes to the Carol Corps as we celebrate 100 issues and nearly 50 years of Carol Danvers' high-flying adventures! But after tracking Captain Marvel and Tic for weeks, the Haffensye Consortium has finally caught up to them both! Carol was barely able to survive the last time she squared off against the Haffensye - will the astronomical Avenger be so lucky again? Collecting CAPTAIN MARVEL (2014) #7-12. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/48983",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/48983/captain_marvel_vol_2_stay_fly_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Captain-Marvel-0/digital-comic/37469?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18438",
+    "name": "Captain Marvel Vol. 2: Stay Fly (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-03-24T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 15.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/55242bcc388ff",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/55242bcc388ff",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48983/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10320",
+        "name": "Kelly Sue DeConnick",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12392",
+        "name": "David Lopez",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9031",
+        "name": "Marcio Takara",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48983/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48983/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110053",
+        "name": "cover from Captain Marvel (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110054",
+        "name": "story from Captain Marvel (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48983/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 56933,
+  "digitalId": 0,
+  "title": "Illuminati (2015) #1 (Holloway-&#8203;Brown Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Holloway-&#8203;Brown Hip-&#8203;Hop Variant",
+  "description": "“Bad guys win every day… why not us?”\nHow do the villains of the Marvel Universe live in a world where the sky is constantly filled with heroes? What do they do when they want out of that life? There is no escape. No future. Who saves the villains? The Hood believes he might be that savior. He wants everyone to have a place at the table. Now all he needs to do is build his army… Featuring Titania, Mad Thinker, Thunderball, Black Ant and Enchantress, Illuminati is a tale of villains just trying to survive in the All-New All-Different Marvel Universe.\n",
+  "modified": "2015-11-09T13:20:18-0500",
+  "isbn": "",
+  "upc": "75960608329900121",
+  "diamondCode": "SEP150697",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "“Bad guys win every day… why not us?”\nHow do the villains of the Marvel Universe live in a world where the sky is constantly filled with heroes? What do they do when they want out of that life? There is no escape. No future. Who saves the villains? The Hood believes he might be that savior. He wants everyone to have a place at the table. Now all he needs to do is build his army… Featuring Titania, Mad Thinker, Thunderball, Black Ant and Enchantress, Illuminati is a tale of villains just trying to survive in the All-New All-Different Marvel Universe.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56933",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56933/illuminati_2015_1_holloway-8203brown_hip-8203hop_variant/holloway-8203brown_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20552",
+    "name": "Illuminati (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55849",
+      "name": "Illuminati (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56934",
+      "name": "Illuminati (2015) #1 (Jack Kirby Monster Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57400",
+      "name": "Illuminati (2015) #1 (Pope Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-11T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5626709e0cb38",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5626709e0cb38",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56933/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9443",
+        "name": "Shawn Crystal",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8847",
+        "name": "Joshua Williamson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56933/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56933/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124683",
+        "name": "cover from The Cabal (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124684",
+        "name": "story from The Cabal (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56933/events",
+    "items": [],
+    "returned": 0
+  }
+}

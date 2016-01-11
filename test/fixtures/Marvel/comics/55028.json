@@ -1,0 +1,127 @@
+{
+  "id": 55028,
+  "digitalId": 0,
+  "title": "1602 Witch Hunter Angela (2015) #1 (Christopher Gwengela Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Christopher Gwengela Variant",
+  "description": "- In the altered realms of BATTLEWORLD, Angela and Sera are WITCH HUNTERS, the scourges of King James' England, 1602. - In a land beset by magic and monstrosity, they seek a new and seductive evil-not witchbreed, but deal-making FAUSTIANS, who bargain with ancient creatures for unnatural power! - Moral ambiguity? Fancy allusions? Marguerite making the most of that English degree? - tl;dr â€\" try 1602 WITCH HUNTER ANGELA #1",
+  "modified": "2015-06-02T11:16:47-0400",
+  "isbn": "",
+  "upc": "75960608200100131",
+  "diamondCode": "APR150749",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- In the altered realms of BATTLEWORLD, Angela and Sera are WITCH HUNTERS, the scourges of King James' England, 1602. - In a land beset by magic and monstrosity, they seek a new and seductive evil-not witchbreed, but deal-making FAUSTIANS, who bargain with ancient creatures for unnatural power! - Moral ambiguity? Fancy allusions? Marguerite making the most of that English degree? - tl;dr â€\" try 1602 WITCH HUNTER ANGELA #1"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55028",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55028/1602_witch_hunter_angela_2015_1_christopher_gwengela_variant/christopher_gwengela_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19244",
+    "name": "1602 Witch Hunter Angela (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/54728",
+      "name": "1602 Witch Hunter Angela (2015) #1 (Isanove Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51198",
+      "name": "1602 Witch Hunter Angela (2015) #1"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/556dc73e378a0",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/556dc73e378a0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/555f38fd062f8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55028/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+        "name": "Marguerite Bennett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10405",
+        "name": "John Tyler Christopher",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+        "name": "Stephanie Hans",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55028/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55028/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121219",
+        "name": "cover from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST MISTRESS OF GWENG FU VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121220",
+        "name": "story from 1602 Witch Hunter Angela (2015) #1 (TBD ARTIST MISTRESS OF GWENG FU VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55028/events",
+    "items": [],
+    "returned": 0
+  }
+}

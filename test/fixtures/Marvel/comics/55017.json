@@ -1,0 +1,119 @@
+{
+  "id": 55017,
+  "digitalId": 0,
+  "title": "Mrs. Deadpool and the Howling Commandos (2015) #4 (Camuncoli Howling Variant)",
+  "issueNumber": 4,
+  "variantDescription": "Camuncoli Howling Variant",
+  "description": "• The battle royale between Shiklah and Dracula for the Monster Metropolis...\n• Oh, and did we mention that Deadpool's ghost is in this series?\n• Because he is.\n• Like...since issue 1.\n",
+  "modified": "2015-09-01T15:41:31-0400",
+  "isbn": "",
+  "upc": "75960608224700421",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• The battle royale between Shiklah and Dracula for the Monster Metropolis...\n• Oh, and did we mention that Deadpool's ghost is in this series?\n• Because he is.\n• Like...since issue 1.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55017",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55017/mrs_deadpool_and_the_howling_commandos_2015_4_camuncoli_howling_variant/camuncoli_howling_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19591",
+    "name": "Mrs. Deadpool and the Howling Commandos (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52243",
+      "name": "Mrs. Deadpool and the Howling Commandos (2015) #4"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-09T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/55e5c9c243013",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/55e5c9c243013",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55017/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9394",
+        "name": "Salvador Espin",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55017/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55017/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121197",
+        "name": "cover from Mrs. Deadpool and the Howling Commandos (2015) #4 (TBD ARTIST HOWLING VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121198",
+        "name": "story from Mrs. Deadpool and the Howling Commandos (2015) #4 (TBD ARTIST HOWLING VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55017/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": 55841,
+  "digitalId": 0,
+  "title": "THE CAVALRY: S.H.I.E.L.D. 50TH ANNIVERSARY (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "• Discover the explosive secrets that are hiding in Agent May's past!\n• When Agent May leads a team of new recruits on a training mission, will she be able to save the day when everything goes wrong?\n• Did someone say \"cyber wolves\"?\n",
+  "modified": "2015-09-15T16:01:17-0400",
+  "isbn": "",
+  "upc": "75960608324400111",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Discover the explosive secrets that are hiding in Agent May's past!\n• When Agent May leads a team of new recruits on a training mission, will she be able to save the day when everything goes wrong?\n• Did someone say \"cyber wolves\"?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55841",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55841/the_cavalry_shield_50th_anniversary_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Agent-May-S-H-I-E-L-D-50th-Anniversary-1/digital-comic/40063?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20545",
+    "name": "THE CAVALRY: S.H.I.E.L.D. 50TH ANNIVERSARY (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-30T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-07T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/560969267a4f7",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/560969267a4f7",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/90/55f8785f58d41",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/55ae7f1d48f97",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55841/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12763",
+        "name": "Jody Houser",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+        "name": "Dale Keown",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+        "name": "Luke Ross",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55841/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55841/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122715",
+        "name": "cover from Agent May: S.H.I.E.L.D. 50th Anniversary (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122716",
+        "name": "story from Agent May: S.H.I.E.L.D. 50th Anniversary (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55841/events",
+    "items": [],
+    "returned": 0
+  }
+}

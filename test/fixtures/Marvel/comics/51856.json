@@ -1,0 +1,152 @@
+{
+  "id": 51856,
+  "digitalId": 39215,
+  "title": "Ghost Racers (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "THE TRAGIC ORIGIN OF A GHOST RACER!!!!! How did ROBBIE REYES become a cursed GHOST RACER? Is his sizzling winning streak the ONLY reason why his fellow Ghost Racers despise him and crave to see him fail? More high-octane warfare, more hell-fueled rivalry, and more of your favorite Ghost Racers in a run for way more than mere victory!",
+  "modified": "2015-07-01T18:05:12-0400",
+  "isbn": "",
+  "upc": "75960608246900211",
+  "diamondCode": "MAY150667",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE TRAGIC ORIGIN OF A GHOST RACER!!!!! How did ROBBIE REYES become a cursed GHOST RACER? Is his sizzling winning streak the ONLY reason why his fellow Ghost Racers despise him and crave to see him fail? More high-octane warfare, more hell-fueled rivalry, and more of your favorite Ghost Racers in a run for way more than mere victory!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51856",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51856/ghost_racers_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Ghost-Racers-2/digital-comic/39215?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=39215&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "inAppLink",
+      "url": "http://applink.marvel.com/issue/39215?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19430",
+    "name": "Ghost Racers (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53694",
+      "name": "Ghost Racers (2015) #2 (Gedeon Danny Ketch Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-24T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2016-01-04T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-07-08T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    },
+    {
+      "type": "digitalPurchasePrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/55946310536e8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/55946310536e8",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5556414e7b32d",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51856/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11886",
+        "name": "Francesco Francavilla",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12715",
+        "name": "Juan Gedeon",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12411",
+        "name": "Felipe Smith",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51856/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51856/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115289",
+        "name": "cover from Ghost Racers (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115290",
+        "name": "story from Ghost Racers (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51856/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

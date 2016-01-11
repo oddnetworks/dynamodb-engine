@@ -1,0 +1,99 @@
+{
+  "id": 56071,
+  "digitalId": 0,
+  "title": "Deadpool (2015) #7",
+  "issueNumber": 7,
+  "variantDescription": "",
+  "description": "Twenty-five years ago in February 1991, the New Mutants encountered a blabber mouthed mercenary who tore through Xavier’s mansion and into the very heart of the 1990s. Now, that self-same degenerate is one of the most popular heroes in the world, an Avenger, and maybe the smelliest and grossest person that tumblr swoons over. Come see how Deadpool reacts to life at the top of the world...(hint: he does not handle it well). PLUS: A full array of stories from Deadpool’s new allies, the members of the Mercs for Money! Oh...and I think there is, like...some other Deadpool thing this month people are excited about? I forget what.",
+  "modified": "2016-01-08T10:00:04-0500",
+  "isbn": "",
+  "upc": "75960608332900711",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 96,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Twenty-five years ago in February 1991, the New Mutants encountered a blabber mouthed mercenary who tore through Xavier’s mansion and into the very heart of the 1990s. Now, that self-same degenerate is one of the most popular heroes in the world, an Avenger, and maybe the smelliest and grossest person that tumblr swoons over. Come see how Deadpool reacts to life at the top of the world...(hint: he does not handle it well). PLUS: A full array of stories from Deadpool’s new allies, the members of the Mercs for Money! Oh...and I think there is, like...some other Deadpool thing this month people are excited about? I forget what."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56071",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56071/deadpool_2015_7?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20613",
+    "name": "Deadpool (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-02-10T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-01-27T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 9.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/568fcf345be78",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/568fcf345be78",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56071/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+        "name": "Jordan White",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56071/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56071/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123105",
+        "name": "cover from Deadpool (2015) #7",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56071/events",
+    "items": [],
+    "returned": 0
+  }
+}

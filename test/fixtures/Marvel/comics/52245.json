@@ -1,0 +1,128 @@
+{
+  "id": 52245,
+  "digitalId": 0,
+  "title": "Ms. Marvel Vol. 3: Crushed (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Love is in the air in Jersey City as Valentine's Day arrives! Kamala Khan may not be allowed to go to the school dance, but Ms. Marvel is! Well sort of - by crashing it in an attempt to capture Asgard's most annoying trickster! Yup, it's a special Valentine's Day story featuring Marvel's favorite charlatan, Loki! And when a mysterious stranger arrives in Jersey City, Ms. Marvel must deal with...a crush! Because this new kid is really, really cute. What are these feelings, Kamala Khan? Prepare for drama! Intrigue! Romance! Suspense! Punching things! All this and more! The fan-favorite, critically acclaimed, amazing new series continues as Kamala Khan proves why she's the best (and most adorable) new super hero there is! Plus, see what happens when SHIELD agent Jemma Simmons goes undercover at Kamala's school! Collecting MS. MARVEL (2014) #12-15 and S.H.I.E.L.D. #2. ",
+  "modified": "2015-06-08T15:13:09-0400",
+  "isbn": "978-0-7851-9227-5",
+  "upc": "",
+  "diamondCode": "MAR150813",
+  "ean": "9780785 192275 51599",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Love is in the air in Jersey City as Valentine's Day arrives! Kamala Khan may not be allowed to go to the school dance, but Ms. Marvel is! Well sort of - by crashing it in an attempt to capture Asgard's most annoying trickster! Yup, it's a special Valentine's Day story featuring Marvel's favorite charlatan, Loki! And when a mysterious stranger arrives in Jersey City, Ms. Marvel must deal with...a crush! Because this new kid is really, really cute. What are these feelings, Kamala Khan? Prepare for drama! Intrigue! Romance! Suspense! Punching things! All this and more! The fan-favorite, critically acclaimed, amazing new series continues as Kamala Khan proves why she's the best (and most adorable) new super hero there is! Plus, see what happens when SHIELD agent Jemma Simmons goes undercover at Kamala's school! Collecting MS. MARVEL (2014) #12-15 and S.H.I.E.L.D. #2. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52245",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52245/ms_marvel_vol_3_crushed_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Ms-Marvel-0/digital-comic/38954?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19592",
+    "name": "Ms. Marvel Vol. 3: Crushed (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 15.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5575e83e773c0",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5575e83e773c0",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52245/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+        "name": "Takeshi Miyazawa",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12477",
+        "name": "Marguerite Sauvage",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52245/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52245/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116067",
+        "name": "cover from Ms. Marvel (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116068",
+        "name": "story from Ms. Marvel (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52245/events",
+    "items": [],
+    "returned": 0
+  }
+}

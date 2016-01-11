@@ -1,0 +1,111 @@
+{
+  "id": 1011128,
+  "name": "Venom (Ultimate)",
+  "description": "While Eddie Brock’s academic career seemed to take off, his personal life was in shambles due to his quick temper and inability to connect with women on any level, and Eddie became isolated, but when his old friend Peter Parker contacted him, he felt a rush of enthusiasm: here, at last, was someone with whom he could truly bond.",
+  "modified": "2014-03-05T13:58:42-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/531773a976816",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011128",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14846",
+        "name": "Ultimate Spider-Man (2000) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6181",
+        "name": "Ultimate Spider-Man Ultimate Collection Book 1 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1012",
+        "name": "Ultimate Spider-Man Vol. 1: Power & Responsibility (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17378",
+        "name": "Ultimates 3 (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17377",
+        "name": "Ultimates 3 (2007) #1 (Villains Gatefold)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24316",
+        "name": "Ultimates 3: Who Killed the Scarlet Witch? (Trade Paperback)"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/466",
+        "name": "Ultimate Spider-Man (2000 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1919",
+        "name": "Ultimate Spider-Man Ultimate Collection Book 1 (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/74",
+        "name": "Ultimate Spider-Man Vol. 1: Power & Responsibility (1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3188",
+        "name": "Ultimates 3 (2007 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7515",
+        "name": "Ultimates 3: Who Killed the Scarlet Witch? (2009 - Present)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30327",
+        "name": "Growing Pains",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36428",
+        "name": "Sex, Lies, and DVDs 1 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36430",
+        "name": "Sex, Lies, and DVDs 1 of 5",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011128/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1011128/venom_ultimate/featured?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Venom_(Ultimate)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011128/venom_ultimate?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

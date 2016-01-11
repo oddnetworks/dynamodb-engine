@@ -1,0 +1,128 @@
+{
+  "id": 52763,
+  "digitalId": 0,
+  "title": "Thanos: The Infinity Relativity (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Annihilus, lord of the Negative Zone, makes a renewed assault on the positive universe, searching for a source of infinite power. To stop him, a fragile alliance of cosmic protectors forms. The Guardians of the Galaxy. Gladiator, Majestor of the Shi'ar. And Adam Warlock - whose complex cycle of death and rebirth has left him more confused than ever about his true nature. With Adam reunited with his Infinity Watch comrades Gamora, Drax and Pip the Troll - and joined by newer friends like Star-Lord, Rocket Raccoon and Groot - they hold the potential to end Annihilus' threat once and for all...if only they knew how! But the answer lies in the dark mind of another. A Titan, whom some would hold as mad. Could the fate of everything rest in the hands of...Thanos? Cosmic maestro Jim Starlin's ",
+  "modified": "2015-06-01T16:02:55-0400",
+  "isbn": "978-0-7851-9303-6",
+  "upc": "",
+  "diamondCode": "FEB150842",
+  "ean": "9780785 193036 52499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Annihilus, lord of the Negative Zone, makes a renewed assault on the positive universe, searching for a source of infinite power. To stop him, a fragile alliance of cosmic protectors forms. The Guardians of the Galaxy. Gladiator, Majestor of the Shi'ar. And Adam Warlock - whose complex cycle of death and rebirth has left him more confused than ever about his true nature. With Adam reunited with his Infinity Watch comrades Gamora, Drax and Pip the Troll - and joined by newer friends like Star-Lord, Rocket Raccoon and Groot - they hold the potential to end Annihilus' threat once and for all...if only they knew how! But the answer lies in the dark mind of another. A Titan, whom some would hold as mad. Could the fate of everything rest in the hands of...Thanos? Cosmic maestro Jim Starlin's "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52763",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52763/thanos_the_infinity_relativity_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Thanos-The-Infinity-Relativity-0/digital-comic/38725?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19740",
+    "name": "Thanos: The Infinity Relativity (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 24.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/54f9fb5b32e36",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/556cb977a246d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/54f9fda1c5ddb",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/54f9fcc3953f2",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/54f9fc4e516c0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/40/54f9fbe81a98c",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/54f9fb5b32e36",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52763/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+        "name": "Jim Starlin",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52763/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52763/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117103",
+        "name": "cover from Thanos: The Infinity Relativity (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117104",
+        "name": "story from Thanos: The Infinity Relativity (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52763/events",
+    "items": [],
+    "returned": 0
+  }
+}

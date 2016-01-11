@@ -1,0 +1,118 @@
+{
+  "id": 56232,
+  "digitalId": 0,
+  "title": "All-New X-Men (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "Terrible acts committed by mutant revolutionary Cyclops have placed mutantkind in extinction’s crosshairs…and no one is left to suffer the consequences more than his time-displaced counterpart—teen-aged Scott Summers. As Storm and her team whisk Earth’s remaining mutants away to safe haven, the original X-Men do just the opposite: emboldened by super heroic ideals, the ALL-NEW X-MEN set out on the road to save their world and write their own futures. But can youthful optimism reverse the damage Cyclops has done?",
+  "modified": "2016-01-08T15:58:49-0500",
+  "isbn": "",
+  "upc": "75960608342800311",
+  "diamondCode": "OCT150811",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Terrible acts committed by mutant revolutionary Cyclops have placed mutantkind in extinction’s crosshairs…and no one is left to suffer the consequences more than his time-displaced counterpart—teen-aged Scott Summers. As Storm and her team whisk Earth’s remaining mutants away to safe haven, the original X-Men do just the opposite: emboldened by super heroic ideals, the ALL-NEW X-MEN set out on the road to save their world and write their own futures. But can youthful optimism reverse the damage Cyclops has done?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56232",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56232/all-new_x-men_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/All-New-X-Men-3/digital-comic/40847?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20622",
+    "name": "All-New X-Men (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-13T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-28T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/569025e5ca7ea",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/569025e5ca7ea",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56232/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56232/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56232/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123427",
+        "name": "cover from X-Supremacy (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123428",
+        "name": "story from X-Supremacy (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56232/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": 55203,
+  "digitalId": 0,
+  "title": "Giant-Size Little Marvel: AVX (2015) #2 ( BRADSHAW VARIANT)",
+  "issueNumber": 2,
+  "variantDescription": " BRADSHAW VARIANT",
+  "description": "- Our heroes may be little, but boy are they fierce!  The land of Marville brings you the best of Marvel as they face-off in a battle of the fittest, in a slightly smaller package.\n- Super-powered dodgeball, high-tech hideouts and eye-puns a plenty, Marvel's most adorable heroes aren't pulling any punches in this larger-than-life, fun-size adventure.\n",
+  "modified": "2015-06-29T14:06:06-0400",
+  "isbn": "",
+  "upc": "75960608245200221",
+  "diamondCode": "MAY150721",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- Our heroes may be little, but boy are they fierce!  The land of Marville brings you the best of Marvel as they face-off in a battle of the fittest, in a slightly smaller package.\n- Super-powered dodgeball, high-tech hideouts and eye-puns a plenty, Marvel's most adorable heroes aren't pulling any punches in this larger-than-life, fun-size adventure.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55203",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55203/giant-size_little_marvel_avx_2015_2_bradshaw_variant/_bradshaw_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19817",
+    "name": "Giant-Size Little Marvel: AVX (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52978",
+      "name": "Giant-Size Little Marvel: AVX (2015) #2"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-01T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-17T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/55918827576a0",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/10/55918827576a0",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55203/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11875",
+        "name": "Nick Bradshaw",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55203/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55203/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121498",
+        "name": "cover from Young Universe (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121499",
+        "name": "story from Young Universe (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55203/events",
+    "items": [],
+    "returned": 0
+  }
+}

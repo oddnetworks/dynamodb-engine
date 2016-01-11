@@ -1,0 +1,148 @@
+{
+  "id": 56116,
+  "digitalId": 0,
+  "title": "Ms. Marvel (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "The internationally-beloved, butt-kicking, smack-talking, most adorable super hero makes her triumphant return. Look out world, Kamala Khan is back and officially an Avenger! Yup, the dream to end all dreams has happened for Kamala. She's toe to toe with the best of the best, but will being one of Earth's mightiest heros be everything she imagined? Is being a celebrity hero as wonderful as Kamala has hoped?\nPlus: WHO IS THAT WITH BRUNO?? Welcome back, Kamala Korps. We missed you!",
+  "modified": "2015-11-12T14:03:14-0500",
+  "isbn": "",
+  "upc": "75960608334300111",
+  "diamondCode": "SEP150749",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The internationally-beloved, butt-kicking, smack-talking, most adorable super hero makes her triumphant return. Look out world, Kamala Khan is back and officially an Avenger! Yup, the dream to end all dreams has happened for Kamala. She's toe to toe with the best of the best, but will being one of Earth's mightiest heros be everything she imagined? Is being a celebrity hero as wonderful as Kamala has hoped?\nPlus: WHO IS THAT WITH BRUNO?? Welcome back, Kamala Korps. We missed you!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56116",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56116/ms_marvel_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Ms-Marvel-1/digital-comic/40514?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20615",
+    "name": "Ms. Marvel (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56261",
+      "name": "Ms. Marvel (2015) #1 (Frison Hip-&#8203;Hop Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57024",
+      "name": "Ms. Marvel (2015) #1 (Cosplay Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57026",
+      "name": "Ms. Marvel (2015) #1 (Christopher Action Figure Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-18T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-03T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5644e13dbfdc1",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5644e13dbfdc1",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/56323fe3cff8d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/56323f0641c74",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/20/560182d034862",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56116/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+        "name": "Adrian Alphona",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+        "name": "Takeshi Miyazawa",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8247",
+        "name": "Cliff Chiang",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56116/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56116/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123195",
+        "name": "cover from Ms. Marvel (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123196",
+        "name": "story from Ms. Marvel (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56116/events",
+    "items": [],
+    "returned": 0
+  }
+}

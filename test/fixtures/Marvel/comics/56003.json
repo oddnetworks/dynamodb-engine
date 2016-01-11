@@ -1,0 +1,144 @@
+{
+  "id": 56003,
+  "digitalId": 38679,
+  "title": "Secret Wars Journal (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "WITNESS THE STRANGE TALES OF BATTLEWORLD! TWO SCINTILLATING STORIES OF SECRET WARS! - Is LADY KATE of 1602 the nefarious HAWKEYE BANDIT who robs from the rich and gives to the poor? Can an enslaved band of MUTANTS in EGYPTIA overthrow their overlord, KHONSHU? Can YOU afford not to read the coolest, hippest, most continuity-important book in all of SECRET WARS??? Because this is TOTALLY THAT BOOK. But don't tell anyone. It'll be our little Secret...Wars Journal. ",
+  "modified": "2015-05-26T15:34:35-0400",
+  "isbn": "",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "WITNESS THE STRANGE TALES OF BATTLEWORLD! TWO SCINTILLATING STORIES OF SECRET WARS! - Is LADY KATE of 1602 the nefarious HAWKEYE BANDIT who robs from the rich and gives to the poor? Can an enslaved band of MUTANTS in EGYPTIA overthrow their overlord, KHONSHU? Can YOU afford not to read the coolest, hippest, most continuity-important book in all of SECRET WARS??? Because this is TOTALLY THAT BOOK. But don't tell anyone. It'll be our little Secret...Wars Journal. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56003",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56003/secret_wars_journal_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Secret-Wars-Journal-1/digital-comic/38679?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38679&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20605",
+    "name": "Secret Wars Journal (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-27T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-06T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-30T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-22T09:37:57-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 0
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5564c85a3dd5e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5564c85a3dd5e",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/555f3201bde35",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56003/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+        "name": "Ramon Bachs",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12488",
+        "name": "Luca Pizzari",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12743",
+        "name": "Michael Rosenberg",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12742",
+        "name": "Prudence Shen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12339",
+        "name": "Kevin P. Wada",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56003/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56003/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123568",
+        "name": "SECRET WARS JOURNAL (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123569",
+        "name": "SECRET WARS JOURNAL (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56003/events",
+    "items": [],
+    "returned": 0
+  }
+}

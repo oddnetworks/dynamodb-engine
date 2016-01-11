@@ -1,0 +1,118 @@
+{
+  "id": 55437,
+  "digitalId": 0,
+  "title": "Extraordinary X-Men (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "The clock is winding down for mutantkind and one of the X-Men’s oldest foes has come to speed up the process: MISTER SINISTER has returned! And he’s bringing the X-Men face-to-face with their greatest fear... As the first chapter of EXTRAORDINARY X-MEN races to its exciting conclusion, one thing’s for sure for this team of all-new, all-different X-Men: Not everyone will emerge unscathed.",
+  "modified": "2016-01-08T16:34:29-0500",
+  "isbn": "",
+  "upc": "75960608302200511",
+  "diamondCode": "OCT150815",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The clock is winding down for mutantkind and one of the X-Men’s oldest foes has come to speed up the process: MISTER SINISTER has returned! And he’s bringing the X-Men face-to-face with their greatest fear... As the first chapter of EXTRAORDINARY X-MEN races to its exciting conclusion, one thing’s for sure for this team of all-new, all-different X-Men: Not everyone will emerge unscathed."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55437",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55437/extraordinary_x-men_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Extraordinary-X-Men-5/digital-comic/40852?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20460",
+    "name": "Extraordinary X-Men (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-13T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-28T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56902bb70e9e0",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/56902bb70e9e0",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55437/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55437/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55437/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121917",
+        "name": "cover from Extraordinary X-Men (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121918",
+        "name": "story from Extraordinary X-Men (2015) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55437/events",
+    "items": [],
+    "returned": 0
+  }
+}

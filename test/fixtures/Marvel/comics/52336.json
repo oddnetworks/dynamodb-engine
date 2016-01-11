@@ -1,0 +1,132 @@
+{
+  "id": 52336,
+  "digitalId": 0,
+  "title": "Planet Hulk (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "WILL THE DEADLY LAND OF HULKS FINALLY BREAK GLADIATOR STEVE ROGERS? Can STEVE ROGERS rescue BUCKY before the RED KING sentences him to death? Can even the powerful DOC GREEN protect Steve and DEVIL DINOSAUR as the trio take a perilous shortcut to the MUD KINGDOM? Vast cemeteries. A valley of skulls and bones. Tribal soldiers and deadly spears that can pierce any hide. This book may be too dangerous to read!!!",
+  "modified": "2015-07-09T14:58:35-0400",
+  "isbn": "",
+  "upc": "75960608228500311",
+  "diamondCode": "MAY150758",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "WILL THE DEADLY LAND OF HULKS FINALLY BREAK GLADIATOR STEVE ROGERS? Can STEVE ROGERS rescue BUCKY before the RED KING sentences him to death? Can even the powerful DOC GREEN protect Steve and DEVIL DINOSAUR as the trio take a perilous shortcut to the MUD KINGDOM? Vast cemeteries. A valley of skulls and bones. Tribal soldiers and deadly spears that can pierce any hide. This book may be too dangerous to read!!!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52336",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52336/planet_hulk_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Planet-Hulk-3/digital-comic/39348?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19625",
+    "name": "Planet Hulk (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/54988",
+      "name": "Planet Hulk (2015) #3 (MALEEV LANDSCAPE WRAPAROUND VARIANT)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-01T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/559ec3319a92d",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/559ec3319a92d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5571efb16919f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52336/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10159",
+        "name": "Michael Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11530",
+        "name": "Sam Humphries",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12406",
+        "name": "Marc Laming",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52336/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52336/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116249",
+        "name": "cover from Planet Hulk (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116250",
+        "name": "story from Planet Hulk (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52336/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

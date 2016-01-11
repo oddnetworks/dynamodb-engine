@@ -1,0 +1,160 @@
+{
+  "id": 52207,
+  "digitalId": 38483,
+  "title": "Master of Kung Fu (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "KICK-BUTT KUNG-FU ACTION! Welcome to the mystical land of K'UN LUN, where the study of martial arts reigns supreme! In a world where everyone is well-trained in at least some form of deadly combat, what becomes of a drunken, drop-out failure? If anyone speaks out against Emperor Zu, the price is their head! Good thing Shang-Chi's a man of discretion and...oh, who are we kidding. This is going to get nasty. ",
+  "modified": "2015-05-14T15:12:19-0400",
+  "isbn": "",
+  "upc": "759606082231000111",
+  "diamondCode": "MAR150636",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "KICK-BUTT KUNG-FU ACTION! Welcome to the mystical land of K'UN LUN, where the study of martial arts reigns supreme! In a world where everyone is well-trained in at least some form of deadly combat, what becomes of a drunken, drop-out failure? If anyone speaks out against Emperor Zu, the price is their head! Good thing Shang-Chi's a man of discretion and...oh, who are we kidding. This is going to get nasty. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52207",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52207/master_of_kung_fu_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Master-of-Kung-Fu-1/digital-comic/38483?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38483&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19580",
+    "name": "Master of Kung Fu (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53552",
+      "name": "Master of Kung Fu (2015) #1 (Guice Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-20T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-06T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-11-23T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-15T10:28:41-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/5554f311a1d21",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/5554f311a1d21",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/5536b5483bbaa",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/5536b51372cf0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/5536b4cba9614",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5536b4902b56f",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/80/5507018259823",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52207/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12397",
+        "name": "Haden Blackman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11886",
+        "name": "Francesco Francavilla",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11560",
+        "name": "Dalibor Talajic",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52207/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52207/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115991",
+        "name": "cover from Master of Kung Fu (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115992",
+        "name": "story from Master of Kung Fu (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52207/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": 1010692,
+  "name": "Rockslide",
+  "description": "",
+  "modified": "1969-12-31T19:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010692",
+  "comics": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010692/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30344",
+        "name": "Cable (2008) #22"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4071",
+        "name": "New X-Men (2004) #25"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5809",
+        "name": "New X-Men (2004) #34"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17223",
+        "name": "New X-Men (2004) #44"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17224",
+        "name": "New X-Men (2004) #44 (VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4767",
+        "name": "New X-Men: Childhood's End Vol. 2 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13514",
+        "name": "New X-Men: Childhood's End Vol. 4 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2440",
+        "name": "New X-Men: Hellions (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1993",
+        "name": "New X-Men: Hellions (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24173",
+        "name": "Runaways (2008) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38072",
+        "name": "Wolverine & Jubilee (2010) #4"
+      }
+    ],
+    "returned": 11
+  },
+  "series": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010692/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4002",
+        "name": "Cable (2008 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/749",
+        "name": "New X-Men (2004 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1667",
+        "name": "New X-Men: Childhood's End Vol. 2 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2227",
+        "name": "New X-Men: Childhood's End Vol. 4 (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/868",
+        "name": "New X-Men: Hellions (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5338",
+        "name": "Runaways (2008 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13029",
+        "name": "Wolverine & Jubilee (2010 - 2011)"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010692/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3405",
+        "name": "2 of 4 - Crusade",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3423",
+        "name": "2 of 4 - Factory X",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4594",
+        "name": "1 of 4 - Fortune & Glory (4XLS)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36098",
+        "name": "Messiah Complex 4 of 13",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36100",
+        "name": "Messiah Complex 4 of 13",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53571",
+        "name": "Interior #53571",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69515",
+        "name": "Cable (2008) #22 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83670",
+        "name": "Wolverine and Jubilee (2010) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010692/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "name": "Messiah CompleX"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1943/rockslide?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Rockslide?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010692/rockslide?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

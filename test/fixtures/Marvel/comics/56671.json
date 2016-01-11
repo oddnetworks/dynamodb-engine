@@ -1,0 +1,126 @@
+{
+  "id": 56671,
+  "digitalId": 0,
+  "title": "Contest of Champions (2015) #2 (Bald Classic Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Bald Classic Variant",
+  "description": "• Ares lives!\n• The god of War vs. Maestro…and Iron Man & Gamora!\n• Who is the shadowy player scheming with the Grandmaster? You’ll never guess!\n",
+  "modified": "2015-10-26T14:11:07-0400",
+  "isbn": "",
+  "upc": "759606083221000221",
+  "diamondCode": "SEP150806",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Ares lives!\n• The god of War vs. Maestro…and Iron Man & Gamora!\n• Who is the shadowy player scheming with the Grandmaster? You’ll never guess!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56671",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56671/contest_of_champions_2015_2_bald_classic_variant/bald_classic_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20535",
+    "name": "Contest of Champions (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55819",
+      "name": "Contest of Champions (2015) #2"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56672",
+      "name": "Contest of Champions (2015) #2 (Lim Connecting Variant B)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56819",
+      "name": "Contest of Champions (2015) #2 (Kabam Contest of Champions Game Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/562e6bd294ce6",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/562e6bd294ce6",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5612c937d5fe1",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56671/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+        "name": "Al Ewing",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+        "name": "Paco Medina",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56671/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56671/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124197",
+        "name": "cover from Contest of Champions (2015) #2 (TBD ARTIST CLASSIC VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124198",
+        "name": "story from Contest of Champions (2015) #2 (TBD ARTIST CLASSIC VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56671/events",
+    "items": [],
+    "returned": 0
+  }
+}

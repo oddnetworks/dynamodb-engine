@@ -1,0 +1,131 @@
+{
+  "id": 57446,
+  "digitalId": 0,
+  "title": "Hercules (2015) #1 (Young Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Young Variant",
+  "description": "“Still going Strong”\nThe World’s first super hero decides it’s time to get back in the game, protect the innocent, defend the world, and generally remind everyone why he set the mark for heroism in the first place. Make way… Hercules is back! The greatest son of Olympus is thrown into the fight against threats ancient and modern, and Hercules demonstrates that a legend, no matter how strong he is, survives on his experience, and his ability to move with the times. A modern world, an age-old hero… and blockbuster action!\n",
+  "modified": "2015-10-27T16:37:19-0400",
+  "isbn": "",
+  "upc": "75960608410400151",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "“Still going Strong”\nThe World’s first super hero decides it’s time to get back in the game, protect the innocent, defend the world, and generally remind everyone why he set the mark for heroism in the first place. Make way… Hercules is back! The greatest son of Olympus is thrown into the fight against threats ancient and modern, and Hercules demonstrates that a legend, no matter how strong he is, survives on his experience, and his ability to move with the times. A modern world, an age-old hero… and blockbuster action!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57446",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57446/hercules_2015_1_young_variant/young_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20812",
+    "name": "Hercules (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56903",
+      "name": "Hercules (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56905",
+      "name": "Hercules (2015) #1 (Christopher Action Figure Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58153",
+      "name": "Hercules (2015) #1 (Anacleto Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/562fdf3acd518",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/562fdf3acd518",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/5613eecd37ea1",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57446/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+        "name": "Luke Ross",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57446/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57446/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125710",
+        "name": "cover from Hercules (2015) #1 (YOUNG VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125711",
+        "name": "story from Hercules (2015) #1 (YOUNG VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57446/events",
+    "items": [],
+    "returned": 0
+  }
+}

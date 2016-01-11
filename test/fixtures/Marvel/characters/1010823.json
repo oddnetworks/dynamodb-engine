@@ -1,0 +1,150 @@
+{
+  "id": 1010823,
+  "name": "Cloud 9",
+  "description": "",
+  "modified": "2013-10-24T13:17:04-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/526955ef00db6",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010823",
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30885",
+        "name": "Age of Heroes (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20679",
+        "name": "Avengers: The Initiative (2007) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22299",
+        "name": "Avengers: The Initiative (2007) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22300",
+        "name": "Avengers: The Initiative (2007) #18 (ZOMBIE VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38447",
+        "name": "Fear Itself: Youth in Revolt (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38448",
+        "name": "Fear Itself: Youth in Revolt (2011) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38444",
+        "name": "Fear Itself: Youth in Revolt (2011) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38446",
+        "name": "Fear Itself: Youth in Revolt (2011) #6"
+      }
+    ],
+    "returned": 8
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10235",
+        "name": "Age of Heroes (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+        "name": "Avengers: The Initiative (2007 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13855",
+        "name": "Fear Itself: Youth in Revolt (2011)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44343",
+        "name": "Avengers: The Initiative (2007) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49104",
+        "name": "Avengers: The Initiative (2007) #18 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49106",
+        "name": "Avengers: The Initiative (2007) #18, Zombie Variant - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70574",
+        "name": "Age of Heroes TPB",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89800",
+        "name": "Fear Itself: Youth in Revolt #1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93006",
+        "name": "Interior #93006",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93636",
+        "name": "Fear Itself: Youth in Revolt (2011) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93637",
+        "name": "Interior #93637",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94171",
+        "name": "Fear Itself: Youth in Revolt (2011) #6",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010823/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "name": "Secret Invasion"
+      }
+    ],
+    "returned": 2
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/441/cloud_9?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Cloud_9_(Abigail_Boylen)?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1010823/cloud_9?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

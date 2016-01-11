@@ -1,0 +1,122 @@
+{
+  "id": 51567,
+  "digitalId": 0,
+  "title": "Captain Britain and the Mighty Defenders (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Welcome to Battleworld - where, in what's left of Mondo-City One, Boss Cage is the law! When the fascist futuropolis annexes neighboring Yinsen City, who'll stand up for Ho Yinsen's dream of universal peace? If you liked the Mighty Avengers -- you'll love the Mighty Defenders!",
+  "modified": "2015-07-07T14:35:21-0400",
+  "isbn": "",
+  "upc": "75960608206300111",
+  "diamondCode": "MAY150714",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Welcome to Battleworld - where, in what's left of Mondo-City One, Boss Cage is the law! When the fascist futuropolis annexes neighboring Yinsen City, who'll stand up for Ho Yinsen's dream of universal peace? If you liked the Mighty Avengers -- you'll love the Mighty Defenders!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51567",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51567/captain_britain_and_the_mighty_defenders_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Captain-Britain-and-the-Mighty-Defenders-1/digital-comic/39335?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19348",
+    "name": "Captain Britain and the Mighty Defenders (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55197",
+      "name": "Captain Britain and the Mighty Defenders (2015) #1 (Irving Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-01T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/559c19e08068f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/559c19e08068f",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/551316ff8875e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51567/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+        "name": "Alan Davis",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+        "name": "Al Ewing",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51567/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51567/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114711",
+        "name": "cover from Captain Britain and the Mighty Defenders (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114712",
+        "name": "story from Captain Britain and the Mighty Defenders (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51567/events",
+    "items": [],
+    "returned": 0
+  }
+}

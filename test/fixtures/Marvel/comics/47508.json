@@ -1,0 +1,127 @@
+{
+  "id": 47508,
+  "digitalId": 0,
+  "title": "George Romero's Empire of the Dead: Act Three (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "IT'S ZOMBIES VS VAMPIRES-WITH DESPERATE CITIZENS CAUGHT IN THE CROSSFIRE- AS THE LEGENDARY GEORGE ROMERO UNLEASHES THE FINAL CHAPTER IN HIS NEW UNDEAD EPIC! Zombie Autopsy! But is Xavier dead or undead? Dr. Penny Jones may have a nasty surprise coming her way! Who is kidnapping the children of NYC, where are they taking them, and why? The future of Manhattan may rest in the answers!",
+  "modified": "2015-03-24T16:09:55-0400",
+  "isbn": "",
+  "upc": "759606079521000111",
+  "diamondCode": "FEB150777",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "IT'S ZOMBIES VS VAMPIRES-WITH DESPERATE CITIZENS CAUGHT IN THE CROSSFIRE- AS THE LEGENDARY GEORGE ROMERO UNLEASHES THE FINAL CHAPTER IN HIS NEW UNDEAD EPIC! Zombie Autopsy! But is Xavier dead or undead? Dr. Penny Jones may have a nasty surprise coming her way! Who is kidnapping the children of NYC, where are they taking them, and why? The future of Manhattan may rest in the answers!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/47508",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/47508/george_romeros_empire_of_the_dead_act_three_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/George-Romero-s-Empire-of-the-Dead-Act-Three-1/digital-comic/37135?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/17944",
+    "name": "George Romero's Empire of the Dead: Act Three (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53423",
+      "name": "George Romero's Empire of the Dead: Act Three (2015) #1 (Noto Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-01T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-03-18T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/5511c39bcc20a",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/5511c39bcc20a",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/54b67e9345686",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47508/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8495",
+        "name": "Francesco Mattina",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10119",
+        "name": "Andrea Mutti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12407",
+        "name": "George Romero",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47508/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47508/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107300",
+        "name": "cover from George Romero's Empire of the Dead: Act Three (2020) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107301",
+        "name": "story from George Romero's Empire of the Dead: Act Three (2020) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47508/events",
+    "items": [],
+    "returned": 0
+  }
+}

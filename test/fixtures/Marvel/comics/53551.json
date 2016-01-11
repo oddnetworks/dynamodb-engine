@@ -1,0 +1,123 @@
+{
+  "id": 53551,
+  "digitalId": 0,
+  "title": "M.O.D.O.K. Assassin (2015) #1 (Walta Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Walta Variant",
+  "description": "- In a world populated by the most fearsome thieves, murderers and ne'er-do-wells, there is one who is a HEAD above the rest... - Enter, M.O.D.O.K.: The Mental Organism Designed Only for KILLING! - Killville's very own Merc with a Maw is open for business! But his next job may be biting off more than he can chew... ",
+  "modified": "2015-05-26T14:25:11-0400",
+  "isbn": "",
+  "upc": "75960608221600121",
+  "diamondCode": "MAR150679",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- In a world populated by the most fearsome thieves, murderers and ne'er-do-wells, there is one who is a HEAD above the rest... - Enter, M.O.D.O.K.: The Mental Organism Designed Only for KILLING! - Killville's very own Merc with a Maw is open for business! But his next job may be biting off more than he can chew... "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/53551",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/53551/modok_assassin_2015_1_walta_variant/walta_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19497",
+    "name": "M.O.D.O.K. Assassin (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52055",
+      "name": "M.O.D.O.K. Assassin (2015) #1"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-27T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-13T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/5564b926aefac",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/5564b926aefac",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5548facb57661",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53551/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7891",
+        "name": "Amilcar Pinna",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10146",
+        "name": "Gabriel Hernandez Walta",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53551/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53551/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118377",
+        "name": "cover from M.O.D.O.K. Assassin (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118378",
+        "name": "story from M.O.D.O.K. Assassin (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/53551/events",
+    "items": [],
+    "returned": 0
+  }
+}

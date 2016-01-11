@@ -1,0 +1,109 @@
+{
+  "id": 49203,
+  "digitalId": 0,
+  "title": "Miles Morales: Ultimate Comics Spider-Man Vol. 2: Revelations (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Miles Morales' life has been turned upside down on every conceivable level! New villains are coming out of the woodwork - but more important, Miles has a girlfriend! Her name is Katie Bishop - but she has a secret, and it's bad news for Spider-Man! Miles makes a life-changing decision and discovers a mind-blowing truth. Who was his father? What is the secret of Miles' legacy? And will the Ultimate Spider-Man become an agent of S.H.I.E.L.D.? When Miles confronts his family's past and his terrifying future, and discovers a new spider-power, the man behind the mysteries of the Human Flies plans reveals himself! As Doctor Doom steps from the shadows, Miles gathers the Ultimates - but no matter what happens next, this might be the end of the road for Miles Morales! Collecting MILES MORALES: ULTIMATE SPIDER-MAN #6-12. ",
+  "modified": "2015-06-08T15:04:36-0400",
+  "isbn": "978-0-7851-5418-1",
+  "upc": "",
+  "diamondCode": "MAR150811",
+  "ean": "9780785 154181 51999",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 160,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Miles Morales' life has been turned upside down on every conceivable level! New villains are coming out of the woodwork - but more important, Miles has a girlfriend! Her name is Katie Bishop - but she has a secret, and it's bad news for Spider-Man! Miles makes a life-changing decision and discovers a mind-blowing truth. Who was his father? What is the secret of Miles' legacy? And will the Ultimate Spider-Man become an agent of S.H.I.E.L.D.? When Miles confronts his family's past and his terrifying future, and discovers a new spider-power, the man behind the mysteries of the Human Flies plans reveals himself! As Doctor Doom steps from the shadows, Miles gathers the Ultimates - but no matter what happens next, this might be the end of the road for Miles Morales! Collecting MILES MORALES: ULTIMATE SPIDER-MAN #6-12. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/49203",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/49203/miles_morales_ultimate_comics_spider-man_vol_2_revelations_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18510",
+    "name": "Miles Morales: Ultimate Comics Spider-Man Vol. 2: Revelations (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-26T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 19.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5575e6760bf0e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5575e6760bf0e",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49203/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+        "name": "David Marquez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49203/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49203/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110491",
+        "name": "cover from Ultimate Comics Spider-Man (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110492",
+        "name": "story from Ultimate Comics Spider-Man (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49203/events",
+    "items": [],
+    "returned": 0
+  }
+}

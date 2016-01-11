@@ -1,0 +1,135 @@
+{
+  "id": 57289,
+  "digitalId": 0,
+  "title": "Venom: Space Knight (2015) #1 (Choi Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Choi Hip-&#8203;Hop Variant",
+  "description": "IN SPACE, NO ONE CAN HEAR YOU SCREAM…WITH EXCITEMENT!\nFlash Thompson is a lot of things. Soldier. Veteran. Doubleamputee. Host to a powerful alien symbiote. Now, apart from the GUARDIANS OF THE GALAXY, Flash has also been tasked with being an intergalactic ambassador of Earth and an Agent of the Cosmos. What does that mean? It means Flash Thompson will be what he’s always wanted to be: A BIG. DAMN. HERO. It’s high adventure in deep space as Venom swashbuckles his way across the universe!\n",
+  "modified": "2015-11-19T14:58:21-0500",
+  "isbn": "",
+  "upc": "75960608362600121",
+  "diamondCode": "SEP150688",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "IN SPACE, NO ONE CAN HEAR YOU SCREAM…WITH EXCITEMENT!\nFlash Thompson is a lot of things. Soldier. Veteran. Doubleamputee. Host to a powerful alien symbiote. Now, apart from the GUARDIANS OF THE GALAXY, Flash has also been tasked with being an intergalactic ambassador of Earth and an Agent of the Cosmos. What does that mean? It means Flash Thompson will be what he’s always wanted to be: A BIG. DAMN. HERO. It’s high adventure in deep space as Venom swashbuckles his way across the universe!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57289",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57289/venom_space_knight_2015_1_choi_hip-8203hop_variant/choi_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20896",
+    "name": "Venom: Space Knight (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57288",
+      "name": "Venom: Space Knight (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57290",
+      "name": "Venom: Space Knight (2015) #1 (Christopher Action Figure Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57415",
+      "name": "Venom: Space Knight (2015) #1 (Lim Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58399",
+      "name": "Venom: Space Knight (2015) #1 (Deodato Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-25T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-10T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/564e28e71ae6b",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/564e28e71ae6b",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/55f73af6f12ce",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57289/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1052",
+        "name": "Mike Choi",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+        "name": "Robbie Thompson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57289/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57289/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125395",
+        "name": "cover from Venom: Space Knight (2015) #1 (CHOI HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125396",
+        "name": "story from Venom: Space Knight (2015) #1 (CHOI HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57289/events",
+    "items": [],
+    "returned": 0
+  }
+}

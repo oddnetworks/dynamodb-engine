@@ -1,0 +1,93 @@
+{
+  "id": 51916,
+  "digitalId": 0,
+  "title": "Guardians of the Galaxy: Best Story Ever (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": null,
+  "modified": "2015-08-14T15:07:46-0400",
+  "isbn": "978-0-7851-9797-3",
+  "upc": "",
+  "diamondCode": "MAY150818",
+  "ean": "9780785 197973 51499",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 120,
+  "textObjects": [],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51916",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51916/guardians_of_the_galaxy_best_story_ever_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19450",
+    "name": "Guardians of the Galaxy: Best Story Ever (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-19T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-04T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 14.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/55cd032a90255",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/d0/55cd032a90255",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51916/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51916/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51916/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115409",
+        "name": "cover from Guardians of the Galaxy: Best Story Ever (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51916/events",
+    "items": [],
+    "returned": 0
+  }
+}

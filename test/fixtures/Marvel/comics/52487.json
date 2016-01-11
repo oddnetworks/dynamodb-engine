@@ -1,0 +1,149 @@
+{
+  "id": 52487,
+  "digitalId": 38821,
+  "title": "Secret Wars: Battleworld (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "BLADE is on the trail of the dreaded Count Drakula, but not if HOWARD THE DUCK has something to say about it! (Spoiler: He Does!) Rising star David Walker (SHAFT) and JJ Kirby tell the tale of the Daywalker trapped in a city of ducks! The death of his daughter has made gladiator Thaddeus Ross a true WAR MACHINE, but will he ever find vengeance in the ring or become the monster he hates? Donny Cates (BUZZKILL, GHOST FLEET) and Marco Turini (CYBERFORCE) bring the pain and the glory!",
+  "modified": "2015-05-29T16:15:54-0400",
+  "isbn": "",
+  "upc": "759606082361000211",
+  "diamondCode": "APR150741",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "BLADE is on the trail of the dreaded Count Drakula, but not if HOWARD THE DUCK has something to say about it! (Spoiler: He Does!) Rising star David Walker (SHAFT) and JJ Kirby tell the tale of the Daywalker trapped in a city of ducks! The death of his daughter has made gladiator Thaddeus Ross a true WAR MACHINE, but will he ever find vengeance in the ring or become the monster he hates? Donny Cates (BUZZKILL, GHOST FLEET) and Marco Turini (CYBERFORCE) bring the pain and the glory!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52487",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52487/secret_wars_battleworld_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Secret-Wars-Battleworld-2/digital-comic/38821?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=38821&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19659",
+    "name": "Secret Wars: Battleworld (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-20T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-12-07T00:00:00-0500"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-05-29T09:39:40-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5568c7fb1fdc0",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/5568c7fb1fdc0",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/552e706851e0c",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52487/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12712",
+        "name": "Donny Cates",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12711",
+        "name": "David Walker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12713",
+        "name": "JJ Kirby",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9034",
+        "name": "Marco Turini",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12710",
+        "name": "Chris Murray",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52487/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52487/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116551",
+        "name": "cover from Secret Wars: Vs (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116552",
+        "name": "story from Secret Wars: Vs (2015) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52487/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  }
+}

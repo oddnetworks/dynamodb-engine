@@ -1,0 +1,117 @@
+{
+  "id": 52901,
+  "digitalId": 0,
+  "title": "What If? Infinity- Dark Reign (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "What if NORMAN OSBORN had the INFINITY GAUNTLET?!  DARK REIGN returns as the GREEN GOBLIN gets his hands on the most dangerous item in the Marvel Universe! No one is safe!\n",
+  "modified": "2015-10-22T14:43:01-0400",
+  "isbn": "",
+  "upc": "75960608139400511",
+  "diamondCode": "AUG150775",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "What if NORMAN OSBORN had the INFINITY GAUNTLET?!  DARK REIGN returns as the GREEN GOBLIN gets his hands on the most dangerous item in the Marvel Universe! No one is safe!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52901",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52901/what_if_infinity-_dark_reign_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/What-If-Infinity-Dark-Reign-1/digital-comic/40349?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/21155",
+    "name": "What If? Infinity- Dark Reign (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-28T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-14T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/56269dfce1a9e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/56269dfce1a9e",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/55a40768301d9",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52901/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11479",
+        "name": "Goran Sudzuka",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8847",
+        "name": "Joshua Williamson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52901/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52901/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117379",
+        "name": "cover from What If? Infinity (2020) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117380",
+        "name": "story from What If? Infinity (2020) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52901/events",
+    "items": [],
+    "returned": 0
+  }
+}

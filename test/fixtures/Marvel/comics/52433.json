@@ -1,0 +1,122 @@
+{
+  "id": 52433,
+  "digitalId": 0,
+  "title": "S.H.I.E.L.D. (2014) #10",
+  "issueNumber": 10,
+  "variantDescription": "",
+  "description": "Howard the Duck side by side with SHIELD! Why a duck? Because Coulson knows a secret about Howard that could save the multiverse!",
+  "modified": "2015-09-17T16:04:04-0400",
+  "isbn": "",
+  "upc": "75960608155401011",
+  "diamondCode": "JUL150823",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Howard the Duck side by side with SHIELD! Why a duck? Because Coulson knows a secret about Howard that could save the multiverse!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52433",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52433/shield_2014_10?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/S-H-I-E-L-D-10/digital-comic/40008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19639",
+    "name": "S.H.I.E.L.D. (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-30T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-16T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/55fb1bb348896",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/55fb1bb348896",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/55d218fccc3a8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52433/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12708",
+        "name": "Evan Doc Shaner",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+        "name": "Julian Totino Tedesco",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52433/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52433/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116443",
+        "name": "cover from S.H.I.E.L.D. (2014) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116444",
+        "name": "story from S.H.I.E.L.D. (2014) #10",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52433/events",
+    "items": [],
+    "returned": 0
+  }
+}

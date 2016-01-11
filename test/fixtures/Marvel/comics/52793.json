@@ -1,0 +1,122 @@
+{
+  "id": 52793,
+  "digitalId": 0,
+  "title": "The Unbeatable Squirrel Girl (2015) #8",
+  "issueNumber": 8,
+  "variantDescription": "",
+  "description": "It's the classic tale of good (squirrel) versus evil (squirrel) as SQUIRREL GIRL fights RATATOSKR, the Norse Squirrel God! The fate of the world hangs in the balance! And yes, \"Norse Squirrel God\" means that Thor shows up to help! AND Loki! Loki's a huge character! He's been in THREE different movies so far. Three! He's only in our comic for a couple of pages though Oh! This book also features FRIENDSHIP and SASS and PUNCHES!!",
+  "modified": "2015-08-07T17:10:27-0400",
+  "isbn": "",
+  "upc": "75960608177600811",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "It's the classic tale of good (squirrel) versus evil (squirrel) as SQUIRREL GIRL fights RATATOSKR, the Norse Squirrel God! The fate of the world hangs in the balance! And yes, \"Norse Squirrel God\" means that Thor shows up to help! AND Loki! Loki's a huge character! He's been in THREE different movies so far. Three! He's only in our comic for a couple of pages though Oh! This book also features FRIENDSHIP and SASS and PUNCHES!!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52793",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/52793/the_unbeatable_squirrel_girl_2015_8?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/The-Unbeatable-Squirrel-Girl-8/digital-comic/39692?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19750",
+    "name": "The Unbeatable Squirrel Girl (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-12T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-20T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/55c51df08c55c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/55c51df08c55c",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/5579d3198fbb2",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52793/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12464",
+        "name": "Erica Henderson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+        "name": "Wilson Moss",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12465",
+        "name": "Ryan North",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52793/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52793/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117163",
+        "name": "cover from The Unbeatable Squirrel Girl (2015) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117164",
+        "name": "story from The Unbeatable Squirrel Girl (2015) #8",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52793/events",
+    "items": [],
+    "returned": 0
+  }
+}

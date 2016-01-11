@@ -1,0 +1,123 @@
+{
+  "id": 55980,
+  "digitalId": 0,
+  "title": "Squadron Supreme (2015) #1 (Del Mundo Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Del Mundo Hip-&#8203;Hop Variant",
+  "description": "They’re each the sole survivor of a lost Earth and they’ll do anything to protect this one, whether you like it or not. The Squadron Supreme -- comprising Hyperion (Avengers), Nighthawk (Supreme Power), Dr. Spectrum (the Great Society), Blur (DP7) and Power Princess -- are a team that doesn’t ask permission or what the rules are. To them all that matters is the safety of Earth and if you stand in the way...that’s your problem! Tell that to the Squadron’s first target -- Namor, destroyer of Dr. Spectrum’s homeworld, who will have to pay for his crimes...but at what cost to the people of Atlantis",
+  "modified": "2015-12-14T19:24:39-0500",
+  "isbn": "",
+  "upc": "75960608316900121",
+  "diamondCode": "OCT150785",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "They’re each the sole survivor of a lost Earth and they’ll do anything to protect this one, whether you like it or not. The Squadron Supreme -- comprising Hyperion (Avengers), Nighthawk (Supreme Power), Dr. Spectrum (the Great Society), Blur (DP7) and Power Princess -- are a team that doesn’t ask permission or what the rules are. To them all that matters is the safety of Earth and if you stand in the way...that’s your problem! Tell that to the Squadron’s first target -- Namor, destroyer of Dr. Spectrum’s homeworld, who will have to pay for his crimes...but at what cost to the people of Atlantis"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55980",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55980/squadron_supreme_2015_1_del_mundo_hip-8203hop_variant/del_mundo_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20517",
+    "name": "Squadron Supreme (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55737",
+      "name": "Squadron Supreme (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57172",
+      "name": "Squadron Supreme (2015) #1 (Kirk Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-16T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-01T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/564b53a77a457",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/564b53a77a457",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55980/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+        "name": "Mike Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+        "name": "Leonard Kirk",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1340",
+        "name": "James Robinson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55980/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55980/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122945",
+        "name": "cover from Squadron Supreme (2015) #1 (DEL MUNDO HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122946",
+        "name": "story from Squadron Supreme (2015) #1 (DEL MUNDO HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55980/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": 55948,
+  "digitalId": 0,
+  "title": "Ms. Marvel (2014) #18 (Tateo Manga Variant)",
+  "issueNumber": 18,
+  "variantDescription": "Tateo Manga Variant",
+  "description": "• Between teaming up with her personal hero to rescue her brother and\ntrying to keep her city from falling into an all-out frenzy, Kamala has\nbarely had time to come to terms with the fact that the world is literally\ncollapsing around her.\n",
+  "modified": "2015-09-01T15:59:11-0400",
+  "isbn": "",
+  "upc": "75960607997101821",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Between teaming up with her personal hero to rescue her brother and\ntrying to keep her city from falling into an all-out frenzy, Kamala has\nbarely had time to come to terms with the fact that the world is literally\ncollapsing around her.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55948",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55948/ms_marvel_2014_18_tateo_manga_variant/tateo_manga_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18468",
+    "name": "Ms. Marvel (2014 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52252",
+      "name": "Ms. Marvel (2014) #18"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-09T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-17T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 2.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/55e4bd1c4c5e8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/55e4bd1c4c5e8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55948/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+        "name": "Adrian Alphona",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55948/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55948/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122881",
+        "name": "cover from Ms. Marvel (2014) #18 (TBD ARTIST MANGA VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122882",
+        "name": "story from Ms. Marvel (2014) #18 (TBD ARTIST MANGA VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55948/events",
+    "items": [],
+    "returned": 0
+  }
+}

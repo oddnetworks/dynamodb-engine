@@ -1,0 +1,114 @@
+{
+  "id": 56199,
+  "digitalId": 0,
+  "title": "The Unbeatable Squirrel Girl (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "PREVIOUSLY ON “THE UNBEATABLE SQUIRREL GIRL”: Squirrel Girl is trapped in the past, and friend Nancy has gone back to rescue her! But Nancy didn’t have a time machine, so she hitched a ride with DOCTOR DOOM!! So now it’s Squirrel Girl versus Doctor Doom in the 1960s, fighting for the fate of the very planet!! What could possibly go wrong, right?? Well anyway, in this issue EVERYTHING GOES WRONG FOREVER",
+  "modified": "2016-01-06T10:09:49-0500",
+  "isbn": "",
+  "upc": "75960608340400411",
+  "diamondCode": "NOV150884",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "PREVIOUSLY ON “THE UNBEATABLE SQUIRREL GIRL”: Squirrel Girl is trapped in the past, and friend Nancy has gone back to rescue her! But Nancy didn’t have a time machine, so she hitched a ride with DOCTOR DOOM!! So now it’s Squirrel Girl versus Doctor Doom in the 1960s, fighting for the fate of the very planet!! What could possibly go wrong, right?? Well anyway, in this issue EVERYTHING GOES WRONG FOREVER"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56199",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56199/the_unbeatable_squirrel_girl_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20620",
+    "name": "The Unbeatable Squirrel Girl (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-27T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-01-12T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/568d3149a3aa2",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/568d3149a3aa2",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56199/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12464",
+        "name": "Erica Henderson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+        "name": "Wilson Moss",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12465",
+        "name": "Ryan North",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56199/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56199/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123361",
+        "name": "cover from The Unbeatable Squirrel Girl (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123362",
+        "name": "story from The Unbeatable Squirrel Girl (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56199/events",
+    "items": [],
+    "returned": 0
+  }
+}

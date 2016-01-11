@@ -1,0 +1,127 @@
+{
+  "id": 56849,
+  "digitalId": 0,
+  "title": "Deadpool (2015) #3.1",
+  "issueNumber": 3.1,
+  "variantDescription": "",
+  "description": "Meet “Masacre”—the Deadpool of Mexico! Did you know that Deadpool in Spanish-speaking countries is called “Masacre”? Here comes the issue to make all of that even more confusing, as we meet Masacre, the deadly Deadpool-inspired vigilante south of the border! Watch him slaughter his way into your hearts in this entirely Spanish language one-shot written, drawn, and edited by folks who don’t speak it!",
+  "modified": "2015-12-14T16:08:47-0500",
+  "isbn": "",
+  "upc": "759606083931000111",
+  "diamondCode": "OCT150828",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Meet “Masacre”—the Deadpool of Mexico! Did you know that Deadpool in Spanish-speaking countries is called “Masacre”? Here comes the issue to make all of that even more confusing, as we meet Masacre, the deadly Deadpool-inspired vigilante south of the border! Watch him slaughter his way into your hearts in this entirely Spanish language one-shot written, drawn, and edited by folks who don’t speak it!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56849",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56849/deadpool_2015_3.1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Deadpool-3-1/digital-comic/40683?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20613",
+    "name": "Deadpool (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-16T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-01T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/565e0ee6d1329",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/565e0ee6d1329",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5640d370b39be",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56849/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11801",
+        "name": "Brian Posehn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/345",
+        "name": "Francisco Herrera",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+        "name": "Scott Koblish",
+        "role": "artist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56849/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56849/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124515",
+        "name": "cover from Deadpool (2015) #3.1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124516",
+        "name": "story from Deadpool (2015) #3.1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56849/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": 56148,
+  "digitalId": 0,
+  "title": "Old Man Logan (2016) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Fifty years from now, Logan — the man who no longer calls himself Wolverine — will have endured many atrocities: The Marvel Universe’s villains will have banded together and rid the world of its heroes. Logan’s closest friend, Hawkeye, will have been murdered in cold blood right before his eyes. And driven mad by the same radiation that gave him his superhuman strength, Bruce Banner will have fathered a family of hillbilly Hulks…that eventually went on to slaughter Logan’s wife and two children. But now, in the present, Old Man Logan wakes up to discover himself in a world before these atrocities, before the Wasteland. And he’s going to seize this opportunity and change history to ensure that his future never comes to pass…",
+  "modified": "2015-12-30T15:58:11-0500",
+  "isbn": "",
+  "upc": "75960608336700111",
+  "diamondCode": "NOV150733",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Fifty years from now, Logan — the man who no longer calls himself Wolverine — will have endured many atrocities: The Marvel Universe’s villains will have banded together and rid the world of its heroes. Logan’s closest friend, Hawkeye, will have been murdered in cold blood right before his eyes. And driven mad by the same radiation that gave him his superhuman strength, Bruce Banner will have fathered a family of hillbilly Hulks…that eventually went on to slaughter Logan’s wife and two children. But now, in the present, Old Man Logan wakes up to discover himself in a world before these atrocities, before the Wasteland. And he’s going to seize this opportunity and change history to ensure that his future never comes to pass…"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56148",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56148/old_man_logan_2016_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20617",
+    "name": "Old Man Logan (2016 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-27T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2016-01-12T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/55d76c7d4452f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/56707270d8116",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/56707235299e8",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/5670720b3d9ac",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/567071e92536f",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/567071bae8db6",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/5670714d549aa",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/55d76c7d4452f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56148/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12462",
+        "name": "Andrea Sorrentino",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56148/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56148/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123259",
+        "name": "cover from Old Man Logan (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123260",
+        "name": "story from Old Man Logan (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56148/events",
+    "items": [],
+    "returned": 0
+  }
+}

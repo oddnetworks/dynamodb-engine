@@ -1,0 +1,127 @@
+{
+  "id": 55349,
+  "digitalId": 0,
+  "title": "Ant-Man Annual (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Just in time for the ANT-MAN movie (funny, that), it's the team-up you've been waiting for: Scott Lang and Hank Pym, together again! Ant-bros! A classic villain makes his dreaded return! And a new hero is born! Well, not born, really -- he's already an adult. Nobody wants to read about a super-baby. (Or do they?)",
+  "modified": "2015-07-07T13:50:09-0400",
+  "isbn": "",
+  "upc": "759606083191000111",
+  "diamondCode": "MAY150795",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Just in time for the ANT-MAN movie (funny, that), it's the team-up you've been waiting for: Scott Lang and Hank Pym, together again! Ant-bros! A classic villain makes his dreaded return! And a new hero is born! Well, not born, really -- he's already an adult. Nobody wants to read about a super-baby. (Or do they?)"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55349",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55349/ant-man_annual_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Ant-Man-Annual-1/digital-comic/39331?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20441",
+    "name": "Ant-Man Annual (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-07-15T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-01T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/559c0feb3356d",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/559c0feb3356d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/03/5538142ee6801",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55349/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+        "name": "David Marquez",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12751",
+        "name": "Ramon Rosasnas",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12752",
+        "name": "Brent Schoonover",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+        "name": "Nick Spencer",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55349/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55349/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121741",
+        "name": "cover from Ant-Man Annual (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121742",
+        "name": "story from Ant-Man Annual (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55349/events",
+    "items": [],
+    "returned": 0
+  }
+}

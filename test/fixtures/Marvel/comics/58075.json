@@ -1,0 +1,123 @@
+{
+  "id": 58075,
+  "digitalId": 0,
+  "title": "Black Knight (2015) #2 (Epting Marvel 92 Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Epting Marvel 92 Variant",
+  "description": "• Why did Dane Whitman end up in Weirdworld?\n• What were the circumstances that led him to flee Earth?\n• Whatever they were, it’s enough to have the Uncanny Avengers show up on his doorstep, looking for him!\n• Have Dane’s past actions finally caught up with him?\n",
+  "modified": "2015-12-01T16:00:49-0500",
+  "isbn": "",
+  "upc": "75960608409800221",
+  "diamondCode": "OCT150930",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• Why did Dane Whitman end up in Weirdworld?\n• What were the circumstances that led him to flee Earth?\n• Whatever they were, it’s enough to have the Uncanny Avengers show up on his doorstep, looking for him!\n• Have Dane’s past actions finally caught up with him?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/58075",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/58075/black_knight_2015_2_epting_marvel_92_variant/epting_marvel_92_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20788",
+    "name": "Black Knight (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56785",
+      "name": "Black Knight (2015) #2"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57653",
+      "name": "Black Knight (2015) #2 (Panosian Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/56465638811cf",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/03/56465638811cf",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58075/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+        "name": "Steve Epting",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12488",
+        "name": "Luca Pizzari",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+        "name": "Frank Tieri",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58075/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58075/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126808",
+        "name": "cover from Black Knight (2015) #2 (EPTING MARVEL 92 VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126809",
+        "name": "story from Black Knight (2015) #2 (EPTING MARVEL 92 VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/58075/events",
+    "items": [],
+    "returned": 0
+  }
+}

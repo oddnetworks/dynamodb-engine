@@ -1,0 +1,114 @@
+{
+  "id": 57029,
+  "digitalId": 0,
+  "title": "Ms. Marvel (2014) #19 (Chiang Kirby Monster Variant)",
+  "issueNumber": 19,
+  "variantDescription": "Chiang Kirby Monster Variant",
+  "description": "• She’s beat down basic baddies, stopped super-villains and even conquered her evil ex-crush.\n• But now that Kamala Khan has finally found her stride as a hero, the planet’s gotta go and collide with an alternate Earth…Typical.\n• When the world ends, where will Kamala spend her last days..?\n",
+  "modified": "2015-10-12T12:49:30-0400",
+  "isbn": "",
+  "upc": "75960607997101921",
+  "diamondCode": "AUG150661",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• She’s beat down basic baddies, stopped super-villains and even conquered her evil ex-crush.\n• But now that Kamala Khan has finally found her stride as a hero, the planet’s gotta go and collide with an alternate Earth…Typical.\n• When the world ends, where will Kamala spend her last days..?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57029",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57029/ms_marvel_2014_19_chiang_kirby_monster_variant/chiang_kirby_monster_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18468",
+    "name": "Ms. Marvel (2014 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52253",
+      "name": "Ms. Marvel (2014) #19"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-10-14T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-09-30T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 2.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/561be38b82017",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/561be38b82017",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57029/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+        "name": "Adrian Alphona",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10329",
+        "name": "G. Willow Wilson",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57029/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57029/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124875",
+        "name": "cover from Ms. Marvel (2014) #19 (CHIANG KIRBY MONSTER VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124876",
+        "name": "story from Ms. Marvel (2014) #19 (CHIANG KIRBY MONSTER VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57029/events",
+    "items": [],
+    "returned": 0
+  }
+}

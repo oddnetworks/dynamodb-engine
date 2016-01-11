@@ -1,0 +1,109 @@
+{
+  "id": 52701,
+  "digitalId": 0,
+  "title": "Star Wars: Princess Leia (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "When Princess Leia Organa was captured by the Empire, she never betrayed\nher convictions — even after the complete destruction of her home world,\nAlderaan. When her rescue came, Leia grabbed a blaster and joined the\nfight, escaping back to the Rebel Alliance and helping strike the biggest\nblow against the Empire — destroying the Death Star! But in the aftermath\nof that victory, the question remains: What is a princess without a world?\nAs Leia grapples with her loss, a new mission leads her to the underground\nworld of Sullust. The Empire is rounding up fugitive Alderaanians, and\nthat doesn’t sit well with their Princess! But what can one woman do\nagainst the Galactic Empire? They’re about to find out! Join the galaxy’s\ntoughest Princess on a quest to save her people and rebuild her life!\nCollecting PRINCESS LEIA #1-5.\n",
+  "modified": "2015-11-03T14:49:01-0500",
+  "isbn": "978-0-7851-9317-3",
+  "upc": "",
+  "diamondCode": "",
+  "ean": "9780785 193173 51699",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "When Princess Leia Organa was captured by the Empire, she never betrayed\nher convictions — even after the complete destruction of her home world,\nAlderaan. When her rescue came, Leia grabbed a blaster and joined the\nfight, escaping back to the Rebel Alliance and helping strike the biggest\nblow against the Empire — destroying the Death Star! But in the aftermath\nof that victory, the question remains: What is a princess without a world?\nAs Leia grapples with her loss, a new mission leads her to the underground\nworld of Sullust. The Empire is rounding up fugitive Alderaanians, and\nthat doesn’t sit well with their Princess! But what can one woman do\nagainst the Galactic Empire? They’re about to find out! Join the galaxy’s\ntoughest Princess on a quest to save her people and rebuild her life!\nCollecting PRINCESS LEIA #1-5.\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/52701",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/52701/star_wars_princess_leia_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19713",
+    "name": "Star Wars: Princess Leia (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-31T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 16.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5637deebcf916",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/5637deebcf916",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52701/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+        "name": "Terry Dodson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52701/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52701/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116979",
+        "name": "cover from Star Wars: Princess Leia (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116980",
+        "name": "story from Star Wars: Princess Leia (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/52701/events",
+    "items": [],
+    "returned": 0
+  }
+}

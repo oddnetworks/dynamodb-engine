@@ -1,0 +1,118 @@
+{
+  "id": 56775,
+  "digitalId": 0,
+  "title": "All-New X-Men (2015) #1 (Bagley Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Bagley Variant",
+  "description": "Hated and feared more than ever, the world is a dangerous place for mutants. As the few remaining X-MEN retreat into seclusion, a handful of mutant teenagers refuse to allow their destiny to be decided for them. CYCLOPS. BEAST. ICEMAN. ANGEL. THE ALL-NEW WOLVERINE. KID APOCALYPSE. OYA. Stepping out of the shadows of their predecessors, the ALL-NEW X-MEN are striking out on their own, determined to write their own futures!",
+  "modified": "2015-11-24T13:25:43-0500",
+  "isbn": "",
+  "upc": "75960608342800141",
+  "diamondCode": "SEP150668",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Hated and feared more than ever, the world is a dangerous place for mutants. As the few remaining X-MEN retreat into seclusion, a handful of mutant teenagers refuse to allow their destiny to be decided for them. CYCLOPS. BEAST. ICEMAN. ANGEL. THE ALL-NEW WOLVERINE. KID APOCALYPSE. OYA. Stepping out of the shadows of their predecessors, the ALL-NEW X-MEN are striking out on their own, determined to write their own futures!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56775",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56775/all-new_x-men_2015_1_bagley_variant/bagley_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20622",
+    "name": "All-New X-Men (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56230",
+      "name": "All-New X-Men (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56774",
+      "name": "All-New X-Men (2015) #1 (Jack Kirby Monster Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/561ff7500d2e8",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/561ff7500d2e8",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56775/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56775/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56775/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124367",
+        "name": "cover from X-Supremacy (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124368",
+        "name": "story from X-Supremacy (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56775/events",
+    "items": [],
+    "returned": 0
+  }
+}

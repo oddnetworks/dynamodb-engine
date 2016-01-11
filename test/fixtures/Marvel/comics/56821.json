@@ -1,0 +1,143 @@
+{
+  "id": 56821,
+  "digitalId": 0,
+  "title": "Daredevil (2015) #1 (Maleev Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Maleev Hip-&#8203;Hop Variant",
+  "description": "Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney’s office. Fighting crime in the shadows, prosecuting bad guys in the light, it’s a whole new chapter for our man without fear—including the arrival of the devil’s advocate. Welcome to Hell, Blindspot.",
+  "modified": "2015-11-24T14:21:04-0500",
+  "isbn": "",
+  "upc": "75960608350300131",
+  "diamondCode": "OCT150753",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney’s office. Fighting crime in the shadows, prosecuting bad guys in the light, it’s a whole new chapter for our man without fear—including the arrival of the devil’s advocate. Welcome to Hell, Blindspot."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56821",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56821/daredevil_2015_1_maleev_hip-8203hop_variant/maleev_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20780",
+    "name": "Daredevil (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57553",
+      "name": "Daredevil (2015) #1 (Christopher Action Figure Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57657",
+      "name": "Daredevil (2015) #1 (Stroman Marvel 92 Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58083",
+      "name": "Daredevil (2015) #1 (Quesada Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56708",
+      "name": "Daredevil (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56709",
+      "name": "Daredevil (2015) #1 (Cosplay Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57549",
+      "name": "Daredevil (2015) #1 (Sale Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-02T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-17T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/563930e94f186",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/563930e94f186",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/b0/56057c5c2a311",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56821/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+        "name": "Ron Garney",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+        "name": "Alex Maleev",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56821/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56821/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124459",
+        "name": "cover from Daredevil (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124460",
+        "name": "story from Daredevil (2015) #1 (TBD ARTIST HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56821/events",
+    "items": [],
+    "returned": 0
+  }
+}

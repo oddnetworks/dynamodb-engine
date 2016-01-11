@@ -1,0 +1,118 @@
+{
+  "id": 1011082,
+  "name": "Elixir",
+  "description": "",
+  "modified": "2013-11-01T16:26:56-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/52740e1b4ad81",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011082",
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011082/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23971",
+        "name": "Cable (2008) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23972",
+        "name": "Cable (2008) #13 (OLIVETTI (MW, 50/50 COVER))"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24171",
+        "name": "Cable (2008) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24172",
+        "name": "Cable (2008) #14 (OLIVETTI MW, 50/50 COVER)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4071",
+        "name": "New X-Men (2004) #25"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4767",
+        "name": "New X-Men: Childhood's End Vol. 2 (Trade Paperback)"
+      }
+    ],
+    "returned": 6
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011082/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4002",
+        "name": "Cable (2008 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/749",
+        "name": "New X-Men (2004 - 2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1667",
+        "name": "New X-Men: Childhood's End Vol. 2 (2006)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011082/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3405",
+        "name": "2 of 4 - Crusade",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53172",
+        "name": "Cable (2008) #13 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53174",
+        "name": "Cable (2008) #13, 50/50 Variant - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53567",
+        "name": "Cable (2008) #14 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53569",
+        "name": "Cable (2008) #14, 50/50 Variant - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011082/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/298",
+        "name": "Messiah War"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/characters/1011082/elixir?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Elixir?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011082/elixir?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

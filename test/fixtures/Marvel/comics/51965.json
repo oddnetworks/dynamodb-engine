@@ -1,0 +1,134 @@
+{
+  "id": 51965,
+  "digitalId": 37348,
+  "title": "Hulk (2014) #14",
+  "issueNumber": 14,
+  "variantDescription": "",
+  "description": "The final confrontation between Doc Green & Red Hulk begins! The punching, kicking, thunder-clapping and even biting starts now! A surprise appearance from...Bruce Banner? Will Deadpool really betray Thunderbolt Ross for Doc Green? ",
+  "modified": "2015-04-27T13:53:20-0400",
+  "isbn": "",
+  "upc": "75960608056401411",
+  "diamondCode": "FEB150793",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The final confrontation between Doc Green & Red Hulk begins! The punching, kicking, thunder-clapping and even biting starts now! A surprise appearance from...Bruce Banner? Will Deadpool really betray Thunderbolt Ross for Doc Green? "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51965",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51965/hulk_2014_14?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Hulk-14/digital-comic/37348?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=37348&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18834",
+    "name": "Hulk (2014 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53394",
+      "name": "Hulk (2014) #14 (Albuquerque Wtd Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-03-25T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-10-12T00:00:00-0400"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-04-03T11:55:13-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/551d8824da837",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/551d8824da837",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/54c0054b3d3c3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51965/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51965/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51965/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115507",
+        "name": "cover from Hulk (2014) #14",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115508",
+        "name": "story from Hulk (2014) #14",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51965/events",
+    "items": [],
+    "returned": 0
+  }
+}

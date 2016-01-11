@@ -1,0 +1,119 @@
+{
+  "id": 49903,
+  "digitalId": 0,
+  "title": "Spider-Woman Vol. 1: Spider-Verse (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Jessica Drew has been an agent of both S.H.I.E.L.D. and S.W.O.R.D., an Avenger and more - but nothing could prepare her for the multidimensional insanity of Spider-Verse! A war is brewing, and every spider-character in the multiverse is a target! But being a target is something Jessica Drew just won't abide. She's a woman with a mission. And with Silk - the newest spider on the block - at her side, she'll need to put all her training to the test if she wants to make it out of Spider-Verse alive! Now, undercover in the most dangerous place in the multiverse, Spider-Woman is in the tightest spot she's ever been in. What if even succeeding with her mission means her death? And can Silk handle a solo mission? Plus: Spider-Woman's classic debut! Collecting SPIDER-WOMAN (2014) #1-4 and MARVEL SPOTLIGHT (1971) #32.",
+  "modified": "2015-06-12T16:24:17-0400",
+  "isbn": "978-0-7851-5458-7",
+  "upc": "",
+  "diamondCode": "MAR150815",
+  "ean": "9780785 154587 51599",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 112,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Jessica Drew has been an agent of both S.H.I.E.L.D. and S.W.O.R.D., an Avenger and more - but nothing could prepare her for the multidimensional insanity of Spider-Verse! A war is brewing, and every spider-character in the multiverse is a target! But being a target is something Jessica Drew just won't abide. She's a woman with a mission. And with Silk - the newest spider on the block - at her side, she'll need to put all her training to the test if she wants to make it out of Spider-Verse alive! Now, undercover in the most dangerous place in the multiverse, Spider-Woman is in the tightest spot she's ever been in. What if even succeeding with her mission means her death? And can Silk handle a solo mission? Plus: Spider-Woman's classic debut! Collecting SPIDER-WOMAN (2014) #1-4 and MARVEL SPOTLIGHT (1971) #32."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/49903",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/49903/spider-woman_vol_1_spider-verse_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18755",
+    "name": "Spider-Woman Vol. 1: Spider-Verse (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-02T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 15.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/557b3e64939be",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/557b3e64939be",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49903/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+        "name": "Archie Goodwin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49903/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49903/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111866",
+        "name": "cover from Spider-Woman (2020)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111867",
+        "name": "story from Spider-Woman (2020)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/49903/events",
+    "items": [],
+    "returned": 0
+  }
+}

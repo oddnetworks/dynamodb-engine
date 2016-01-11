@@ -1,0 +1,129 @@
+{
+  "id": 50440,
+  "digitalId": 0,
+  "title": "Marvel Masterworks: Not Brand Echh (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "When Stan Lee set the tone for the Marvel Age of Comics it came with a healthy dose of humor. When fans demanded more of that Marvel mayhem, Stan, along with Jack Kirby, Gene Colan and theBullpen's mistress of mirth, Marie Severin, turned the dial up to 11 and let loose! What came blasting out was the masterpiece of Silver Age satire Not Brand Echh. Each issue came packed with Marvel's greatest talents taking a sideways look at the super heroes they made famous (and even some that they didn't!) Now, Charlie America, Scaredevil, the Revengers, Sore Son of Shmodin, the Sunk-Mariner and the one and only Forbush Man are coming at you in this unprecedented enormous Marvel Masterworks! Collecting NOT BRAND ECHH (1967) #1-13 and material from DAREDEVIL ANNUAL (1967) #1, FANTASTIC FOUR ANNUAL (1963) #5, SGT. FURY ANNUAL (1965) #4, AVENGERS ANNUAL (1967) #2 & AMAZING SPIDER-MAN ANNUAL (1964) #5",
+  "modified": "2015-06-01T14:41:17-0400",
+  "isbn": "978-0-7851-9071-4",
+  "upc": "",
+  "diamondCode": "APR140756",
+  "ean": "9780785 190714 56999",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 456,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "When Stan Lee set the tone for the Marvel Age of Comics it came with a healthy dose of humor. When fans demanded more of that Marvel mayhem, Stan, along with Jack Kirby, Gene Colan and theBullpen's mistress of mirth, Marie Severin, turned the dial up to 11 and let loose! What came blasting out was the masterpiece of Silver Age satire Not Brand Echh. Each issue came packed with Marvel's greatest talents taking a sideways look at the super heroes they made famous (and even some that they didn't!) Now, Charlie America, Scaredevil, the Revengers, Sore Son of Shmodin, the Sunk-Mariner and the one and only Forbush Man are coming at you in this unprecedented enormous Marvel Masterworks! Collecting NOT BRAND ECHH (1967) #1-13 and material from DAREDEVIL ANNUAL (1967) #1, FANTASTIC FOUR ANNUAL (1963) #5, SGT. FURY ANNUAL (1965) #4, AVENGERS ANNUAL (1967) #2 & AMAZING SPIDER-MAN ANNUAL (1964) #5"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/50440",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/50440/marvel_masterworks_not_brand_echh_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18858",
+    "name": "Marvel Masterworks: Not Brand Echh (2014)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-03T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-14T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 69.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/556c8a1d35fc3",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/556c8a1d35fc3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50440/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/198",
+        "name": "Marie Severin",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/60",
+        "name": "Arnold Drake",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1209",
+        "name": "Gary Friedrich",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50440/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50440/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112906",
+        "name": "cover from Marvel Masterworks: Not Brand Echh (2014)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112907",
+        "name": "story from Marvel Masterworks: Not Brand Echh (2014)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/50440/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": 1011244,
+  "name": "Mr. Negative",
+  "description": "",
+  "modified": "2011-08-26T11:13:27-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4c002efc322e3",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011244",
+  "comics": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011244/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22263",
+        "name": "Amazing Spider-Man (1999) #575"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22466",
+        "name": "Amazing Spider-Man (1999) #576"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23925",
+        "name": "Amazing Spider-Man (1999) #590"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23928",
+        "name": "Amazing Spider-Man (1999) #590"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24419",
+        "name": "Amazing Spider-Man (1999) #612"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28710",
+        "name": "Amazing Spider-Man (1999) #612 (VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29555",
+        "name": "Amazing Spider-Man (1999) #612 (GRANOV 50/50 COVER)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28225",
+        "name": "Amazing Spider-Man (1999) #620"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31556",
+        "name": "Amazing Spider-Man (1999) #620 (DEADPOOL VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28226",
+        "name": "Amazing Spider-Man (1999) #621"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30317",
+        "name": "Amazing Spider-Man (1999) #642"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30319",
+        "name": "Amazing Spider-Man (1999) #644"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35501",
+        "name": "Amazing Spider-Man (1999) #663"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35515",
+        "name": "Amazing Spider-Man (1999) #664"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23180",
+        "name": "Amazing Spider-Man: Extra! (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38982",
+        "name": "Spider-Island: Cloak & Dagger (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38983",
+        "name": "Spider-Island: Cloak & Dagger (2011) #2"
+      }
+    ],
+    "returned": 17
+  },
+  "series": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011244/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
+        "name": "Amazing Spider-Man (1999 - 2013)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6604",
+        "name": "Amazing Spider-Man: Extra! (2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14108",
+        "name": "Spider-Island: Cloak & Dagger (2011)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011244/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49031",
+        "name": "Interior #49031",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49809",
+        "name": "Amazing Spider-Man (1999) #576 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51401",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53067",
+        "name": "Amazing Spider-Man (1999) #590 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53073",
+        "name": "1 of 2 Face Front",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54196",
+        "name": "Amazing Spider-Man (1999) #612 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61673",
+        "name": "Amazing Spider-Man (1999) #620 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61674",
+        "name": "Amazing Spider-Man (1999) #621",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61675",
+        "name": "Amazing Spider-Man (1999) #621 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62616",
+        "name": "Amazing Spider-Man (1999) #612, Variant - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64262",
+        "name": "Amazing Spider-Man (1999) #612, Granov 50/50 Variant - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69461",
+        "name": "Amazing Spider-Man (1999) #642 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69464",
+        "name": "Amazing Spider-Man (1999) #644",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71772",
+        "name": "Amazing Spider-Man (1999) #620, Deadpool Variant - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/78510",
+        "name": "Amazing Spider-Man (1999) #663 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/78536",
+        "name": "Amazing Spider-Man (1999) #664 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85547",
+        "name": "Interior #85547",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85549",
+        "name": "Spider-Island: Cloak & Dagger (2011) #2 - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 18
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011244/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/305",
+        "name": "Spider-Island"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/1532/mr_negative?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Mr.%20Negative?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011244/mr_negative?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

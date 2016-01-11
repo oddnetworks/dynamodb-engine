@@ -1,0 +1,123 @@
+{
+  "id": 57253,
+  "digitalId": 0,
+  "title": "Ultimates (2015) #1 (Deodato Hip-&#8203;Hop Variant)",
+  "issueNumber": 1,
+  "variantDescription": "Deodato Hip-&#8203;Hop Variant",
+  "description": "BLACK PANTHER! CAPTAIN MARVEL! MS. AMERICA CHAVEZ! SPECTRUM! BLUE MARVEL!\nThe ultimate superteam comes together to find and fix problems beyond the limits of the infinite! From cosmic forces lurking on Earth to what waits on the outside of the omniverse – the impossible is where they start! And what’s more impossible than ending the threat of Galactus, the devourer of worlds... forever?\n",
+  "modified": "2015-11-09T14:32:10-0500",
+  "isbn": "",
+  "upc": "75960608361900121",
+  "diamondCode": "SEP150764",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "BLACK PANTHER! CAPTAIN MARVEL! MS. AMERICA CHAVEZ! SPECTRUM! BLUE MARVEL!\nThe ultimate superteam comes together to find and fix problems beyond the limits of the infinite! From cosmic forces lurking on Earth to what waits on the outside of the omniverse – the impossible is where they start! And what’s more impossible than ending the threat of Galactus, the devourer of worlds... forever?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57253",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57253/ultimates_2015_1_deodato_hip-8203hop_variant/deodato_hip-8203hop_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+    "name": "Ultimates (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57251",
+      "name": "Ultimates (2015) #1"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/57477",
+      "name": "Ultimates (2015) #1 (Young Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-11T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/55f1f1652bd48",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/55f1f1652bd48",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57253/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+        "name": "Al Ewing",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+        "name": "Kenneth Rocafort",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57253/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57253/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125323",
+        "name": "cover from Ultimates (2015) #1 (DEODATO HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125324",
+        "name": "story from Ultimates (2015) #1 (DEODATO HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57253/events",
+    "items": [],
+    "returned": 0
+  }
+}

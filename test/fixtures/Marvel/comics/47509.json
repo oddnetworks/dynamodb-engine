@@ -1,0 +1,118 @@
+{
+  "id": 47509,
+  "digitalId": 0,
+  "title": "George Romero's Empire of the Dead: Act Three (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "THE FINAL CHAPTER IN GEORGE ROMERO'S EPIC EMPIRE OF THE DEAD SAGA CONTINUES! Jo tries to make a break from the remote vampire compound, but can one girl outrun the undead? As Chilly Dobbs' campaign against Mayor Chandrake falters, will Runyon and Dixie stand by their man, or will Chilly be left out in the cold? The rebels are coming! The rebels are coming! And they're bringing Hell with them!",
+  "modified": "2015-05-04T10:35:09-0400",
+  "isbn": "",
+  "upc": "759606079521000211",
+  "diamondCode": "MAR150711",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE FINAL CHAPTER IN GEORGE ROMERO'S EPIC EMPIRE OF THE DEAD SAGA CONTINUES! Jo tries to make a break from the remote vampire compound, but can one girl outrun the undead? As Chilly Dobbs' campaign against Mayor Chandrake falters, will Runyon and Dixie stand by their man, or will Chilly be left out in the cold? The rebels are coming! The rebels are coming! And they're bringing Hell with them!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/47509",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/47509/george_romeros_empire_of_the_dead_act_three_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/17944",
+    "name": "George Romero's Empire of the Dead: Act Three (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-05-06T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-22T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/554783071876d",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/554783071876d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/54e7822c1d1f6",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47509/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8495",
+        "name": "Francesco Mattina",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10119",
+        "name": "Andrea Mutti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12407",
+        "name": "George Romero",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47509/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47509/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107302",
+        "name": "cover from George Romero's Empire of the Dead: Act Three (2020) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107303",
+        "name": "story from George Romero's Empire of the Dead: Act Three (2020) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47509/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": 48490,
+  "digitalId": 0,
+  "title": "Bucky Barnes: Winter Soldier (2014) #10",
+  "issueNumber": 10,
+  "variantDescription": "",
+  "description": "\"INTO THE VOID\" The climax reaches its climax! Planet Mer-Z-Bow under siege! Bucky Barnes times two: one too many??",
+  "modified": "2015-07-24T16:31:43-0400",
+  "isbn": "",
+  "upc": "75960607976601011",
+  "diamondCode": "MAY150806",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "\"INTO THE VOID\" The climax reaches its climax! Planet Mer-Z-Bow under siege! Bucky Barnes times two: one too many??"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/48490",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/48490/bucky_barnes_winter_soldier_2014_10?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Bucky-Barnes-Winter-Soldier-10/digital-comic/39626?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/18337",
+    "name": "Bucky Barnes: Winter Soldier (2014 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-05T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-22T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/55b29ecbb7d25",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/55b29ecbb7d25",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/55562f0b646e5",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48490/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10159",
+        "name": "Michael Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12469",
+        "name": "Langdon Foss",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12421",
+        "name": "Marco Rudy",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12394",
+        "name": "Ales Kot",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48490/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48490/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109087",
+        "name": "cover from Bucky Barnes: Winter Soldier (2013) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109088",
+        "name": "story from Bucky Barnes: Winter Soldier (2013) #10",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/48490/events",
+    "items": [],
+    "returned": 0
+  }
+}

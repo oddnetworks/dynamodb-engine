@@ -1,0 +1,119 @@
+{
+  "id": 57425,
+  "digitalId": 0,
+  "title": "Amazing Spider-Man (2015) #3 (Dell'Otto Variant)",
+  "issueNumber": 3,
+  "variantDescription": "Dell'Otto Variant",
+  "description": "• More of Spider-Man’s post-Secret Wars world revealed!\n• Visit Parker Industries New York Headquarters, the building formerly known as the Baxter Building! The Human Torch is going to have something to say about that!\n",
+  "modified": "2015-10-26T13:10:28-0400",
+  "isbn": "",
+  "upc": "75960608297100321",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "• More of Spider-Man’s post-Secret Wars world revealed!\n• Visit Parker Industries New York Headquarters, the building formerly known as the Baxter Building! The Human Torch is going to have something to say about that!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57425",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57425/amazing_spider-man_2015_3_dellotto_variant/dellotto_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20432",
+    "name": "Amazing Spider-Man (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55301",
+      "name": "Amazing Spider-Man (2015) #3"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-04T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-21T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/562e5c7caa99f",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/562e5c7caa99f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57425/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57425/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57425/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125668",
+        "name": "cover from The Amazing Spider-Man (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125669",
+        "name": "story from The Amazing Spider-Man (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57425/events",
+    "items": [],
+    "returned": 0
+  }
+}

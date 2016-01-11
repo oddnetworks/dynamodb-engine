@@ -1,0 +1,121 @@
+{
+  "id": 51947,
+  "digitalId": 0,
+  "title": "House of M (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "The House of Magnus controls all, having crushed all resistance to their reign. Magneto rules with an iron-fist, while his children and grandchildren live their lives as royals-with all the privileges and pit-falls that come with that title. But is Magneto's control as all-encompassing as it seems? And what happens to a conqueror when there is no one left to conquer?",
+  "modified": "2015-07-21T06:07:38-0400",
+  "isbn": "",
+  "upc": "75960608217900111",
+  "diamondCode": "JUN150722",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The House of Magnus controls all, having crushed all resistance to their reign. Magneto rules with an iron-fist, while his children and grandchildren live their lives as royals-with all the privileges and pit-falls that come with that title. But is Magneto's control as all-encompassing as it seems? And what happens to a conqueror when there is no one left to conquer?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51947",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51947/house_of_m_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/House-of-M-1/digital-comic/39732?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19462",
+    "name": "House of M (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-19T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-05T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/55ce50c4ea155",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/55d3a5307fa22",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/55ce50c4ea155",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/f0/551c0a103dab4",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51947/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12460",
+        "name": "Marco Failla",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51947/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51947/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115471",
+        "name": "cover from House of M (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115472",
+        "name": "story from House of M (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51947/events",
+    "items": [],
+    "returned": 0
+  }
+}

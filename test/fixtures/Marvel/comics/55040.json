@@ -1,0 +1,123 @@
+{
+  "id": 55040,
+  "digitalId": 0,
+  "title": "Old Man Logan (2015) #2 (Samnee Gwenverine Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Samnee Gwenverine Variant",
+  "description": "- He may be an Old Man, but never before has the world needed Logan as much as it does now. - The people he loved have become mere memories. The world that he loved has decayed, becoming a festering Wasteland. - But in a world devoid of heroes, even someone who is the best there is at what he does may find themselves overmatched by evil. ",
+  "modified": "2015-06-09T14:51:34-0400",
+  "isbn": "",
+  "upc": "75960608226100231",
+  "diamondCode": "APR150823",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- He may be an Old Man, but never before has the world needed Logan as much as it does now. - The people he loved have become mere memories. The world that he loved has decayed, becoming a festering Wasteland. - But in a world devoid of heroes, even someone who is the best there is at what he does may find themselves overmatched by evil. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55040",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55040/old_man_logan_2015_2_samnee_gwenverine_variant/samnee_gwenverine_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19614",
+    "name": "Old Man Logan (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/52307",
+      "name": "Old Man Logan (2015) #2"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/55018",
+      "name": "Old Man Logan (2015) #2 (Tbd Artist Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-05-25T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/55773499e8a31",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/55773499e8a31",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55040/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+        "name": "Chris Samnee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12462",
+        "name": "Andrea Sorrentino",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55040/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55040/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121243",
+        "name": "cover from Old Man Logan (2015) #2 (TBD ARTIST GWENVERINE VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121244",
+        "name": "story from Old Man Logan (2015) #2 (TBD ARTIST GWENVERINE VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55040/events",
+    "items": [],
+    "returned": 0
+  }
+}

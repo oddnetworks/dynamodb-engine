@@ -1,0 +1,131 @@
+{
+  "id": 51525,
+  "digitalId": 0,
+  "title": "Big Thunder Mountain Railroad (2015) #4",
+  "issueNumber": 4,
+  "variantDescription": "",
+  "description": "Abby throws her lot in with the bandits! But who can she really trust? Big Thunder is in dire straits...but mining profits are the least of Bullion's worries!\nElements based on Big Thunder Mountain Railroad © Disney. ",
+  "modified": "2015-11-03T15:07:53-0500",
+  "isbn": "",
+  "upc": "75960608176900411",
+  "diamondCode": "APR150870",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Abby throws her lot in with the bandits! But who can she really trust? Big Thunder is in dire straits...but mining profits are the least of Bullion's worries!\nElements based on Big Thunder Mountain Railroad © Disney. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51525",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51525/big_thunder_mountain_railroad_2015_4?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Big-Thunder-Mountain-Railroad-4/digital-comic/38988?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19335",
+    "name": "Big Thunder Mountain Railroad (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/53096",
+      "name": "Big Thunder Mountain Railroad (2015) #4 (Crosby Connecting Variant D)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-03T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/568d4f6b406fb",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/568d4f6b406fb",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/70/5575f8dddc6f7",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/553a79c2567a2",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51525/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9031",
+        "name": "Marcio Takara",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12491",
+        "name": "Tigh Walker",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51525/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51525/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114627",
+        "name": "cover from Big Thunder Mountain Railroad (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114628",
+        "name": "story from Big Thunder Mountain Railroad (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51525/events",
+    "items": [],
+    "returned": 0
+  }
+}

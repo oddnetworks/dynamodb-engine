@@ -1,0 +1,107 @@
+{
+  "id": 57291,
+  "digitalId": 0,
+  "title": "Venom: Space Knight (2015) #2",
+  "issueNumber": 2,
+  "variantDescription": "",
+  "description": "Between missions with the GUARDIANS OF THE GALAXY, Venom fights strange, violent aliens and helps strange, peaceful aliens. Aliens can be strange, is what we’re saying. All the while, he’s being trailed by a mysterious warship! Are its operators violent or peaceful? Flash and his Klyntar are working better than ever, but there’s a lot Flash doesn’t know about being an Agent of the Cosmos. And what he doesn’t know could kill him!",
+  "modified": "2015-12-18T11:38:51-0500",
+  "isbn": "",
+  "upc": "75960608362600211",
+  "diamondCode": "OCT150835",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Between missions with the GUARDIANS OF THE GALAXY, Venom fights strange, violent aliens and helps strange, peaceful aliens. Aliens can be strange, is what we’re saying. All the while, he’s being trailed by a mysterious warship! Are its operators violent or peaceful? Flash and his Klyntar are working better than ever, but there’s a lot Flash doesn’t know about being an Agent of the Cosmos. And what he doesn’t know could kill him!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/57291",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/57291/venom_space_knight_2015_2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Venom-Space-Knight-2/digital-comic/40733?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20896",
+    "name": "Venom: Space Knight (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-23T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-08T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/567808b82328e",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/567808b82328e",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/56743849aeace",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57291/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+        "name": "Jacob Thomas",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57291/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57291/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125399",
+        "name": "cover from Venom: Space Knight (2015) #2",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/57291/events",
+    "items": [],
+    "returned": 0
+  }
+}

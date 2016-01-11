@@ -1,0 +1,123 @@
+{
+  "id": 56632,
+  "digitalId": 0,
+  "title": "Civil War (2015) #2 (Coipel Variant)",
+  "issueNumber": 2,
+  "variantDescription": "Coipel Variant",
+  "description": "- Skirmishes between each side continue in the wake of a failed attempt at peace. General Rogers and his forces in the Blue continue development of Project Bellcurve, the top-secret effort to win the war in one epic stroke, while Iron President Stark discovers deeply troubling data about the course of the nation's history since its division.",
+  "modified": "2015-07-27T10:43:18-0400",
+  "isbn": "",
+  "upc": "75960608208700231",
+  "diamondCode": "MAR158505",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "- Skirmishes between each side continue in the wake of a failed attempt at peace. General Rogers and his forces in the Blue continue development of Project Bellcurve, the top-secret effort to win the war in one epic stroke, while Iron President Stark discovers deeply troubling data about the course of the nation's history since its division."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56632",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56632/civil_war_2015_2_coipel_variant/coipel_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19350",
+    "name": "Civil War (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/51579",
+      "name": "Civil War (2015) #2"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/54982",
+      "name": "Civil War (2015) #2 (Maleev Landscape Wraparound Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-05T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-22T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/55b64273dd8f5",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/55b64273dd8f5",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56632/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+        "name": "Olivier Coipel",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56632/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56632/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124119",
+        "name": "cover from Civil War (2015) #2 (COIPEL VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124120",
+        "name": "story from Civil War (2015) #2 (COIPEL VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56632/events",
+    "items": [],
+    "returned": 0
+  }
+}

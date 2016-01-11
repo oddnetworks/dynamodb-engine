@@ -1,0 +1,317 @@
+{
+  "id": 1009552,
+  "name": "S.H.I.E.L.D.",
+  "description": "",
+  "modified": "2013-01-30T15:00:01-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/51097abb8e306",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+  "comics": {
+    "available": 60,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009552/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24348",
+        "name": "Adam: Legend of the Blue Marvel (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22856",
+        "name": "Adam: Legend of the Blue Marvel (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6970",
+        "name": "Avengers (1963) #115"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32477",
+        "name": "Avengers & the Infinity Gauntlet (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32993",
+        "name": "Avengers & the Infinity Gauntlet (Graphic Novel)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21247",
+        "name": "Avengers/Invaders (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21394",
+        "name": "Avengers/Invaders (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22524",
+        "name": "Avengers/Invaders (2008) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16248",
+        "name": "Cap Transport (2005) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2308",
+        "name": "Captain America (2004) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5086",
+        "name": "Captain America (2004) #22"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5195",
+        "name": "Captain America: Winter Soldier Vol. 2 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33124",
+        "name": "Civil War: X-Men (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8097",
+        "name": "Daredevil (1964) #120"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38012",
+        "name": "Essential Iron Man Vol. 2 (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13315",
+        "name": "Fantastic Four (1996) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5280",
+        "name": "Heroes Reborn: Fantastic Four (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37581",
+        "name": "Impossible Man (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20827",
+        "name": "Incredible Hercules (2008) #115"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20828",
+        "name": "Incredible Hercules (2008) #115 (VARIANT)"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 29,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009552/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
+        "name": "Adam: Legend of the Blue Marvel (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
+        "name": "Adam: Legend of the Blue Marvel (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10035",
+        "name": "Avengers & the Infinity Gauntlet (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9859",
+        "name": "Avengers & the Infinity Gauntlet (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4864",
+        "name": "Avengers/Invaders (2008 - 2009)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2722",
+        "name": "Cap Transport (2005 - 2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/832",
+        "name": "Captain America (2004 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1613",
+        "name": "Captain America: Winter Soldier Vol. 2 (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10105",
+        "name": "Civil War: X-Men (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2002",
+        "name": "Daredevil (1964 - 1998)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13631",
+        "name": "Essential Iron Man Vol. 2 (2010 - 2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2123",
+        "name": "Fantastic Four (1996 - 1997)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1812",
+        "name": "Heroes Reborn: Fantastic Four (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13508",
+        "name": "Impossible Man (2010 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3762",
+        "name": "Incredible Hercules (2008 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/4889",
+        "name": "Invincible Iron Man (2008 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7043",
+        "name": "Invincible Iron Man Vol. 1: The Five Nightmares (2009 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1468",
+        "name": "Marvel Masterworks: Doctor Strange Vol. (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1494",
+        "name": "Marvel Masterworks: The Invincible Iron Man Vol. (2005)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 65,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009552/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4243",
+        "name": "2 of 6 - Winter Soldier",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4244",
+        "name": "2 of 6 - Winter Soldier",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4271",
+        "name": "1 of ? - Civil War",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10240",
+        "name": "Cover #10240",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10241",
+        "name": "Who Strikes at---Shield?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10249",
+        "name": "Cover #10249",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10261",
+        "name": "Cover #10261",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11993",
+        "name": "The Warrior and the Whip!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14478",
+        "name": "Below Us the Battle!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15611",
+        "name": "Before I'd Be Slave...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15754",
+        "name": "... And a HYDRA New Year!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25760",
+        "name": "Out Of The Blue (Into The Fire) [Part 1 of 3]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25763",
+        "name": "Broken! [Part 2 of 3]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25834",
+        "name": "Doomsday!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28542",
+        "name": "Out Of The Blue (Into The Fire) [Part 1 of 3]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28545",
+        "name": "Broken! [Part 2 of 3]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34025",
+        "name": "Cover #34025",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34498",
+        "name": "The Warrior and the Whip!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44605",
+        "name": "Herc 4 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44607",
+        "name": "Herc 4 of 4",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009552/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      }
+    ],
+    "returned": 1
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/characters/1009552/shield.?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/S.H.I.E.L.D.?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009552/shield.?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

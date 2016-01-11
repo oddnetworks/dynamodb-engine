@@ -1,0 +1,109 @@
+{
+  "id": 55288,
+  "digitalId": 0,
+  "title": "Max Ride: First Flight (2015) #1 (NGUYEN VARIANT)",
+  "issueNumber": 1,
+  "variantDescription": "NGUYEN VARIANT",
+  "description": "James Patterson's Worldwide Bestselling Series gets a Marvel makeover. Follow the soaring adventures of Max and her extraordinary \"flock\"--Fang, Iggy, Nudge, Gasman and Angel--as they try to escape their creators and defend themselves from the diabolical Erasers. Along the way Max discovers her purpose â€\" saving the world â€\" but can she? Find out this Spring! ",
+  "modified": "2015-04-02T15:50:47-0400",
+  "isbn": "",
+  "upc": "75960608193600121",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "James Patterson's Worldwide Bestselling Series gets a Marvel makeover. Follow the soaring adventures of Max and her extraordinary \"flock\"--Fang, Iggy, Nudge, Gasman and Angel--as they try to escape their creators and defend themselves from the diabolical Erasers. Along the way Max discovers her purpose â€\" saving the world â€\" but can she? Find out this Spring! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55288",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55288/max_ride_first_flight_2015_1_nguyen_variant/nguyen_variant?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20016",
+    "name": "Max Ride: First Flight (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-08T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-03-25T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/551d9cc06c1e7",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/551d9cc06c1e7",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55288/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12441",
+        "name": "Marguerite Bennett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/741",
+        "name": "Alex Sanchez",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55288/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55288/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121625",
+        "name": "MAX RIDE: FIRST FLIGHT 1 NGUYEN VARIANT (WITH DIGITAL CODE)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121626",
+        "name": "MAX RIDE: FIRST FLIGHT 1 NGUYEN VARIANT (WITH DIGITAL CODE)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55288/events",
+    "items": [],
+    "returned": 0
+  }
+}

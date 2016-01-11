@@ -1,0 +1,103 @@
+{
+  "id": 56492,
+  "digitalId": 0,
+  "title": "Amazing Spider-Man (2015) #1.2",
+  "issueNumber": 1.2,
+  "variantDescription": "",
+  "description": "The dead are rising in Harlem! Spider-Man relearns why graveyards are terrifying. But things aren’t as simple as they seem (and they don’t even seem all that simple). How do the Santerians fit into all of this?",
+  "modified": "2016-01-05T15:23:43-0500",
+  "isbn": "",
+  "upc": "75960608346600211",
+  "diamondCode": "OCT150860",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The dead are rising in Harlem! Spider-Man relearns why graveyards are terrifying. But things aren’t as simple as they seem (and they don’t even seem all that simple). How do the Santerians fit into all of this?"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56492",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56492/amazing_spider-man_2015_1.2?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Amazing-Spider-Man-1-2/digital-comic/40849?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20694",
+    "name": "Amazing Spider-Man (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-06T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-21T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/568c26754aa0c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/568c26754aa0c",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56492/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56492/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56492/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123839",
+        "name": "cover from Amazing Spider-Man: TBD Series (2015) #2",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56492/events",
+    "items": [],
+    "returned": 0
+  }
+}

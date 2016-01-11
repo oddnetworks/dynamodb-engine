@@ -1,0 +1,146 @@
+{
+  "id": 55480,
+  "digitalId": 0,
+  "title": "All-New Hawkeye (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "Hawkeye and Hawkeye take aim at another season. But it's not all straight as an arrow for Clint and Kate. A deep-seated rift that stretches across time, brings old man Clint and a wiser Kate back together as they chase down mistakes from their past. The star-studded team of Jeff Lemire and Ramon Perez return, bringing you another inspired look at the world of Hawkeye.",
+  "modified": "2015-11-03T15:27:54-0500",
+  "isbn": "",
+  "upc": "75960608304600111",
+  "diamondCode": "SEP150768",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Hawkeye and Hawkeye take aim at another season. But it's not all straight as an arrow for Clint and Kate. A deep-seated rift that stretches across time, brings old man Clint and a wiser Kate back together as they chase down mistakes from their past. The star-studded team of Jeff Lemire and Ramon Perez return, bringing you another inspired look at the world of Hawkeye."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55480",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55480/all-new_hawkeye_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/All-New-Hawkeye-1/digital-comic/40458?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20468",
+    "name": "All-New Hawkeye (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56403",
+      "name": "All-New Hawkeye (2015) #1 (Grell Classic Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56404",
+      "name": "All-New Hawkeye (2015) #1 (Lemire Kirby Monster Variant)"
+    },
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/56766",
+      "name": "All-New Hawkeye (2015) #1 (Greene Hip-&#8203;Hop Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-11-11T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-10-27T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5639137fdd412",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5639137fdd412",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5620185dc7f79",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/5620180ae1158",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/b0/562017bc22804",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/562017460c218",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/55fc1eebb94be",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55480/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11531",
+        "name": "Ramon Perez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55480/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55480/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122003",
+        "name": "cover from Hawkeye (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122004",
+        "name": "story from Hawkeye (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55480/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": 47512,
+  "digitalId": 0,
+  "title": "George Romero's Empire of the Dead: Act Three (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "THE FINAL ISSUE OF GEORGE ROMERO'S NEW HORROR EPIC!\n• The moment everyone's been waiting for! All out ZOMBIE VERSUS VAMPIRE\nWARFARE!\n• A daring rescue mission to save the children at the vampire feeding farm!\n• Who will rule the EMPIRE OF THE DEAD?\n",
+  "modified": "2015-09-14T14:48:58-0400",
+  "isbn": "",
+  "upc": "759606079521000511",
+  "diamondCode": "",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "THE FINAL ISSUE OF GEORGE ROMERO'S NEW HORROR EPIC!\n• The moment everyone's been waiting for! All out ZOMBIE VERSUS VAMPIRE\nWARFARE!\n• A daring rescue mission to save the children at the vampire feeding farm!\n• Who will rule the EMPIRE OF THE DEAD?\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/47512",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/47512/george_romeros_empire_of_the_dead_act_three_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/17944",
+    "name": "George Romero's Empire of the Dead: Act Three (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-09-23T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-08-12T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/55f71048c696c",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/55f71048c696c",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/558448ead8d46",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47512/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8495",
+        "name": "Francesco Mattina",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10119",
+        "name": "Andrea Mutti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12407",
+        "name": "George Romero",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47512/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47512/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107308",
+        "name": "cover from George Romero's Empire of the Dead: Act Three (2020) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107309",
+        "name": "story from George Romero's Empire of the Dead: Act Three (2020) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/47512/events",
+    "items": [],
+    "returned": 0
+  }
+}

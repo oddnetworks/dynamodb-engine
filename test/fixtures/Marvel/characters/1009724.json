@@ -1,0 +1,341 @@
+{
+  "id": 1009724,
+  "name": "X-Force",
+  "description": "",
+  "modified": "2014-04-28T17:44:59-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/52603663b553d",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+  "comics": {
+    "available": 226,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009724/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21636",
+        "name": "Counter X Vol. 1 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40209",
+        "name": "Deadpool (2008) #50"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49296",
+        "name": "Deadpool Vs. X-Force (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4275",
+        "name": "Decimation: Generation M (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39003",
+        "name": "Fear Itself: Uncanny X-Force (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39004",
+        "name": "Fear Itself: Uncanny X-Force (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39002",
+        "name": "Fear Itself: Uncanny X-Force (2011) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16077",
+        "name": "Gambit and the X-Ternals (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16078",
+        "name": "Gambit and the X-Ternals (1995) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16079",
+        "name": "Gambit and the X-Ternals (1995) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16080",
+        "name": "Gambit and the X-Ternals (1995) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37581",
+        "name": "Impossible Man (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38182",
+        "name": "Marvel Point One (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32581",
+        "name": "Uncanny X-Force (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32586",
+        "name": "Uncanny X-Force (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39670",
+        "name": "Uncanny X-Force (2010) #5.1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32591",
+        "name": "Uncanny X-Force (2010) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32593",
+        "name": "Uncanny X-Force (2010) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32574",
+        "name": "Uncanny X-Force (2010) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41323",
+        "name": "Uncanny X-Force (2010) #11 (2nd Printing Variant)"
+      }
+    ],
+    "returned": 20
+  },
+  "series": {
+    "available": 27,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009724/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5260",
+        "name": "Counter X Vol. 1 (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5701",
+        "name": "Deadpool (2008 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/18537",
+        "name": "Deadpool Vs. X-Force (2014 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1635",
+        "name": "Decimation: Generation M (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14151",
+        "name": "Fear Itself: Uncanny X-Force (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2578",
+        "name": "Gambit and the X-Ternals (1995)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13508",
+        "name": "Impossible Man (2010 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13745",
+        "name": "Marvel Point One (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/9976",
+        "name": "Uncanny X-Force (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3839",
+        "name": "X-Force (2008 - 2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3633",
+        "name": "X-Force (1991 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/718",
+        "name": "X-Force (2004 - 2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1233",
+        "name": "X-Force & Cable Vol. 1: The Legend Returns (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13888",
+        "name": "X-Force MGC (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/88",
+        "name": "X-Force: Famous, Mutant & Mortal (2003)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13428",
+        "name": "X-Force: Force to Be Reckoned with (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14480",
+        "name": "X-Force: Under the Gun (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/14479",
+        "name": "X-Force: Under the Gun (2011 - Present)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/5242",
+        "name": "X-Men: Endangered Species (2008)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3458",
+        "name": "X-Men: Endangered Species (2008)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 365,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009724/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2910",
+        "name": "4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2912",
+        "name": "Interior #2912",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2914",
+        "name": "Cable completes the assembly of his team, adding a few more familiar faces to his ranks. But when he reaches out to one former X",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2916",
+        "name": "PART 3 (OF 6) Cable vs. Cannonball...and more on the mysterious Jon Spectre!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2918",
+        "name": "5 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2920",
+        "name": "6 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32418",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32818",
+        "name": "Cover #32818",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32819",
+        "name": "Some of Us Looking to the Stars",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32821",
+        "name": "Cover #32821",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32822",
+        "name": "Where No External Has Gone Before",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32824",
+        "name": "Cover #32824",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32825",
+        "name": "To the Limits of Infinity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32827",
+        "name": "Cover #32827",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32828",
+        "name": "The Maze",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38159",
+        "name": "The Proudstar Brothers--Together Again For The First Time",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38160",
+        "name": "Brothers Proudstar",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38161",
+        "name": "Cover #38161",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38162",
+        "name": "A Force To Be Reckoned With",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38163",
+        "name": "Cable Guide: Deadpool",
+        "type": "profile"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009724/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+        "name": "Fatal Attractions"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "name": "Messiah CompleX"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/298",
+        "name": "Messiah War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/279",
+        "name": "X-Men: Second Coming"
+      }
+    ],
+    "returned": 7
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/characters/1009724/x-force?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/X-Force?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1009724/x-force?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}

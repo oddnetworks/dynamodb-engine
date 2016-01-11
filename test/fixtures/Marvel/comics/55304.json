@@ -1,0 +1,122 @@
+{
+  "id": 55304,
+  "digitalId": 0,
+  "title": "Amazing Spider-Man (2015) #6",
+  "issueNumber": 6,
+  "variantDescription": "",
+  "description": "One of Spider-Man’s most terrifying villains, MISTER NEGATIVE, has followed him to Shanghai. In Mister Negative’s service are two beloved Marvel heroes. Wait, TWO HEROES?! What is Mister Negative’s plan and how did he convince two fan-favorite heroes to join him? Pick up this issue to find out!",
+  "modified": "2015-12-28T17:23:31-0500",
+  "isbn": "",
+  "upc": "75960608297100611",
+  "diamondCode": "NOV150841",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "One of Spider-Man’s most terrifying villains, MISTER NEGATIVE, has followed him to Shanghai. In Mister Negative’s service are two beloved Marvel heroes. Wait, TWO HEROES?! What is Mister Negative’s plan and how did he convince two fan-favorite heroes to join him? Pick up this issue to find out!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55304",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55304/amazing_spider-man_2015_6?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Amazing-Spider-Man-6/digital-comic/40790?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20432",
+    "name": "Amazing Spider-Man (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-06T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-21T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5681b53b8da0d",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5681b53b8da0d",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/567aeabee4fa5",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55304/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11798",
+        "name": "Matteo Buffagni",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+        "name": "Alex Ross",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55304/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55304/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121651",
+        "name": "cover from The Amazing Spider-Man (2015) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121652",
+        "name": "story from The Amazing Spider-Man (2015) #6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55304/events",
+    "items": [],
+    "returned": 0
+  }
+}

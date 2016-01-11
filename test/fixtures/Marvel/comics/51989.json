@@ -1,0 +1,134 @@
+{
+  "id": 51989,
+  "digitalId": 37703,
+  "title": "Inhuman Special (2015) #1",
+  "issueNumber": 1,
+  "variantDescription": "",
+  "description": "INHUMAN ERROR CONTINUES! The story linking AMAZING SPIDER-MAN, INHUMAN and ALL-NEW CAPTAIN AMERICA hits a fever pitch as a character who's been around for more than 75 years returns to threaten the Marvel Universe. You haven't seen all the effects of the Terrigen Cloud yet and this one is about to destroy New York City! ",
+  "modified": "2015-04-20T11:52:25-0400",
+  "isbn": "",
+  "upc": "75960608250600111",
+  "diamondCode": "FEB150673",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 40,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "INHUMAN ERROR CONTINUES! The story linking AMAZING SPIDER-MAN, INHUMAN and ALL-NEW CAPTAIN AMERICA hits a fever pitch as a character who's been around for more than 75 years returns to threaten the Marvel Universe. You haven't seen all the effects of the Terrigen Cloud yet and this one is about to destroy New York City! "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51989",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51989/inhuman_special_2015_1?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Inhuman-Special-1/digital-comic/37703?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "reader",
+      "url": "http://marvel.com/digitalcomics/view.htm?iid=37703&utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19472",
+    "name": "Inhuman Special (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-04-22T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-04-08T00:00:00-0400"
+    },
+    {
+      "type": "unlimitedDate",
+      "date": "2015-10-19T00:00:00-0400"
+    },
+    {
+      "type": "digitalPurchaseDate",
+      "date": "2015-04-17T11:46:33-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 4.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/55351fd809716",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/55351fd809716",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/5485f0c6ab8c3",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51989/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12472",
+        "name": "Jamal Campbell",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12503",
+        "name": "Ryan Lee",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12438",
+        "name": "Jeff Loveness",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51989/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51989/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115555",
+        "name": "cover from Inhuman Special (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115556",
+        "name": "story from Inhuman Special (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51989/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": 51526,
+  "digitalId": 0,
+  "title": "Big Thunder Mountain Railroad (2015) #5",
+  "issueNumber": 5,
+  "variantDescription": "",
+  "description": "BIG THUNDER...OFF THE RAILS!\n- The spirit of Big Thunder Mountain takes our heroes on their wildest ride yet!\n- But will they all survive it unscathed?\n- Mysterious mountain spirits, runaway mine trains, and a fortune in gold at stake-it's all been leading to this!\n",
+  "modified": "2015-07-30T09:55:03-0400",
+  "isbn": "",
+  "upc": "75960608176900511",
+  "diamondCode": "MAY150796",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "BIG THUNDER...OFF THE RAILS!\n- The spirit of Big Thunder Mountain takes our heroes on their wildest ride yet!\n- But will they all survive it unscathed?\n- Mysterious mountain spirits, runaway mine trains, and a fortune in gold at stake-it's all been leading to this!\n"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51526",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/51526/big_thunder_mountain_railroad_2015_5?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Big-Thunder-Mountain-Railroad-5/digital-comic/39385?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19335",
+    "name": "Big Thunder Mountain Railroad (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-08-05T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-07-22T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/55b29d0bb9d66",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/55b29d0bb9d66",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/55a7b15690e28",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51526/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9031",
+        "name": "Marcio Takara",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12491",
+        "name": "Tigh Walker",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51526/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51526/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114629",
+        "name": "cover from Big Thunder Mountain Railroad (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114630",
+        "name": "story from Big Thunder Mountain Railroad (2015) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51526/events",
+    "items": [],
+    "returned": 0
+  }
+}

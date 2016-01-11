@@ -1,0 +1,134 @@
+{
+  "id": 51562,
+  "digitalId": 0,
+  "title": "All-New Captain America: Fear Him (Trade Paperback)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "A hungry villain has returned to feed on the city's fear! It's up to the all-new Captain America and Nomad to curb the Scarecrow's appetite - a task that might be easier if the dysfunctional duo weren't always at each other's throats! While the Scarecrow and his army of terror crows do their worst, Cap and Nomad find themselves separated, one step behind the villain's fearsome plans. But when the Scarecrow's terror pheromone takes Captain America's mind, it's Nomad's last stand! What does it take to scare a man who grew up in a dimension of boogiemen? And can he bring Cap back to his senses before his mind is lost to fear forever? Plus: classic tales of terror starring the Scarecrow and Sam Wilson! Collecting ALL-NEW CAPTAIN AMERICA: FEAR HIM #1-4, CAPTAIN AMERICA (1968) #280 and AVENGERS (1998) #64. ",
+  "modified": "2015-06-11T16:31:10-0400",
+  "isbn": "978-0-7851-9258-9",
+  "upc": "",
+  "diamondCode": "MAR150792",
+  "ean": "9780785 192589 51799",
+  "issn": "",
+  "format": "Trade Paperback",
+  "pageCount": 152,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "A hungry villain has returned to feed on the city's fear! It's up to the all-new Captain America and Nomad to curb the Scarecrow's appetite - a task that might be easier if the dysfunctional duo weren't always at each other's throats! While the Scarecrow and his army of terror crows do their worst, Cap and Nomad find themselves separated, one step behind the villain's fearsome plans. But when the Scarecrow's terror pheromone takes Captain America's mind, it's Nomad's last stand! What does it take to scare a man who grew up in a dimension of boogiemen? And can he bring Cap back to his senses before his mind is lost to fear forever? Plus: classic tales of terror starring the Scarecrow and Sam Wilson! Collecting ALL-NEW CAPTAIN AMERICA: FEAR HIM #1-4, CAPTAIN AMERICA (1968) #280 and AVENGERS (1998) #64. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51562",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51562/all-new_captain_america_fear_him_trade_paperback?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19344",
+    "name": "All-New Captain America: Fear Him (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-17T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-06-02T00:00:00-0400"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 17.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/5579ee8d66aba",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/10/5579ee8d66aba",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51562/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+        "name": "J. M. DeMatteis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11901",
+        "name": "Dennis Hopeless",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/181",
+        "name": "Geoff Johns",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12480",
+        "name": "Szymon Kudranski",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1255",
+        "name": "Ivan Reis",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3447",
+        "name": "Michael Zeck",
+        "role": "artist"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51562/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51562/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114701",
+        "name": "cover from Captain America Infinite Comic (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114702",
+        "name": "story from Captain America Infinite Comic (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51562/events",
+    "items": [],
+    "returned": 0
+  }
+}

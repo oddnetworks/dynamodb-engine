@@ -1,0 +1,126 @@
+{
+  "id": 55484,
+  "digitalId": 0,
+  "title": "All-New Hawkeye (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "Caught in the Crosshairs of time! Old-man Clint and an aged Kate have finally tracked down PROJECT COMMUNION. But even with help from two of Kate’s Young Avengers teammates, liberating the FROG KIDS will prove more difficult than the sharpshooters ever imagined. Meanwhile, in the present, Clint finds himself estranged from Kate, and pays a visit to another Hawkeye--his big brother Barney!",
+  "modified": "2015-12-28T15:37:22-0500",
+  "isbn": "",
+  "upc": "75960608304600311",
+  "diamondCode": "NOV150876",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Caught in the Crosshairs of time! Old-man Clint and an aged Kate have finally tracked down PROJECT COMMUNION. But even with help from two of Kate’s Young Avengers teammates, liberating the FROG KIDS will prove more difficult than the sharpshooters ever imagined. Meanwhile, in the present, Clint finds himself estranged from Kate, and pays a visit to another Hawkeye--his big brother Barney!"
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/55484",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/55484/all-new_hawkeye_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/All-New-Hawkeye-3/digital-comic/40845?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20468",
+    "name": "All-New Hawkeye (2015 - Present)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2016-01-13T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-12-28T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/56819dc968d11",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/569040b06026c",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/03/569020f36255a",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/56819dc968d11",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55484/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11841",
+        "name": "Sana Amanat",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11531",
+        "name": "Ramon Perez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55484/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55484/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122011",
+        "name": "cover from Hawkeye (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122012",
+        "name": "story from Hawkeye (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/55484/events",
+    "items": [],
+    "returned": 0
+  }
+}

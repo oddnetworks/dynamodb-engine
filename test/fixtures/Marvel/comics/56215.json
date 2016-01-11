@@ -1,0 +1,126 @@
+{
+  "id": 56215,
+  "digitalId": 0,
+  "title": "Uncanny Avengers (2015) #3",
+  "issueNumber": 3,
+  "variantDescription": "",
+  "description": "The Avengers close in on the new Inhuman that’s destroying Boston. The Torch wishes he paid better attention in science class, and an Avenger has a secret that may undo the team before it begins! Plus -- the surprising final member of this series makes a grand and bloody entrance.",
+  "modified": "2015-12-07T14:08:45-0500",
+  "isbn": "",
+  "upc": "75960608341100311",
+  "diamondCode": "OCT150881",
+  "ean": "",
+  "issn": "",
+  "format": "Comic",
+  "pageCount": 32,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "The Avengers close in on the new Inhuman that’s destroying Boston. The Torch wishes he paid better attention in science class, and an Avenger has a secret that may undo the team before it begins! Plus -- the surprising final member of this series makes a grand and bloody entrance."
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/56215",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/issue/56215/uncanny_avengers_2015_3?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "purchase",
+      "url": "http://comicstore.marvel.com/Uncanny-Avengers-3/digital-comic/40666?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/20621",
+    "name": "Uncanny Avengers (2015 - Present)"
+  },
+  "variants": [
+    {
+      "resourceURI": "http://gateway.marvel.com/v1/public/comics/58111",
+      "name": "Uncanny Avengers (2015) #3 (Portacio Marvel 92 Variant)"
+    }
+  ],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-12-09T00:00:00-0500"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-11-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 3.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/564ceba27ca77",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/564ceba27ca77",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/56439e81eae70",
+      "extension": "jpg"
+    },
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/5640c3f55b19f",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56215/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+        "name": "Ryan Stegman",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56215/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56215/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123393",
+        "name": "cover from Uncanny Avengers (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123394",
+        "name": "story from Uncanny Avengers (2015) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/56215/events",
+    "items": [],
+    "returned": 0
+  }
+}

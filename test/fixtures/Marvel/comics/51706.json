@@ -1,0 +1,124 @@
+{
+  "id": 51706,
+  "digitalId": 0,
+  "title": "Deadpool by Posehn & Duggan (Hardcover)",
+  "issueNumber": 0,
+  "variantDescription": "",
+  "description": "Gerry Duggan and Brian Posehn's hilarious, nonstop reinvention of the Merc With a Mouth continues! First, it's a lost adventure from the groovy seventies as Deadpool hits the streets with Power Man and Iron Fist! Then, when Deadpool's Weapon X past returns to haunt him, he recruits fellow Weapon Plus \"alumni\" Wolverine and Captain America! The reluctant team learns that Deadpool's past has been weaponized, but can they unite to take down this new threat? And when S.H.I.E.L.D. stiffs Deadpool on a bill, he declares a one-man war on the agency and faces down Agent Phil Coulson on the Helicarrier! Plus: Take another trip back to the past as the Deadpool wreaks havoc on a cosmic level! Collecting DEADPOOL (2012) #13-25. ",
+  "modified": "2015-06-08T12:59:57-0400",
+  "isbn": "978-0-7851-9792-8",
+  "upc": "",
+  "diamondCode": "JAN150886",
+  "ean": "9780785 197928 53499",
+  "issn": "",
+  "format": "Hardcover",
+  "pageCount": 296,
+  "textObjects": [
+    {
+      "type": "issue_solicit_text",
+      "language": "en-us",
+      "text": "Gerry Duggan and Brian Posehn's hilarious, nonstop reinvention of the Merc With a Mouth continues! First, it's a lost adventure from the groovy seventies as Deadpool hits the streets with Power Man and Iron Fist! Then, when Deadpool's Weapon X past returns to haunt him, he recruits fellow Weapon Plus \"alumni\" Wolverine and Captain America! The reluctant team learns that Deadpool's past has been weaponized, but can they unite to take down this new threat? And when S.H.I.E.L.D. stiffs Deadpool on a bill, he declares a one-man war on the agency and faces down Agent Phil Coulson on the Helicarrier! Plus: Take another trip back to the past as the Deadpool wreaks havoc on a cosmic level! Collecting DEADPOOL (2012) #13-25. "
+    }
+  ],
+  "resourceURI": "http://gateway.marvel.com/v1/public/comics/51706",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/collection/51706/deadpool_by_posehn_duggan_hardcover?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "series": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/19384",
+    "name": "Deadpool by Posehn & Duggan (2015)"
+  },
+  "variants": [],
+  "collections": [],
+  "collectedIssues": [],
+  "dates": [
+    {
+      "type": "onsaleDate",
+      "date": "2015-06-10T00:00:00-0400"
+    },
+    {
+      "type": "focDate",
+      "date": "2015-02-23T00:00:00-0500"
+    }
+  ],
+  "prices": [
+    {
+      "type": "printPrice",
+      "price": 34.99
+    }
+  ],
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5575c8a3ef0e6",
+    "extension": "jpg"
+  },
+  "images": [
+    {
+      "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5575c8a3ef0e6",
+      "extension": "jpg"
+    }
+  ],
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51706/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11801",
+        "name": "Brian Posehn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/942",
+        "name": "Mike Hawthorne",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+        "name": "Scott Koblish",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+        "name": "Declan Shalvey",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51706/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51706/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114989",
+        "name": "cover from Deadpool by Posehn & Duggan (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114990",
+        "name": "story from Deadpool by Posehn & Duggan (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/comics/51706/events",
+    "items": [],
+    "returned": 0
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "id": 1011112,
+  "name": "The Twelve",
+  "description": "",
+  "modified": "2012-02-02T14:22:33-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4ce5a4acdfe22",
+    "extension": "jpg"
+  },
+  "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011112",
+  "comics": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011112/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17383",
+        "name": "The Twelve (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22055",
+        "name": "The Twelve (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17626",
+        "name": "The Twelve (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20669",
+        "name": "The Twelve (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20864",
+        "name": "The Twelve (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21000",
+        "name": "The Twelve (2007) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21210",
+        "name": "The Twelve (2007) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21354",
+        "name": "The Twelve (2007) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21734",
+        "name": "The Twelve (2007) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22291",
+        "name": "The Twelve (2007) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37417",
+        "name": "The Twelve (2010) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37414",
+        "name": "The Twelve (2010) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37415",
+        "name": "The Twelve (2010) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37416",
+        "name": "The Twelve (2010) #12"
+      }
+    ],
+    "returned": 14
+  },
+  "series": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011112/series",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13444",
+        "name": "The Twelve (2010 - 2012)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3194",
+        "name": "The Twelve (2007 - 2008)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011112/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36440",
+        "name": "Interior #36440",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36882",
+        "name": "1 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44321",
+        "name": "2 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44677",
+        "name": "3 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45529",
+        "name": "4 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46854",
+        "name": "5 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47162",
+        "name": "6 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47779",
+        "name": "7 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48648",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49088",
+        "name": "8 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49875",
+        "name": "9 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58641",
+        "name": "Interior #58641",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58643",
+        "name": "Interior #58643",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58645",
+        "name": "Interior #58645",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82828",
+        "name": "Interior #82828",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82830",
+        "name": "Interior #82830",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82832",
+        "name": "Interior #82832",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82834",
+        "name": "Interior #82834",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 18
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011112/events",
+    "items": [],
+    "returned": 0
+  },
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/characters/2348/the_twelve?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "wiki",
+      "url": "http://marvel.com/universe/Twelve?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    },
+    {
+      "type": "comiclink",
+      "url": "http://marvel.com/comics/characters/1011112/the_twelve?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ]
+}
