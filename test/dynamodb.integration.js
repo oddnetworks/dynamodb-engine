@@ -1,6 +1,8 @@
 'use strict';
+const Promise = require('bluebird');
 const test = require('tape');
 const debug = require('debug')('integration');
+const FilePath = require('filepath');
 
 const Database = require('../lib/database');
 const errors = require('../lib/errors');
@@ -132,6 +134,90 @@ test('create entities table with 1 global index', function (t) {
 		})
 		.catch(die)
 		.then(t.end);
+});
+
+test('populate entities table', function (t) {
+	const table = Database.create(DYNAMODB_OPTIONS).useTable(ENTITIES_TABLE);
+
+	let characters = FilePath
+		.create(__dirname)
+		.append('fixtures', 'Marvel', 'characters')
+		.list();
+
+	let comics = FilePath
+		.create(__dirname)
+		.append('fixtures', 'Marvel', 'comics')
+		.list();
+
+	const files = characters.concat(comics);
+
+	function postDocument(rec) {
+		// Throttle requests on ThroughputExceededError
+		return table.put(rec).catch(errors.ThroughputExceededError, function () {
+			debug('ThroughputExceededError');
+			return Promise.delay(2000).then(function () {
+				return postDocument(rec);
+			});
+		});
+	}
+
+	function mapComic(doc) {
+		return {
+			id: doc.id.toString(),
+			type: 'Comic',
+			title: doc.title || 'EMPTY',
+			description: doc.description || 'EMPTY',
+			modified: doc.modified || 'EMPTY',
+			issueNumber: parseInt(doc.issueNumber, 10) || 0,
+			upc: doc.upc || 'EMPTY',
+			pageCount: parseInt(doc.pageCount, 10) || 10
+		};
+	}
+
+	function mapCharacter(doc) {
+		return {
+			id: doc.id.toString(),
+			type: 'Character',
+			name: doc.name || 'EMPTY',
+			description: doc.description || 'EMPTY',
+			modified: doc.modified || 'EMPTY',
+			thumbnail: doc.thumbnail.path + '.' + doc.thumbnail.extension,
+			comicsAvailable: doc.comics.items.length,
+			comicsUri: doc.comics.collectionURI,
+			comics: doc.comics.items.map(function (item) {
+				var parts = item.resourceURI.split('/');
+				var id = parts.pop();
+				if (id) {
+					return id;
+				}
+				return parts.pop();
+			})
+		};
+	}
+
+	function mapDocument(doc) {
+		if (doc.hasOwnProperty('isbn') || doc.hasOwnProperty('upc')) {
+			return mapComic(doc);
+		}
+		return mapCharacter(doc);
+	}
+
+	Promise.all(files.map(function (file) {
+		return file
+			.read()
+			.then(function parseJSON(text) {
+				return JSON.parse(text);
+			})
+			.then(mapDocument)
+			.then(postDocument);
+	}))
+	.then(function (items) {
+		t.ok(items.length > 2000, 'items.length > 2000');
+	})
+	.catch(function (err) {
+		debug(err);
+	})
+	.then(t.end);
 });
 
 test('delete all tables', function (t) {
