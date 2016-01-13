@@ -109,13 +109,13 @@ test('create entities table with 1 global index', function (t) {
 			},
 			keys: {
 				hash: 'id',
-				range: 'type'
+				range: 'modified'
 			},
 			globalIndexes: [
 				{
-					indexName: ENTITIES_TABLE + '_modified',
+					indexName: ENTITIES_TABLE + '_type',
 					keys: {
-						hash: 'id',
+						hash: 'type',
 						range: 'modified'
 					}
 				}
