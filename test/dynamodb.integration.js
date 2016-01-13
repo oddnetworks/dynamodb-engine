@@ -202,20 +202,21 @@ test('populate entities table', function (t) {
 		return mapCharacter(doc);
 	}
 
-	Promise.all(files.map(function (file) {
-		return file
-			.read()
+	// Read, map, and post documents serially.
+	files.reduce(function (promise, file) {
+		return promise
+			.then(function () {
+				return file.read();
+			})
 			.then(function parseJSON(text) {
 				return JSON.parse(text);
 			})
 			.then(mapDocument)
 			.then(postDocument);
-	}))
-	.then(function (items) {
-		t.ok(items.length > 2000, 'items.length > 2000');
-	})
+	}, Promise.resolve(null))
 	.catch(function (err) {
 		debug(err);
+		t.error(err);
 	})
 	.then(t.end);
 });
