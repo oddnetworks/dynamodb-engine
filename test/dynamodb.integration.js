@@ -66,7 +66,7 @@ function die(err) {
 // 	debugger;
 // });
 
-test('sanity check: test table does not exist', function (t) {
+test.skip('sanity check: test table does not exist', function (t) {
 	Database.create(DYNAMODB_OPTIONS)
 		.listTables()
 		.then(function (res) {
@@ -88,7 +88,7 @@ test('sanity check: test table does not exist', function (t) {
 		.then(t.end);
 });
 
-test('get item from table which does not exist', function (t) {
+test.skip('get item from table which does not exist', function (t) {
 	Database.create(DYNAMODB_OPTIONS).useTable(ENTITIES_TABLE)
 		.get({id: 'foo'})
 		.catch(errors.NonExistentTableError, function (err) {
@@ -98,7 +98,7 @@ test('get item from table which does not exist', function (t) {
 		.then(t.end);
 });
 
-test('create entities table with 1 global index', function (t) {
+test.skip('create entities table with 1 global index', function (t) {
 	Database.create(DYNAMODB_OPTIONS)
 		.createTable({
 			tableName: ENTITIES_TABLE,
@@ -130,13 +130,51 @@ test('create entities table with 1 global index', function (t) {
 
 			t.equal(gsi.IndexStatus, 'ACTIVE');
 			t.equal(gsi.ItemCount, 0);
-			t.equal(gsi.IndexArn.split('/').pop(), ENTITIES_TABLE + '_modified');
+			t.equal(gsi.IndexArn.split('/').pop(), ENTITIES_TABLE + '_type');
 		})
 		.catch(die)
 		.then(t.end);
 });
 
-test('populate entities table', function (t) {
+test.skip('create relationships table with 1 global index', function (t) {
+	Database.create(DYNAMODB_OPTIONS)
+		.createTable({
+			tableName: RELATIONSHIPS_TABLE,
+			attributes: {
+				subject: 'String',
+				relation: 'String',
+				target: 'String'
+			},
+			keys: {
+				hash: 'target',
+				range: 'subject'
+			},
+			globalIndexes: [
+				{
+					indexName: RELATIONSHIPS_TABLE + '_relation',
+					keys: {
+						hash: 'subject',
+						range: 'relation'
+					}
+				},
+				{
+					indexName: RELATIONSHIPS_TABLE + '_reverse_relation',
+					keys: {
+						hash: 'target',
+						range: 'relation'
+					}
+				}
+			]
+		})
+		.then(function (res) {
+			const gsi = res.GlobalSecondaryIndexes;
+			t.equal(gsi.length, 2);
+		})
+		.catch(die)
+		.then(t.end);
+});
+
+test.skip('populate entities table', function (t) {
 	const table = Database.create(DYNAMODB_OPTIONS).useTable(ENTITIES_TABLE);
 
 	let characters = FilePath
@@ -153,7 +191,11 @@ test('populate entities table', function (t) {
 
 	function postDocument(rec) {
 		// Throttle requests on ThroughputExceededError
-		return table.put(rec).catch(errors.ThroughputExceededError, function () {
+		var promise = table.put(rec, {
+			condition: 'attribute_not_exists(id)'
+		});
+
+		return promise.catch(errors.ThroughputExceededError, function () {
 			debug('ThroughputExceededError');
 			return Promise.delay(2000).then(function () {
 				return postDocument(rec);
@@ -218,10 +260,12 @@ test('populate entities table', function (t) {
 		debug(err);
 		t.error(err);
 	})
-	.then(t.end);
+	.then(function () {
+		t.end();
+	});
 });
 
-test('delete all tables', function (t) {
+test.skip('delete all tables', function (t) {
 	Database.create(DYNAMODB_OPTIONS)
 		.deleteTable({tableName: ENTITIES_TABLE})
 		.then(function (res) {
