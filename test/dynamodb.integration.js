@@ -5,6 +5,7 @@ const debug = require('debug')('integration');
 const FilePath = require('filepath');
 
 const Database = require('../lib/database');
+const Table = require('../lib/table');
 const errors = require('../lib/errors');
 const constants = require('../lib/constants');
 
@@ -263,6 +264,32 @@ test.skip('populate entities table', function (t) {
 	.then(function () {
 		t.end();
 	});
+});
+
+test('populate relationships table', function (t) {
+	const database = Database.create(DYNAMODB_OPTIONS);
+	const entitiesTable = Table.create({
+		tableName: ENTITIES_TABLE,
+		dynamodb: database.dynamodb,
+		hashkey: 'type',
+		rangekey: 'modified'
+	});
+	const query = entitiesTable.query({
+		indexName: ENTITIES_TABLE + '_type'
+	});
+
+	query
+		.hashEqual('Comic')
+		.fetch()
+		.then(function (res) {
+			debugger;
+		})
+		.catch(function (err) {
+			debugger;
+		})
+		.then(function () {
+			t.end();
+		});
 });
 
 test.skip('delete all tables', function (t) {
