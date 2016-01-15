@@ -17,9 +17,9 @@ That will set DynamoDB up to write database files to the project `data/` directo
 
 Before you can run the tests, you'll need to export these environment variables, even if you're running locally:
 
-- ACCESS_KEY_ID - Your AWS access key ID.
-- SECRET_ACCESS_KEY - Your AWS secret access key.
-- REGION - The AWS region you want to use (http://docs.aws.amazon.com/general/latest/gr/rande.html#ddb_region).
+- `ACCESS_KEY_ID` - Your AWS access key ID.
+- `SECRET_ACCESS_KEY` - Your AWS secret access key.
+- `REGION` - The AWS region you want to use (http://docs.aws.amazon.com/general/latest/gr/rande.html#ddb_region).
 
 Then run
 
