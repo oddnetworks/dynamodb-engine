@@ -281,15 +281,10 @@ test('populate relationships table', function (t) {
 	query
 		.hashEqual('Comic')
 		.fetch()
-		.then(function (res) {
-			debugger;
-		})
-		.catch(function (err) {
-			debugger;
-		})
 		.then(function () {
-			t.end();
-		});
+		})
+		.catch(die)
+		.then(t.end);
 });
 
 test.skip('delete all tables', function (t) {
