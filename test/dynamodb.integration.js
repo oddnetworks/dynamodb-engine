@@ -81,7 +81,7 @@ function die(err) {
 // 	debugger;
 // });
 
-test('sanity check to make sure tables do not exist', function (t) {
+test.skip('sanity check to make sure tables do not exist', function (t) {
 	var tableNames = Object.keys(SCHEMA).map(function (key) {
 		return DB.dynamodb.table(key);
 	});
@@ -95,10 +95,22 @@ test('sanity check to make sure tables do not exist', function (t) {
 				t.equal(res.TableNames.indexOf(name), -1, `check table ${name}`);
 			});
 		})
-		.then(t.end)
-		.catch(die);
+		.catch(die)
+		.then(t.end);
 });
 
-test.skip('createRecord on table that does not exist', function (t) {
-	t.end();
+test('createRecord on table that does not exist', function (t) {
+	t.plan(2);
+
+	DB.createRecord({id: 'foo', type: 'Character'})
+		.then(function () {
+			t.fail('then() callback should not be called');
+			t.end();
+		})
+		.catch(DB.OperationalError, function (err) {
+			t.ok(/table for Character does not exist/.test(err.message));
+			t.ok(/migration([\s\w]+)required/.test(err.message));
+		})
+		.catch(die)
+		.then(t.end);
 });
