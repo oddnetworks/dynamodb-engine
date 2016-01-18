@@ -1,4 +1,5 @@
 'use strict';
+const Promise = require('bluebird');
 const test = require('tape');
 const debug = require('debug')('integration');
 const U = require('../lib/utils');
@@ -32,8 +33,8 @@ const SCHEMA = U.deepFreeze({
 		indexes: {
 			ByName: {
 				keys: {
-					hash: 'id',
-					range: 'name'
+					hash: {name: 'id', type: 'String'},
+					range: {name: 'name', type: 'String'}
 				}
 			}
 		}
@@ -42,8 +43,8 @@ const SCHEMA = U.deepFreeze({
 		indexes: {
 			ByTitle: {
 				keys: {
-					hash: 'id',
-					range: 'title'
+					hash: {name: 'id', type: 'String'},
+					range: {name: 'title', type: 'String'}
 				}
 			}
 		}
@@ -56,7 +57,7 @@ const DB = DynamoDBEngine.create({
 	region: REGION,
 	endpoint: ENDPOINT,
 	tablePrefix: 'integration_test'
-});
+}, SCHEMA);
 
 debug('Using ENDPOINT %s', ENDPOINT);
 
@@ -80,6 +81,23 @@ function die(err) {
 
 // 	debugger;
 // });
+
+test('remove leftover test tables if any', function (t) {
+	var tableNames = Object.keys(SCHEMA).map(function (key) {
+		return DB.dynamodb.table(key);
+	});
+	tableNames.push(DB.dynamodb.relationTable());
+
+	var promises = tableNames.map(function (tableName) {
+		return DB.dynamodb.deleteTable({TableName: tableName});
+	});
+
+	Promise.all(promises)
+		.then(function () {})
+		.catch(DB.NotFoundError, function () {})
+		.catch(die)
+		.then(t.end);
+});
 
 test('sanity check to make sure tables do not exist', function (t) {
 	var tableNames = Object.keys(SCHEMA).map(function (key) {
