@@ -196,3 +196,16 @@ test('removeRecord on table that does not exist', function (t) {
 		.catch(die)
 		.then(t.end);
 });
+
+test('migrateUp', function (t) {
+	t.plan(4);
+
+	DB.migrateUp()
+		.then(function (res) {
+			t.equal(res.length, 3);
+			res.forEach(function (table) {
+				t.equal(typeof table.TableArn, 'string');
+			});
+		})
+		.catch(die);
+});
