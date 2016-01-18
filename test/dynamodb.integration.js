@@ -197,7 +197,7 @@ test('removeRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test.skip('migrateUp', function (t) {
+test('migrateUp', function (t) {
 	t.plan(4);
 
 	DB.migrateUp()
