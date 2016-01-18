@@ -197,7 +197,7 @@ test('removeRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test('migrateUp', function (t) {
+test.skip('migrateUp', function (t) {
 	t.plan(4);
 
 	DB.migrateUp()
@@ -207,5 +207,50 @@ test('migrateUp', function (t) {
 				t.equal(typeof table.TableArn, 'string');
 			});
 		})
+		.catch(die);
+});
+
+test('add a new table', function (t) {
+	const thisSchema = U.extend(Object.create(null), {
+		Widget: {}
+	}, SCHEMA);
+
+	const thisDB = DynamoDBEngine.create({
+		accessKeyId: ACCESS_KEY_ID,
+		secretAccessKey: SECRET_ACCESS_KEY,
+		region: REGION,
+		endpoint: ENDPOINT,
+		tablePrefix: 'integration_test'
+	}, thisSchema);
+
+	var tableName = DB.dynamodb.table('Widget');
+
+	t.plan(6);
+
+	function sanityCheck() {
+		// Make sure the table does not already exist.
+		return thisDB.dynamodb.listTables()
+			.then(function (res) {
+				t.equal(res.TableNames.indexOf(tableName), -1, 'check for Widget table');
+			});
+	}
+
+	function migrateUp() {
+		return thisDB.migrateUp()
+			.then(function (res) {
+				t.equal(res.length, 4);
+				res.forEach(function (table) {
+					t.equal(typeof table.TableArn, 'string');
+				});
+			});
+	}
+
+	function removeTable() {
+		return thisDB.dynamodb.deleteTable({TableName: tableName});
+	}
+
+	sanityCheck()
+		.then(migrateUp)
+		.then(removeTable)
 		.catch(die);
 });
