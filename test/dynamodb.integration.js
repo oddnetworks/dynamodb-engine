@@ -64,7 +64,7 @@ debug('Using ENDPOINT %s', ENDPOINT);
 
 function die(err) {
 	console.log('Fatal error:');
-	console.log(err);
+	console.log(err.stack || err);
 	process.exit(1);
 }
 
@@ -76,10 +76,7 @@ function createSeries(data) {
 		description: data.description || 'EMPTY',
 		resourceURI: data.resourceURI || 'EMPTY',
 		startYear: data.startYear || 0,
-		endYear: data.endYear || 0,
-		characters: (data.characters.items || []).map(function (item) {
-			return item.resourceURI || 'EMPTY';
-		})
+		endYear: data.endYear || 0
 	};
 }
 
@@ -91,7 +88,10 @@ function createCharacter(data) {
 		name: data.name || 'EMPTY',
 		description: data.description || 'EMPTY',
 		resourceURI: data.resourceURI || 'EMPTY',
-		thumbnail: thumb ? (thumb.path + '.' + thumb.extension) : 'EMPTY'
+		thumbnail: thumb ? (thumb.path + '.' + thumb.extension) : 'EMPTY',
+		series: (data.series.items || []).map(function (item) {
+			return item.resourceURI ? item.resourceURI.split('/').pop() : 'EMPTY';
+		})
 	};
 }
 
@@ -238,8 +238,10 @@ test.skip('migrateUp', function (t) {
 		.catch(die);
 });
 
-test('populate series data', function (t) {
-	var dir = FilePath.create(__dirname).append('fixtures', 'Marvel', 'series');
+test.skip('populate series data', function (t) {
+	var dir = FilePath
+		.create(__dirname)
+		.append('fixtures', 'Marvel', 'series');
 
 	function processDocument(file) {
 		return file.read()
@@ -259,6 +261,56 @@ test('populate series data', function (t) {
 		.then(function () {
 			t.end();
 		});
+});
+
+test.skip('populate character data', function (t) {
+	var dir = FilePath
+		.create(__dirname)
+		.append('fixtures', 'Marvel', 'characters');
+
+	function createRelationships(character) {
+		var promises = character.series.map(function (seriesId) {
+			return DB.getRecord('Series', seriesId)
+				.then(function createRelationship(series) {
+					return DB.createRelation(series.id, character);
+				})
+				.catch(DB.NotFoundError, function () {});
+		});
+
+		return Promise.all(promises).then(U.constant(character));
+	}
+
+	function processDocument(file) {
+		return file.read()
+			.then(JSON.parse)
+			.then(createCharacter)
+			.then(DB.updateRecord.bind(DB))
+			.then(createRelationships);
+	}
+
+	dir
+		.list()
+		.reduce(function (promise, file) {
+			return promise.then(function () {
+				return processDocument(file);
+			});
+		}, Promise.resolve(null))
+		.catch(die)
+		.then(function () {
+			t.end();
+		});
+});
+
+test('get related items', function (t) {
+	t.plan(2);
+
+	DB.getRelations('10051', 'Character')
+		.catch(die)
+		.then(function (res) {
+			t.notEqual(res.indexOf('1011360'), -1);
+			t.notEqual(res.indexOf('1009608'), -1);
+		})
+		.then(t.end);
 });
 
 test.skip('add a new table', function (t) {
