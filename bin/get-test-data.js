@@ -161,6 +161,8 @@ function makeRequest(args) {
 }
 
 function getItems(datatype) {
+	console.log('getting %s', datatype);
+
 	let readStream = new ItemStream({
 		path: '/v1/public/' + datatype
 	});
@@ -175,16 +177,16 @@ function getItems(datatype) {
 	});
 	writeStream.on('finish', function () {
 		process.stdout.write('\n');
-		console.log('%s fixture data is written in %s', datatype, writeStream.directory);
+		console.log('%s data written in %s', datatype, writeStream.directory);
 	});
 
 	// All we need to do is hook our streams together with .pipe() and
 	// everything starts running on its own.
-	readStream.pipe(writeStream);
+	return readStream.pipe(writeStream);
 }
 
 // Execute the script if we're not loaded as a module.
 if (require.main === module) {
 	getItems('characters');
-	getItems('comics');
+	getItems('series');
 }
