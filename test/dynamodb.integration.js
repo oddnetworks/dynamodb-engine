@@ -255,9 +255,6 @@ test('populate series data', function (t) {
 				return processDocument(file);
 			});
 		}, Promise.resolve(null))
-		.catch(function (err) {
-			debugger;
-		})
 		.catch(die)
 		.then(function () {
 			t.end();
