@@ -1,0 +1,433 @@
+{
+  "id": 3754,
+  "title": "X-Men Legacy (2008 - 2012)",
+  "description": "Once a troubled youth herself, Rogue has come full circle and now trains the newest generation of X-Men to be heroes. Catch all your favorite mutants, old and new, in this unique series!",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3754",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3754/x-men_legacy_2008_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2012,
+  "rating": "T+",
+  "type": "ongoing",
+  "modified": "2014-08-22T15:25:54-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/51311782d8f15",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 88,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3754/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11562",
+        "name": "Jean-Francois Beaulieu",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/520",
+        "name": "Rainier Beredo",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+        "name": "Daniel Acuna",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4840",
+        "name": "Joy Ang",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9043",
+        "name": "Mariah Benes",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+        "name": "Alan Davis",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8208",
+        "name": "Chris Allo",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9799",
+        "name": "David Baldeon",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/512",
+        "name": "Lee Bermejo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1279",
+        "name": "Jon Bogdanove",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1122",
+        "name": "Philippe Briones",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+        "name": "Marco Checchetto",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11614",
+        "name": "Rafa Lopez Blanco",
+        "role": "Penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9224",
+        "name": "Paul Davidson",
+        "role": "inker"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3754/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+        "name": "Emma Frost"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009295",
+        "name": "Exodus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+        "name": "Gambit"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+        "name": "Havok"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+        "name": "Jubilee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009399",
+        "name": "Legion"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+        "name": "Magneto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+        "name": "Polaris"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009430",
+        "name": "Rachel Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+        "name": "Rogue"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+        "name": "Storm"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 18
+  },
+  "stories": {
+    "available": 206,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3754/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44239",
+        "name": "1 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44240",
+        "name": "1 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44590",
+        "name": "2 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44591",
+        "name": "2 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45165",
+        "name": "3 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45166",
+        "name": "3 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46758",
+        "name": "4 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46759",
+        "name": "4 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46760",
+        "name": "5 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46761",
+        "name": "5 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47083",
+        "name": "1 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47084",
+        "name": "1 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47395",
+        "name": "1 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47396",
+        "name": "1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47703",
+        "name": "2 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47704",
+        "name": "2 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48166",
+        "name": "3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48167",
+        "name": "3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49012",
+        "name": "4 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49013",
+        "name": "4 of 4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 96,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3754/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20632",
+        "name": "X-Men Legacy (2008) #208"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20819",
+        "name": "X-Men Legacy (2008) #209"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20957",
+        "name": "X-Men Legacy (2008) #210"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21166",
+        "name": "X-Men Legacy (2008) #211"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21167",
+        "name": "X-Men Legacy (2008) #212"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21317",
+        "name": "X-Men Legacy (2008) #213"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21495",
+        "name": "X-Men Legacy (2008) #214"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21698",
+        "name": "X-Men Legacy (2008) #215"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21923",
+        "name": "X-Men Legacy (2008) #216"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22254",
+        "name": "X-Men Legacy (2008) #217"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22462",
+        "name": "X-Men Legacy (2008) #218"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22857",
+        "name": "X-Men Legacy (2008) #219"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23073",
+        "name": "X-Men Legacy (2008) #220"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23563",
+        "name": "X-Men Legacy (2008) #221"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23734",
+        "name": "X-Men Legacy (2008) #222"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23917",
+        "name": "X-Men Legacy (2008) #223"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23918",
+        "name": "X-Men Legacy (2008) #223"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27341",
+        "name": "X-Men Legacy (2008) #223 (WOLVERINE ART VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24129",
+        "name": "X-Men Legacy (2008) #224"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27342",
+        "name": "X-Men Legacy (2008) #225"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3754/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/303",
+        "name": "Age of X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+        "name": "Avengers VS X-Men"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+        "name": "X-Men: Regenesis"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/279",
+        "name": "X-Men: Second Coming"
+      }
+    ],
+    "returned": 5
+  },
+  "next": null,
+  "previous": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/403",
+    "name": "X-Men (2004 - 2007)"
+  }
+}

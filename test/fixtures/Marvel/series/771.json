@@ -1,0 +1,161 @@
+{
+  "id": 771,
+  "title": "Bullseye: Greatest Hits (2004 - 2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/771",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/771/bullseye_greatest_hits_2004_-_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2005,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/c0/4bb3cb1faa94e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/771/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+        "name": "Steve Dillon",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+        "name": "Avalon Studio",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+        "name": "Dean White",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+        "name": "Daniel Way",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/771/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/771/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3673",
+        "name": "3 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3674",
+        "name": "3 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3675",
+        "name": "The untold story of Daredevil’s ultimate nemesis is revealed at last!  And who thought being bad could be so much fun?  Featurin",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3676",
+        "name": "The untold story of Daredevil’s ultimate nemesis is revealed at last!  And who thought being bad could be so much fun?  Featurin",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3677",
+        "name": "PART 2 (OF 5) The untold story of Daredevil’s ultimate nemesis is revealed at last!  And who thought being bad could be so much ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3678",
+        "name": "PART 2 (OF 5) The untold story of Daredevil’s ultimate nemesis is revealed at last!  And who thought being bad could be so much ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3679",
+        "name": "4 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3680",
+        "name": "4 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3681",
+        "name": "5 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3682",
+        "name": "5 of 5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/771/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/791",
+        "name": "Bullseye: Greatest Hits (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/895",
+        "name": "Bullseye: Greatest Hits (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47",
+        "name": "Bullseye: Greatest Hits (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1444",
+        "name": "Bullseye: Greatest Hits (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1536",
+        "name": "Bullseye: Greatest Hits (2004) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/771/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

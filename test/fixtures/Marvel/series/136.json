@@ -1,0 +1,95 @@
+{
+  "id": 136,
+  "title": "Uncanny X-Men: Poptopia (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/136",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/136/uncanny_x-men_poptopia_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/70/4bc66887e55fe",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/136/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/159",
+        "name": "Joe Casey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+        "name": "Ian Churchill",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/569",
+        "name": "Sean Phillips",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3644",
+        "name": "Mel Rubi",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4501",
+        "name": "Ashley Wood",
+        "role": "penciller"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/136/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/136/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/137",
+        "name": "A wild evil mutant comes of age, celebrating with superhuman mayhem. And in London, the X-Men must stop Mr. Clean, a self-styled",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65214",
+        "name": "UNCANNY X-MEN: POPTOPIA TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/136/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1076",
+        "name": "Uncanny X-Men: Poptopia (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/136/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

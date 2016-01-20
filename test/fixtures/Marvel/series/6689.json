@@ -1,0 +1,374 @@
+{
+  "id": 6689,
+  "title": "X-Factor Annual (1986 - 1994)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6689",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6689/x-factor_annual_1986_-_1994?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1986,
+  "endYear": 1994,
+  "rating": "",
+  "type": "",
+  "modified": "2014-06-13T12:37:45-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb57efb25900",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 86,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6689/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3634",
+        "name": "Buzz",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7804",
+        "name": "Tom Artis",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3633",
+        "name": "Chris Batista",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1279",
+        "name": "Jon Bogdanove",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4541",
+        "name": "Mat Broome",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5815",
+        "name": "Steven Butler",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+        "name": "Ian Churchill",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6082",
+        "name": "Paris Cullins",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2707",
+        "name": "Jeff Albrecht",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2077",
+        "name": "Hilary Barta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1251",
+        "name": "Brett Breeding",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+        "name": "Pat Brosseau",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3632",
+        "name": "Lois Buhalis",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+        "name": "Janice Chiang",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+        "name": "Steve Buccellato",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+        "name": "Kelly Corvese",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 78,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6689/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+        "name": "Adam Warlock"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+        "name": "Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009164",
+        "name": "Avalanche"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+        "name": "Banshee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596",
+        "name": "Banshee (Theresa Rourke)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009184",
+        "name": "Black Bolt"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009199",
+        "name": "Blob"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010366",
+        "name": "Boom Boom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009216",
+        "name": "Caliban"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009251",
+        "name": "Crimson Dynamo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+        "name": "Crystal"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009265",
+        "name": "Dark Phoenix"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+        "name": "Domino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011213",
+        "name": "Feral"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 45,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6689/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51860",
+        "name": "Cover #51860",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51861",
+        "name": "Grand Design",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51862",
+        "name": "Cover #51862",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51863",
+        "name": "The Man in the Moon",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51864",
+        "name": "The Evolutionary War",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51865",
+        "name": "Unnatural Selection",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51866",
+        "name": "Jean Grey",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51867",
+        "name": "Unused Cover for X-Factor #8",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51868",
+        "name": "Unused Cover for X-Factor #16",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51869",
+        "name": "An X-Factor Blast From the Past !",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51870",
+        "name": "Changes !",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51871",
+        "name": "The Gift",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51872",
+        "name": "Atlantis Attacks Part 10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51873",
+        "name": "I Must Go Down To the Sea Again",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51874",
+        "name": "That I Be Bound In a Nutshell",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51875",
+        "name": "Inferno Aftermath",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51876",
+        "name": "Happy Summer Vacation",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51877",
+        "name": "Saga of the Serpent Crown Part 10: Emperor of Doom",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51878",
+        "name": "Days of Future Present Part Two",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51879",
+        "name": "Days of Future Present Part 2 [Actually Part 3]: Act of Faith",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6689/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23511",
+        "name": "X-Factor Annual (1986) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23512",
+        "name": "X-Factor Annual (1986) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23513",
+        "name": "X-Factor Annual (1986) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23514",
+        "name": "X-Factor Annual (1986) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23516",
+        "name": "X-Factor Annual (1986) #8"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6689/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/240",
+        "name": "Days of Future Present"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+        "name": "Evolutionary War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/32",
+        "name": "Kings of Pain"
+      }
+    ],
+    "returned": 4
+  },
+  "next": null,
+  "previous": null
+}

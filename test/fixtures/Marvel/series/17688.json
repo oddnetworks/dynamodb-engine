@@ -1,0 +1,120 @@
+{
+  "id": 17688,
+  "title": "Essential Wolverine (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17688",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17688/essential_wolverine_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "collection",
+  "modified": "2013-06-04T14:43:41-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17688/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+        "name": "Roger Cruz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+        "name": "Ron Garney",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2321",
+        "name": "Jeff Matsuda",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1411",
+        "name": "Mike S. Miller",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2507",
+        "name": "Cary Nord",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+        "name": "Todd Dezago",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/704",
+        "name": "Erik Larsen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4333",
+        "name": "Eric Stephenson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17688/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17688/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105496",
+        "name": "cover from Essential Wolverine (2013)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105497",
+        "name": "story from Essential Wolverine (2013)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17688/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46942",
+        "name": "Essential Wolverine (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17688/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

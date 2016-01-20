@@ -1,0 +1,105 @@
+{
+  "id": 7286,
+  "title": "X-Men: Inferno (2009 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7286",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7286/x-men_inferno_2009_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2099,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bb5717e9835a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7286/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9145",
+        "name": "Mile High Comics",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8381",
+        "name": "Digikore Studios Ltd.",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9367",
+        "name": "Rodolfo Muraguchi",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7553",
+        "name": "JEPH YORK",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1244",
+        "name": "Tom Ziuko",
+        "role": "other"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7286/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7286/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53440",
+        "name": "X-Factor 33-40, X-Terminators 1-4, Uncanny X-Men 239-243, New Mutants 71-73, X-Factor Annual 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/59993",
+        "name": "Cover #59993",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7286/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24100",
+        "name": "X-Men: Inferno (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7286/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+        "name": "Inferno"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

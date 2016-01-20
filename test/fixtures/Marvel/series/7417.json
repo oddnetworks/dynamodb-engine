@@ -1,0 +1,69 @@
+{
+  "id": 7417,
+  "title": "Marvel 70th Anniversary Poster Book (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7417",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7417/marvel_70th_anniversary_poster_book_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "Rated a",
+  "type": "",
+  "modified": "2014-06-12T11:51:57-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7417/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7417/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7417/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53680",
+        "name": "Interior #53680",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56591",
+        "name": "Cover #56591",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7417/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24225",
+        "name": "Marvel 70th Anniversary Poster Book (2009) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7417/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

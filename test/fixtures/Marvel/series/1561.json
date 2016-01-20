@@ -1,0 +1,150 @@
+{
+  "id": 1561,
+  "title": "Thor: Blood Oath (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1561",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1561/thor_blood_oath_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/70/4bc5b85960604",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1561/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1433",
+        "name": "Mike Avon Oeming",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+        "name": "Wil Quintana",
+        "role": "colorist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1561/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1561/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5189",
+        "name": "1 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5190",
+        "name": "1 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5191",
+        "name": "2 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5192",
+        "name": "2 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5193",
+        "name": "3 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5194",
+        "name": "3 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5195",
+        "name": "4 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5196",
+        "name": "4 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5197",
+        "name": "5 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5198",
+        "name": "5 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5199",
+        "name": "6 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5200",
+        "name": "6 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65913",
+        "name": "THOR: BLOOD OATH 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1561/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5621",
+        "name": "Thor: Blood Oath (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1561/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

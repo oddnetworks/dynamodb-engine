@@ -1,0 +1,305 @@
+{
+  "id": 22,
+  "title": "Daredevil Vol. V: Out (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/22",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/22/daredevil_vol_v_out_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc670ad3cb5d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/22/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+        "name": "Wes Abbot",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4225",
+        "name": "Jimmy Betancourt",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4409",
+        "name": "Jason Levine",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4728",
+        "name": "Kelly Lamy",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6298",
+        "name": "Nanci Dakesian",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+        "name": "John Miesegaes",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/643",
+        "name": "Stuart Moore",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/379",
+        "name": "Greg Capullo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+        "name": "Terry Dodson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4960",
+        "name": "Manuel Gutierrez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+        "name": "Alex Maleev",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/592",
+        "name": "Rachel Dodson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+        "name": "Danny K. Miki",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+        "name": "Matt Hollingsworth",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/363",
+        "name": "Dan Kemp",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/22/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010371",
+        "name": "Boomerang"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+        "name": "Elektra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+        "name": "Iron Fist (Danny Rand)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009389",
+        "name": "Kingpin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 11
+  },
+  "stories": {
+    "available": 28,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/22/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23",
+        "name": "A down-on-his-luck FBI agent has sold the hero's most guarded secret to a tabloid newspaper, exposing Daredevil's identity to th",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31973",
+        "name": "Cover #31973",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31974",
+        "name": "Out",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31975",
+        "name": "Cover #31975",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31976",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31977",
+        "name": "[The Secret Is Out]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31978",
+        "name": "Jay Leno and Spider-Man: One Night Only Part 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31979",
+        "name": "Cover #31979",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31980",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31981",
+        "name": "[I Didn't Know You Knew]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31982",
+        "name": "Cover #31982",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31983",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31984",
+        "name": "[I'm Not Afraid of You]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31985",
+        "name": "Cover #31985",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31986",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31987",
+        "name": "[One Hundred Percent Untrue]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31988",
+        "name": "Cover #31988",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31989",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31990",
+        "name": "[Dancing Between the Raindrops]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31991",
+        "name": "Cover #31991",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/22/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/957",
+        "name": "Daredevil Vol. V: Out (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/22/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

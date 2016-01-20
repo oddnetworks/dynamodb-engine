@@ -1,0 +1,110 @@
+{
+  "id": 20115,
+  "title": "Star Wars Handbook 3: Dark Empire (1998)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20115",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20115/star_wars_handbook_3_dark_empire_1998?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1998,
+  "endYear": 1998,
+  "rating": "",
+  "type": "",
+  "modified": "2015-02-03T10:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20115/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4540",
+        "name": "Dusty Abell",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2302",
+        "name": "Jan Duursema",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5105",
+        "name": "Pop Mhan",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8797",
+        "name": "John Nadeau",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12539",
+        "name": "Isaac Buckminster Owens",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1348",
+        "name": "Andrew Robinson",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8326",
+        "name": "Dave Dorman",
+        "role": "artist (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12534",
+        "name": "Peet Janes",
+        "role": "writer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20115/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20115/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119159",
+        "name": "story from Star Wars Handbook 3: Dark Empire (1998) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119160",
+        "name": "cover from Star Wars Handbook 3: Dark Empire (1998) #3",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20115/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53966",
+        "name": "Star Wars Handbook 3: Dark Empire (1998) #3"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20115/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,100 @@
+{
+  "id": 3870,
+  "title": "Wolverine: Origins Vol. 4 - Our War Premiere (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3870",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3870/wolverine_origins_vol_4_-_our_war_premiere_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/60/4bc3168b1ac2a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3870/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+        "name": "Kaare Andrews",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+        "name": "Steve Dillon",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+        "name": "Ed McGuinness",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+        "name": "Daniel Way",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3870/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3870/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32970",
+        "name": "Our War 1 of 5; Uncanny X-Men 268 reprint",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32971",
+        "name": "Our War 1 of 5; Uncanny X-Men 268 reprint",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44464",
+        "name": "Wolverine: Origins 16-20, Annual 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44465",
+        "name": "Wolverine: Origins 16-20, Annual 1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3870/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20727",
+        "name": "Wolverine: Origins Vol. 4 - Our War Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3870/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

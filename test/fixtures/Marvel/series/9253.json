@@ -1,0 +1,108 @@
+{
+  "id": 9253,
+  "title": "Wolverine: Savage (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9253",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9253/wolverine_savage_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-03T10:41:39-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bac25d1e1d4f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9253/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10025",
+        "name": "Ryan Dunlavey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9317",
+        "name": "Richard Elson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+        "name": "Ed McGuinness",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9253/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9253/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71613",
+        "name": "Interior #71613",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73700",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74247",
+        "name": "Interior #74247",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74250",
+        "name": "Cover #74250",
+        "type": "cover"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9253/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31487",
+        "name": "Wolverine: Savage (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32667",
+        "name": "Wolverine: Savage (2010) #1 (DEADPOOL VARIANT)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9253/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

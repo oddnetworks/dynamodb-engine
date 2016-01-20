@@ -1,0 +1,80 @@
+{
+  "id": 5423,
+  "title": "Spider-Man: Kraven's Last Hunt (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5423",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5423/spider-man_kravens_last_hunt_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4c361603790af",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5423/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8193",
+        "name": "Carrie Beadle",
+        "role": "other"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5423/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5423/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47998",
+        "name": "Web of Spider-Man 31-32; Amazing Spider-Man 293-294; Spectacular Spider-Man 131-132",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47999",
+        "name": "Web of Spider-Man 31-32; Amazing Spider-Man 293-294; Spectacular Spider-Man 131-132",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5423/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21839",
+        "name": "Spider-Man: Kraven's Last Hunt (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5423/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/258",
+        "name": "Kraven's Last Hunt"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 8057,
+  "title": "Marvel Masterworks: The Avengers Vol. 10 (2010 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8057",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8057/marvel_masterworks_the_avengers_vol_10_2010_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4badad1c2c534",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8057/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11419",
+        "name": "Barry Windsor-Smith",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8057/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8057/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62813",
+        "name": "Cover #62813",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62814",
+        "name": "Interior #62814",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62815",
+        "name": "Cover #62815",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62816",
+        "name": "Interior #62816",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8057/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28809",
+        "name": "Marvel Masterworks: The Avengers Vol. 10 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8057/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

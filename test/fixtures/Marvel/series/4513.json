@@ -1,0 +1,128 @@
+{
+  "id": 4513,
+  "title": "X-Men: Emperor Vulcan (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4513",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4513/x-men_emperor_vulcan_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bb85c0cf2b95",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4513/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5149",
+        "name": "Vicente Cifuentes",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4150",
+        "name": "Paco Diaz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3820",
+        "name": "Paco Diaz Luque",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+        "name": "Brian Reber",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+        "name": "Billy Tan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4513/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+        "name": "Havok"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011011",
+        "name": "Vulcan (Gabriel Summers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4513/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36905",
+        "name": "5XLS 5 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36906",
+        "name": "5XLS 5 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46013",
+        "name": "X-Men: Emperor Vulcan 1-5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46014",
+        "name": "X-Men: Emperor Vulcan 1-5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4513/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21057",
+        "name": "X-Men: Emperor Vulcan (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4513/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

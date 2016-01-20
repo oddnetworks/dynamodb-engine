@@ -1,0 +1,160 @@
+{
+  "id": 1248,
+  "title": "Marvel Age Fantastic Four Vol. 1: All for One (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1248",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1248/marvel_age_fantastic_four_vol_1_all_for_one_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc6654ccfd57",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1248/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+        "name": "Gurihiru",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/792",
+        "name": "Joseph Dodd",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/794",
+        "name": "Alitha Martinez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/689",
+        "name": "Derek Fridolfs",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/795",
+        "name": "David Newbold",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9429",
+        "name": "Sean McKeever",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/276",
+        "name": "Makoto Nakatsuka",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1248/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1248/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/591",
+        "name": "Cover #591",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/592",
+        "name": "Interior #592",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3271",
+        "name": "Cover #3271",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3272",
+        "name": "Interior #3272",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3273",
+        "name": "Cover #3273",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3274",
+        "name": "Interior #3274",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3275",
+        "name": "Cover #3275",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3276",
+        "name": "Interior #3276",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65686",
+        "name": "MARVEL AGE FANTASTIC FOUR VOL. 1: ALL FOR ONE 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1248/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1307",
+        "name": "Marvel Age Fantastic Four Vol. 1: All for One (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1248/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

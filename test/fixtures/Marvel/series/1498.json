@@ -1,0 +1,134 @@
+{
+  "id": 1498,
+  "title": "Fantastic Four/Iron Man: Big in Japan (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1498",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1498/fantastic_fouriron_man_big_in_japan_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED A",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bc33148ba776",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1498/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/441",
+        "name": "Chris Chuckry",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/712",
+        "name": "Seth Fisher",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1498/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1498/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4710",
+        "name": "1 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4711",
+        "name": "1 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4712",
+        "name": "2 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4713",
+        "name": "2 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4714",
+        "name": "3 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4715",
+        "name": "3 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4716",
+        "name": "4 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4717",
+        "name": "4 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65863",
+        "name": "FANTASTIC FOUR/IRON MAN: BIG IN JAPAN 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1498/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4255",
+        "name": "Fantastic Four/Iron Man: Big in Japan (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1498/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

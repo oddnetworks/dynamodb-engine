@@ -1,0 +1,304 @@
+{
+  "id": 2074,
+  "title": "Squadron Supreme (1985 - 1986)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2074",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2074/squadron_supreme_1985_-_1986?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1985,
+  "endYear": 1986,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4bad3c8559039",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2074/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+        "name": "John Beatty",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2427",
+        "name": "Sam DeLaRosa",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+        "name": "Butch Guice",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+        "name": "Bob Layton",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/939",
+        "name": "Joe Rubinstein",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+        "name": "Bill Sienkiewicz",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2082",
+        "name": "Keith Williams",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/260",
+        "name": "Bob Hall",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/261",
+        "name": "Paul Ryan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+        "name": "Janice Chiang",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1819",
+        "name": "Rick Parker",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1056",
+        "name": "John Workman",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+        "name": "Mark Gruenwald",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1284",
+        "name": "Michael Higgins",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3462",
+        "name": "Mark Philips",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+        "name": "Christie Scheele",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1832",
+        "name": "Bob Sharen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+        "name": "Ralph Macchio",
+        "role": "editor"
+      }
+    ],
+    "returned": 19
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2074/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010814",
+        "name": "Squadron Supreme (Earth-712)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2074/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21645",
+        "name": "Cover #21645",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21646",
+        "name": "The Utopia Principle",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21647",
+        "name": "Caught in the Quagmire!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21648",
+        "name": "The Dark From Within",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21649",
+        "name": "Blue Eagle at the Mercy of Nighthawk's Renegades!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21650",
+        "name": "Betrayal",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21651",
+        "name": "Civil War!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21652",
+        "name": "The Dregs of Victory",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21653",
+        "name": "Cover #21653",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21654",
+        "name": "A Small Sacrifice",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21655",
+        "name": "Cover #21655",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21656",
+        "name": "Showdown",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21657",
+        "name": "Cover #21657",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21658",
+        "name": "Change of Heart",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21659",
+        "name": "Cover #21659",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21660",
+        "name": "Turn-About",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21661",
+        "name": "Cover #21661",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21662",
+        "name": "Inner Circle",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21663",
+        "name": "Cover #21663",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21664",
+        "name": "Love and Death",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2074/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10985",
+        "name": "Squadron Supreme (1985) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10989",
+        "name": "Squadron Supreme (1985) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10990",
+        "name": "Squadron Supreme (1985) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10991",
+        "name": "Squadron Supreme (1985) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10992",
+        "name": "Squadron Supreme (1985) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10993",
+        "name": "Squadron Supreme (1985) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10994",
+        "name": "Squadron Supreme (1985) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10995",
+        "name": "Squadron Supreme (1985) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10996",
+        "name": "Squadron Supreme (1985) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10986",
+        "name": "Squadron Supreme (1985) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10987",
+        "name": "Squadron Supreme (1985) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10988",
+        "name": "Squadron Supreme (1985) #12"
+      }
+    ],
+    "returned": 12
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2074/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

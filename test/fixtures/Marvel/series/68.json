@@ -1,0 +1,233 @@
+{
+  "id": 68,
+  "title": "Spider-Man's Tangled Web Vol. II (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/68",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/68/spider-mans_tangled_web_vol_ii_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc66d6ae46b9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/68/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+        "name": "John Miesegaes",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+        "name": "Kaare Andrews",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4269",
+        "name": "Darwyn Cooke",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+        "name": "Lee Weeks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/499",
+        "name": "Jay Bone",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/939",
+        "name": "Joe Rubinstein",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+        "name": "Steve Buccellato",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+        "name": "Matt Hollingsworth",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/52",
+        "name": "Bruce Jones",
+        "role": "writer"
+      }
+    ],
+    "returned": 12
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/68/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009287",
+        "name": "Electro"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009699",
+        "name": "Vulture (Adrian Toomes)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/68/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25399",
+        "name": "Cover #25399",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25400",
+        "name": "Ray of Light",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25401",
+        "name": "[House Advertisements]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25402",
+        "name": "Subscribers ... Assemble!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25403",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25404",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25405",
+        "name": "Open All Night",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25406",
+        "name": "X-Treme Savings!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25407",
+        "name": "[House Advertisement]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25408",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25469",
+        "name": "Cover #25469",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25470",
+        "name": "Gentlemen's Agreement Part One",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25471",
+        "name": "Web Heads",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25472",
+        "name": "Hey Bub Subscribe Today!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25473",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25474",
+        "name": "Cover #25474",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25475",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25476",
+        "name": "Cover #25476",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25477",
+        "name": "Gentlemen's Agreement Part Three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25478",
+        "name": "Subcribe Today!",
+        "type": "promo"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/68/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1006",
+        "name": "Spider-Man's Tangled Web Vol. II (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/68/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

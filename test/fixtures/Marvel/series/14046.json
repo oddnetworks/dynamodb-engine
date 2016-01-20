@@ -1,0 +1,85 @@
+{
+  "id": 14046,
+  "title": "Ultimate Hawkeye (2012 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14046",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14046/ultimate_hawkeye_2012_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2012-07-16T14:02:22-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14046/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+        "name": "Kaare Andrews",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5158",
+        "name": "Rafa Sandoval",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14046/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14046/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85363",
+        "name": "Cover #85363",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85364",
+        "name": "Interior #85364",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14046/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38900",
+        "name": "Ultimate Hawkeye (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14046/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

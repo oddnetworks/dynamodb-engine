@@ -1,0 +1,150 @@
+{
+  "id": 1515,
+  "title": "She-Hulk Vol. 3: Time Trials (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1515",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1515/she-hulk_vol_3_time_trials_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED A",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc620c8116ec",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1515/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/239",
+        "name": "Juan Bobillo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+        "name": "Greg Horn",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/243",
+        "name": "Mike Mayhew",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/240",
+        "name": "Marcelo Sosa",
+        "role": "inker"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1515/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1515/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4742",
+        "name": "1 of 2 - Time Travel",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4743",
+        "name": "1 of 2 - Time Travel",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4744",
+        "name": "2 of 2 - Time Travel",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4745",
+        "name": "2 of 2 - Time Travel",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4746",
+        "name": "1 of",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4747",
+        "name": "1 of",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4748",
+        "name": "1 of 2 - I Married a Man-Wolf",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4749",
+        "name": "2 of 2 - I Married a Man-Wolf",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4750",
+        "name": "2 of 2 - I Married a Man-Wolf",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65875",
+        "name": "SHE-HULK VOL. 3: TIME TRIALS 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1515/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4257",
+        "name": "She-Hulk Vol. 3: Time Trials (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1515/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

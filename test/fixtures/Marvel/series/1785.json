@@ -1,0 +1,80 @@
+{
+  "id": 1785,
+  "title": "Thor: Blood Oath (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1785",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1785/thor_blood_oath_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/4bc5f7fa78078",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1785/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1433",
+        "name": "Mike Avon Oeming",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1785/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1785/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7470",
+        "name": "Thor: Blood Oath 1-6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7471",
+        "name": "Thor: Blood Oath 1-6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1785/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3998",
+        "name": "Thor: Blood Oath (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1785/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

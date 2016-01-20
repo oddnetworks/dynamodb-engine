@@ -1,0 +1,150 @@
+{
+  "id": 1295,
+  "title": "Thor Vol. 6: Gods & Men (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1295",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1295/thor_vol_6_gods_men_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bc664773bdb7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1295/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+        "name": "Scot Eaton",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+        "name": "Bill Sienkiewicz",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/476",
+        "name": "Drew Geraci",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/155",
+        "name": "Dan Jurgens",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+        "name": "Avalon Studio",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1295/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1295/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/876",
+        "name": "Cover #876",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/877",
+        "name": "Interior #877",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/878",
+        "name": "Cover #878",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/879",
+        "name": "Interior #879",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/880",
+        "name": "Cover #880",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/881",
+        "name": "Interior #881",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/886",
+        "name": "Cover #886",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/887",
+        "name": "Interior #887",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/888",
+        "name": "Cover #888",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/889",
+        "name": "Interior #889",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6563",
+        "name": "\"The heavens tremble as all the Thunder God has built comes to ruins – and those closest to Thor betray him! Only one can wield ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6564",
+        "name": "\"The heavens tremble as all the Thunder God has built comes to ruins – and those closest to Thor betray him! Only one can wield ",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1295/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1325",
+        "name": "Thor Vol. 6: Gods & Men (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1295/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

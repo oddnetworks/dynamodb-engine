@@ -1,0 +1,85 @@
+{
+  "id": 1267,
+  "title": "Essential Iron Man Vol. 2 (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1267",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1267/essential_iron_man_vol_2_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc6b23923edb",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1267/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+        "name": "Don Heck",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1267/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1267/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6509",
+        "name": "Tales of Suspense 73-99, Iron Man & Sub-Mariner 1, Iron Man 1-10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6510",
+        "name": "Tales of Suspense 73-99, Iron Man & Sub-Mariner 1, Iron Man 1-10",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1267/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57",
+        "name": "Essential Iron Man Vol. 2 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1267/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

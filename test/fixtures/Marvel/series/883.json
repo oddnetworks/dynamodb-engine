@@ -1,0 +1,80 @@
+{
+  "id": 883,
+  "title": "Secret War: From the Files of Nick Fury (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/883",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/883/secret_war_from_the_files_of_nick_fury_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc63a1c58451",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/883/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+        "name": "Mike Raicht",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/883/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/883/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4738",
+        "name": "Cover #4738",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4739",
+        "name": "Interior #4739",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/883/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2009",
+        "name": "Secret War: From the Files of Nick Fury (2005) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/883/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

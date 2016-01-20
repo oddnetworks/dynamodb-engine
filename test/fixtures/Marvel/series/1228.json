@@ -1,0 +1,159 @@
+{
+  "id": 1228,
+  "title": "Runaways Vol. 2: Teenage Wasteland (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1228",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1228/runaways_vol_2_teenage_wasteland_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc662db7f505",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1228/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/329",
+        "name": "Adrian Alphona",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+        "name": "Takeshi Miyazawa",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/619",
+        "name": "Jo Chen",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/494",
+        "name": "Joshua Middleton",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/190",
+        "name": "Brian K. Vaughan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/469",
+        "name": "Craig Yeung",
+        "role": "inker"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1228/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010747",
+        "name": "Runaways"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1228/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/864",
+        "name": "Cover #864",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/865",
+        "name": "Interior #865",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1005",
+        "name": "Cover #1005",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1006",
+        "name": "Interior #1006",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1294",
+        "name": "Cover #1294",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1295",
+        "name": "Interior #1295",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1942",
+        "name": "Cover #1942",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1943",
+        "name": "Interior #1943",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2123",
+        "name": "Interior #2123",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2425",
+        "name": "Interior #2425",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65673",
+        "name": "RUNAWAYS VOL. 2: TEENAGE WASTELAND 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106521",
+        "name": "cover from Runaways Vol. 2: Teenage Wasteland #0",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1228/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1349",
+        "name": "Runaways Vol. 2: Teenage Wasteland (Digest)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42288",
+        "name": "Runaways Vol. 2: Teenage Wasteland (2004)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1228/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

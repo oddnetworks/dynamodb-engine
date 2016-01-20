@@ -1,0 +1,194 @@
+{
+  "id": 8770,
+  "title": "Marvel Masterworks: The Inhumans Vol. 1 (2009 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8770",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8770/marvel_masterworks_the_inhumans_vol_1_2009_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bb4b6c02de6c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8770/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/218",
+        "name": "Keron Grant",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/543",
+        "name": "Mark Robinson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4421",
+        "name": "MacKenzie Cadenhead",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/759",
+        "name": "C. B. Cebulski",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1181",
+        "name": "Mike Sekowsky",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9201",
+        "name": "Nunzio DeFilippis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+        "name": "Archie Goodwin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8237",
+        "name": "Christopher Fama",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+        "name": "Michael Kelleher",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4412",
+        "name": "Cory Sedlmeier",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+        "name": "Ian Hannin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/363",
+        "name": "Dan Kemp",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/494",
+        "name": "Joshua Middleton",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4067",
+        "name": "Rob Stull",
+        "role": "inker"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8770/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011336",
+        "name": "New Mutants"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8770/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26263",
+        "name": "Cover #26263",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26264",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26265",
+        "name": "Not One of Us",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60206",
+        "name": "Cover #60206",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60207",
+        "name": "Interior #60207",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 5
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8770/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27450",
+        "name": "Marvel Masterworks: The Inhumans Vol. 1 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8770/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

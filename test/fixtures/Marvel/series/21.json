@@ -1,0 +1,222 @@
+{
+  "id": 21,
+  "title": "Daredevil Vol. IV: Underboss (2002)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21/daredevil_vol_iv_underboss_2002?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2002,
+  "endYear": 2002,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "2011-04-22T15:35:16-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bb7d28432506",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+        "name": "Wes Abbot",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4728",
+        "name": "Kelly Lamy",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6298",
+        "name": "Nanci Dakesian",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/643",
+        "name": "Stuart Moore",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+        "name": "Matt Hollingsworth",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+        "name": "Alex Maleev",
+        "role": "penciller"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010371",
+        "name": "Boomerang"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+        "name": "Elektra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009389",
+        "name": "Kingpin"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22",
+        "name": "A contract on Matt Murdock's life is somehow connected to the Kingpin's apparent murder at the hands of the mysterious Mr. Silke",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31953",
+        "name": "Cover #31953",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31954",
+        "name": "Underboss Part 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31955",
+        "name": "Cover #31955",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31956",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31957",
+        "name": "[Underboss Part 2]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31958",
+        "name": "Try Not To Die",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31959",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31960",
+        "name": "[Underboss Part 3]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31961",
+        "name": "Nuff Said: Plot to Daredevil #28",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31962",
+        "name": "Cover #31962",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31963",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31964",
+        "name": "[Underboss Part 4]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31967",
+        "name": "Cover #31967",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31968",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31969",
+        "name": "[Underboss Part 5]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31970",
+        "name": "Cover #31970",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31971",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31972",
+        "name": "[Underboss Part 6]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65099",
+        "name": "DAREDEVIL VOL. IV: UNDERBOSS TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/956",
+        "name": "Daredevil Vol. IV: Underboss (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

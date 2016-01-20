@@ -1,0 +1,80 @@
+{
+  "id": 63,
+  "title": "Punisher, the Vol. II: Army of One (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/63",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/63/punisher_the_vol_ii_army_of_one_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc66d8232369",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/63/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+        "name": "Steve Dillon",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/63/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/63/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64",
+        "name": "Following a team-up with Spider-Man, the Punisher heads to the remote scrap of dirt known as Grand Nixon Island to take down an ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65141",
+        "name": "PUNISHER, THE VOL. II: ARMY OF ONE TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/63/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1001",
+        "name": "Punisher, the Vol. II: Army of One (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/63/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

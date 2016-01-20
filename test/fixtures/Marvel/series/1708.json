@@ -1,0 +1,280 @@
+{
+  "id": 1708,
+  "title": "Marvel Masterworks: The Avengers Vol. (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1708",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1708/marvel_masterworks_the_avengers_vol_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc5b6d1f0ed2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1708/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+        "name": "Vince Colletta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1449",
+        "name": "George Klein",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+        "name": "Joe Sinnott",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1183",
+        "name": "George Tuska",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+        "name": "Don Heck",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2345",
+        "name": "Nd To last Panel",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/956",
+        "name": "Werner Roth",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/198",
+        "name": "Marie Severin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+        "name": "Joe Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+        "name": "Artie Simek",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1708/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009390",
+        "name": "Klaw"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+        "name": "Quicksilver"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+        "name": "Ultron"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010348",
+        "name": "Whirlwind"
+      }
+    ],
+    "returned": 11
+  },
+  "stories": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1708/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15162",
+        "name": "Cover #15162",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15163",
+        "name": "In the Clutches of the Collector",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15164",
+        "name": "Avengers (1963) #52 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15165",
+        "name": "Death Calls for the Arch-Heroes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15166",
+        "name": "Avengers (1963) #53 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15167",
+        "name": "In Battle Joined",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15168",
+        "name": "Avengers (1963) #54 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15169",
+        "name": "...And Deliver Us from - - the Masters of Evil!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15170",
+        "name": "",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15171",
+        "name": "Avengers (1963) #55 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15172",
+        "name": "Mayhem Over Manhattan",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15173",
+        "name": "Avengers (1963) #56 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15174",
+        "name": "Death Be Not Proud",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15175",
+        "name": "Cover #15175",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15176",
+        "name": "Behold, the Vision",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15177",
+        "name": "Avengers (1963) #58 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/15178",
+        "name": "Even an Android Can Cry",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17404",
+        "name": "Avengers Annual (1967) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17405",
+        "name": "And Time, the Rushing River",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17406",
+        "name": "HANG LOOSE, HEROES! ...Stan and the Gang",
+        "type": "pinup"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1708/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5638",
+        "name": "Marvel Masterworks: The Avengers Vol. (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1708/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

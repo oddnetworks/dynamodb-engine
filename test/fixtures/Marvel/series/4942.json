@@ -1,0 +1,90 @@
+{
+  "id": 4942,
+  "title": "Essential X-Men Vol. 1 (All-New (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4942",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4942/essential_x-men_vol_1_all-new_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/70/4bb82600dea13",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4942/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+        "name": "Dave Cockrum",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4942/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4942/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47077",
+        "name": "Giant-Size X-Men 1, X-Men 94-119",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47078",
+        "name": "Giant-Size X-Men 1, X-Men 94-119",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4942/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21314",
+        "name": "Essential X-Men Vol. 1 (All-New (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4942/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

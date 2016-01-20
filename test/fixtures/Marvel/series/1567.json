@@ -1,0 +1,161 @@
+{
+  "id": 1567,
+  "title": "Marvel Adventures Fantastic Four Vol. 2: Fantastic Voyages (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1567",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1567/marvel_adventures_fantastic_four_vol_2_fantastic_voyages_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc5f4a7806aa",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1567/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/614",
+        "name": "Manuel Garcia",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6806",
+        "name": "Carlo Pagualyan",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+        "name": "Scott Koblish",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/824",
+        "name": "Jeff Parker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+        "name": "Michael Ryan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1567/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1567/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4964",
+        "name": "1 of 1 -",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4965",
+        "name": "1 of 1 -",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4966",
+        "name": "1 of 1 -",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4967",
+        "name": "1 of 1 -",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4968",
+        "name": "1 of 1 -",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4969",
+        "name": "1 of 1 -",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4970",
+        "name": "1 of 1 -",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4971",
+        "name": "1 of 1 -",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65918",
+        "name": "MARVEL ADVENTURES FANTASTIC FOUR VOL. 2: FANTASTIC VOYAGES 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1567/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4036",
+        "name": "Marvel Adventures Fantastic Four Vol. 2: Fantastic Voyages (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1567/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

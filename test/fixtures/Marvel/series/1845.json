@@ -1,0 +1,90 @@
+{
+  "id": 1845,
+  "title": "Spider-Man: Death of the Stacys (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1845",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1845/spider-man_death_of_the_stacys_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED A",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4bc5abf3b1706",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1845/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1845/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1845/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7588",
+        "name": "Amazing Spider-Man 88-92, 121-122",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7589",
+        "name": "Amazing Spider-Man 88-92, 121-122",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1845/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5871",
+        "name": "Spider-Man: Death of the Stacys (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1845/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

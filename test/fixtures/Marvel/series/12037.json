@@ -1,0 +1,205 @@
+{
+  "id": 12037,
+  "title": "Thor: For Asgard (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/12037",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/12037/thor_for_asgard_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2015-11-17T16:07:26-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/90/4c0fc2cc5add2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12037/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5003",
+        "name": "Simone Peruzzi",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/418",
+        "name": "Rob Rodi",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12037/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12037/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76945",
+        "name": "Cover #76945",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76946",
+        "name": "Interior #76946",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76949",
+        "name": "Cover #76949",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76950",
+        "name": "Interior #76950",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76953",
+        "name": "Cover #76953",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76954",
+        "name": "Interior #76954",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80235",
+        "name": "Cover #80235",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80236",
+        "name": "Interior #80236",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80239",
+        "name": "Cover #80239",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80240",
+        "name": "Interior #80240",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80241",
+        "name": "Cover #80241",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80242",
+        "name": "Interior #80242",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80245",
+        "name": "Cover #80245",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80246",
+        "name": "Interior #80246",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80247",
+        "name": "Cover #80247",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80248",
+        "name": "Interior #80248",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80249",
+        "name": "Cover #80249",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80250",
+        "name": "Interior #80250",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80251",
+        "name": "Cover #80251",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80252",
+        "name": "Interior #80252",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12037/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36248",
+        "name": "Thor: For Asgard (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36249",
+        "name": "Thor: For Asgard (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36247",
+        "name": "Thor: For Asgard (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34759",
+        "name": "Thor: For Asgard (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36245",
+        "name": "Thor: For Asgard (2010) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34715",
+        "name": "Thor: For Asgard (2010) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12037/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

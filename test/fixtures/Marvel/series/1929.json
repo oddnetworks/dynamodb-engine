@@ -1,0 +1,85 @@
+{
+  "id": 1929,
+  "title": "Essential Fantastic Four Vol. 3 (New (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1929",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1929/essential_fantastic_four_vol_3_new_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bc356fa0a134",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1929/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1929/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1929/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8058",
+        "name": "Fantastic Four 41-63, Annual 3-4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8537",
+        "name": "Fantastic Four 41-63, Annual 3-4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66138",
+        "name": "ESSENTIAL FANTASTIC FOUR VOL. 3 TPB (NEW 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1929/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6085",
+        "name": "Essential Fantastic Four Vol. 3 (New (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1929/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

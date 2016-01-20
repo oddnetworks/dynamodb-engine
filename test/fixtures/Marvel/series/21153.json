@@ -1,0 +1,69 @@
+{
+  "id": 21153,
+  "title": "What If? Infinity- X-Men (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21153",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21153/what_if_infinity-_x-men_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "one shot",
+  "modified": "2015-10-13T11:07:15-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/561bd3ce1979a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21153/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21153/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21153/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117375",
+        "name": "cover from What If? Infinity (2020) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117376",
+        "name": "story from What If? Infinity (2020) #3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21153/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52899",
+        "name": "What If? Infinity- X-Men (2015) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21153/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

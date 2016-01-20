@@ -1,0 +1,145 @@
+{
+  "id": 1628,
+  "title": "X-Men: Apocalypse/Dracula (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1628",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1628/x-men_apocalypsedracula_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/4bc602088ad10",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1628/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/295",
+        "name": "Clayton Henry",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+        "name": "Jae Lee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+        "name": "Mark Morales",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+        "name": "Wil Quintana",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+        "name": "Frank Tieri",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1628/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1628/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5423",
+        "name": "1 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5424",
+        "name": "1 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5425",
+        "name": "2 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5426",
+        "name": "2 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5427",
+        "name": "3 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5428",
+        "name": "3 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5429",
+        "name": "4 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5430",
+        "name": "4 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65962",
+        "name": "X-MEN: APOCALYPSE/DRACULA 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1628/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5046",
+        "name": "X-Men: Apocalypse/Dracula (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1628/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

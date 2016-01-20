@@ -1,0 +1,90 @@
+{
+  "id": 8917,
+  "title": "Cable Vol. 2: Waiting for the End of the World (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8917",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8917/cable_vol_2_waiting_for_the_end_of_the_world_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb48ebfb2109",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8917/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7219",
+        "name": "MICHEL Lacombe",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+        "name": "Ken Lashley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5625",
+        "name": "Duane Swierczynski",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8917/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8917/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54516",
+        "name": "Cover #54516",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54517",
+        "name": "Interior #54517",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8917/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24644",
+        "name": "Cable Vol. 2: Waiting for the End of the World (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8917/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

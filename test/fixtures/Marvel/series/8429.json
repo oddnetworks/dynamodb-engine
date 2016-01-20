@@ -1,0 +1,160 @@
+{
+  "id": 8429,
+  "title": "Thor & Hercules: Encyclopaedia Mythologica (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8429",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8429/thor_hercules_encyclopaedia_mythologica_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/d0/4bb4bf2cbeeb5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8429/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2043",
+        "name": "Eliot Brown",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4987",
+        "name": "Mario Gully",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/554",
+        "name": "Ben Oliver",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/814",
+        "name": "Pablo Raimondi",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/167",
+        "name": "Kevin Sharpe",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/685",
+        "name": "Gus Vazquez",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1092",
+        "name": "Paul Cornell",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/903",
+        "name": "Anthony Flamini",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9367",
+        "name": "Rodolfo Muraguchi",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+        "name": "Fred Van Lente",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9539",
+        "name": "Thomas Mason",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1143",
+        "name": "John Rauch",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1372",
+        "name": "Mico Suayan",
+        "role": "penciller"
+      }
+    ],
+    "returned": 17
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8429/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8429/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58675",
+        "name": "Cover #58675",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58676",
+        "name": "Interior #58676",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8429/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26682",
+        "name": "Thor & Hercules: Encyclopaedia Mythologica (2009) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8429/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

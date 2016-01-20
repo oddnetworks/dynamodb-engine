@@ -1,0 +1,170 @@
+{
+  "id": 3100,
+  "title": "Moon Knight Vol. 2: Midnight Sun Premiere (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3100",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3100/moon_knight_vol_2_midnight_sun_premiere_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb87ec2ab692",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3100/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+        "name": "Tomm Coker",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+        "name": "David Finch",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5626",
+        "name": "Jefte Paolo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1372",
+        "name": "Mico Suayan",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1015",
+        "name": "Charlie Huston",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5625",
+        "name": "Duane Swierczynski",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5143",
+        "name": "Dave Wilkins",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3100/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+        "name": "Moon Knight"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3100/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5302",
+        "name": "1 of 6 - Midnight Sun",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7753",
+        "name": "2 of 6 - Midnight Sun",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7755",
+        "name": "3 of 6 - Midnight Sun",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8227",
+        "name": "3 of 6 - Midnight Sun",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8229",
+        "name": "4 of 6 - Midnight Sun",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32952",
+        "name": "6 of 6 - Midnight Sun; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33252",
+        "name": "1 of 1; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36264",
+        "name": "Moon Knight 7-13",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36265",
+        "name": "Moon Knight 7-13",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44954",
+        "name": "Interior #44954",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44956",
+        "name": "Interior #44956",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3100/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17304",
+        "name": "Moon Knight Vol. 2: Midnight Sun Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3100/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": 4018,
+  "title": "Ghost Rider: Trail of Tears (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4018",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4018/ghost_rider_trail_of_tears_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb88de671a02",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4018/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+        "name": "Clayton Crain",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4018/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4018/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44778",
+        "name": "Ghost Rider: Trail of Tears 1-6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44779",
+        "name": "Ghost Rider: Trail of Tears 1-6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4018/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20912",
+        "name": "Ghost Rider: Trail of Tears (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4018/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

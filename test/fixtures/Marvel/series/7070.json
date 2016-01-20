@@ -1,0 +1,90 @@
+{
+  "id": 7070,
+  "title": "Avengers: Hawkeye Premiere (2009 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7070",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7070/avengers_hawkeye_premiere_2009_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb595a43ed33",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7070/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+        "name": "Ronald Byrd",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8381",
+        "name": "Digikore Studios Ltd.",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1038",
+        "name": "John Kalisz",
+        "role": "colorist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7070/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7070/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53032",
+        "name": "Hawkeye 1-4, Tales of Suspense 57, Marvel Super Action 1, Avengers 189, Marvel Team-Up 95",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53033",
+        "name": "Hawkeye 1-4, Tales of Suspense 57, Marvel Super Action 1, Avengers 189, Marvel Team-Up 95",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7070/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23903",
+        "name": "Avengers: Hawkeye Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7070/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

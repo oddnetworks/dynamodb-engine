@@ -65,6 +65,10 @@
         "name": "New Mutants (2009) #1"
       },
       {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28107",
+        "name": "New Mutants (2009) #1 (2ND PRINTING VARIANT)"
+      },
+      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/27461",
         "name": "New Mutants (2009) #1 (MCLEOD VARIANT)"
       },
@@ -77,20 +81,16 @@
         "name": "New Mutants (2009) #1 (BENJAMIN VARIANT)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28107",
-        "name": "New Mutants (2009) #1 (2ND PRINTING VARIANT)"
-      },
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10327",
-        "name": "New Mutants (2003) #2"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/10355",
         "name": "New Mutants (1983) #2"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/26051",
         "name": "New Mutants (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10327",
+        "name": "New Mutants (2003) #2"
       }
     ],
     "returned": 20
@@ -359,7 +359,7 @@
   "urls": [
     {
       "type": "detail",
-      "url": "http://marvel.com/characters/1586/new_mutants?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+      "url": "http://marvel.com/comics/characters/1011336/new_mutants?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
     },
     {
       "type": "wiki",

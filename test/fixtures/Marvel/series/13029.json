@@ -1,0 +1,153 @@
+{
+  "id": 13029,
+  "title": "Wolverine & Jubilee (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13029",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13029/wolverine_jubilee_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-14T16:46:30-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4cb619d5a6eb4",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13029/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5144",
+        "name": "Kathryn Immonen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+        "name": "Phil Noto",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8715",
+        "name": "Jeanine Schaefer",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13029/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+        "name": "Jubilee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010692",
+        "name": "Rockslide"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13029/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81322",
+        "name": "WOLVERINE AND JUBILEE #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81323",
+        "name": "Interior #81323",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81324",
+        "name": "Wolverine and Jubilee #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81325",
+        "name": "Wolverine and Jubilee #2 ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83502",
+        "name": "Cover #83502",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83503",
+        "name": "Interior #83503",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83670",
+        "name": "Wolverine and Jubilee (2010) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83671",
+        "name": "Wolverine and Jubilee (2010) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89142",
+        "name": "Interior #89142",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13029/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36648",
+        "name": "Wolverine & Jubilee (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38063",
+        "name": "Wolverine & Jubilee (2010) #1 (OLIVIER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36650",
+        "name": "Wolverine & Jubilee (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36649",
+        "name": "Wolverine & Jubilee (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38072",
+        "name": "Wolverine & Jubilee (2010) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13029/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,406 @@
+{
+  "id": 3695,
+  "title": "Quasar (1989 - 1994)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3695",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3695/quasar_1989_-_1994?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1989,
+  "endYear": 1994,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bb6f77ab35ee",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 47,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3695/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6326",
+        "name": "Amash",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4796",
+        "name": "Keith Aiken",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+        "name": "Danny Bulanadi",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3074",
+        "name": "Ralph Cabrera",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+        "name": "Harry Candelario",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2820",
+        "name": "Dan Day",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3826",
+        "name": "David Day",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2717",
+        "name": "Fred Fredericks",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6319",
+        "name": "Co.",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1185",
+        "name": "Pat Broderick",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/379",
+        "name": "Greg Capullo",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6325",
+        "name": "John Heebink",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2822",
+        "name": "Dave Hoover",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+        "name": "Janice Chiang",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+        "name": "Paul Becton",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1828",
+        "name": "Carl Gafford",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+        "name": "Kelly Corvese",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+        "name": "Mark Gruenwald",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3695/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+        "name": "Captain Marvel (Mar-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009427",
+        "name": "Marvel Boy"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009523",
+        "name": "Quasar (Phyla-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+        "name": "Thanos"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009719",
+        "name": "Wonder Man"
+      }
+    ],
+    "returned": 13
+  },
+  "stories": {
+    "available": 121,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3695/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40408",
+        "name": "Pulsating Premiere Issue!  The Cosmic Avenger -- Now In His Own Book!  Featuring... The Untold Origin of Quasar!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40409",
+        "name": "The Price Of Power",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40410",
+        "name": "Cover #40410",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40411",
+        "name": "Kree For All",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40412",
+        "name": "Cover #40412",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40413",
+        "name": "By The Time I Get To Phoenix",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40414",
+        "name": "Cover #40414",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40415",
+        "name": "Games Deviants Play",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40416",
+        "name": "Cover #40416",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40417",
+        "name": "The Earth You Have Reached ...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40418",
+        "name": "Cover #40418",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40419",
+        "name": "The World My Laboratory",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40420",
+        "name": "Cover #40420",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40421",
+        "name": "Death Watch",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40422",
+        "name": "Cover #40422",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40423",
+        "name": "Germ Of An Idea",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40424",
+        "name": "Cover #40424",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40425",
+        "name": "Reborn To Run",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40426",
+        "name": "Cover #40426",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40427",
+        "name": "The Bearable Lightness of Unbeing",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 60,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3695/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18895",
+        "name": "Quasar (1989) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18906",
+        "name": "Quasar (1989) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18917",
+        "name": "Quasar (1989) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18928",
+        "name": "Quasar (1989) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18939",
+        "name": "Quasar (1989) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18950",
+        "name": "Quasar (1989) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18952",
+        "name": "Quasar (1989) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18953",
+        "name": "Quasar (1989) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18954",
+        "name": "Quasar (1989) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18896",
+        "name": "Quasar (1989) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18897",
+        "name": "Quasar (1989) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18898",
+        "name": "Quasar (1989) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18899",
+        "name": "Quasar (1989) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18900",
+        "name": "Quasar (1989) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18901",
+        "name": "Quasar (1989) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18902",
+        "name": "Quasar (1989) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18903",
+        "name": "Quasar (1989) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18904",
+        "name": "Quasar (1989) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18905",
+        "name": "Quasar (1989) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18907",
+        "name": "Quasar (1989) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3695/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/253",
+        "name": "Infinity Gauntlet"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+        "name": "Infinity War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "name": "Secret Wars"
+      }
+    ],
+    "returned": 4
+  },
+  "next": null,
+  "previous": null
+}

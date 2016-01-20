@@ -1,0 +1,155 @@
+{
+  "id": 1182,
+  "title": "Ultimate X-Men Vol. 8: New Mutants (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1182",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1182/ultimate_x-men_vol_8_new_mutants_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bc664727fef5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1182/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+        "name": "David Finch",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+        "name": "Justin Ponsor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/433",
+        "name": "Jonathan Sibal",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/568",
+        "name": "Art Thibert",
+        "role": "inker"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1182/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+        "name": "X-Men (Ultimate)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1182/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1420",
+        "name": "Cover #1420",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1421",
+        "name": "Interior #1421",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1422",
+        "name": "Cover #1422",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1423",
+        "name": "Interior #1423",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1428",
+        "name": "Cover #1428",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1429",
+        "name": "Interior #1429",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1893",
+        "name": "Cover #1893",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1894",
+        "name": "Interior #1894",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2041",
+        "name": "Cover #2041",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2042",
+        "name": "Interior #2042",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2061",
+        "name": "Cover #2061",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2062",
+        "name": "Interior #2062",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65643",
+        "name": "ULTIMATE X-MEN VOL. 8 TPB: NEW MUTANTS TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1182/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1326",
+        "name": "Ultimate X-Men Vol. 8: New Mutants (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1182/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 21067,
+  "title": "Marvel's Jessica Jones (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21067",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21067/marvels_jessica_jones_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "one shot",
+  "modified": "2015-09-24T09:58:20-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/5603ff27025ef",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21067/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+        "name": "Mark Basso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12757",
+        "name": "Darren Sanchez",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+        "name": "Michael Gaydos",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+        "name": "David Mack",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9329",
+        "name": "Rico Renzi",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+        "name": "Joe Sabino",
+        "role": "letterer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21067/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21067/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126416",
+        "name": "Interior to Marvel's Jessica Jones",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126417",
+        "name": "Cover to Marvel's Jessica Jones",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21067/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57846",
+        "name": "Marvel's Jessica Jones (2015) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21067/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

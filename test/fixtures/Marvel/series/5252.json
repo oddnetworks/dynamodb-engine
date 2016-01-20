@@ -1,0 +1,80 @@
+{
+  "id": 5252,
+  "title": "Essential Fantastic Four Vol. 7 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5252",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5252/essential_fantastic_four_vol_7_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/90/4c7d53a0c123d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5252/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9367",
+        "name": "Rodolfo Muraguchi",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6146",
+        "name": "Avalon Studios",
+        "role": "colorist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5252/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5252/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47673",
+        "name": "Fantastic Four 138-159; Giant-Size Super-Stars 1, Giant-Size Fantastic Four 2-4, Avengers 127",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47674",
+        "name": "Fantastic Four 138-159; Giant-Size Super-Stars 1, Giant-Size Fantastic Four 2-4, Avengers 127",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5252/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21628",
+        "name": "Essential Fantastic Four Vol. 7 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5252/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

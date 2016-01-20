@@ -1,0 +1,239 @@
+{
+  "id": 478,
+  "title": "Human Torch (2003 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/478",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/478/human_torch_2003_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "2015-10-01T15:53:03-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bb68a1bedf63",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/478/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/438",
+        "name": "Karl Kesel",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/317",
+        "name": "Howard Porter",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+        "name": "Paco Medina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/439",
+        "name": "Joe Seung",
+        "role": "inker"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/478/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/478/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/700",
+        "name": "Cover #700",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/701",
+        "name": "Interior #701",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1416",
+        "name": "Cover #1416",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1417",
+        "name": "Interior #1417",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1418",
+        "name": "Cover #1418",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1419",
+        "name": "Interior #1419",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1689",
+        "name": "Cover #1689",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1690",
+        "name": "Interior #1690",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2005",
+        "name": "Cover #2005",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2006",
+        "name": "Interior #2006",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2007",
+        "name": "Cover #2007",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2008",
+        "name": "Interior #2008",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44913",
+        "name": "Cover #44913",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44914",
+        "name": "Interior #44914",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44915",
+        "name": "Cover #44915",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44916",
+        "name": "Interior #44916",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44917",
+        "name": "Cover #44917",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44918",
+        "name": "Interior #44918",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44919",
+        "name": "Cover #44919",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44920",
+        "name": "Interior #44920",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/478/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17181",
+        "name": "Human Torch (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17182",
+        "name": "Human Torch (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17183",
+        "name": "Human Torch (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17184",
+        "name": "Human Torch (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17185",
+        "name": "Human Torch (2003) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17186",
+        "name": "Human Torch (2003) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/352",
+        "name": "Human Torch (2003) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/332",
+        "name": "Human Torch (2003) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/289",
+        "name": "Human Torch (2003) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/301",
+        "name": "Human Torch (2003) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/443",
+        "name": "Human Torch (2003) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/495",
+        "name": "Human Torch (2003) #12"
+      }
+    ],
+    "returned": 12
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/478/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

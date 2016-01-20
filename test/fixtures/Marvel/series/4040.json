@@ -1,0 +1,105 @@
+{
+  "id": 4040,
+  "title": "Punisher War Journal Vol. 2: Goin' Out West (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4040",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4040/punisher_war_journal_vol_2_goin_out_west_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb88dba15315",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4040/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+        "name": "Leandro Fernandez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+        "name": "Matt Fraction",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4040/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4040/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7869",
+        "name": "1 of 5 - Punisher/Cap",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8318",
+        "name": "1 of 5 - Punisher/Cap",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44821",
+        "name": "Punisher War Journal 5-11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44822",
+        "name": "Punisher War Journal 5-11",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4040/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20927",
+        "name": "Punisher War Journal Vol. 2: Goin' Out West (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4040/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

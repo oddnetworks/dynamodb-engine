@@ -1,0 +1,110 @@
+{
+  "id": 1313,
+  "title": "Essential Iron Fist Vol. 1 (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1313",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1313/essential_iron_fist_vol_1_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bc473d7dd562",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1313/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/404",
+        "name": "Dick Giordano",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6631",
+        "name": "L.P. Gregory",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1754",
+        "name": "Gaspar Saladino",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+        "name": "Glynis Oliver",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "editor"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1313/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+        "name": "Iron Fist (Danny Rand)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1313/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19901",
+        "name": "Cover #19901",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19902",
+        "name": "The Fury of Iron Fist!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65729",
+        "name": "ESSENTIAL IRON FIST VOL. 1 TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1313/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1327",
+        "name": "Essential Iron Fist Vol. 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1313/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

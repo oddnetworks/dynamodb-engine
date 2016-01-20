@@ -1,0 +1,219 @@
+{
+  "id": 2943,
+  "title": "Immortal Iron Fist Vol. 1: The Last Iron Fist Story (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2943",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2943/immortal_iron_fist_vol_1_the_last_iron_fist_story_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bc3912ac7e9f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2943/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+        "name": "David Aja",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8308",
+        "name": "Daniel Brereton",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+        "name": "Ed Brubaker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+        "name": "Matt Fraction",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/735",
+        "name": "Travel Foreman",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+        "name": "Matt Hollingsworth",
+        "role": "colorist"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2943/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+        "name": "Iron Fist (Danny Rand)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010888",
+        "name": "Iron Fist (Orson Randall)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 21,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2943/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6250",
+        "name": "Cover #6250",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6251",
+        "name": "Interior #6251",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6252",
+        "name": "2 of 5 - The Immortal Iron Fist",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6253",
+        "name": "2 of 5 - The Immortal Iron Fist",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6254",
+        "name": "3 of 5 - The Immortal Iron Fist",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6255",
+        "name": "3 of 5 - The Immortal Iron Fist",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7914",
+        "name": "Cover #7914",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7915",
+        "name": "Interior #7915",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7916",
+        "name": "4 of 5 - The Immortal Iron Fist",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7917",
+        "name": "4 of 5 - The Immortal Iron Fist",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8365",
+        "name": "4 of 5 - The Immortal Iron Fist",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8366",
+        "name": "4 of 5 - The Immortal Iron Fist",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8367",
+        "name": "5 of 5 - The Immortal Iron Fist",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8368",
+        "name": "5 of 5 - The Immortal Iron Fist",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8701",
+        "name": "1 of 2 - Story A",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8702",
+        "name": "1 of 2 - Story A",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33496",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33497",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33557",
+        "name": "Immortal Iron Fist 1-6; Iron Fist story from Civil War: Choosing Sides",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33558",
+        "name": "Immortal Iron Fist 1-6; Iron Fist story from Civil War: Choosing Sides",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2943/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16636",
+        "name": "Immortal Iron Fist Vol. 1: The Last Iron Fist Story (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2943/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

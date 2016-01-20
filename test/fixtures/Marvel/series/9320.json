@@ -1,0 +1,132 @@
+{
+  "id": 9320,
+  "title": "Stephen King's \"N.\" (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9320",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9320/stephen_kings_n_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bacb26a44d3b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9320/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/644",
+        "name": "Marc Guggenheim",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+        "name": "Alex Maleev",
+        "role": "colorist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9320/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9320/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71322",
+        "name": "Cover #71322",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71323",
+        "name": "Interior #71323",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71327",
+        "name": "Interior #71327",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71328",
+        "name": "Cover #71328",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71330",
+        "name": "Interior #71330",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71332",
+        "name": "Cover #71332",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71333",
+        "name": "Interior #71333",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71334",
+        "name": "Interior #71334",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74102",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75773",
+        "name": "",
+        "type": ""
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9320/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31316",
+        "name": "Stephen King's \"N.\" (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31319",
+        "name": "Stephen King's \"N.\" (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31321",
+        "name": "Stephen King's \"N.\" (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31322",
+        "name": "Stephen King's \"N.\" (2010) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9320/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

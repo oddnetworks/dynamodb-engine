@@ -1,0 +1,358 @@
+{
+  "id": 462,
+  "title": "X-Statix (2002 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/462",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/462/x-statix_2002_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2002,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "ongoing",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bc46d298adcb",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/462/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11735",
+        "name": "Laura Allred",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4283",
+        "name": "J.d. Smith",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+        "name": "Mike Allred",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4275",
+        "name": "Paul Pope",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/66",
+        "name": "Frank Quitely",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+        "name": "John Miesegaes",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4593",
+        "name": "Warren Simons",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/219",
+        "name": "Kia Asamiya",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4269",
+        "name": "Darwyn Cooke",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+        "name": "Chuck Austen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+        "name": "Peter Milligan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/499",
+        "name": "Jay Bone",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/595",
+        "name": "Nick Craine",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1065",
+        "name": "Nate Piekos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4210",
+        "name": "Paul Tutrone",
+        "role": "letterer"
+      }
+    ],
+    "returned": 17
+  },
+  "characters": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/462/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011087",
+        "name": "Dead Girl"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009279",
+        "name": "Doop"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009484",
+        "name": "Oracle"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009653",
+        "name": "The Anarchist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009693",
+        "name": "Venus Dee Milo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009698",
+        "name": "Vivisector"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010806",
+        "name": "X-Statix"
+      }
+    ],
+    "returned": 9
+  },
+  "stories": {
+    "available": 76,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/462/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1016",
+        "name": "Cover #1016",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1017",
+        "name": "Interior #1017",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1209",
+        "name": "Cover #1209",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1210",
+        "name": "Interior #1210",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1300",
+        "name": "Cover #1300",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1301",
+        "name": "Interior #1301",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1751",
+        "name": "Cover #1751",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1752",
+        "name": "Interior #1752",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1753",
+        "name": "Cover #1753",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1754",
+        "name": "Interior #1754",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1755",
+        "name": "Cover #1755",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1756",
+        "name": "Interior #1756",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1757",
+        "name": "Cover #1757",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1758",
+        "name": "Interior #1758",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1759",
+        "name": "Cover #1759",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1760",
+        "name": "Interior #1760",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1761",
+        "name": "Cover #1761",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1762",
+        "name": "Interior #1762",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1763",
+        "name": "Cover #1763",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1764",
+        "name": "Interior #1764",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/462/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13405",
+        "name": "X-Statix (2002) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13414",
+        "name": "X-Statix (2002) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13415",
+        "name": "X-Statix (2002) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13416",
+        "name": "X-Statix (2002) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13417",
+        "name": "X-Statix (2002) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13418",
+        "name": "X-Statix (2002) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13419",
+        "name": "X-Statix (2002) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13420",
+        "name": "X-Statix (2002) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13421",
+        "name": "X-Statix (2002) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13406",
+        "name": "X-Statix (2002) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13407",
+        "name": "X-Statix (2002) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13408",
+        "name": "X-Statix (2002) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13409",
+        "name": "X-Statix (2002) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13410",
+        "name": "X-Statix (2002) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13411",
+        "name": "X-Statix (2002) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13412",
+        "name": "X-Statix (2002) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/218",
+        "name": "X-Statix (2002) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/272",
+        "name": "X-Statix (2002) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/213",
+        "name": "X-Statix (2002) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/438",
+        "name": "X-Statix (2002) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/462/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

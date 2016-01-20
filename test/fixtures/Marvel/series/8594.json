@@ -1,0 +1,114 @@
+{
+  "id": 8594,
+  "title": "War of Kings: Warriors - Gladiator (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8594",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8594/war_of_kings_warriors_-_gladiator_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "A",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb49b1f34524",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8594/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+        "name": "Mahmud Asrar",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/538",
+        "name": "Jeffrey Huet",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/832",
+        "name": "Val Staples",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8594/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8594/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/59459",
+        "name": "Cover #59459",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/59460",
+        "name": "Interior #59460",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/59461",
+        "name": "Cover #59461",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/59462",
+        "name": "Interior #59462",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8594/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27073",
+        "name": "War of Kings: Warriors - Gladiator (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27074",
+        "name": "War of Kings: Warriors - Gladiator (2009) #2"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8594/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/276",
+        "name": "War of Kings"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

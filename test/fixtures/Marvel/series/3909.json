@@ -1,0 +1,69 @@
+{
+  "id": 3909,
+  "title": "Ms. Marvel Special (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3909",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3909/ms_marvel_special_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T17:33:36-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bb8940254f72",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3909/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3909/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3909/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44957",
+        "name": "Cover #44957",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44958",
+        "name": "Interior #44958",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3909/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20805",
+        "name": "Ms. Marvel Special (2007) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3909/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

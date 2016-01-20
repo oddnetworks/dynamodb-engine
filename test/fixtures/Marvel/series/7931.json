@@ -1,0 +1,99 @@
+{
+  "id": 7931,
+  "title": "Kabuki Reflections Vol. 1 (2009 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7931",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7931/kabuki_reflections_vol_1_2009_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bb4bdc328afa",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7931/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/23",
+        "name": "David Mack",
+        "role": "penciller"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7931/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7931/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56404",
+        "name": "Cover #56404",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56405",
+        "name": "Interior #56405",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56406",
+        "name": "Cover #56406",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56407",
+        "name": "Interior #56407",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56408",
+        "name": "Cover #56408",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56409",
+        "name": "Interior #56409",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7931/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25580",
+        "name": "Kabuki Reflections Vol. 1 (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25581",
+        "name": "Kabuki Reflections Vol. 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7931/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

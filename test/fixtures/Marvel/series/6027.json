@@ -1,0 +1,69 @@
+{
+  "id": 6027,
+  "title": "Avengers: The Initiative Vol. 2 - Killed in Action (2008 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6027",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6027/avengers_the_initiative_vol_2_-_killed_in_action_2008_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2099,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/4bb6827f3efe7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6027/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6027/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6027/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49326",
+        "name": "Avengers: The Initiative 7-13; Annual 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49327",
+        "name": "Avengers: The Initiative 7-13; Annual 1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6027/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22406",
+        "name": "Avengers: The Initiative Vol. 2 - Killed in Action (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6027/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

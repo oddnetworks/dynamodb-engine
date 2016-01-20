@@ -1,0 +1,115 @@
+{
+  "id": 7007,
+  "title": "X-Men: Quitting Time (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7007",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7007/x-men_quitting_time_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bb597b573f1c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7007/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8658",
+        "name": "James Asmus",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5149",
+        "name": "Vicente Cifuentes",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+        "name": "Victor Olazaba",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/974",
+        "name": "Jeff Eckleberry",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+        "name": "Jorge Molina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+        "name": "Brandon Peterson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9729",
+        "name": "Ardian Sayif",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1143",
+        "name": "John Rauch",
+        "role": "colorist"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7007/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7007/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52910",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52911",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7007/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23849",
+        "name": "X-Men: Quitting Time (2009) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7007/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

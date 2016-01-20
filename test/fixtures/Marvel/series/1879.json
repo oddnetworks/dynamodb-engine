@@ -1,0 +1,90 @@
+{
+  "id": 1879,
+  "title": "Lords of Avalon (2007 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1879",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1879/lords_of_avalon_2007_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2009,
+  "rating": "Rated T+",
+  "type": "",
+  "modified": "2011-05-31T16:01:32-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bb8528bda038",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1879/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1390",
+        "name": "Dabel Brothers",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1879/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011283",
+        "name": "Lords of Avalon"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1879/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7962",
+        "name": "1 of 12 - 12XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7963",
+        "name": "1 of 12 - 12XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8423",
+        "name": "1 of 12 - 12XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8424",
+        "name": "1 of 12 - 12XLS",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1879/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6168",
+        "name": "Lords of Avalon (2007) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1879/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

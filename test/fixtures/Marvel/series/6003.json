@@ -1,0 +1,192 @@
+{
+  "id": 6003,
+  "title": "X-Men: Worlds Apart (2008 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6003",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6003/x-men_worlds_apart_2008_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2009,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "2011-06-01T17:28:04-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb6ccf199291",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6003/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11559",
+        "name": "Jeff Scott Campbell",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8382",
+        "name": "Diogenes Neves",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/789",
+        "name": "David Yardin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+        "name": "Morry Hollowell",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+        "name": "Jason Keith",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9458",
+        "name": "Stephan Roux",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/670",
+        "name": "Raul Trevino",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4538",
+        "name": "Edgar Tadeo",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      }
+    ],
+    "returned": 13
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6003/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6003/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49278",
+        "name": "4XLS 1 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49279",
+        "name": "4XLS 1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50042",
+        "name": "4XLS 2 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50043",
+        "name": "4XLS 2 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51033",
+        "name": "4XLS 3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51034",
+        "name": "4XLS 3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51380",
+        "name": "4XLS 4 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51381",
+        "name": "4XLS 4 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60049",
+        "name": "Cover #60049",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60050",
+        "name": "Interior #60050",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6003/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22386",
+        "name": "X-Men: Worlds Apart (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22579",
+        "name": "X-Men: Worlds Apart (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22995",
+        "name": "X-Men: Worlds Apart (2008) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23170",
+        "name": "X-Men: Worlds Apart (2008) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6003/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

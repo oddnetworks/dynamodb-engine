@@ -1,0 +1,80 @@
+{
+  "id": 10537,
+  "title": "Ultimate Comics X Vol. 1 (2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10537",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10537/ultimate_comics_x_vol_1_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2011-10-24T16:07:27-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10537/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+        "name": "Jeph Loeb",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10537/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10537/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63095",
+        "name": "Cover #63095",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63096",
+        "name": "Interior #63096",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10537/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28950",
+        "name": "Ultimate Comics X Vol. 1 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10537/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

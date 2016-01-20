@@ -1,0 +1,102 @@
+{
+  "id": 13851,
+  "title": "Defenders: From the Marvel Vault (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13851",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13851/defenders_from_the_marvel_vault_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-08-04T16:20:08-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13851/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+        "name": "Kurt Busiek",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13851/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13851/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90854",
+        "name": "Defenders: From the Marvel Vault",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90954",
+        "name": "DEFENDERS: FROM THE MARVEL VAULT #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13851/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38439",
+        "name": "Defenders: From the Marvel Vault (2011) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13851/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

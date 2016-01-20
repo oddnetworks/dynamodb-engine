@@ -1,0 +1,85 @@
+{
+  "id": 54,
+  "title": "New X-Men Vol. I: E Is for Extinction (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/54",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/54/new_x-men_vol_i_e_is_for_extinction_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "Marvel Psr",
+  "type": "collection",
+  "modified": "2015-01-08T12:14:48-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/54aebace04971",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/54/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/64",
+        "name": "Grant Morrison",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/66",
+        "name": "Frank Quitely",
+        "role": "penciller"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/54/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/54/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55",
+        "name": "A new foe, voted favorite villain by the Wizard Fan Awards, uncovers a city populated by a deadly technology and unleashes mass ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65132",
+        "name": "NEW X-MEN VOL. I: E IS FOR EXTINCTION TPB 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106427",
+        "name": "cover from New X-Men Vol. I: E Is for Extinction #0",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/54/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/992",
+        "name": "New X-Men Vol. I: E Is for Extinction (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/54/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

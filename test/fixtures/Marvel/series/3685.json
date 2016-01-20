@@ -1,0 +1,134 @@
+{
+  "id": 3685,
+  "title": "Squadron Supreme: New World Order (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3685",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3685/squadron_supreme_new_world_order_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "",
+  "type": "",
+  "modified": "2015-04-27T15:35:14-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3685/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6296",
+        "name": "Eric Eng Wong",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6901",
+        "name": "Len Kamanski",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/558",
+        "name": "Mark McKenna",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+        "name": "Mike McKone",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1292",
+        "name": "Anthony Williams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "colorist"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3685/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009361",
+        "name": "Hyperion (Earth-712)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010349",
+        "name": "Nighthawk"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3685/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40338",
+        "name": "Cover #40338",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40339",
+        "name": "Interior #40339",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3685/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18820",
+        "name": "Squadron Supreme: New World Order (1999) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3685/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

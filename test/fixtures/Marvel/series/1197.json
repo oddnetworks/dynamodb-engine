@@ -1,0 +1,170 @@
+{
+  "id": 1197,
+  "title": "Avengers Vol. 4: Lionheart of Avalon (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1197",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1197/avengers_vol_4_lionheart_of_avalon_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc665565e3fc",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1197/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+        "name": "Chuck Austen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+        "name": "John Cassaday",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+        "name": "David Finch",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+        "name": "Lee Weeks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+        "name": "Sean Chen",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+        "name": "Olivier Coipel",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/620",
+        "name": "Tom Simmons",
+        "role": "inker"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1197/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1197/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1024",
+        "name": "Avengers (1998) #80",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1025",
+        "name": "Interior #1025",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1026",
+        "name": "Avengers (1998) #81",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1027",
+        "name": "Interior #1027",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1649",
+        "name": "Avengers (1998) #77",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1650",
+        "name": "Interior #1650",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1947",
+        "name": "Avengers (1998) #78",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1948",
+        "name": "Interior #1948",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1949",
+        "name": "Avengers (1998) #79",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1950",
+        "name": "Interior #1950",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65653",
+        "name": "AVENGERS VOL. 4: LIONHEART OF AVALON TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1197/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1303",
+        "name": "Avengers Vol. 4: Lionheart of Avalon (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1197/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 3282,
+  "title": "Heroes for Hire Vol. 3: World War Hulk (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3282",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3282/heroes_for_hire_vol_3_world_war_hulk_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4bc38a52a4a62",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3282/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/757",
+        "name": "Clay Mann",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5140",
+        "name": "Francis Tsai",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3282/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010759",
+        "name": "Heroes For Hire"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3282/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32374",
+        "name": "World War Hulk 1 of 3; WWH SLUG",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36605",
+        "name": "Heroes for Hire 11-15",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36606",
+        "name": "Heroes for Hire 11-15",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3282/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17452",
+        "name": "Heroes for Hire Vol. 3: World War Hulk (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3282/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/277",
+        "name": "World War Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

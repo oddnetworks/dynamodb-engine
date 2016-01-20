@@ -1,0 +1,100 @@
+{
+  "id": 20198,
+  "title": "Star Wars: Knights Of The Old Republic Handbook (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20198",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20198/star_wars_knights_of_the_old_republic_handbook_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "",
+  "type": "",
+  "modified": "2015-02-03T10:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20198/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10673",
+        "name": "BRIAN Y. CHING",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1400",
+        "name": "Bong Dazo",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8584",
+        "name": "Harvey Tolibao",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+        "name": "Dustin Weaver",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12636",
+        "name": "Colin Wilson",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8795",
+        "name": "John Miller",
+        "role": "writer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20198/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20198/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119975",
+        "name": "story from Star Wars: Knights Of The Old Republic Handbook (2007) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119976",
+        "name": "cover from Star Wars: Knights Of The Old Republic Handbook (2007) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20198/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54375",
+        "name": "Star Wars: Knights Of The Old Republic Handbook (2007) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20198/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

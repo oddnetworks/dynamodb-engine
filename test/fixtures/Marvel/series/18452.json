@@ -1,0 +1,80 @@
+{
+  "id": 18452,
+  "title": "X-Men: No More Humans (2020 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18452",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18452/x-men_no_more_humans_2020_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2020,
+  "endYear": 2020,
+  "rating": "",
+  "type": "collection",
+  "modified": "2014-05-05T16:37:46-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18452/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18452/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18452/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110097",
+        "name": "cover from X-Men: Original Graphic Novel (2020)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110098",
+        "name": "story from X-Men: Original Graphic Novel (2020)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18452/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49005",
+        "name": "X-Men: No More Humans (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18452/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

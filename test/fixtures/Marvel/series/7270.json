@@ -1,0 +1,69 @@
+{
+  "id": 7270,
+  "title": "Wolverine: First Class - Wolverine-by-Night (2009 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7270",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7270/wolverine_first_class_-_wolverine-by-night_2009_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2099,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4bb5722a3de0a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7270/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7270/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7270/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53408",
+        "name": "Wolverine: First Class 9-12, Wolverine And Power Pack 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53409",
+        "name": "Wolverine: First Class 9-12, Wolverine And Power Pack 3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7270/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24085",
+        "name": "Wolverine: First Class - Wolverine-by-Night (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7270/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,127 @@
+{
+  "id": 7731,
+  "title": "Dominic Fortune (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7731",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7731/dominic_fortune_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bb49375e052c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7731/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/974",
+        "name": "Jeff Eckleberry",
+        "role": "letterer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7731/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7731/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55248",
+        "name": "Cover #55248",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55249",
+        "name": "Interior #55249",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55250",
+        "name": "Cover #55250",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55251",
+        "name": "Interior #55251",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55252",
+        "name": "Cover #55252",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55253",
+        "name": "Interior #55253",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55254",
+        "name": "Cover #55254",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/55255",
+        "name": "Interior #55255",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7731/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25008",
+        "name": "Dominic Fortune (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25009",
+        "name": "Dominic Fortune (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25010",
+        "name": "Dominic Fortune (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25011",
+        "name": "Dominic Fortune (2009) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7731/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

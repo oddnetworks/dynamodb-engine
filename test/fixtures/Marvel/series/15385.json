@@ -1,0 +1,148 @@
+{
+  "id": 15385,
+  "title": "X-MEN: AGE OF X HC (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/15385",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/15385/x-men_age_of_x_hc_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-17T17:28:53-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15385/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/412",
+        "name": "Carlo Barberi",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9224",
+        "name": "Paul Davidson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4150",
+        "name": "Paco Diaz",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4981",
+        "name": "Steve Kurth",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/757",
+        "name": "Clay Mann",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1103",
+        "name": "Khoi Pham",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10107",
+        "name": "Mirco Pierfederici",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10146",
+        "name": "Gabriel Hernandez Walta",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5635",
+        "name": "Simon Spurrier",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 12
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15385/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+        "name": "Magneto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15385/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93645",
+        "name": "X-MEN: AGE OF X HC",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93647",
+        "name": "X-MEN: AGE OF X HC (2011) ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106740",
+        "name": "",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15385/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41375",
+        "name": "X-MEN: AGE OF X HC (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15385/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

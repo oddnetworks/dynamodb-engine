@@ -1,0 +1,152 @@
+{
+  "id": 8815,
+  "title": "Iron Man & the Armor Wars (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8815",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8815/iron_man_the_armor_wars_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bb4187b48cfd",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8815/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+        "name": "Takeshi Miyazawa",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/832",
+        "name": "Val Staples",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5140",
+        "name": "Francis Tsai",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8260",
+        "name": "Craig Rousseau",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8815/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8815/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58311",
+        "name": "Cover #58311",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/58312",
+        "name": "Interior #58312",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60425",
+        "name": "Cover #60425",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60426",
+        "name": "Interior #60426",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60427",
+        "name": "Cover #60427",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60428",
+        "name": "Interior #60428",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60429",
+        "name": "Cover #60429",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60430",
+        "name": "Interior #60430",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8815/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26501",
+        "name": "Iron Man & the Armor Wars (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27574",
+        "name": "Iron Man & the Armor Wars (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27575",
+        "name": "Iron Man & the Armor Wars (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27576",
+        "name": "Iron Man & the Armor Wars (2009) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8815/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,184 @@
+{
+  "id": 1686,
+  "title": "Wolverine Classic Vol. 3 (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1686",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1686/wolverine_classic_vol_3_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bb892ee72f61",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1686/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1871",
+        "name": "Ken Bruzenak",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2073",
+        "name": "Mark Chiarello",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+        "name": "Glynis Oliver",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2364",
+        "name": "Greg Wright",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3886",
+        "name": "Daryl Edelman",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1275",
+        "name": "Kevin Nowlan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+        "name": "Bill Sienkiewicz",
+        "role": "inker"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1686/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1686/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28585",
+        "name": "The Gehenna Stone Affair Part 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28586",
+        "name": "Brother's Keeper",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28607",
+        "name": "The Gehenna Stone Affair Part 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28608",
+        "name": "Straits of San Francisco",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28629",
+        "name": "The Gehenna Stone Affair Part 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28630",
+        "name": "Blood Ties",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28651",
+        "name": "The Gehenna Stone Affair Part 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28652",
+        "name": "Flying Wolves",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28674",
+        "name": "The Gehenna Stone Affair Part 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28675",
+        "name": "Homecoming",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28697",
+        "name": "The Gehenna Stone Affair Part 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28698",
+        "name": "Electric Warriors",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66003",
+        "name": "WOLVERINE CLASSIC VOL. 3 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1686/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4202",
+        "name": "Wolverine Classic Vol. 3 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1686/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

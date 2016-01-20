@@ -1,0 +1,182 @@
+{
+  "id": 8799,
+  "title": "Dark Avengers/Uncanny X-Men: Utopia (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8799",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8799/dark_avengersuncanny_x-men_utopia_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/c0/4badd16ddbfc2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8799/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+        "name": "Jae Lee",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/529",
+        "name": "June Chung",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5003",
+        "name": "Simone Peruzzi",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+        "name": "Matt Fraction",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+        "name": "Marc Silvestri",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4566",
+        "name": "Joe Weems",
+        "role": "inker"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8799/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8799/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60333",
+        "name": "Cover #60333",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60334",
+        "name": "Interior #60334",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60387",
+        "name": "Cover #60387",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60388",
+        "name": "Interior #60388",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60389",
+        "name": "Cover #60389",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60390",
+        "name": "Interior #60390",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61106",
+        "name": "Cover #61106",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61107",
+        "name": "Interior #61107",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62731",
+        "name": "Cover #62731",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62732",
+        "name": "Interior #62732",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8799/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27513",
+        "name": "Dark Avengers/Uncanny X-Men: Utopia (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28768",
+        "name": "Dark Avengers/Uncanny X-Men: Utopia (2009) #1 (2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27555",
+        "name": "Dark Avengers/Uncanny X-Men: Utopia (2009) #1 (BIANCHI VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27556",
+        "name": "Dark Avengers/Uncanny X-Men: Utopia (2009) #1 (LEE VARIANT)"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8799/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

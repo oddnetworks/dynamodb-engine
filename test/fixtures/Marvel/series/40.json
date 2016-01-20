@@ -1,0 +1,80 @@
+{
+  "id": 40,
+  "title": "Essential X-Men Vol. III (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/40",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/40/essential_x-men_vol_iii_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bc66f1ad2b6a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/40/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+        "name": "Dave Cockrum",
+        "role": "penciller"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/40/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/40/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41",
+        "name": "Hated and feared by a world they are sworn to protect, the X-Men face off against some of their most unforgettable foes Ñ includ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65118",
+        "name": "ESSENTIAL X-MEN VOL. III TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/40/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/978",
+        "name": "Essential X-Men Vol. III (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/40/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

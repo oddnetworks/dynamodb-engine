@@ -1,0 +1,143 @@
+{
+  "id": 9112,
+  "title": "Wolverine Vs. Thor (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9112",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9112/wolverine_vs_thor_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4bb3ddf9ebe7d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9112/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9628",
+        "name": "Ulises Arreola",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7644",
+        "name": "John Cerilli",
+        "role": "director of digital content"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4150",
+        "name": "Paco Diaz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7671",
+        "name": "Harry Go",
+        "role": "digital coordinator"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10055",
+        "name": "Guillermo Ortego",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9551",
+        "name": "Tim Smith 3",
+        "role": "digital production manager"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10003",
+        "name": "Robert Steen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+        "name": "Frank Tieri",
+        "role": "writer"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9112/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9112/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68733",
+        "name": "WOLVERINE VS. THOR 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70350",
+        "name": "Interior from Wolverine vs. Thor #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73850",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73851",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73852",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73853",
+        "name": "Cover from Wolverine vs. Thor #2",
+        "type": "cover"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9112/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29824",
+        "name": "Wolverine Vs. Thor (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30759",
+        "name": "Wolverine Vs. Thor (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32757",
+        "name": "Wolverine Vs. Thor (2009) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9112/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,150 @@
+{
+  "id": 8710,
+  "title": "X-Men: Mutant Massacre (2010 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8710",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8710/x-men_mutant_massacre_2010_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/4bb48e6e41975",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8710/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+        "name": "Bret Blevins",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1279",
+        "name": "Jon Bogdanove",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+        "name": "Alan Davis",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+        "name": "Butch Guice",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1252",
+        "name": "Rick Leonardi",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+        "name": "Walter Simonson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11419",
+        "name": "Barry Windsor-Smith",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+        "name": "Ann Nocenti",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+        "name": "Louise Simonson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10113",
+        "name": "Ryan Devall",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10060",
+        "name": "Arlene So",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7553",
+        "name": "JEPH YORK",
+        "role": "other"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8710/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8710/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60034",
+        "name": "Cover #60034",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60035",
+        "name": "Interior #60035",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8710/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27358",
+        "name": "X-Men: Mutant Massacre (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8710/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/263",
+        "name": "Mutant Massacre"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

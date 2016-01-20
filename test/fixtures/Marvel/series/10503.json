@@ -1,0 +1,85 @@
+{
+  "id": 10503,
+  "title": "Thor the Mighty Avenger Vol. 1: The God Who Fell to Earth GN-TPB (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10503",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10503/thor_the_mighty_avenger_vol_1_the_god_who_fell_to_earth_gn-tpb_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2011-03-30T16:39:51-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/50/4c9778a747236",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10503/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/402",
+        "name": "Roger Langridge",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+        "name": "Chris Samnee",
+        "role": "penciler"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10503/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10503/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63061",
+        "name": "Cover #63061",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63062",
+        "name": "Interior #63062",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10503/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28933",
+        "name": "Thor the Mighty Avenger Vol. 1: The God Who Fell to Earth GN-TPB (GRAPHIC NOVEL)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10503/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

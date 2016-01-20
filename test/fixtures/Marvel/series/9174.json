@@ -1,0 +1,69 @@
+{
+  "id": 9174,
+  "title": "Origins of Siege (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9174",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9174/origins_of_siege_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4bacab6802016",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9174/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9174/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9174/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68637",
+        "name": "ORIGINS OF SIEGE 1 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9174/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29929",
+        "name": "Origins of Siege (2009) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9174/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

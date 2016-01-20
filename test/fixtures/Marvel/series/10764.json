@@ -1,0 +1,142 @@
+{
+  "id": 10764,
+  "title": "Warriors Three (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10764",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10764/warriors_three_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-02-16T15:42:37-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4c6475841e879",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10764/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8204",
+        "name": "Charlie Beckerman",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8018",
+        "name": "Amanda Conner",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10115",
+        "name": "Neil Edwards",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9394",
+        "name": "Salvador Espin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+        "name": "Laura Martin",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3260",
+        "name": "Bill Willingham",
+        "role": "writer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10764/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10764/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75856",
+        "name": "Cover #75856",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75857",
+        "name": "Interior #75857",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75858",
+        "name": "Cover #75858",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75859",
+        "name": "Interior #75859",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76048",
+        "name": "Cover #76048",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76049",
+        "name": "Interior #76049",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76299",
+        "name": "Cover #76299",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76300",
+        "name": "Interior #76300",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10764/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33839",
+        "name": "Warriors Three (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33812",
+        "name": "Warriors Three (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33833",
+        "name": "Warriors Three (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33832",
+        "name": "Warriors Three (2010) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10764/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

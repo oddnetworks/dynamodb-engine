@@ -1,0 +1,100 @@
+{
+  "id": 5214,
+  "title": "Newuniversal: 1959 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5214",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5214/newuniversal_1959_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/4bb7958e7984f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5214/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8907",
+        "name": "Kody Chamberlain",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5037",
+        "name": "Ed Dukeshire",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+        "name": "Brandon Peterson",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/832",
+        "name": "Val Staples",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7431",
+        "name": "GREG SCOTT",
+        "role": "inker"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5214/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5214/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47600",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47601",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5214/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21597",
+        "name": "Newuniversal: 1959 (2008) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5214/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

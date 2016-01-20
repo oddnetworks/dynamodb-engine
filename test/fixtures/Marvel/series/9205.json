@@ -1,0 +1,170 @@
+{
+  "id": 9205,
+  "title": "House of M: Wolverine, Iron Man & Hulk (2010 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9205",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9205/house_of_m_wolverine_iron_man_hulk_2010_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bae49850f076",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9205/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+        "name": "Ed Brubaker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/521",
+        "name": "Reginald Hudlin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+        "name": "Daniel Way",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/530",
+        "name": "Andy Brase",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/347",
+        "name": "Trevor Hairsine",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/509",
+        "name": "Michael Lark",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+        "name": "Pat Lee",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4261",
+        "name": "Jorge Pereira Lucas",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/641",
+        "name": "Javier Saltares",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11501",
+        "name": "Mark Texeira",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+        "name": "Lee Weeks",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+        "name": "Patrick Zircher",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9355",
+        "name": "Robert Sodaro",
+        "role": "other"
+      }
+    ],
+    "returned": 19
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9205/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9205/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62777",
+        "name": "Cover #62777",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62778",
+        "name": "Interior #62778",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9205/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28791",
+        "name": "House of M: Wolverine, Iron Man & Hulk (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9205/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "name": "House of M"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

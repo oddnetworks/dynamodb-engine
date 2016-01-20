@@ -25,6 +25,10 @@
         "name": "Alpha Flight (2011) #1 (Eaglesham Variant)"
       },
       {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/456",
+        "name": "Alpha Flight (2004) #2"
+      },
+      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/12679",
         "name": "Alpha Flight (1983) #2"
       },
@@ -33,24 +37,24 @@
         "name": "Alpha Flight (2011) #2"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/456",
-        "name": "Alpha Flight (2004) #2"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/39818",
         "name": "Alpha Flight (2011) #2 (Eaglesham Variant)"
-      },
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12690",
-        "name": "Alpha Flight (1983) #3"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/616",
         "name": "Alpha Flight (2004) #3"
       },
       {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12690",
+        "name": "Alpha Flight (1983) #3"
+      },
+      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/39820",
         "name": "Alpha Flight (2011) #3 (Eaglesham Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12701",
+        "name": "Alpha Flight (1983) #4"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/38567",
@@ -59,10 +63,6 @@
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/677",
         "name": "Alpha Flight (2004) #4"
-      },
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12701",
-        "name": "Alpha Flight (1983) #4"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/12712",
@@ -85,12 +85,12 @@
         "name": "Alpha Flight (1983) #6"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/790",
-        "name": "Alpha Flight (2004) #7"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/12734",
         "name": "Alpha Flight (1983) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/790",
+        "name": "Alpha Flight (2004) #7"
       }
     ],
     "returned": 20
@@ -148,12 +148,12 @@
         "name": "Essential X-Men Vol. 2 (All-New Edition) (2011 - Present)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
-        "name": "Fantastic Four (1961 - 1998)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/2123",
         "name": "Fantastic Four (1996 - 1997)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/2121",
+        "name": "Fantastic Four (1961 - 1998)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/1812",
@@ -319,7 +319,7 @@
   "urls": [
     {
       "type": "detail",
-      "url": "http://marvel.com/characters/126/alpha_flight?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+      "url": "http://marvel.com/comics/characters/1010370/alpha_flight?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
     },
     {
       "type": "wiki",

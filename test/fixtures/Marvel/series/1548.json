@@ -1,0 +1,150 @@
+{
+  "id": 1548,
+  "title": "House of M: Incredible Hulk (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1548",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1548/house_of_m_incredible_hulk_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bc6045457ebd",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1548/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/359",
+        "name": "John Dell",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+        "name": "Adam Kubert",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+        "name": "Andy Kubert",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4261",
+        "name": "Jorge Pereira Lucas",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/531",
+        "name": "Javi Montes",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/534",
+        "name": "William Murai",
+        "role": "colorist"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1548/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1548/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1247",
+        "name": "1 of 4 - Last Refuge (House of M)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1249",
+        "name": "2 of 4 - Last Refuge (House of M)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1251",
+        "name": "3 of 4 - Last Refuge (House of M)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1253",
+        "name": "1 of 1 -",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1257",
+        "name": "4 of 4 - Terror Incognita",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1259",
+        "name": "2 of 4 - Terror Incognita",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65900",
+        "name": "HOUSE OF M: INCREDIBLE HULK 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 7
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1548/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3491",
+        "name": "House of M: Incredible Hulk (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1548/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "name": "House of M"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

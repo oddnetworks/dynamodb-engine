@@ -1,0 +1,85 @@
+{
+  "id": 4922,
+  "title": "Captain America: The Death of Captain America Vol. 2 Premiere (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4922",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4922/captain_america_the_death_of_captain_america_vol_2_premiere_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4c365fa480882",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4922/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+        "name": "Ed Brubaker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+        "name": "Steve Epting",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+        "name": "Alex Ross",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4922/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4922/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47037",
+        "name": "Captain America 31-36",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47038",
+        "name": "Captain America 31-36",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4922/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21298",
+        "name": "Captain America: The Death of Captain America Vol. 2 Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4922/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

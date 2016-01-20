@@ -1,0 +1,332 @@
+{
+  "id": 788,
+  "title": "New Thunderbolts (2004 - 2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/788",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/788/new_thunderbolts_2004_-_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2006,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc6b22116c9f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/788/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+        "name": "Kurt Busiek",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/762",
+        "name": "Gary Erskine",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+        "name": "Tom Grummett",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/788/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010336",
+        "name": "Atlas (Team)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009198",
+        "name": "Blizzard"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011033",
+        "name": "Joystick"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010851",
+        "name": "Mach IV"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010362",
+        "name": "Moonstone"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011045",
+        "name": "Photon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009520",
+        "name": "Purple Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009526",
+        "name": "Radioactive Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010693",
+        "name": "Songbird"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011032",
+        "name": "Speed Demon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009641",
+        "name": "Swordsman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010360",
+        "name": "Thunderbolts"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 16
+  },
+  "stories": {
+    "available": 36,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/788/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3868",
+        "name": "1 of 6 - Zeroes to Heroes",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3869",
+        "name": "1 of 6 - Zeroes to Heroes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3870",
+        "name": "2 of 6 - Zeroes to Heroes",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3871",
+        "name": "2 of 6 - Zeroes to Heroes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3872",
+        "name": "3 of 6 - Zeroes to Heroes",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3873",
+        "name": "3 of 6 - Zeroes to Heroes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3874",
+        "name": "4 of 6 - Zeroes to Heroes",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3875",
+        "name": "4 of 6 - Zeroes to Heroes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3876",
+        "name": "5 of 6 - Zeroes to Heroes",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3877",
+        "name": "5 of 6 - Zeroes to Heroes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3878",
+        "name": "6 of 6 - One Step Forward",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3879",
+        "name": "6 of 6 - One Step Forward",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3880",
+        "name": "1 of 6 - Reflections",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3881",
+        "name": "1 of 6 - Reflections",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3882",
+        "name": "2 of 6 - Reflections",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3883",
+        "name": "2 of 6 - Reflections",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3884",
+        "name": "3 of 6 - Reflections",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3885",
+        "name": "3 of 6 - Reflections",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3886",
+        "name": "4 of 6 - Reflections",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3887",
+        "name": "4 of 6 - Reflections",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/788/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64",
+        "name": "New Thunderbolts (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65",
+        "name": "New Thunderbolts (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1462",
+        "name": "New Thunderbolts (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1556",
+        "name": "New Thunderbolts (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1643",
+        "name": "New Thunderbolts (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1738",
+        "name": "New Thunderbolts (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1905",
+        "name": "New Thunderbolts (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2010",
+        "name": "New Thunderbolts (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2113",
+        "name": "New Thunderbolts (2004) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2222",
+        "name": "New Thunderbolts (2004) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2335",
+        "name": "New Thunderbolts (2004) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2467",
+        "name": "New Thunderbolts (2004) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2516",
+        "name": "New Thunderbolts (2004) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2517",
+        "name": "New Thunderbolts (2004) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3058",
+        "name": "New Thunderbolts (2004) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3153",
+        "name": "New Thunderbolts (2004) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3375",
+        "name": "New Thunderbolts (2004) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3493",
+        "name": "New Thunderbolts (2004) #18"
+      }
+    ],
+    "returned": 18
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/788/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+        "name": "Enemy of the State"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "name": "House of M"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

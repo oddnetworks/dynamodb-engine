@@ -1,0 +1,184 @@
+{
+  "id": 19456,
+  "title": "Hail Hydra (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19456",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19456/hail_hydra_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2015-08-27T13:11:44-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/30/55df447e3569c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19456/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+        "name": "David Aja",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1054",
+        "name": "Juan Doe",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+        "name": "Ron Garney",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1348",
+        "name": "Andrew Robinson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9371",
+        "name": "Roland Boschi",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+        "name": "Rick Remender",
+        "role": "writer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19456/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19456/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115447",
+        "name": "cover from Hail Hydra (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115448",
+        "name": "story from Hail Hydra (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115449",
+        "name": "cover from Hail Hydra (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115450",
+        "name": "story from Hail Hydra (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115451",
+        "name": "cover from Hail Hydra (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115452",
+        "name": "story from Hail Hydra (2015) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115453",
+        "name": "cover from Hail Hydra (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/115454",
+        "name": "story from Hail Hydra (2015) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120723",
+        "name": "cover from Hail Hydra (2015) #1 (DOE VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120724",
+        "name": "story from Hail Hydra (2015) #1 (DOE VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121502",
+        "name": "cover from Hail Hydra (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121503",
+        "name": "story from Hail Hydra (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123473",
+        "name": "cover from Hail Hydra (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123474",
+        "name": "story from Hail Hydra (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 14
+  },
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19456/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51935",
+        "name": "Hail Hydra (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54751",
+        "name": "Hail Hydra (2015) #1 (Doe Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51936",
+        "name": "Hail Hydra (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55205",
+        "name": "Hail Hydra (2015) #2 (Garney Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51937",
+        "name": "Hail Hydra (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56255",
+        "name": "Hail Hydra (2015) #3 (Aja Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51938",
+        "name": "Hail Hydra (2015) #4"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19456/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

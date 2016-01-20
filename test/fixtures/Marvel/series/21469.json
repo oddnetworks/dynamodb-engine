@@ -1,0 +1,85 @@
+{
+  "id": 21469,
+  "title": "Mythos: Hulk (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21469",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21469/mythos_hulk_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "",
+  "type": "one shot",
+  "modified": "2015-12-10T15:28:57-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/5669e07feeb28",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21469/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+        "name": "Paul Jenkins",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+        "name": "Paolo Rivera",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21469/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21469/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4060",
+        "name": "Cover #4060",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4061",
+        "name": "Interior #4061",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21469/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4735",
+        "name": "Mythos: Hulk (2006) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21469/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

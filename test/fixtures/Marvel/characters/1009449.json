@@ -9,7 +9,7 @@
   },
   "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
   "comics": {
-    "available": 42,
+    "available": 41,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009449/comics",
     "items": [
       {
@@ -19,10 +19,6 @@
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/39259",
         "name": "Avenging Spider-Man (2011) #1"
-      },
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41095",
-        "name": "Avenging Spider-Man (2011) #1 (Quesada Variant )"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/42260",
@@ -41,16 +37,16 @@
         "name": "Avenging Spider-Man (2011) #1 (Blank Cover Variant)"
       },
       {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41095",
+        "name": "Avenging Spider-Man (2011) #1 (Quesada Variant )"
+      },
+      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/29744",
         "name": "Black Widow & the Marvel Girls (2009) #4"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/13312",
         "name": "Fantastic Four (1996) #1"
-      },
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13317",
-        "name": "Fantastic Four (1996) #2"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/13315",
@@ -91,6 +87,10 @@
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/17460",
         "name": "Fantastic Four 1 2 3 4 (2001)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17461",
+        "name": "Fantastic Four Visionaries: John Byrne Vol. 4 (Trade Paperback)"
       }
     ],
     "returned": 20

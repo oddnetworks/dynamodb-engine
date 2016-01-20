@@ -1,0 +1,85 @@
+{
+  "id": 353,
+  "title": "Ultimate X-Men/Fantastic Four (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/353",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/353/ultimate_x-menfantastic_four_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/4bc5fe98da3c4",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/353/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+        "name": "Pasqual Ferry",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/353/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+        "name": "X-Men (Ultimate)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/353/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/488",
+        "name": "Cover #488",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/489",
+        "name": "Interior #489",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/353/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3632",
+        "name": "Ultimate X-Men/Fantastic Four (2005) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/353/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

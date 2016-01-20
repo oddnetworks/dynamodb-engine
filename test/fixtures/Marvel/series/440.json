@@ -1,0 +1,294 @@
+{
+  "id": 440,
+  "title": "Namor (2003 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/440",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/440/namor_2003_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc37fcd49a14",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/440/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/506",
+        "name": "Joe Bennett",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1483",
+        "name": "George Kapitan",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5107",
+        "name": "Patrick Olliffe",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2755",
+        "name": "Mike Royer",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1357",
+        "name": "Harry Sahle",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/408",
+        "name": "Carl Burgos",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1481",
+        "name": "Hank Chapman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1480",
+        "name": "Jack DArcy",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1484",
+        "name": "Bill Jay",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/623",
+        "name": "Watson Jemas",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/496",
+        "name": "Andi Watson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/949",
+        "name": "Alex Schomburg",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+        "name": "Lee Weeks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/497",
+        "name": "John Livesay",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/947",
+        "name": "Joe Simon",
+        "role": "editor"
+      }
+    ],
+    "returned": 17
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/440/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/440/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1007",
+        "name": "Cover #1007",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1008",
+        "name": "Interior #1008",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1127",
+        "name": "Cover #1127",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1128",
+        "name": "Interior #1128",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1907",
+        "name": "Cover #1907",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1908",
+        "name": "Interior #1908",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2009",
+        "name": "Cover #2009",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2010",
+        "name": "Interior #2010",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2043",
+        "name": "Cover #2043",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2044",
+        "name": "Interior #2044",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2328",
+        "name": "Interior #2328",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9025",
+        "name": "Cover #9025",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9026",
+        "name": "The Human Torch Battles the Sub-Mariner As the World Faces Destruction",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9027",
+        "name": "Murder in the Underground",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26071",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26075",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26076",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26077",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26078",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26079",
+        "name": "",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/440/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10310",
+        "name": "Namor (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10314",
+        "name": "Namor (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10315",
+        "name": "Namor (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10316",
+        "name": "Namor (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10317",
+        "name": "Namor (2003) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10318",
+        "name": "Namor (2003) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/135",
+        "name": "Namor (2003) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/134",
+        "name": "Namor (2003) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/133",
+        "name": "Namor (2003) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/139",
+        "name": "Namor (2003) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/138",
+        "name": "Namor (2003) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/137",
+        "name": "Namor (2003) #12"
+      }
+    ],
+    "returned": 12
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/440/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,204 @@
+{
+  "id": 67,
+  "title": "Spider-Man's Tangled Web Vol. I (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/67",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/67/spider-mans_tangled_web_vol_i_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bc66d6f7426f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/67/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+        "name": "Wes Abbot",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+        "name": "John Miesegaes",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+        "name": "Steve Buccellato",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/545",
+        "name": "Duncan Fegredo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+        "name": "Peter Milligan",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/67/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009537",
+        "name": "Rhino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/67/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25458",
+        "name": "Cover #25458",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25459",
+        "name": "Rhinoplasty",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25460",
+        "name": "Web Heads",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25461",
+        "name": "[House Advertisement]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25462",
+        "name": "Hey Bub Subscribe Today!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25463",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25464",
+        "name": "Cover #25464",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25465",
+        "name": "Cornucopia",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25466",
+        "name": "[House Advertisements]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25467",
+        "name": "Hey Bub Subscribe Today!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25468",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36743",
+        "name": "Cover #36743",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36744",
+        "name": "Interior #36744",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36745",
+        "name": "Cover #36745",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36746",
+        "name": "Interior #36746",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36747",
+        "name": "Cover #36747",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36748",
+        "name": "Interior #36748",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36749",
+        "name": "Cover #36749",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36750",
+        "name": "Interior #36750",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65145",
+        "name": "SPIDER-MAN'S TANGLED WEB VOL. I TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/67/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1005",
+        "name": "Spider-Man's Tangled Web Vol. I (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/67/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

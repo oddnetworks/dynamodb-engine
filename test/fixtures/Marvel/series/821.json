@@ -1,0 +1,104 @@
+{
+  "id": 821,
+  "title": "Punisher 2099 (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/821",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/821/punisher_2099_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc6612318dab",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/821/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/553",
+        "name": "Robert Kirkman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+        "name": "Pat Lee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/874",
+        "name": "Pop Mahn",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/832",
+        "name": "Val Staples",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/821/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009517",
+        "name": "Punisher (2099)"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/821/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4179",
+        "name": "Cover #4179",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4180",
+        "name": "Interior #4180",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/821/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1401",
+        "name": "Punisher 2099 (2004) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/821/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

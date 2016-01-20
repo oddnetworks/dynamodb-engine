@@ -1,0 +1,85 @@
+{
+  "id": 1876,
+  "title": "Legion of Monsters: Werewolf by Night (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1876",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1876/legion_of_monsters_werewolf_by_night_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "2011-05-31T15:54:40-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bc5a56572cb0",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1876/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1876/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1876/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7956",
+        "name": "Cover #7956",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7957",
+        "name": "Interior #7957",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1876/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6056",
+        "name": "Legion of Monsters: Werewolf by Night (2007) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1876/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

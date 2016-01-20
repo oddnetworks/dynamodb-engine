@@ -1,0 +1,153 @@
+{
+  "id": 1909,
+  "title": "Franklin Richards: Lab Brat (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1909",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1909/franklin_richards_lab_brat_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bc5a879e0b3d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1909/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/598",
+        "name": "Brad Anderson",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+        "name": "Marc Sumerak",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1909/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009539",
+        "name": "Franklin Richards"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010869",
+        "name": "Masked Marvel (Unrevealed)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1909/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/508",
+        "name": "Interior #508",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5471",
+        "name": "Interior #5471",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5788",
+        "name": "Cover #5788",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5789",
+        "name": "Interior #5789",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6152",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6153",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6154",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6155",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36675",
+        "name": "Cover #36675",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36676",
+        "name": "Interior #36676",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36677",
+        "name": "Cover #36677",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36678",
+        "name": "Interior #36678",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66129",
+        "name": "FRANKLIN RICHARDS: LAB BRAT 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1909/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5993",
+        "name": "Franklin Richards: Lab Brat (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1909/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

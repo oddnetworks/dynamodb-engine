@@ -1,0 +1,110 @@
+{
+  "id": 4543,
+  "title": "Essential Iron Man Vol. 3 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4543",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4543/essential_iron_man_vol_3_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bb85beadb10f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4543/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3054",
+        "name": "Allyn Brodsky",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2884",
+        "name": "Mimi Gold",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+        "name": "Archie Goodwin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1709",
+        "name": "Johnny Craig",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+        "name": "Don Heck",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1183",
+        "name": "George Tuska",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4543/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4543/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46073",
+        "name": "Iron Man 12-38, Daredevil 73",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46074",
+        "name": "Iron Man 12-38, Daredevil 73",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4543/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21064",
+        "name": "Essential Iron Man Vol. 3 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4543/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

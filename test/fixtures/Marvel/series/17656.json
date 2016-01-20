@@ -1,0 +1,75 @@
+{
+  "id": 17656,
+  "title": "Morbius: The Living Vampire (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17656",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17656/morbius_the_living_vampire_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "collection",
+  "modified": "2013-11-20T09:42:04-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17656/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17656/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17656/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105372",
+        "name": "cover from Morbius: The Living Vampire (2014)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105373",
+        "name": "story from Morbius: The Living Vampire (2014)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17656/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46875",
+        "name": "Morbius: The Living Vampire (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17656/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

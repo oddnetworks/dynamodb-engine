@@ -1,0 +1,159 @@
+{
+  "id": 9195,
+  "title": "Siege: Storming Asgard - Heroes & Villains (2009 - 2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9195",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9195/siege_storming_asgard_-_heroes_villains_2009_-_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bac1572e96b8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9195/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8542",
+        "name": "Gerry Alanguilan",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1371",
+        "name": "Terry Pallot",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5158",
+        "name": "Rafa Sandoval",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10363",
+        "name": "John Rhett Thomas",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8258",
+        "name": "Craig Gilmore",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+        "name": "Justin Ponsor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9193",
+        "name": "Nick Marinkovich",
+        "role": "inker"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9195/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9195/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57042",
+        "name": "Cover #57042",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57043",
+        "name": "Interior #57043",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69384",
+        "name": "Cover #69384",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69385",
+        "name": "Interior #69385",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71270",
+        "name": "Cover #71270",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71271",
+        "name": "Interior #71271",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71272",
+        "name": "Cover #71272",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71273",
+        "name": "Interior #71273",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71274",
+        "name": "Interior #71274",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9195/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25887",
+        "name": "Siege: Storming Asgard - Heroes & Villains (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30279",
+        "name": "Siege: Storming Asgard - Heroes & Villains (2009) #1 (FEMALE LOKI VARIANT)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9195/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

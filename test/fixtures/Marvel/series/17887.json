@@ -1,0 +1,105 @@
+{
+  "id": 17887,
+  "title": "Captain Universe: The Hero Who Could Be You (2013 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17887",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17887/captain_universe_the_hero_who_could_be_you_2013_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2099,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2014-10-10T12:33:20-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/54380a196cd63",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17887/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1298",
+        "name": "June Brigman",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6060",
+        "name": "Scott Alan McDaniel",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2296",
+        "name": "Glenn Herdling",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1177",
+        "name": "Tony Isabella",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/966",
+        "name": "Bill Mantlo",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17887/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17887/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107005",
+        "name": "cover from Captain Universe: The Hero Who Could Be You (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107006",
+        "name": "story from Captain Universe: The Hero Who Could Be You (2013) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17887/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47353",
+        "name": "Captain Universe: The Hero Who Could Be You (2013) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17887/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

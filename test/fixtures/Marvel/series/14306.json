@@ -1,0 +1,69 @@
+{
+  "id": 14306,
+  "title": "Fear Itself: Invincible Iron Man (2011 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14306",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14306/fear_itself_invincible_iron_man_2011_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-12-19T12:17:48-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14306/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14306/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14306/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89323",
+        "name": "Cover #89323",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89324",
+        "name": "Interior #89324",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14306/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39351",
+        "name": "Fear Itself: Invincible Iron Man (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14306/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

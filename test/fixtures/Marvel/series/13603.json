@@ -1,0 +1,132 @@
+{
+  "id": 13603,
+  "title": "Age of X: Alpha (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13603",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13603/age_of_x_alpha_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-02T15:52:24-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/54f4cd6d628c7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13603/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+        "name": "Chris Bachalo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13603/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13603/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83523",
+        "name": "Cover #83523",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83524",
+        "name": "Interior #83524  ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85353",
+        "name": "Age of X Alpha #1 2nd Printing ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89054",
+        "name": "Age of X Alpha #1 ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89056",
+        "name": "Age of X Alpha #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89157",
+        "name": "Age of X Alpha #1 Conrad 2nd Printing",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89910",
+        "name": "Cover #89910",
+        "type": "cover"
+      }
+    ],
+    "returned": 7
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13603/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37996",
+        "name": "Age of X: Alpha (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39284",
+        "name": "Age of X: Alpha (2010) #1 (Conrad 2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37973",
+        "name": "Age of X: Alpha (2010) #1 (Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38895",
+        "name": "Age of X: Alpha (2010) #1 (2nd Printing Variant )"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13603/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/303",
+        "name": "Age of X"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

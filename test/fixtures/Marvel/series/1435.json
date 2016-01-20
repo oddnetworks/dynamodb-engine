@@ -1,0 +1,160 @@
+{
+  "id": 1435,
+  "title": "X-Men: The End Book 3: Men and X-Men (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1435",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1435/x-men_the_end_book_3_men_and_x-men_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc5cc601cea9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1435/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+        "name": "Sean Chen",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/420",
+        "name": "Sandu Florea",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/292",
+        "name": "Gene Ha",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+        "name": "Ian Hannin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1435/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1435/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3228",
+        "name": "1 of 6 - Men and X-Men",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3229",
+        "name": "1 of 6 - Men and X-Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3230",
+        "name": "2 of 6 - Men and X-Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3231",
+        "name": "4 of 6 - Men and X-Men",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3232",
+        "name": "4 of 6 - Men and X-Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3233",
+        "name": "3 of 6 - Men and X-Men",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3234",
+        "name": "3 of 6 - Men and X-Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3235",
+        "name": "5 of 6 - Men and X-Men",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3236",
+        "name": "5 of 6 - Men and X-Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3237",
+        "name": "6 of 6 - Men and X-Men",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3238",
+        "name": "6 of 6 - Men and X-Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65815",
+        "name": "X-MEN: THE END BOOK 3: MEN AND X-MEN 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1435/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5032",
+        "name": "X-Men: The End Book 3: Men and X-Men (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1435/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

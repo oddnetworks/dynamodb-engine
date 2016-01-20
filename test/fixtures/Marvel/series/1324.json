@@ -1,0 +1,229 @@
+{
+  "id": 1324,
+  "title": "Captain America & the Falcon: Madbomb (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1324",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1324/captain_america_the_falcon_madbomb_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bb6eee02397b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1324/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2751",
+        "name": "D. Bruce Berry",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+        "name": "Dan Crespi",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1754",
+        "name": "Gaspar Saladino",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5205",
+        "name": "Irving Watanabe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+        "name": "Janice Cohen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1775",
+        "name": "Phil Rachelson",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1777",
+        "name": "Don Warfield",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1787",
+        "name": "Michele Wolfman",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+        "name": "Mike Esposito",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+        "name": "Marv Wolfman",
+        "role": "editor"
+      }
+    ],
+    "returned": 14
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1324/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+        "name": "Falcon"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1324/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6618",
+        "name": "\"King Kirby was back – and greater than ever! The year was 1975. The great American Bicentennial was fast approaching – but woul",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6619",
+        "name": "\"King Kirby was back – and greater than ever! The year was 1975. The great American Bicentennial was fast approaching – but woul",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17641",
+        "name": "Cover #17641",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17642",
+        "name": "The Madbomb Screamer In The Brain!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17643",
+        "name": "Cover #17643",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17644",
+        "name": "The Trojan Horde",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17645",
+        "name": "Cover #17645",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17646",
+        "name": "It's \"1984!\"",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17647",
+        "name": "Cover #17647",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17648",
+        "name": "Kill-Derby",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17649",
+        "name": "Cover #17649",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17650",
+        "name": "The Rocks Are Burning!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17651",
+        "name": "Cover #17651",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17652",
+        "name": "Captain America's Love Story",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17653",
+        "name": "Cover #17653",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17654",
+        "name": "The Man Who Sold The United States",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17655",
+        "name": "Cover #17655",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17656",
+        "name": "Dawn's Early Light!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 18
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1324/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1306",
+        "name": "Captain America & the Falcon: Madbomb (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1324/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

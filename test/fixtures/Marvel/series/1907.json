@@ -1,0 +1,170 @@
+{
+  "id": 1907,
+  "title": "Marvel Adventures the Avengers Vol. 2: Mischief (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1907",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1907/marvel_adventures_the_avengers_vol_2_mischief_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4bc5a8843798b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1907/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/352",
+        "name": "Tony Bedard",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+        "name": "Sean Chen",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1125",
+        "name": "Shannon Gallant",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/457",
+        "name": "Gotham Entertainment Group",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/926",
+        "name": "Cory Hamscher",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/647",
+        "name": "Kris Justice",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/914",
+        "name": "John Stanisci",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1907/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1907/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6092",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6093",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6094",
+        "name": "Marvel Adventures the Avengers (2006) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6095",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6096",
+        "name": "Marvel Adventures the Avengers (2006) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6097",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6098",
+        "name": "Marvel Adventures the Avengers (2006) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6099",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66127",
+        "name": "MARVEL ADVENTURES THE AVENGERS VOL. 2: MISCHIEF 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1907/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5984",
+        "name": "Marvel Adventures the Avengers Vol. 2: Mischief (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1907/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

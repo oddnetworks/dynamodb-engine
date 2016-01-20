@@ -1,0 +1,225 @@
+{
+  "id": 20527,
+  "title": "Mighty Thor (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20527",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20527/mighty_thor_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "ongoing",
+  "modified": "2016-01-15T14:17:05-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/b0/565f09eee99d6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20527/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+        "name": "Jason Aaron",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12449",
+        "name": "Russell Dauterman",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+        "name": "Ron Frenz",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+        "name": "Wilson Moss",
+        "role": "editor"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20527/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20527/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122615",
+        "name": "cover from Thor (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122616",
+        "name": "story from Thor (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122619",
+        "name": "cover from Thor (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122620",
+        "name": "story from Thor (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122623",
+        "name": "cover from Thor (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122624",
+        "name": "story from Thor (2015) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122625",
+        "name": "cover from Thor (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122626",
+        "name": "story from Thor (2015) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122627",
+        "name": "cover from Thor (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122628",
+        "name": "story from Thor (2015) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122957",
+        "name": "cover from Thor (2015) #1 (DEODATO HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122958",
+        "name": "story from Thor (2015) #1 (DEODATO HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126844",
+        "name": "cover from Thor (2015) #2 (FRENZ MARVEL 92 VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126845",
+        "name": "story from Thor (2015) #2 (FRENZ MARVEL 92 VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126944",
+        "name": "cover from Thor (2015) #4 (HUGHES VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126945",
+        "name": "story from Thor (2015) #4 (HUGHES VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127058",
+        "name": "cover from Thor (2015) #4 (CHO VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127059",
+        "name": "story from Thor (2015) #4 (CHO VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128092",
+        "name": "cover from MIGHTY THOR (2015) #5 (TBD ARTIST WOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128093",
+        "name": "story from MIGHTY THOR (2015) #5 (TBD ARTIST WOP VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20527/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/59111",
+        "name": "Mighty Thor (2015) #2 (Dauterman 2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55790",
+        "name": "Mighty Thor (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55791",
+        "name": "Mighty Thor (2015) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58214",
+        "name": "Mighty Thor (2015) #4 (Michael Cho Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58158",
+        "name": "Mighty Thor (2015) #4 (Hughes Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55792",
+        "name": "Mighty Thor (2015) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58753",
+        "name": "Mighty Thor (2015) #5 (Tbd Artist Wop Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55786",
+        "name": "Mighty Thor (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55986",
+        "name": "Mighty Thor (2015) #1 (Deodato Hip-&#8203;Hop Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55788",
+        "name": "Mighty Thor (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58093",
+        "name": "Mighty Thor (2015) #2 (Frenz Marvel 92 Variant)"
+      }
+    ],
+    "returned": 11
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20527/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

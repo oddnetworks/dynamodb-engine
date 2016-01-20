@@ -1,0 +1,199 @@
+{
+  "id": 1413,
+  "title": "Uncanny X-Men - The New Age Vol. 4: End of Greys (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1413",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1413/uncanny_x-men_-_the_new_age_vol_4_end_of_greys_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc6110210089",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1413/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+        "name": "Chris Bachalo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+        "name": "Billy Tan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/449",
+        "name": "Brian Haberlin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+        "name": "Mark Farmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/433",
+        "name": "Jonathan Sibal",
+        "role": "inker"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1413/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+        "name": "Bishop"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+        "name": "Nightcrawler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+        "name": "Psylocke"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009430",
+        "name": "Rachel Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009570",
+        "name": "Sentinel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1413/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/758",
+        "name": "1 of 3 - Grey's End",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/759",
+        "name": "1 of 3 - Grey's End",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/760",
+        "name": "2 of 3 - Grey's End",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/761",
+        "name": "2 of 3 - Grey's End",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/762",
+        "name": "3 of 3 - Grey's End",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/763",
+        "name": "3 of 3 - Grey's End",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/764",
+        "name": "1 of 3 -",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/765",
+        "name": "1 of 3 -",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/766",
+        "name": "2 of 3 - Wand'ring Star",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/767",
+        "name": "2 of 3 - Wand'ring Star",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/768",
+        "name": "3 of 3 - Wand'ring Star",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/769",
+        "name": "3 of 3 - Wand'ring Star",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65799",
+        "name": "UNCANNY X-MEN - THE NEW AGE VOL. 4: END OF GREYS 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1413/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4247",
+        "name": "Uncanny X-Men - The New Age Vol. 4: End of Greys (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1413/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,155 @@
+{
+  "id": 20138,
+  "title": "Star Wars: Dark Empire (1991 - 1992)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20138",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20138/star_wars_dark_empire_1991_-_1992?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1991,
+  "endYear": 1992,
+  "rating": "",
+  "type": "",
+  "modified": "2015-02-03T10:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20138/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8326",
+        "name": "Dave Dorman",
+        "role": "artist (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7668",
+        "name": "CAM KENNEDY",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12617",
+        "name": "Tom Veitch",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20138/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20138/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119340",
+        "name": "story from Star Wars: Dark Empire (1991) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119341",
+        "name": "cover from Star Wars: Dark Empire (1991) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119342",
+        "name": "story from Star Wars: Dark Empire (1991) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119343",
+        "name": "cover from Star Wars: Dark Empire (1991) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119344",
+        "name": "story from Star Wars: Dark Empire (1991) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119345",
+        "name": "cover from Star Wars: Dark Empire (1991) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119346",
+        "name": "story from Star Wars: Dark Empire (1991) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119347",
+        "name": "cover from Star Wars: Dark Empire (1991) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119348",
+        "name": "story from Star Wars: Dark Empire (1991) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119349",
+        "name": "cover from Star Wars: Dark Empire (1991) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119350",
+        "name": "story from Star Wars: Dark Empire (1991) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119351",
+        "name": "cover from Star Wars: Dark Empire (1991) #6",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20138/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54057",
+        "name": "Star Wars: Dark Empire (1991) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54058",
+        "name": "Star Wars: Dark Empire (1991) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54059",
+        "name": "Star Wars: Dark Empire (1991) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54060",
+        "name": "Star Wars: Dark Empire (1991) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54061",
+        "name": "Star Wars: Dark Empire (1991) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54062",
+        "name": "Star Wars: Dark Empire (1991) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20138/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

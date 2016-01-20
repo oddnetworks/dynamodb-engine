@@ -1,0 +1,406 @@
+{
+  "id": 5860,
+  "title": "Punisher War Journal (1988 - 1995)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5860",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5860/punisher_war_journal_1988_-_1995?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1988,
+  "endYear": 1995,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4bb6db579c859",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 98,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5860/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7591",
+        "name": "Bair",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7596",
+        "name": "Brown",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2923",
+        "name": "DeMulder",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3022",
+        "name": "Green",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7578",
+        "name": "Heath",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7597",
+        "name": "Nichols",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7584",
+        "name": "Vancata",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7615",
+        "name": "D.T.W.",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2941",
+        "name": "Geiger",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7586",
+        "name": "Golden",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7581",
+        "name": "Hansen",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3044",
+        "name": "Morgan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7589",
+        "name": "Palmer",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2331",
+        "name": "Ramos",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7588",
+        "name": "Wagner",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+        "name": "Ross Andru",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+        "name": "John Beatty",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+        "name": "Joe Andreani",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5178",
+        "name": "Mike Baron",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5860/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009169",
+        "name": "Baron Strucker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009213",
+        "name": "Bushwacker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009334",
+        "name": "Hammerhead"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+        "name": "Hydra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009389",
+        "name": "Kingpin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011134",
+        "name": "Microchip"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009475",
+        "name": "Nomad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009594",
+        "name": "Silvermane"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009675",
+        "name": "Tombstone"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009696",
+        "name": "Viper"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 16
+  },
+  "stories": {
+    "available": 182,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5860/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49609",
+        "name": "Cover #49609",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49610",
+        "name": "Interior #49610",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49611",
+        "name": "Cover #49611",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49612",
+        "name": "Interior #49612",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49613",
+        "name": "Cover #49613",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49614",
+        "name": "Interior #49614",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49615",
+        "name": "Art Imitates Death",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49616",
+        "name": "Contrast In Sin",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49617",
+        "name": "Punisher's Arsenal",
+        "type": "profile"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49618",
+        "name": "Vengeance Belongs to Bushwacker!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49619",
+        "name": "Confession",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49620",
+        "name": "Punisher's Arsenal",
+        "type": "profile"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49621",
+        "name": "Cover #49621",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49622",
+        "name": "Interior #49622",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49623",
+        "name": "Cover #49623",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49624",
+        "name": "Interior #49624",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49625",
+        "name": "Cover #49625",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49626",
+        "name": "Interior #49626",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49627",
+        "name": "Cover #49627",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49628",
+        "name": "Interior #49628",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 80,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5860/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22162",
+        "name": "Punisher War Journal (1988) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22173",
+        "name": "Punisher War Journal (1988) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22184",
+        "name": "Punisher War Journal (1988) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22195",
+        "name": "Punisher War Journal (1988) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22206",
+        "name": "Punisher War Journal (1988) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22217",
+        "name": "Punisher War Journal (1988) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22228",
+        "name": "Punisher War Journal (1988) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22239",
+        "name": "Punisher War Journal (1988) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22241",
+        "name": "Punisher War Journal (1988) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22163",
+        "name": "Punisher War Journal (1988) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22164",
+        "name": "Punisher War Journal (1988) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22165",
+        "name": "Punisher War Journal (1988) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22166",
+        "name": "Punisher War Journal (1988) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22167",
+        "name": "Punisher War Journal (1988) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22168",
+        "name": "Punisher War Journal (1988) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22169",
+        "name": "Punisher War Journal (1988) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22170",
+        "name": "Punisher War Journal (1988) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22171",
+        "name": "Punisher War Journal (1988) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22172",
+        "name": "Punisher War Journal (1988) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22174",
+        "name": "Punisher War Journal (1988) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5860/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

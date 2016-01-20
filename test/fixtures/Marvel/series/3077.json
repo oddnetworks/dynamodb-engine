@@ -1,0 +1,146 @@
+{
+  "id": 3077,
+  "title": "Iron Man and Power Pack (2007 - 2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3077",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3077/iron_man_and_power_pack_2007_-_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "limited",
+  "modified": "2011-05-31T15:26:49-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/4bc38f099c27c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3077/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+        "name": "Gurihiru",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7385",
+        "name": "Marcelo DiChiara",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/495",
+        "name": "Takeshi Miyazawa",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+        "name": "Marc Sumerak",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3077/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010770",
+        "name": "Power Pack"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3077/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36224",
+        "name": "4XLS 1 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36225",
+        "name": "4XLS 1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36519",
+        "name": "4XLS 2 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36520",
+        "name": "4XLS 2 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36949",
+        "name": "4XLS 3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36950",
+        "name": "4XLS 3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44388",
+        "name": "4XLS 4 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44389",
+        "name": "4XLS 4 of 4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3077/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17285",
+        "name": "Iron Man and Power Pack (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17417",
+        "name": "Iron Man and Power Pack (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17652",
+        "name": "Iron Man and Power Pack (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20697",
+        "name": "Iron Man and Power Pack (2007) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3077/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

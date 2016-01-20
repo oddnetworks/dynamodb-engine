@@ -1,0 +1,125 @@
+{
+  "id": 1748,
+  "title": "Avengers and Power Pack Assemble! (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1748",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1748/avengers_and_power_pack_assemble_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc5bb807cd8c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1748/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+        "name": "Gurihiru",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+        "name": "Marc Sumerak",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1748/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010770",
+        "name": "Power Pack"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1748/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5798",
+        "name": "1 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5799",
+        "name": "1 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5800",
+        "name": "2 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5801",
+        "name": "2 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5802",
+        "name": "3 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5803",
+        "name": "3 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5804",
+        "name": "4 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5805",
+        "name": "4 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66032",
+        "name": "AVENGERS AND POWER PACK ASSEMBLE! 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1748/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5519",
+        "name": "Avengers and Power Pack Assemble! (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1748/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

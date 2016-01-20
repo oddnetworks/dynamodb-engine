@@ -1,0 +1,74 @@
+{
+  "id": 7032,
+  "title": "Secret Invasion: The Amazing Spider-Man (2009 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7032",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7032/secret_invasion_the_amazing_spider-man_2009_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2099,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb596a0c89e6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7032/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7032/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7032/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52959",
+        "name": "Secret Invasion: The Amazing Spider-Man 1-3, Amazing Spider-Man 2008 Annual",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52960",
+        "name": "Secret Invasion: The Amazing Spider-Man 1-3, Amazing Spider-Man 2008 Annual",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7032/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23868",
+        "name": "Secret Invasion: The Amazing Spider-Man (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7032/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "name": "Secret Invasion"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

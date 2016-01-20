@@ -1,0 +1,177 @@
+{
+  "id": 3737,
+  "title": "Factor X (1995)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3737",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3737/factor_x_1995?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1995,
+  "endYear": 1995,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4c7d53d02fc5d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+        "name": "Kelly Corvese",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+        "name": "Terry Dodson",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+        "name": "Steve Epting",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+        "name": "Al Milgrom",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1221",
+        "name": "John Francis Moore",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+        "name": "Glynis Oliver",
+        "role": "colorist"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42934",
+        "name": "Cover #42934",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42935",
+        "name": "Sinsiter Neglect",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42936",
+        "name": "X-Facts: The Dream is Over",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42937",
+        "name": "Cover #42937",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42938",
+        "name": "Abandoned Children",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42939",
+        "name": "X-Facts: Reality Checked",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42940",
+        "name": "Cover #42940",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42941",
+        "name": "Open Wounds",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42942",
+        "name": "X-Facts: Where have all the Heroes Gone",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42943",
+        "name": "Cover #42943",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42944",
+        "name": "Reckonings",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42945",
+        "name": "X-Facts: Final Reflections - It's the Begining of the End of the Universe",
+        "type": ""
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20044",
+        "name": "Factor X (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20045",
+        "name": "Factor X (1995) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20046",
+        "name": "Factor X (1995) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20047",
+        "name": "Factor X (1995) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3737/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

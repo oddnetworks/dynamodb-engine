@@ -1,0 +1,166 @@
+{
+  "id": 14643,
+  "title": "Six Guns (2011 - 2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14643",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14643/six_guns_2011_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-19T16:11:02-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/550b2c7c76747",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14643/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+        "name": "Alejandro Arbona",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1041",
+        "name": "Andy Diggle",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11268",
+        "name": "DAVIDE GIANFELICE",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+        "name": "Butch Guice",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+        "name": "Jason Keith",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8331",
+        "name": "Dave McCaig",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14643/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010852",
+        "name": "Two-Gun Kid"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14643/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90074",
+        "name": "Interior #90074",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90077",
+        "name": "Six Guns (2011) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90078",
+        "name": "Interior #90078",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90079",
+        "name": "Cover #90079",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90080",
+        "name": "Interior #90080",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90081",
+        "name": "Cover #90081",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90082",
+        "name": "Interior #90082",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90083",
+        "name": "Cover #90083",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90084",
+        "name": "Interior #90084",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/95605",
+        "name": "Six Guns (2011) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14643/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39694",
+        "name": "Six Guns (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39696",
+        "name": "Six Guns (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39697",
+        "name": "Six Guns (2011) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39698",
+        "name": "Six Guns (2011) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39699",
+        "name": "Six Guns (2011) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14643/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,142 @@
+{
+  "id": 778,
+  "title": "Warlock (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/778",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/778/warlock_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc67a03cecd7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/778/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3811",
+        "name": "Charlie Adlard",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/846",
+        "name": "James Rochelle",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6143",
+        "name": "J.H. Williams",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/778/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/778/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3758",
+        "name": "3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3759",
+        "name": "3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3760",
+        "name": "NEW SERIES!  RETURN OF ADAM WARLOCK!  In a world on the brink, humankind’s time is running out, but deep in the jungles of South",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3761",
+        "name": "NEW SERIES!  RETURN OF ADAM WARLOCK!  In a world on the brink, humankind’s time is running out, but deep in the jungles of South",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3762",
+        "name": "PART 2 (OF 6) The birth of a new era! Created in the depths of \"The Beehive,\" Adam Warlock is the final solution to the madness ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3763",
+        "name": "PART 2 (OF 6) The birth of a new era! Created in the depths of \"The Beehive,\" Adam Warlock is the final solution to the madness ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3764",
+        "name": "4 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3765",
+        "name": "4 of 6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/778/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/813",
+        "name": "Warlock (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/879",
+        "name": "Warlock (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53",
+        "name": "Warlock (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1451",
+        "name": "Warlock (2004) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/778/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

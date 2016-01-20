@@ -1,0 +1,199 @@
+{
+  "id": 1557,
+  "title": "Marvel Masterworks: The Fantastic Four Vol. 9 (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1557",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1557/marvel_masterworks_the_fantastic_four_vol_9_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bc37af5703ce",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1557/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+        "name": "Joe Sinnott",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+        "name": "Artie Simek",
+        "role": "letterer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1557/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1557/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13471",
+        "name": "Cover #13471",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13472",
+        "name": "The Mark of the Madman",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13473",
+        "name": "Cover #13473",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13474",
+        "name": "Shall Man Survive?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13475",
+        "name": "Cover #13475",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13476",
+        "name": "The Name is Doom",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13477",
+        "name": "Cover #13477",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13478",
+        "name": "Within This Tortured Land",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13479",
+        "name": "Cover #13479",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13480",
+        "name": "The Victims",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13481",
+        "name": "Cover #13481",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13482",
+        "name": "The Power and the Pride",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13483",
+        "name": "Cover #13483",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13484",
+        "name": "A House There Was",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13485",
+        "name": "Cover #13485",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13486",
+        "name": "The Madness of the Moleman",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13494",
+        "name": "Cover #13494",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13495",
+        "name": "The Skrull Take a Slave",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13496",
+        "name": "Cover #13496",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13497",
+        "name": "The Thing Enslaved",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1557/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3062",
+        "name": "Marvel Masterworks: The Fantastic Four Vol. 9 (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3336",
+        "name": "Marvel Masterworks: The Fantastic Four Vol. 9 (Hardcover)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1557/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

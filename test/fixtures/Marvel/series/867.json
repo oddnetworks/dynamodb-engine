@@ -1,0 +1,164 @@
+{
+  "id": 867,
+  "title": "Daredevil Vs. Punisher (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/867",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/867/daredevil_vs_punisher_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc62eb5f3594",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/867/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1227",
+        "name": "David Lapham",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/867/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/867/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4582",
+        "name": "1 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4583",
+        "name": "1 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4584",
+        "name": "2 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4585",
+        "name": "2 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4586",
+        "name": "3 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4587",
+        "name": "3 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4588",
+        "name": "4 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4589",
+        "name": "4 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4590",
+        "name": "5 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4591",
+        "name": "5 of 6 - 6XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4592",
+        "name": "6 of 6 - 6XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4593",
+        "name": "6 of 6 - 6XLS",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/867/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2202",
+        "name": "Daredevil Vs. Punisher (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2203",
+        "name": "Daredevil Vs. Punisher (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2322",
+        "name": "Daredevil Vs. Punisher (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2432",
+        "name": "Daredevil Vs. Punisher (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2433",
+        "name": "Daredevil Vs. Punisher (2005) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3014",
+        "name": "Daredevil Vs. Punisher (2005) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/867/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

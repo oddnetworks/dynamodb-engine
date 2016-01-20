@@ -1,0 +1,69 @@
+{
+  "id": 14477,
+  "title": "Captain America: American Nightmare (2011 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14477",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14477/captain_america_american_nightmare_2011_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-03T12:07:39-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14477/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14477/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14477/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89665",
+        "name": "Captain America: American Nightmare (2011) #1 DM Only",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89666",
+        "name": "Captain America: American Nightmare (2011) #1 DM Only",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14477/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39522",
+        "name": "Captain America: American Nightmare (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14477/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

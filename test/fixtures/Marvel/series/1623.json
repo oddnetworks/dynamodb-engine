@@ -1,0 +1,75 @@
+{
+  "id": 1623,
+  "title": "Essential Official Handbook of the Marvel Universe - Update 89 Vol. 1 (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1623",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1623/essential_official_handbook_of_the_marvel_universe_-_update_89_vol_1_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED A",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/c0/4bc5b844a0dae",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1623/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+        "name": "Ron Frenz",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1623/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1623/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7155",
+        "name": "OHOTMU 89 1-8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7156",
+        "name": "OHOTMU 89 1-8",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1623/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5626",
+        "name": "Essential Official Handbook of the Marvel Universe - Update 89 Vol. 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1623/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

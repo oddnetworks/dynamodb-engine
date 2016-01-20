@@ -1,0 +1,186 @@
+{
+  "id": 13257,
+  "title": "Chaos War: Dead Avengers (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13257",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13257/chaos_war_dead_avengers_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2010-12-19T12:14:52-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4c7c37f6b28fb",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13257/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+        "name": "Tom Grummett",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+        "name": "Fred Van Lente",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13257/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+        "name": "Captain Marvel (Mar-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009270",
+        "name": "Deathbird"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011037",
+        "name": "Deathcry"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009328",
+        "name": "Grim Reaper"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+        "name": "Luke Cage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009641",
+        "name": "Swordsman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010982",
+        "name": "Swordsman (Jaques Duquesne)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+        "name": "Vision"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010996",
+        "name": "Yellowjacket (Rita DeMara)"
+      }
+    ],
+    "returned": 18
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13257/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82163",
+        "name": "Cover #82163",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82164",
+        "name": "Interior #82164",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82201",
+        "name": "Chaos War: Dead Avengers (2010) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82202",
+        "name": "Interior #82202",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82203",
+        "name": "Chaos War: Dead Avengers (2010) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82204",
+        "name": "Interior From Chaos War: Dead Avengers (2010) #2",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13257/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37064",
+        "name": "Chaos War: Dead Avengers (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37085",
+        "name": "Chaos War: Dead Avengers (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37084",
+        "name": "Chaos War: Dead Avengers (2010) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13257/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
+        "name": "Chaos War"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,213 @@
+{
+  "id": 12288,
+  "title": "Captain America: Man Out of Time (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/12288",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/12288/captain_america_man_out_of_time_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-03-18T09:26:13-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/4c45ad9cd619c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12288/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+        "name": "Bryan Hitch",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+        "name": "Jorge Molina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10928",
+        "name": "JORGE CARLOS MOLINA MANZANERO",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/262",
+        "name": "Paul Neary",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12288/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12288/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/77485",
+        "name": "Captain America: Man Out of Time #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/77486",
+        "name": "Captain America: Man Out of Time #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80085",
+        "name": "Cover #80085",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80086",
+        "name": "Interior #80086",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80087",
+        "name": "Cover #80087",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80088",
+        "name": "Interior #80088",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80091",
+        "name": "CAPTAIN AMERICA: MAN OUT OF TIME #5 (of 5)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80092",
+        "name": "Interior #80092",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80095",
+        "name": "Cover From Captain America: Man Out of Time (2010) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80096",
+        "name": "Interior From Captain America: Man Out of Time (2010) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80758",
+        "name": "Cover #80758",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80759",
+        "name": "Interior #80759",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80760",
+        "name": "Captain America: Man Out Of Time #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80761",
+        "name": "Captain America: Man Out Of Time #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82866",
+        "name": "Cover #82866",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82867",
+        "name": "Interior #82867",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 16
+  },
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12288/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36370",
+        "name": "Captain America: Man Out of Time (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34994",
+        "name": "Captain America: Man Out of Time (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37434",
+        "name": "Captain America: Man Out of Time (2010) #1 (ADAMS VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36179",
+        "name": "Captain America: Man Out of Time (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36175",
+        "name": "Captain America: Man Out of Time (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34998",
+        "name": "Captain America: Man Out of Time (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36371",
+        "name": "Captain America: Man Out of Time (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36177",
+        "name": "Captain America: Man Out of Time (2010) #5"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12288/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

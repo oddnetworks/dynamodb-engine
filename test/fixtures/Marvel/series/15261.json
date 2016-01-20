@@ -1,0 +1,80 @@
+{
+  "id": 15261,
+  "title": "Essential X-Factor Vol. 4 (2011 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/15261",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/15261/essential_x-factor_vol_4_2011_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2012-01-27T13:56:11-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15261/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1300",
+        "name": "Terry Shoemaker",
+        "role": "artist"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15261/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15261/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92987",
+        "name": "Cover #92987",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92988",
+        "name": "Interior #92988",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/95570",
+        "name": "ESSENTIAL X-FACTOR VOL. 4 TPB Cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15261/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41064",
+        "name": "Essential X-Factor Vol. 4 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15261/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

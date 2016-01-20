@@ -1,0 +1,317 @@
+{
+  "id": 1468,
+  "title": "Marvel Masterworks: Doctor Strange Vol. (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1468",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1468/marvel_masterworks_doctor_strange_vol_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "All Ages",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc37333b5c0e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 25,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1468/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+        "name": "Dick Ayers",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+        "name": "Mike Esposito",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+        "name": "Joe Sinnott",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+        "name": "Don Heck",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4841",
+        "name": "Howard Purcell",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/198",
+        "name": "Marie Severin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6201",
+        "name": "Jerry Feldman",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1593",
+        "name": "Al Kurzrok",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+        "name": "Artie Simek",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1598",
+        "name": "Jim Lawrence",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1597",
+        "name": "Raymond Marais",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1226",
+        "name": "Dennis Oneil",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "editor"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1468/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+        "name": "A.I.M."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009152",
+        "name": "Ancient One"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009169",
+        "name": "Baron Strucker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009239",
+        "name": "Clea"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009284",
+        "name": "Dum Dum Dugan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+        "name": "Hydra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+        "name": "S.H.I.E.L.D."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009686",
+        "name": "Umar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009736",
+        "name": "Yellow Claw"
+      }
+    ],
+    "returned": 13
+  },
+  "stories": {
+    "available": 85,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1468/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10240",
+        "name": "Cover #10240",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10241",
+        "name": "Who Strikes at---Shield?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10242",
+        "name": "Those Who Would Destroy Me!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10243",
+        "name": "Cover #10243",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10244",
+        "name": "To Free a Brain Slave",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10245",
+        "name": "With None Beside Me!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10246",
+        "name": "Cover #10246",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10247",
+        "name": "The Day of the Druid!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10248",
+        "name": "Where Man Hath Never Trod!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10249",
+        "name": "Cover #10249",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10250",
+        "name": "Lo!  The Eggs Shall Hatch!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10251",
+        "name": "To Catch a Magician!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10252",
+        "name": "Cover #10252",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10253",
+        "name": "When the Unliving Strike",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10254",
+        "name": "The End--At Last",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10255",
+        "name": "Cover #10255",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10256",
+        "name": "The Enemy Within!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10257",
+        "name": "From the Nameless Nowhere Comes...Kaluu!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10258",
+        "name": "Cover #10258",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/10259",
+        "name": "Death Before Dishonor!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1468/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2319",
+        "name": "Marvel Masterworks: Doctor Strange Vol. (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2820",
+        "name": "Marvel Masterworks: Doctor Strange Vol. (Hardcover)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1468/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

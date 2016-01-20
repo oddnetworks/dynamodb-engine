@@ -1,0 +1,235 @@
+{
+  "id": 15370,
+  "title": "Battle Scars (2011 - 2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/15370",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/15370/battle_scars_2011_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-19T15:31:26-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/550b2317308ed",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15370/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+        "name": "Paul Mounts",
+        "role": "Colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+        "name": "Alejandro Arbona",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+        "name": "Matt Fraction",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+        "name": "Scot Eaton",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "Letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/548",
+        "name": "Andrew Hennessy",
+        "role": "Inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8695",
+        "name": "Jason Paz",
+        "role": "Inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6806",
+        "name": "Carlo Pagualyan",
+        "role": "Penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+        "name": "Joe Sabino",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11539",
+        "name": "Christopher Yost",
+        "role": "Writer"
+      }
+    ],
+    "returned": 13
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15370/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010898",
+        "name": "Sin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+        "name": "Taskmaster"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15370/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93562",
+        "name": "Cover #93562",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93563",
+        "name": "Interior #93563",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93564",
+        "name": "Cover #93564",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93565",
+        "name": "Interior #93565",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93566",
+        "name": "Battle Scars (2011) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93567",
+        "name": "Battle Scars (2011) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93568",
+        "name": "Cover #93568",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93569",
+        "name": "Interior #93569",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93570",
+        "name": "Battle Scars (2011) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93571",
+        "name": "Battle Scars (2011) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93572",
+        "name": "Battle Scars (2011) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93573",
+        "name": "Battle Scars (2011) #1 - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15370/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41351",
+        "name": "Battle Scars (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41350",
+        "name": "Battle Scars (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41349",
+        "name": "Battle Scars (2011) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41348",
+        "name": "Battle Scars (2011) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41347",
+        "name": "Battle Scars (2011) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41346",
+        "name": "Battle Scars (2011) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15370/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/309",
+        "name": "Shattered Heroes"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,194 @@
+{
+  "id": 1216,
+  "title": "Wolverine Vol. 3: Return of the Native (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1216",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1216/wolverine_vol_3_return_of_the_native_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bc6642b76143",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1216/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/638",
+        "name": "Edgar Clement",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/589",
+        "name": "Nelson DeCastro",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5052",
+        "name": "Jimmy Palmiotti",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/49",
+        "name": "Darick Robertson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/28",
+        "name": "Greg Rucka",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "letterer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1216/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1216/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2166",
+        "name": "Cover #2166",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2167",
+        "name": "Interior #2167",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2168",
+        "name": "Cover #2168",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2169",
+        "name": "Interior #2169",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2170",
+        "name": "Cover #2170",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2171",
+        "name": "Interior #2171",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2172",
+        "name": "Cover #2172",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2173",
+        "name": "Interior #2173",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2174",
+        "name": "Cover #2174",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2175",
+        "name": "Interior #2175",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2176",
+        "name": "Cover #2176",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2177",
+        "name": "Interior #2177",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2178",
+        "name": "Cover #2178",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2179",
+        "name": "Interior #2179",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2180",
+        "name": "\"RETURN OF THE NATIVE\" 7 (OF 7) The finale to Greg Rucka’s acclaimed run on Wolverine, featuring a guest appearance by Nightcraw",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2181",
+        "name": "\"RETURN OF THE NATIVE\" 7 (OF 7) The finale to Greg Rucka’s acclaimed run on Wolverine, featuring a guest appearance by Nightcraw",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6409",
+        "name": "WOLVERINE 12-19",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6410",
+        "name": "WOLVERINE 12-19",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 18
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1216/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1347",
+        "name": "Wolverine Vol. 3: Return of the Native (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1216/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

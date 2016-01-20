@@ -1,0 +1,147 @@
+{
+  "id": 1078,
+  "title": "Annihilation: Silver Surfer (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1078",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1078/annihilation_silver_surfer_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "T",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/10/4bad4aab0d2d3",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1078/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/937",
+        "name": "Renato Arlem",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/529",
+        "name": "June Chung",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+        "name": "Keith Giffen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1078/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1078/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5925",
+        "name": "Annihilation: Silver Surfer (2006) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5926",
+        "name": "Annihilation: Silver Surfer (2006) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5927",
+        "name": "Annihilation: Silver Surfer (2006) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5928",
+        "name": "Annihilation: Silver Surfer (2006) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5929",
+        "name": "Annihilation: Silver Surfer (2006) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5930",
+        "name": "Annihilation: Silver Surfer (2006) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5931",
+        "name": "Annihilation: Silver Surfer (2006) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5932",
+        "name": "Annihilation: Silver Surfer (2006) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1078/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4108",
+        "name": "Annihilation: Silver Surfer (2006) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4218",
+        "name": "Annihilation: Silver Surfer (2006) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4315",
+        "name": "Annihilation: Silver Surfer (2006) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4470",
+        "name": "Annihilation: Silver Surfer (2006) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1078/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/229",
+        "name": "Annihilation"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,125 @@
+{
+  "id": 6665,
+  "title": "Fin Fang Four (2008 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6665",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6665/fin_fang_four_2008_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T14:51:18-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bb5cdb8b746f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6665/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6665/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6665/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52582",
+        "name": "Cover #52582",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52583",
+        "name": "Interior #52583",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52584",
+        "name": "Cover #52584",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52585",
+        "name": "Interior #52585",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52586",
+        "name": "Cover #52586",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52587",
+        "name": "Interior #52587",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52588",
+        "name": "Cover #52588",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52589",
+        "name": "Interior #52589",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52590",
+        "name": "Cover #52590",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52591",
+        "name": "Interior #52591",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6665/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23238",
+        "name": "Fin Fang Four (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23239",
+        "name": "Fin Fang Four (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23240",
+        "name": "Fin Fang Four (2008) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23241",
+        "name": "Fin Fang Four (2008) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23242",
+        "name": "Fin Fang Four (2008) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6665/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

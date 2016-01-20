@@ -1,0 +1,115 @@
+{
+  "id": 231,
+  "title": "Essential Tomb of Dracula Vol.1 (2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/231",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/231/essential_tomb_of_dracula_vol.1_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2003,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bc46e8d0e8b7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/231/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1747",
+        "name": "Petra Goldberg",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6245",
+        "name": "Denise Vladimer",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/271",
+        "name": "Marv Wolfman",
+        "role": "writer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/231/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/231/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20024",
+        "name": "Cover #20024",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20025",
+        "name": "His Name Is...Blade!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65268",
+        "name": "ESSENTIAL TOMB OF DRACULA VOL.1 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/231/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1174",
+        "name": "Essential Tomb of Dracula Vol.1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/231/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

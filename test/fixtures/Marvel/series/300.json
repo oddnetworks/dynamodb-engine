@@ -1,0 +1,80 @@
+{
+  "id": 300,
+  "title": "Marvel Masterworks: The Amazing Spider-Man Vol. V - Variant 2nd Edition (1st) (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/300",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/300/marvel_masterworks_the_amazing_spider-man_vol_v_-_variant_2nd_edition_1st_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc3892b4633e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/300/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/300/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/300/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/388",
+        "name": "Interior #388",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65324",
+        "name": "MARVEL MASTERWORKS: THE AMAZING SPIDER-MAN VOL. V - VARIANT 2ND EDITION (1ST) 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/300/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1244",
+        "name": "Marvel Masterworks: The Amazing Spider-Man Vol. V - Variant 2nd Edition (1st) (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/300/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

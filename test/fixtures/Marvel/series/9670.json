@@ -1,0 +1,80 @@
+{
+  "id": 9670,
+  "title": "X-Men Noir: Mark of Cain (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9670",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9670/x-men_noir_mark_of_cain_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4ba944c0dcac8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9670/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/970",
+        "name": "Dennis Calero",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+        "name": "Fred Van Lente",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9670/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9670/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63137",
+        "name": "Cover #63137",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63138",
+        "name": "Interior #63138",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9670/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28971",
+        "name": "X-Men Noir: Mark of Cain (Graphic Novel)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9670/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

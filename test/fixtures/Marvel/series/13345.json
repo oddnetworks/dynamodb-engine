@@ -1,0 +1,106 @@
+{
+  "id": 13345,
+  "title": "Marvel Girl (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13345",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13345/marvel_girl_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-02-08T15:52:07-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13345/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+        "name": "Roger Cruz",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8843",
+        "name": "Joshua Fialkov",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9200",
+        "name": "Nuno Plati",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13345/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009496",
+        "name": "Jean Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13345/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82406",
+        "name": "Marvel Girl #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82407",
+        "name": "Interior #82407",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13345/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37202",
+        "name": "Marvel Girl (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13345/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

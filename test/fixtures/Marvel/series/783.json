@@ -1,0 +1,166 @@
+{
+  "id": 783,
+  "title": "Marvel 1602: New World (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/783",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/783/marvel_1602_new_world_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T",
+  "type": "",
+  "modified": "2013-05-14T13:12:53-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/51926f841095d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/783/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/854",
+        "name": "Oclair Albert",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+        "name": "Mark Morales",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+        "name": "Morry Hollowell",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/475",
+        "name": "Laura Villari",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+        "name": "Todd Klein",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/653",
+        "name": "Greg Tocchini",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/852",
+        "name": "Sergio Toppi",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/783/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/783/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3804",
+        "name": "1 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3805",
+        "name": "3 of 5 - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3806",
+        "name": "3 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3807",
+        "name": "4 of 5 - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3808",
+        "name": "4 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3809",
+        "name": "5 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3810",
+        "name": "2 of 5 - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3811",
+        "name": "2 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65462",
+        "name": "MARVEL 1602: NEW WORLD 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65463",
+        "name": "MARVEL 1602: NEW WORLD 5 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/783/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2292",
+        "name": "Marvel 1602: New World (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2969",
+        "name": "Marvel 1602: New World (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2393",
+        "name": "Marvel 1602: New World (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2394",
+        "name": "Marvel 1602: New World (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2995",
+        "name": "Marvel 1602: New World (2005) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/783/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,90 @@
+{
+  "id": 9971,
+  "title": "Lady Deadpool (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9971",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9971/lady_deadpool_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T15:47:06-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4bc5cc17b3f1e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9971/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11123",
+        "name": "Mary H.K. Choi",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+        "name": "Ken Lashley",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9971/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+        "name": "Deadpool"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9971/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69328",
+        "name": "Cover #69328",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69329",
+        "name": "Interior #69329",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9971/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30251",
+        "name": "Lady Deadpool (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9971/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

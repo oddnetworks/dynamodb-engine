@@ -1,0 +1,95 @@
+{
+  "id": 4917,
+  "title": "Essential Official Handbook of the Marvel Universe - Master Edition Vol. 2 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4917",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4917/essential_official_handbook_of_the_marvel_universe_-_master_edition_vol_2_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/4bb8272c99c6c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4917/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+        "name": "Mark Gruenwald",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2296",
+        "name": "Glenn Herdling",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6901",
+        "name": "Len Kamanski",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7267",
+        "name": "JAMIE TOST",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1267",
+        "name": "Keith Pollard",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4917/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4917/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47027",
+        "name": "Official Handbook of the Marvel Universe - Master Edition 1-36, characters/profiles in alphabetical order",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47028",
+        "name": "Official Handbook of the Marvel Universe - Master Edition 1-36, characters/profiles in alphabetical order",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4917/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21293",
+        "name": "Essential Official Handbook of the Marvel Universe - Master Edition Vol. 2 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4917/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

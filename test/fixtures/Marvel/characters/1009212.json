@@ -176,8 +176,8 @@
         "name": "Punisher (1995 - 1996)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/1466",
-        "name": "Punisher Vs. Bullseye (2006)"
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/863",
+        "name": "Punisher Vs. Bullseye (2005 - 2006)"
       }
     ],
     "returned": 20
@@ -290,9 +290,13 @@
     "returned": 20
   },
   "events": {
-    "available": 2,
+    "available": 3,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009212/events",
     "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
         "name": "Dark Reign"
@@ -302,7 +306,7 @@
         "name": "Initiative"
       }
     ],
-    "returned": 2
+    "returned": 3
   },
   "urls": [
     {

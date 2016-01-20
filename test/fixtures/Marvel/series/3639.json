@@ -1,0 +1,130 @@
+{
+  "id": 3639,
+  "title": "X-Men: Ronin (2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3639",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3639/x-men_ronin_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2003,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/4bb7c5ef35bd1",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3639/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3639/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3639/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45139",
+        "name": "Cover #45139",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45140",
+        "name": "Interior #45140",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45141",
+        "name": "Cover #45141",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45142",
+        "name": "Interior #45142",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45143",
+        "name": "Cover #45143",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45144",
+        "name": "Interior #45144",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45145",
+        "name": "Cover #45145",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45146",
+        "name": "Interior #45146",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45147",
+        "name": "Cover #45147",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45148",
+        "name": "Interior #45148",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3639/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18167",
+        "name": "X-Men: Ronin (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18168",
+        "name": "X-Men: Ronin (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18169",
+        "name": "X-Men: Ronin (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18170",
+        "name": "X-Men: Ronin (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18171",
+        "name": "X-Men: Ronin (2003) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3639/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

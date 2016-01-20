@@ -1,0 +1,176 @@
+{
+  "id": 2416,
+  "title": "Spider-Man Fairy Tales (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2416",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2416/spider-man_fairy_tales_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "A",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/d0/4bad336e6dbac",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2416/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11735",
+        "name": "Laura Allred",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+        "name": "Mike Allred",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/759",
+        "name": "C. B. Cebulski",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1064",
+        "name": "Nick Dragotta",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1368",
+        "name": "Niko Henrichon",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1115",
+        "name": "Kei Kobayashi",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1422",
+        "name": "Ricardo Tercio",
+        "role": "penciller"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2416/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2416/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32446",
+        "name": "2 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32447",
+        "name": "2 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32665",
+        "name": "3 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32666",
+        "name": "3 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33052",
+        "name": "4 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33053",
+        "name": "4 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45055",
+        "name": "Cover #45055",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45056",
+        "name": "Interior #45056",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48090",
+        "name": "Cover #48090",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48091",
+        "name": "Interior #48091",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2416/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20810",
+        "name": "Spider-Man Fairy Tales (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21887",
+        "name": "Spider-Man Fairy Tales (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15887",
+        "name": "Spider-Man Fairy Tales (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15996",
+        "name": "Spider-Man Fairy Tales (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16181",
+        "name": "Spider-Man Fairy Tales (2007) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2416/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,141 @@
+{
+  "id": 10445,
+  "title": "Spider-Man: Origin Of The Species TPB (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10445",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10445/spider-man_origin_of_the_species_tpb_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-12T10:49:24-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10445/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/465",
+        "name": "Paul Azaceta",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1122",
+        "name": "Philippe Briones",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/958",
+        "name": "Roger Stern",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10445/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+        "name": "Doctor Octopus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009287",
+        "name": "Electro"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009486",
+        "name": "Harry Osborn"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011241",
+        "name": "Menace"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009464",
+        "name": "Mysterio"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009537",
+        "name": "Rhino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009585",
+        "name": "Shocker (Herman Schultz)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009675",
+        "name": "Tombstone"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009699",
+        "name": "Vulture (Adrian Toomes)"
+      }
+    ],
+    "returned": 10
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10445/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64079",
+        "name": "Cover #64079",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64080",
+        "name": "Interior #64080",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10445/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29463",
+        "name": "Spider-Man: Origin Of The Species TPB (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10445/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -9,7 +9,7 @@
   },
   "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
   "comics": {
-    "available": 1076,
+    "available": 1075,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009299/comics",
     "items": [
       {
@@ -124,11 +124,11 @@
         "name": "ACTS OF VENGEANCE CROSSOVERS OMNIBUS (DM Only) (2011)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
         "name": "Adam: Legend of the Blue Marvel (2008)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
         "name": "Adam: Legend of the Blue Marvel (2008)"
       },
       {
@@ -172,12 +172,12 @@
         "name": "Avengers (1963 - 1996)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/10035",
-        "name": "Avengers & the Infinity Gauntlet (2011)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/9859",
         "name": "Avengers & the Infinity Gauntlet (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/10035",
+        "name": "Avengers & the Infinity Gauntlet (2011)"
       }
     ],
     "returned": 20

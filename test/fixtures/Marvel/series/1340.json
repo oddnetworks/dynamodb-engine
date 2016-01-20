@@ -1,0 +1,286 @@
+{
+  "id": 1340,
+  "title": "Avengers Assemble (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1340/avengers_assemble_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc66543cbda8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1340/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+        "name": "Kurt Busiek",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+        "name": "Carlos Pacheco",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1161",
+        "name": "George Prez",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/518",
+        "name": "Al Vey",
+        "role": "inker"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 60,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1340/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+        "name": "Black Knight (Sir Percy of Scandia)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+        "name": "Crystal"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011020",
+        "name": "Darkhawk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011072",
+        "name": "Edwin Jarvis"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+        "name": "Falcon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010868",
+        "name": "Firebird"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009306",
+        "name": "Firestar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+        "name": "Gambit"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009328",
+        "name": "Grim Reaper"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+        "name": "Hellcat (Patsy Walker)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 21,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1340/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6649",
+        "name": "\"The Avengers embark on one of their strongest eras ever! Kurt Busiek and George Pérez have renovated the comic-book field with ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6650",
+        "name": "\"The Avengers embark on one of their strongest eras ever! Kurt Busiek and George Pérez have renovated the comic-book field with ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37339",
+        "name": "Cover #37339",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37340",
+        "name": "Pomp & Pageantry",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37385",
+        "name": "Cover #37385",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37386",
+        "name": "Fata Morgana",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37408",
+        "name": "Cover #37408",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37409",
+        "name": "Too Many Avengers!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37410",
+        "name": "",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37435",
+        "name": "Cover #37435",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37436",
+        "name": "Accusation Most Foul",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37458",
+        "name": "Cover #37458",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37459",
+        "name": "Earth's Mightiest Frauds?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37486",
+        "name": "Cover #37486",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37487",
+        "name": "The Court Martial of Carol Danvers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37488",
+        "name": "Cover #37488",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37489",
+        "name": "Turbulence!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37490",
+        "name": "Cover #37490",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37491",
+        "name": "The Villain who Fell From Grace with the Earth",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44875",
+        "name": "Cover #44875",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1340/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1311",
+        "name": "Avengers Assemble (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1340/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

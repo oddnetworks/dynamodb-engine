@@ -1,0 +1,124 @@
+{
+  "id": 8249,
+  "title": "Secret Invasion: Requiem (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8249",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8249/secret_invasion_requiem_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "",
+  "type": "",
+  "modified": "2015-08-31T11:55:09-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/55d4b41f7c4c9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8249/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8028",
+        "name": "Andrew Crossley",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8331",
+        "name": "Dave McCaig",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/897",
+        "name": "Sean McQuaid",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+        "name": "Danny K. Miki",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1103",
+        "name": "Khoi Pham",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8249/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8249/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57850",
+        "name": "Cover #57850",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57851",
+        "name": "Interior #57851",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8249/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26274",
+        "name": "Secret Invasion: Requiem (2008) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8249/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "name": "Secret Invasion"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

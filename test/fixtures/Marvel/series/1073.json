@@ -1,0 +1,142 @@
+{
+  "id": 1073,
+  "title": "Union Jack (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1073",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1073/union_jack_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "T",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bad4ac35c7e5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1073/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/548",
+        "name": "Andrew Hennessy",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+        "name": "Mike Perkins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/475",
+        "name": "Laura Villari",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1073/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010696",
+        "name": "Union Jack (Joseph Chapman)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1073/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5909",
+        "name": "1 of 4 - Enemies of the Crown",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5910",
+        "name": "1 of 4 - Enemies of the Crown",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5911",
+        "name": "2 of 4 - Enemies of the Crown",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5912",
+        "name": "2 of 4 - Enemies of the Crown",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5913",
+        "name": "3 of 4 - Enemies of the Crown",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5914",
+        "name": "3 of 4 - Enemies of the Crown",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5915",
+        "name": "4 of 4 - Enemies of the Crown",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5916",
+        "name": "4 of 4 - Enemies of the Crown",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1073/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5076",
+        "name": "Union Jack (2006) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5228",
+        "name": "Union Jack (2006) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5388",
+        "name": "Union Jack (2006) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5652",
+        "name": "Union Jack (2006) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1073/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

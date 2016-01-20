@@ -1,0 +1,116 @@
+{
+  "id": 3744,
+  "title": "Deadline (2002)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3744",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3744/deadline_2002?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2002,
+  "endYear": 2002,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/4bad2a60ca9d1",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3744/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3744/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+        "name": "Taskmaster"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3744/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/43739",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/43740",
+        "name": "Cover #43740",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/43741",
+        "name": "Deadline Part 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/43742",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/43743",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68475",
+        "name": "Deadline 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68476",
+        "name": "Deadline 3 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68477",
+        "name": "Deadline 4 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3744/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20414",
+        "name": "Deadline (2002) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20415",
+        "name": "Deadline (2002) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20416",
+        "name": "Deadline (2002) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20417",
+        "name": "Deadline (2002) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3744/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,147 @@
+{
+  "id": 16290,
+  "title": "Takio (2012 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16290",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16290/takio_2012_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2013-04-26T12:02:59-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/00/5148c58918155",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16290/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1433",
+        "name": "Mike Avon Oeming",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16290/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16290/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96168",
+        "name": "Cover #96168",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96169",
+        "name": "Interior #96169",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96170",
+        "name": "Cover #96170",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96171",
+        "name": "Interior #96171",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96172",
+        "name": "Cover #96172",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96173",
+        "name": "Interior #96173",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96174",
+        "name": "Cover #96174",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96175",
+        "name": "Interior #96175",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96176",
+        "name": "Cover #96176",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96177",
+        "name": "Interior #96177",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96178",
+        "name": "Cover #96178",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96179",
+        "name": "Interior #96179",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16290/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42721",
+        "name": "Takio (2012) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42717",
+        "name": "Takio (2012) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42718",
+        "name": "Takio (2012) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42719",
+        "name": "Takio (2012) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16290/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

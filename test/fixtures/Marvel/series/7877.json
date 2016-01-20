@@ -1,0 +1,90 @@
+{
+  "id": 7877,
+  "title": "Hulk: Winter Guard One-Shot (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7877",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7877/hulk_winter_guard_one-shot_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T15:44:51-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/4bade456a81c8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7877/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/524",
+        "name": "Steve Ellis",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10102",
+        "name": "David Gallaher",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7877/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7877/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56055",
+        "name": "Hulk: Winter Guard One-Shot (2009) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56056",
+        "name": "Interior #56056",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68807",
+        "name": "",
+        "type": ""
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7877/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25408",
+        "name": "Hulk: Winter Guard One-Shot (2009) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7877/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

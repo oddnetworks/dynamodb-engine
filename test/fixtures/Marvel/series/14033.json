@@ -1,0 +1,75 @@
+{
+  "id": 14033,
+  "title": "Captain America: A Little Help (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14033",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14033/captain_america_a_little_help_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-01-12T12:04:04-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/4d2ddf02ba36b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14033/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1064",
+        "name": "Nick Dragotta",
+        "role": "penciller"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14033/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14033/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88521",
+        "name": "Captain America: A Little Help",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88553",
+        "name": "Captain America: A Little Help",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14033/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38864",
+        "name": "Captain America: A Little Help (2011) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14033/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

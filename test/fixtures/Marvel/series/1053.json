@@ -1,0 +1,104 @@
+{
+  "id": 1053,
+  "title": "Ultimate Vision (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1053",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1053/ultimate_vision_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bad4c567a99e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1053/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/529",
+        "name": "June Chung",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+        "name": "Mark Millar",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+        "name": "Brandon Peterson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1053/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1053/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/524",
+        "name": "Interior #524",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5820",
+        "name": "Ultimate Vision backups",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5821",
+        "name": "Ultimate Vision backups",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65355",
+        "name": "ULTIMATE VISION 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1053/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4354",
+        "name": "Ultimate Vision (2005)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5607",
+        "name": "Ultimate Vision (2005)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1053/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

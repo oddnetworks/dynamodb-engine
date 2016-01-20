@@ -1,0 +1,85 @@
+{
+  "id": 11659,
+  "title": "Tails of the Pet Avengers: The Dogs of Summer (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/11659",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/11659/tails_of_the_pet_avengers_the_dogs_of_summer_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-01T10:00:19-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/60/4bc60ae3e0d2b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11659/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+        "name": "Gurihiru",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11659/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11659/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76434",
+        "name": "Cover #76434",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76435",
+        "name": "Interior #76435",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11659/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34266",
+        "name": "Tails of the Pet Avengers: The Dogs of Summer (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11659/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

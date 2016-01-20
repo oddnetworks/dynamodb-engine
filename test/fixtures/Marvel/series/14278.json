@@ -1,0 +1,83 @@
+{
+  "id": 14278,
+  "title": "Cars 2 (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14278",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14278/cars_2_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-19T15:32:10-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/550b232ee5da9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14278/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14278/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14278/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89265",
+        "name": "Cover #89265",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89266",
+        "name": "Interior #89266",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89267",
+        "name": "Cars 2 #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89268",
+        "name": "Interior #89268",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14278/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39326",
+        "name": "Cars 2 (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39325",
+        "name": "Cars 2 (2011) #2"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14278/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

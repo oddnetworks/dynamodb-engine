@@ -1,0 +1,104 @@
+{
+  "id": 3444,
+  "title": "Fantastic Four and Power Pack: Favorite Son (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3444",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3444/fantastic_four_and_power_pack_favorite_son_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc33e0878039",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3444/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+        "name": "Gurihiru",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+        "name": "Fred Van Lente",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3444/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010770",
+        "name": "Power Pack"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3444/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32622",
+        "name": "4XLS 1 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32623",
+        "name": "4XLS 1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37011",
+        "name": "Fantastic Four and Power Pack 1-4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37012",
+        "name": "Fantastic Four and Power Pack 1-4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3444/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17678",
+        "name": "Fantastic Four and Power Pack: Favorite Son (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3444/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

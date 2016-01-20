@@ -1,0 +1,97 @@
+{
+  "id": 3701,
+  "title": "Paradise X: Heralds (2002)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3701",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3701/paradise_x_heralds_2002?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2002,
+  "endYear": 2002,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bb6934b1d413",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3701/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3701/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3701/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40534",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40535",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40536",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67996",
+        "name": "Paradise X: Heralds 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67997",
+        "name": "Paradise X: Heralds 2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67998",
+        "name": "Paradise X: Heralds 3 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3701/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18991",
+        "name": "Paradise X: Heralds (2002) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18992",
+        "name": "Paradise X: Heralds (2002) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18993",
+        "name": "Paradise X: Heralds (2002) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3701/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

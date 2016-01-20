@@ -1,0 +1,143 @@
+{
+  "id": 3732,
+  "title": "Giant-Size Super-Heroes (1974)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3732",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3732/giant-size_super-heroes_1974?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1974,
+  "endYear": 1974,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/4bb725016932f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3732/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+        "name": "Mike Esposito",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1977",
+        "name": "Linda Lessmann",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "editor"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3732/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009454",
+        "name": "Morbius"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009558",
+        "name": "Sandman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3732/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42902",
+        "name": "Cover #42902",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42903",
+        "name": "Man-Wolf At Midnight!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42904",
+        "name": "Rogues' Gallery",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42905",
+        "name": "How Stan and Steve Create(d) Spider-Man!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3732/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20031",
+        "name": "Giant-Size Super-Heroes (1974) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3732/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

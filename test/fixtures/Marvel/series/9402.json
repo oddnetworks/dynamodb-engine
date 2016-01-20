@@ -1,0 +1,104 @@
+{
+  "id": 9402,
+  "title": "Captain America: Reborn (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9402",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9402/captain_america_reborn_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4ba9574c358c2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9402/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+        "name": "Ed Brubaker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+        "name": "Butch Guice",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+        "name": "Bryan Hitch",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "penciller"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9402/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9402/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62717",
+        "name": "Cover #62717",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62718",
+        "name": "Interior #62718",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73444",
+        "name": "Cover #73444",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/73445",
+        "name": "Interior #73445",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9402/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28761",
+        "name": "Captain America: Reborn (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32518",
+        "name": "Captain America: Reborn (Hardcover)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9402/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

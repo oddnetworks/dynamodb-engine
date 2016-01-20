@@ -1,0 +1,257 @@
+{
+  "id": 6079,
+  "title": "Adam: Legend of the Blue Marvel (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6079/adam_legend_of_the_blue_marvel_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "Rated T",
+  "type": "",
+  "modified": "2014-10-23T17:21:13-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5449710ac36d2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6079/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+        "name": "Kaare Andrews",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4541",
+        "name": "Mat Broome",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9360",
+        "name": "Roberto Castro",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8194",
+        "name": "Carrie Spiegle",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1054",
+        "name": "Juan Doe",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1143",
+        "name": "John Rauch",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4990",
+        "name": "Kevin Grevioux",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1065",
+        "name": "Nate Piekos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10433",
+        "name": "Alvaro Lopez",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2986",
+        "name": "Sean Parsons",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1142",
+        "name": "Lorenzo Ruggiero",
+        "role": "inker"
+      }
+    ],
+    "returned": 12
+  },
+  "characters": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6079/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010784",
+        "name": "Ares"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+        "name": "Blue Marvel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+        "name": "S.H.I.E.L.D."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009571",
+        "name": "Sentry (Robert Reynolds)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+        "name": "Wasp"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009719",
+        "name": "Wonder Man"
+      }
+    ],
+    "returned": 15
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6079/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49796",
+        "name": "6XLS 1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49797",
+        "name": "6XLS 1 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50758",
+        "name": "6XLS 2 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50759",
+        "name": "6XLS 2 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51171",
+        "name": "6XLS 3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51172",
+        "name": "6XLS 3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52188",
+        "name": "6XLS 4 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52189",
+        "name": "6XLS 4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52667",
+        "name": "5XLS 5 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52668",
+        "name": "5XLS 5 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64296",
+        "name": "Cover #64296",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64297",
+        "name": "Interior #64297",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6079/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22461",
+        "name": "Adam: Legend of the Blue Marvel (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22856",
+        "name": "Adam: Legend of the Blue Marvel (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23072",
+        "name": "Adam: Legend of the Blue Marvel (2008) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23562",
+        "name": "Adam: Legend of the Blue Marvel (2008) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23733",
+        "name": "Adam: Legend of the Blue Marvel (2008) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6079/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

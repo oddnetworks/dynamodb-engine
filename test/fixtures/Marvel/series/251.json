@@ -1,0 +1,285 @@
+{
+  "id": 251,
+  "title": "Captain America Vol. I: The New Deal (2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/251",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/251/captain_america_vol_i_the_new_deal_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2003,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/4bb8543f68682",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/251/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4728",
+        "name": "Kelly Lamy",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/759",
+        "name": "C. B. Cebulski",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6298",
+        "name": "Nanci Dakesian",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+        "name": "Ralph Macchio",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/643",
+        "name": "Stuart Moore",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4732",
+        "name": "Brian Smith",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+        "name": "Wes Abbot",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/219",
+        "name": "Kia Asamiya",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+        "name": "David Finch",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11",
+        "name": "Chuck Austen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/168",
+        "name": "John Ney Rieber",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+        "name": "John Cassaday",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4299",
+        "name": "Signed P.r.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+        "name": "Matt Milla",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4283",
+        "name": "J.d. Smith",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/501",
+        "name": "Dave Stewart",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/251/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+        "name": "Juggernaut"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+        "name": "Nightcrawler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009618",
+        "name": "Stacy X"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 33,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/251/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25482",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25483",
+        "name": "Dust",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25484",
+        "name": "[Credits]",
+        "type": "credits"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25485",
+        "name": "[Dedication]",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25486",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25497",
+        "name": "Fight Terror",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25498",
+        "name": "One Nation",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25499",
+        "name": "The Call of Duty: 911 [Part 2]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25500",
+        "name": "Ultimate Savings!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25501",
+        "name": "[House Advertisements]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25502",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25513",
+        "name": "Are You Doing Your Part?",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25514",
+        "name": "Soft Targets",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25515",
+        "name": "[House Advertisements]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25516",
+        "name": "X-Treme Savings!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25517",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25521",
+        "name": "Never Give Up",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25522",
+        "name": "[Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25523",
+        "name": "[untitled]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25524",
+        "name": "[House Advertisements]",
+        "type": "promo"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/251/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1194",
+        "name": "Captain America Vol. I: The New Deal (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/251/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

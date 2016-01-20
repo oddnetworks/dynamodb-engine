@@ -1,0 +1,85 @@
+{
+  "id": 21264,
+  "title": "True Believers: Uncanny Deadpool (2016 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21264",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21264/true_believers_uncanny_deadpool_2016_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2016,
+  "endYear": 2099,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2016-01-08T17:12:23-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21264/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/665",
+        "name": "Reilly Brown",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21264/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21264/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127251",
+        "name": "cover from True Believers: Uncanny Deadpool (2016) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127252",
+        "name": "story from True Believers: Uncanny Deadpool (2016) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21264/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58321",
+        "name": "True Believers: Uncanny Deadpool (2016) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21264/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,135 @@
+{
+  "id": 3207,
+  "title": "X-Men: Messiah Complex - Mutant Files (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3207",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3207/x-men_messiah_complex_-_mutant_files_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/4bc3895616f21",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3207/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1072",
+        "name": "Chad Anderson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/904",
+        "name": "Chris Biggs",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+        "name": "Ronald Byrd",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1067",
+        "name": "Madison Carter",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/906",
+        "name": "Mike Fichera",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/888",
+        "name": "Michael Hoskin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/897",
+        "name": "Sean McQuaid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/394",
+        "name": "Eric J. Moreels",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/896",
+        "name": "Stuart Vandal",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5013",
+        "name": "David Wiltfong",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3207/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3207/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36465",
+        "name": "Cover #36465",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36466",
+        "name": "Interior #36466",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3207/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17395",
+        "name": "X-Men: Messiah Complex - Mutant Files (2007) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3207/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "name": "Messiah CompleX"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

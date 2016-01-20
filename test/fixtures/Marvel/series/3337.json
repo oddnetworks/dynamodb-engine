@@ -1,0 +1,75 @@
+{
+  "id": 3337,
+  "title": "Spider-Man: Brand New Day Jimenez Poster (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3337",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3337/spider-man_brand_new_day_jimenez_poster_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "NO RATING",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4bc3404369dc9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3337/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/306",
+        "name": "Phil Jimenez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3337/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3337/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36807",
+        "name": "Cover #36807",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36808",
+        "name": "Interior #36808",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3337/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17587",
+        "name": "Spider-Man: Brand New Day Jimenez Poster (2008)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3337/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": 15568,
+  "title": "Captain America: Winter Soldier Vol. 1 (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/15568",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/15568/captain_america_winter_soldier_vol_1_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2014-05-22T09:30:24-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15568/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15568/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15568/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106153",
+        "name": "cover from Captain America: Winter Soldier Vol. 1 #0",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15568/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41743",
+        "name": "Captain America: Winter Soldier Vol. 1 (2011)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15568/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

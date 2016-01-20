@@ -1,0 +1,95 @@
+{
+  "id": 18767,
+  "title": "Empire BlueCross Presenta:  Iron Man & Habit Heroes (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18767",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18767/empire_bluecross_presenta_iron_man_habit_heroes_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "",
+  "modified": "2013-09-18T12:00:20-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18767/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+        "name": "Mark Basso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12239",
+        "name": "Guru Efx",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+        "name": "Joe Sabino",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/918",
+        "name": "Ty Templeton",
+        "role": "inker"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18767/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18767/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110800",
+        "name": "story from Custom Wellpoint Habit Heroes Comic (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111931",
+        "name": "Empire BlueCross Presenta:  Iron Man & Habit Heroes #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18767/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49937",
+        "name": "Empire BlueCross Presenta:  Iron Man & Habit Heroes (2013) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18767/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

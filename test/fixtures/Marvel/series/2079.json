@@ -1,0 +1,420 @@
+{
+  "id": 2079,
+  "title": "Tales of Suspense (1959 - 1968)",
+  "description": "Mixing science fiction with super heroes, Tales of Suspense showcased out-of-this-world pulp-style adventure in its early days before becoming the home of Iron Man and Captain America!",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2079",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2079/tales_of_suspense_1959_-_1968?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1959,
+  "endYear": 1968,
+  "rating": "",
+  "type": "",
+  "modified": "2013-05-21T17:34:56-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/519be83b60816",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 53,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2079/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+        "name": "Dick Ayers",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1089",
+        "name": "Sol Brodsky",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+        "name": "Vince Colletta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1709",
+        "name": "Johnny Craig",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+        "name": "Mike Esposito",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1549",
+        "name": "Matt Fox",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1693",
+        "name": "R Berns",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1289",
+        "name": "Robert Bernstein",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1509",
+        "name": "Reed Crandall",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1661",
+        "name": "Jack Davis",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1530",
+        "name": "Bob Forgione",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1356",
+        "name": "John Forte",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1545",
+        "name": "Marty Epp",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1828",
+        "name": "Carl Gafford",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2079/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+        "name": "A.I.M."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009170",
+        "name": "Baron Zemo (Heinrich Zemo)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+        "name": "Black Knight (Sir Percy of Scandia)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009249",
+        "name": "Count Nefaria"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009251",
+        "name": "Crimson Dynamo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009391",
+        "name": "Kraven the Hunter"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009421",
+        "name": "Mandarin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
+        "name": "Mole Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+        "name": "Quicksilver"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+        "name": "Red Skull"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+        "name": "S.H.I.E.L.D."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+        "name": "Scarlet Witch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 397,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2079/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11600",
+        "name": "Cover #11600",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11601",
+        "name": "The Stangers from Space!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11602",
+        "name": "*I Dared Explore the Unknown Emptiness!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11603",
+        "name": "The Day I Left My Body",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11604",
+        "name": "He Fled in the Night",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11605",
+        "name": "Prisoners of the Satellites!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11606",
+        "name": "Cover #11606",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11607",
+        "name": "*I Brought the Mighty Cyclops Back to Life!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11608",
+        "name": "I Was Trapped in Nightmare Valley",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11609",
+        "name": "Behind My Door Waits... Medusa!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11610",
+        "name": "I Am the Shaggy Creature",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11611",
+        "name": "Cover #11611",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11612",
+        "name": "*I Created... Sporr!",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11613",
+        "name": "I Know the Secret of the Flying Saucer",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11614",
+        "name": "Beware the Eyes of Igor",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11615",
+        "name": "I Escaped to Another World",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11616",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11617",
+        "name": "Cover #11617",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11618",
+        "name": "*Gor-Kill, the Living Demon!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/11619",
+        "name": "Vial of Inspiration",
+        "type": "text story"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 99,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2079/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11248",
+        "name": "Tales of Suspense (1959) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11259",
+        "name": "Tales of Suspense (1959) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11270",
+        "name": "Tales of Suspense (1959) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11281",
+        "name": "Tales of Suspense (1959) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11292",
+        "name": "Tales of Suspense (1959) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11303",
+        "name": "Tales of Suspense (1959) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11314",
+        "name": "Tales of Suspense (1959) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11325",
+        "name": "Tales of Suspense (1959) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11336",
+        "name": "Tales of Suspense (1959) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11249",
+        "name": "Tales of Suspense (1959) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11250",
+        "name": "Tales of Suspense (1959) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11251",
+        "name": "Tales of Suspense (1959) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11252",
+        "name": "Tales of Suspense (1959) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11253",
+        "name": "Tales of Suspense (1959) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11254",
+        "name": "Tales of Suspense (1959) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11255",
+        "name": "Tales of Suspense (1959) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11256",
+        "name": "Tales of Suspense (1959) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11257",
+        "name": "Tales of Suspense (1959) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11258",
+        "name": "Tales of Suspense (1959) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11260",
+        "name": "Tales of Suspense (1959) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2079/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+    "name": "Captain America (1968 - 1996)"
+  },
+  "previous": null
+}

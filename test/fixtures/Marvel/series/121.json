@@ -1,0 +1,80 @@
+{
+  "id": 121,
+  "title": "G.I. Joe Vol. V (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/121",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/121/gi_joe_vol_v_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bc66a17a08e3",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/121/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+        "name": "Larry Hama",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/142",
+        "name": "Rod Whigham",
+        "role": "penciller"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/121/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/121/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122",
+        "name": "Cobra advances its cruel campaign for world domination with the creation of a new country where the ruthless terrorist organizat",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65199",
+        "name": "G.I. JOE VOL. V TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/121/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1061",
+        "name": "G.I. Joe Vol. V (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/121/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

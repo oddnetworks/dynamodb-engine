@@ -1,0 +1,146 @@
+{
+  "id": 5603,
+  "title": "Sub-Mariner: The Depths (2008 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5603",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5603/sub-mariner_the_depths_2008_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2009,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "2011-06-01T14:02:59-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bb71863d66ff",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5603/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+        "name": "Peter Milligan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+        "name": "Esad Ribic",
+        "role": "colorist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5603/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5603/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48345",
+        "name": "4XLS 1 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48346",
+        "name": "4XLS 1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49095",
+        "name": "4XLS 2 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49096",
+        "name": "4XLS 2 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49880",
+        "name": "5XLS 3 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49881",
+        "name": "5XLS 3 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51240",
+        "name": "5XLS 4 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51241",
+        "name": "5XLS 4 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52729",
+        "name": "5XLS 5 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52730",
+        "name": "5XLS 5 of 5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5603/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21971",
+        "name": "Sub-Mariner: The Depths (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22295",
+        "name": "Sub-Mariner: The Depths (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22502",
+        "name": "Sub-Mariner: The Depths (2008) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23108",
+        "name": "Sub-Mariner: The Depths (2008) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23764",
+        "name": "Sub-Mariner: The Depths (2008) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5603/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

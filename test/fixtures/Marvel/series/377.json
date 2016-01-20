@@ -1,0 +1,139 @@
+{
+  "id": 377,
+  "title": "Daredevil: Yellow (2001 - 2002)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/377",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/377/daredevil_yellow_2001_-_2002?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2001,
+  "endYear": 2002,
+  "rating": "",
+  "type": "",
+  "modified": "2011-07-07T14:35:18-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4bc334cc50087",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/377/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/377/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/377/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/533",
+        "name": "Interior #533",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/534",
+        "name": "Interior #534",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/535",
+        "name": "Interior #535",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/537",
+        "name": "Interior #537",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/538",
+        "name": "Interior #538",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/539",
+        "name": "Interior #539",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65360",
+        "name": "DAREDEVIL: YELLOW 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65361",
+        "name": "DAREDEVIL: YELLOW 2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65362",
+        "name": "DAREDEVIL: YELLOW 3 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65363",
+        "name": "DAREDEVIL: YELLOW 4 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65364",
+        "name": "DAREDEVIL: YELLOW 5 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65365",
+        "name": "DAREDEVIL: YELLOW 6 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/377/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4618",
+        "name": "Daredevil: Yellow (2001) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4619",
+        "name": "Daredevil: Yellow (2001) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4620",
+        "name": "Daredevil: Yellow (2001) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4622",
+        "name": "Daredevil: Yellow (2001) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4623",
+        "name": "Daredevil: Yellow (2001) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4624",
+        "name": "Daredevil: Yellow (2001) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/377/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,165 @@
+{
+  "id": 1627,
+  "title": "Marvel Team-Up Vol. 3: League of Losers (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1627",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1627/marvel_team-up_vol_3_league_of_losers_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED A",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc3418ecb773",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1627/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/868",
+        "name": "Bill Crabtree",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/869",
+        "name": "Phil Hester",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+        "name": "Paco Medina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/553",
+        "name": "Robert Kirkman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/867",
+        "name": "Cory Walker",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/870",
+        "name": "Ande Parks",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+        "name": "Juan Vlasco",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1627/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1627/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4129",
+        "name": "1 of 1 - Invincible Crossover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4130",
+        "name": "1 of 1 - Invincible Crossover",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4131",
+        "name": "1 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4132",
+        "name": "1 of 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4133",
+        "name": "2 of 4 - League of Losers",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4134",
+        "name": "2 of 4 - League of Losers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4135",
+        "name": "3 of 4 - League of Losers",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4136",
+        "name": "3 of 4 - League of Losers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4137",
+        "name": "4 of 4 - League of Losers",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4138",
+        "name": "4 of 4 - League of Losers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65961",
+        "name": "MARVEL TEAM-UP VOL. 3: LEAGUE OF LOSERS 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1627/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4271",
+        "name": "Marvel Team-Up Vol. 3: League of Losers (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1627/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

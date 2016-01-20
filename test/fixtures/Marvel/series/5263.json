@@ -1,0 +1,130 @@
+{
+  "id": 5263,
+  "title": "Punisher (1986)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5263",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5263/punisher_1986?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1986,
+  "endYear": 1986,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T14:40:44-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/51310371d8bfa",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5263/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5263/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5263/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48922",
+        "name": "Cover #48922",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48923",
+        "name": "Interior #48923",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48924",
+        "name": "Cover #48924",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48925",
+        "name": "Interior #48925",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48926",
+        "name": "Cover #48926",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48927",
+        "name": "Interior #48927",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48928",
+        "name": "Cover #48928",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48929",
+        "name": "Interior #48929",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48930",
+        "name": "Cover #48930",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48931",
+        "name": "Interior #48931",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5263/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21640",
+        "name": "Punisher (1986) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21641",
+        "name": "Punisher (1986) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21642",
+        "name": "Punisher (1986) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21643",
+        "name": "Punisher (1986) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21644",
+        "name": "Punisher (1986) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5263/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

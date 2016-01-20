@@ -1,0 +1,426 @@
+{
+  "id": 3637,
+  "title": "X-Men Unlimited (1993 - 1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3637",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3637/x-men_unlimited_1993_-_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1993,
+  "endYear": 1999,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/20/4bb5576b4ad3d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 147,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3637/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2330",
+        "name": "Malibu",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2113",
+        "name": "Joe Agostinelli",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4135",
+        "name": "Shannon Blanchard",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+        "name": "Roberto Aguirre-Sacasa",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1021",
+        "name": "Doug Alexander",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+        "name": "Chris Bachalo",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4469",
+        "name": "Richard Bennett",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5268",
+        "name": "Jim Calafiore",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/379",
+        "name": "Greg Capullo",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1192",
+        "name": "Ian Churchill",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3999",
+        "name": "Scott Clark",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+        "name": "Alan Davis",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3389",
+        "name": "Ian Akin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2077",
+        "name": "Hilary Barta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+        "name": "Kelly Corvese",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 66,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3637/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009150",
+        "name": "Agent Zero"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+        "name": "Alpha Flight"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+        "name": "Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+        "name": "Banshee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596",
+        "name": "Banshee (Theresa Rourke)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009171",
+        "name": "Bastion"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+        "name": "Bishop"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009203",
+        "name": "Bloodscream"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009208",
+        "name": "Brood"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009209",
+        "name": "Brotherhood of Evil Mutants"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+        "name": "Cable"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009216",
+        "name": "Caliban"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009217",
+        "name": "Callisto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009233",
+        "name": "Chamber"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+        "name": "Dazzler"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 162,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3637/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38482",
+        "name": "Onslaught Impact 2: The Juggernaut--Prisoner of the Cyttorak Gem !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38483",
+        "name": "The Once and Future Juggernaut",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38484",
+        "name": "X-Word Puzzle",
+        "type": "activity"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38485",
+        "name": "Genetic Research",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38486",
+        "name": "X-Cellent Lines",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38487",
+        "name": "Mutation Match",
+        "type": "activity"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38488",
+        "name": "The Rise of Apocalypse Preview",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38489",
+        "name": "Magneto and Rogue--Starting Over",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38490",
+        "name": "Adrift",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38491",
+        "name": "X-Cerpts + Keepsakes",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38492",
+        "name": "Scott & Alex",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38493",
+        "name": "Rogue",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38494",
+        "name": "Colossus",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38495",
+        "name": "Storm/Colossus/Wolverine",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38496",
+        "name": "Colossus/M",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38497",
+        "name": "The Women of the X",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38498",
+        "name": "X-Factor",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38499",
+        "name": "Brood",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38500",
+        "name": "Survival",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38501",
+        "name": "Follow the Leader",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 50,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3637/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18110",
+        "name": "X-Men Unlimited (1993) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18121",
+        "name": "X-Men Unlimited (1993) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18132",
+        "name": "X-Men Unlimited (1993) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18143",
+        "name": "X-Men Unlimited (1993) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18154",
+        "name": "X-Men Unlimited (1993) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18156",
+        "name": "X-Men Unlimited (1993) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18157",
+        "name": "X-Men Unlimited (1993) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18158",
+        "name": "X-Men Unlimited (1993) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18159",
+        "name": "X-Men Unlimited (1993) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18111",
+        "name": "X-Men Unlimited (1993) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18112",
+        "name": "X-Men Unlimited (1993) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18113",
+        "name": "X-Men Unlimited (1993) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18114",
+        "name": "X-Men Unlimited (1993) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18115",
+        "name": "X-Men Unlimited (1993) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18116",
+        "name": "X-Men Unlimited (1993) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18117",
+        "name": "X-Men Unlimited (1993) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18118",
+        "name": "X-Men Unlimited (1993) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18119",
+        "name": "X-Men Unlimited (1993) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18120",
+        "name": "X-Men Unlimited (1993) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18122",
+        "name": "X-Men Unlimited (1993) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3637/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+        "name": "Maximum Security"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

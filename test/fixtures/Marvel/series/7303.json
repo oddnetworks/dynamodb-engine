@@ -1,0 +1,96 @@
+{
+  "id": 7303,
+  "title": "Cloak and Dagger (1983)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7303",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7303/cloak_and_dagger_1983?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1983,
+  "endYear": 1983,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4bb554df492cc",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7303/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7303/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7303/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68615",
+        "name": "CLOAK AND DAGGER 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68616",
+        "name": "CLOAK AND DAGGER 2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68617",
+        "name": "CLOAK AND DAGGER 3 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68618",
+        "name": "CLOAK AND DAGGER 4 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7303/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24117",
+        "name": "Cloak and Dagger (1983) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24118",
+        "name": "Cloak and Dagger (1983) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24119",
+        "name": "Cloak and Dagger (1983) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24120",
+        "name": "Cloak and Dagger (1983) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7303/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+        "name": "Inferno"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

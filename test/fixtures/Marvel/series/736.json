@@ -1,0 +1,155 @@
+{
+  "id": 736,
+  "title": "Spider-Man/Doctor Octopus: Year One (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/736",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/736/spider-mandoctor_octopus_year_one_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bc681684d26c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/736/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+        "name": "Kaare Andrews",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+        "name": "Jose Villarrubia",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/736/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+        "name": "Doctor Octopus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/736/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3194",
+        "name": "Cover #3194",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3195",
+        "name": "Interior #3195",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3196",
+        "name": "Cover #3196",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3197",
+        "name": "Interior #3197",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3198",
+        "name": "Cover #3198",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3199",
+        "name": "Interior #3199",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3200",
+        "name": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares fo",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3201",
+        "name": "As poisonous radiation courses through his bloodstream, a vicious Doctor Octopus cracks the secret of Spider-Man and prepares fo",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3202",
+        "name": "The brutal conclusion to the fantastic series, featuring the first epic battle between The Amazing Spider-Man and Doctor Octopus",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3203",
+        "name": "The brutal conclusion to the fantastic series, featuring the first epic battle between The Amazing Spider-Man and Doctor Octopus",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/736/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/714",
+        "name": "Spider-Man/Doctor Octopus: Year One (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/743",
+        "name": "Spider-Man/Doctor Octopus: Year One (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/758",
+        "name": "Spider-Man/Doctor Octopus: Year One (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/825",
+        "name": "Spider-Man/Doctor Octopus: Year One (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/907",
+        "name": "Spider-Man/Doctor Octopus: Year One (2004) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/736/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

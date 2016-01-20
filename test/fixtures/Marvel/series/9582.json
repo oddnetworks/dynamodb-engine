@@ -1,0 +1,105 @@
+{
+  "id": 9582,
+  "title": "Siege: X-Men (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9582",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9582/siege_x-men_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc5ed2e23ce5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9582/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1368",
+        "name": "Niko Henrichon",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9047",
+        "name": "Marjorie Liu",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+        "name": "Daniel Way",
+        "role": "writer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9582/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9582/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70764",
+        "name": "Cover #70764",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70766",
+        "name": "Interior #70766",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9582/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30983",
+        "name": "Siege: X-Men (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9582/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

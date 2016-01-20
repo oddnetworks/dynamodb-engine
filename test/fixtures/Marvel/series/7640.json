@@ -1,0 +1,85 @@
+{
+  "id": 7640,
+  "title": "Captain America: Theater of War: Prisoners of Duty (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7640",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7640/captain_america_theater_of_war_prisoners_of_duty_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-25T12:56:08-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bb3d190950f7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7640/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10136",
+        "name": "Kyle Higgins",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7983",
+        "name": "Agustin Padilla",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10107",
+        "name": "Mirco Pierfederici",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7640/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7640/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54600",
+        "name": "Cover #54600",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54601",
+        "name": "Interior #54601",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7640/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24686",
+        "name": "Captain America: Theater of War: Prisoners of Duty (2009) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7640/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1179,
+  "title": "Spider-Man/Black Cat: Evil That Men Do Marvel Premiere (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1179",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1179/spider-manblack_cat_evil_that_men_do_marvel_premiere_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "PARENTAL ADVISORY",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4bc5ed7cf147b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1179/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+        "name": "Terry Dodson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/21",
+        "name": "Kevin Smith",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1179/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1179/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6338",
+        "name": "Collecting S-M/Black Cat #1-6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6339",
+        "name": "Collecting S-M/Black Cat #1-6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1179/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4129",
+        "name": "Spider-Man/Black Cat: Evil That Men Do Marvel Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1179/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

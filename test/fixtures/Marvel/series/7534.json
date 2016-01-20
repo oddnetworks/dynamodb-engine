@@ -1,0 +1,123 @@
+{
+  "id": 7534,
+  "title": "All Winners Comics 70th Anniversary Special (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7534",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7534/all_winners_comics_70th_anniversary_special_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "2010-12-14T14:34:46-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/4bb414e6de226",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7534/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+        "name": "Daniel Acuna",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4508",
+        "name": "Steve Uy",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8678",
+        "name": "Jared Fletcher",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/438",
+        "name": "Karl Kesel",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+        "name": "Todd Klein",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/894",
+        "name": "Marcos Martin",
+        "role": "penciller"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7534/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+        "name": "Red Skull"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7534/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53910",
+        "name": "Cover #53910",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53911",
+        "name": "Interior #53911",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54145",
+        "name": "Cover #54145",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/54146",
+        "name": "Interior #54146",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7534/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24371",
+        "name": "All Winners Comics 70th Anniversary Special (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24372",
+        "name": "All Winners Comics 70th Anniversary Special (2009) #1 (MARTIN VARIANT)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7534/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

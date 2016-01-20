@@ -1,0 +1,115 @@
+{
+  "id": 10030,
+  "title": "Atlantis Attacks (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10030",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10030/atlantis_attacks_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2013-06-12T13:21:08-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/80/51b8add889975",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10030/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+        "name": "various",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/243",
+        "name": "Mike Mayhew",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10030/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009523",
+        "name": "Quasar (Phyla-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10030/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63795",
+        "name": "Cover #63795",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63796",
+        "name": "Interior #63796",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10030/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29321",
+        "name": "Atlantis Attacks (2011) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10030/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

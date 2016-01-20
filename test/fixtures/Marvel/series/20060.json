@@ -1,0 +1,164 @@
+{
+  "id": 20060,
+  "title": "Avengers Vs (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20060",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20060/avengers_vs_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2015-04-24T12:16:40-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/553a6c3b7b311",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20060/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5039",
+        "name": "Wellington Alves",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8317",
+        "name": "Dario Brizuela",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12502",
+        "name": "Andrea Divito",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+        "name": "Ron Lim",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4994",
+        "name": "Kalman Andrasofszky",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/444",
+        "name": "Tom Raney",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/434",
+        "name": "Michael Ryan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "writer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20060/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20060/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118495",
+        "name": "cover from Avengers Vs (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118496",
+        "name": "story from Avengers Vs (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118497",
+        "name": "cover from Avengers Vs (2015) #1 (TBD ARTIST VARIANT A)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118498",
+        "name": "story from Avengers Vs (2015) #1 (TBD ARTIST VARIANT A)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118499",
+        "name": "cover from Avengers Vs (2015) #1 (TBD ARTIST VARIANT B)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118500",
+        "name": "story from Avengers Vs (2015) #1 (TBD ARTIST VARIANT B)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118501",
+        "name": "cover from Avengers Vs (2015) #1 (TBD ARTIST VARIANT C)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118502",
+        "name": "story from Avengers Vs (2015) #1 (TBD ARTIST VARIANT C)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20060/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53610",
+        "name": "Avengers Vs (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53611",
+        "name": "Avengers Vs (2015) #1 (Ryan Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53612",
+        "name": "Avengers Vs (2015) #1 (Andrasofszky Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53613",
+        "name": "Avengers Vs (2015) #1 (Lim Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55122",
+        "name": "Avengers Vs (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55221",
+        "name": "Avengers Vs (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55229",
+        "name": "Avengers Vs (2015) #4"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20060/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

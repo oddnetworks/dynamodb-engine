@@ -1,0 +1,265 @@
+{
+  "id": 12877,
+  "title": "The Iron Age (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/12877",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/12877/the_iron_age_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-08-05T16:17:27-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12877/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+        "name": "Tom Brennan",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11421",
+        "name": "Roberto Delatorre",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1064",
+        "name": "Nick Dragotta",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+        "name": "Ron Frenz",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/935",
+        "name": "Todd Nauck",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/554",
+        "name": "Ben Oliver",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+        "name": "Lee Weeks",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10495",
+        "name": "ELLIOT KALAN",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+        "name": "Louise Simonson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11788",
+        "name": "Jennifer Van Meter",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/646",
+        "name": "Rob Williams",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/306",
+        "name": "Phil Jimenez",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/334",
+        "name": "Joe Jusko",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8729",
+        "name": "Jelena Kevic Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/509",
+        "name": "Michael Lark",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 16
+  },
+  "characters": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12877/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+        "name": "Dazzler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+        "name": "Iron Fist (Danny Rand)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+        "name": "Ultron"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 11
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12877/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80634",
+        "name": "The Iron Age #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80635",
+        "name": "Interior #80635",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90049",
+        "name": "Cover #90049",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90051",
+        "name": "Cover #90051",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90052",
+        "name": "Interior #90052",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90053",
+        "name": "Cover #90053",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90054",
+        "name": "Interior #90054",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90055",
+        "name": "Cover #90055",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90056",
+        "name": "Interior #90056",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90057",
+        "name": "The Iron Age #1 (Jusko Variant)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90058",
+        "name": "Interior #90058",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90097",
+        "name": "Interior #90097",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12877/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36311",
+        "name": "The Iron Age (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39686",
+        "name": "The Iron Age (2010) #1 (Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39685",
+        "name": "The Iron Age (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39684",
+        "name": "The Iron Age (2010) #2 (Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39682",
+        "name": "The Iron Age (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39683",
+        "name": "The Iron Age (2010) #3 (Variant)"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12877/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

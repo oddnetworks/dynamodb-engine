@@ -1,0 +1,99 @@
+{
+  "id": 1968,
+  "title": "Spider-Girl Vol. 8: Duty Calls (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1968",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1968/spider-girl_vol_8_duty_calls_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4bc35455101aa",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1968/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1968/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+        "name": "Spider-Girl (May Parker)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1968/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24863",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24866",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24867",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24868",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24869",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24870",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66163",
+        "name": "SPIDER-GIRL VOL. 8: DUTY CALLS 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 7
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1968/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6222",
+        "name": "Spider-Girl Vol. 8: Duty Calls (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1968/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

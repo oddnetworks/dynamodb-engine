@@ -1,0 +1,118 @@
+{
+  "id": 13160,
+  "title": "Hawkeye & Mockingbird/Black Widow: Widowmaker (2010 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13160",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13160/hawkeye_mockingbirdblack_widow_widowmaker_2010_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-03-25T11:24:46-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13160/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5625",
+        "name": "Duane Swierczynski",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/614",
+        "name": "Manuel Garcia",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8349",
+        "name": "David Lopez Lopez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+        "name": "Al Milgrom",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+        "name": "Jae Lee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13160/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011220",
+        "name": "Mockingbird"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13160/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81821",
+        "name": "HAWKEYE & MOCKINGBIRD/BLACK WIDOW: WIDOWMAKER TPB",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81822",
+        "name": "HAWKEYE & MOCKINGBIRD/BLACK WIDOW: WIDOWMAKER TPB",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13160/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36899",
+        "name": "Hawkeye & Mockingbird/Black Widow: Widowmaker (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13160/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

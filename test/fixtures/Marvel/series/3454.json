@@ -1,0 +1,130 @@
+{
+  "id": 3454,
+  "title": "Annihilation: Conquest Book 1 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3454",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3454/annihilation_conquest_book_1_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc33dd3d517e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3454/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+        "name": "Keith Giffen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5634",
+        "name": "Aleksi Briclot",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5742",
+        "name": "Timothy Green",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5119",
+        "name": "Mike Lilly",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+        "name": "Mike Perkins",
+        "role": "artist"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3454/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3454/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32454",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37031",
+        "name": "Annihilation: Conquest Prologue; Annihilation: Conquest - Quasar 1-4; Annihilation: Conquest - Starlord 1-4; Annihilation Saga",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37032",
+        "name": "Annihilation: Conquest Prologue; Annihilation: Conquest - Quasar 1-4; Annihilation: Conquest - Starlord 1-4; Annihilation Saga",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3454/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17688",
+        "name": "Annihilation: Conquest Book 1 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3454/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/293",
+        "name": "Annihilation: Conquest"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

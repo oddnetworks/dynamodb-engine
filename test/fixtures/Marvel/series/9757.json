@@ -1,0 +1,109 @@
+{
+  "id": 9757,
+  "title": "Siege: Secret Warriors (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9757",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9757/siege_secret_warriors_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2013-04-29T15:29:13-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/40/517ec9975b4e5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9757/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10124",
+        "name": "Alessandro Vitti",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9757/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9757/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74186",
+        "name": "Cover #74186",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74187",
+        "name": "Interior #74187",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74189",
+        "name": "Cover #74189",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74190",
+        "name": "Interior #74190",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9757/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32930",
+        "name": "Siege: Secret Warriors (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32932",
+        "name": "Siege: Secret Warriors (2010) #1 (SKETCH VARIANT)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9757/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

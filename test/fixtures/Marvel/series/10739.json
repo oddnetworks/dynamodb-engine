@@ -1,0 +1,170 @@
+{
+  "id": 10739,
+  "title": "Captain America & the Korvac Saga (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10739",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10739/captain_america_the_korvac_saga_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-03-01T15:27:49-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/40/4c9109f9428f6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10739/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/598",
+        "name": "Brad Anderson",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11133",
+        "name": "Ben McCool",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1371",
+        "name": "Terry Pallot",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8260",
+        "name": "Craig Rousseau",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+        "name": "Patrick Scherberger",
+        "role": "penciller"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10739/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011312",
+        "name": "Korvac"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011053",
+        "name": "Maelstrom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010334",
+        "name": "Quasimodo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+        "name": "Scarlet Witch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+        "name": "Vision"
+      }
+    ],
+    "returned": 8
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10739/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75844",
+        "name": "Captain America & the Korvac Saga (2010) #4  ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75845",
+        "name": "Interior #75845 ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75874",
+        "name": "Captain America and the Korvac Saga #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75875",
+        "name": "Captain America and the Korvac Saga #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76060",
+        "name": "Cover #76060",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76061",
+        "name": "Interior #76061",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76307",
+        "name": "Cover #76307",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/76308",
+        "name": "Interior #76308",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10739/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33864",
+        "name": "Captain America & the Korvac Saga (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33856",
+        "name": "Captain America & the Korvac Saga (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33863",
+        "name": "Captain America & the Korvac Saga (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33820",
+        "name": "Captain America & the Korvac Saga (2010) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10739/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

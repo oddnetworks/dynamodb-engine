@@ -1,0 +1,291 @@
+{
+  "id": 15691,
+  "title": "Black Panther: The Man Without Fear (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/15691",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/15691/black_panther_the_man_without_fear_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2016-01-07T13:00:47-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/568ea7c4bda60",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15691/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+        "name": "David Aja",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10405",
+        "name": "John Tyler Christopher",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+        "name": "Patrick Zircher",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11886",
+        "name": "Francesco Francavilla",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8728",
+        "name": "Jefte Palo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10104",
+        "name": "David Liss",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/123",
+        "name": "Bill Rosemann",
+        "role": "editor"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15691/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009470",
+        "name": "Foggy Nelson"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+        "name": "Luke Cage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+        "name": "Storm"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 32,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15691/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69570",
+        "name": "Cover #69570",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69571",
+        "name": "Interior #69571",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69572",
+        "name": "Cover #69572",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69573",
+        "name": "Interior #69573  ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69574",
+        "name": "Black Panther: The Man Without Fear #515",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69575",
+        "name": "Black Panther: The Man Without Fear #515",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69576",
+        "name": "Black Panther: The Man Without Fear (2010) #516 ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69577",
+        "name": "Interior #69577",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71084",
+        "name": "Black Panther: The Man Without Fear (2010) #517",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/71086",
+        "name": "Black Panther: The Man Without Fear (2010) #517",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80858",
+        "name": "Black Panther: The Man Without Fear #518",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80859",
+        "name": "Black Panther: The Man Without Fear #518",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81558",
+        "name": "Cover #81558",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81559",
+        "name": "Interior #81559",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81562",
+        "name": "Black Panther: Man Without Fear #520",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81563",
+        "name": "Interior #81563",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81564",
+        "name": "Cover #81564",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81565",
+        "name": "Interior #81565",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81566",
+        "name": "Black Panther: The Man Without Fear (2010) #523",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81567",
+        "name": "Black Panther: The Man Without Fear (2010) #523 - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15691/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30372",
+        "name": "Black Panther: The Man Without Fear (2010) #513"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38932",
+        "name": "Black Panther: The Man Without Fear (2010) #513 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37564",
+        "name": "Black Panther: The Man Without Fear (2010) #513 (FRANCAVILLA VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30373",
+        "name": "Black Panther: The Man Without Fear (2010) #514"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30374",
+        "name": "Black Panther: The Man Without Fear (2010) #515"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30375",
+        "name": "Black Panther: The Man Without Fear (2010) #516"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38619",
+        "name": "Black Panther: The Man Without Fear (2010) #516 (CAPTAIN AMERICA 70TH ANNIVERSARY VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31176",
+        "name": "Black Panther: The Man Without Fear (2010) #517"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38712",
+        "name": "Black Panther: The Man Without Fear (2010) #517 (THOR HOLLYWOOD VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34277",
+        "name": "Black Panther: The Man Without Fear (2010) #518"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36782",
+        "name": "Black Panther: The Man Without Fear (2010) #519"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36784",
+        "name": "Black Panther: The Man Without Fear (2010) #520"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36785",
+        "name": "Black Panther: The Man Without Fear (2010) #521"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36787",
+        "name": "Black Panther: The Man Without Fear (2010) #522"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36786",
+        "name": "Black Panther: The Man Without Fear (2010) #523"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15691/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

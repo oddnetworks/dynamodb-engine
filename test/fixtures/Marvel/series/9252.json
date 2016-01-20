@@ -1,0 +1,161 @@
+{
+  "id": 9252,
+  "title": "Realm of Kings: Son of Hulk (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9252",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9252/realm_of_kings_son_of_hulk_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T17:23:28-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/4babfba5163e8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9252/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8003",
+        "name": "Alex Garner",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7231",
+        "name": "Michael Golden",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10188",
+        "name": "MIGUEL MUNERA",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10154",
+        "name": "Miguel Angel Munera Sancho",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10147",
+        "name": "Scott Reed",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9252/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9252/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64594",
+        "name": "Cover #64594",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64595",
+        "name": "Interior #64595",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64596",
+        "name": "Realm of Kings: Son of Hulk (2010) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64597",
+        "name": "Interior #64597",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64599",
+        "name": "Interior #64599",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70383",
+        "name": "Realm of Kings: Son of Hulk (2010) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70384",
+        "name": "Cover #70384",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70385",
+        "name": "Interior #70385",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70386",
+        "name": "Interior #70386",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96374",
+        "name": "Realm of Kings: Son of Hulk (2010) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9252/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30782",
+        "name": "Realm of Kings: Son of Hulk (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30781",
+        "name": "Realm of Kings: Son of Hulk (2010) #1 (GOLDEN VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29724",
+        "name": "Realm of Kings: Son of Hulk (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29725",
+        "name": "Realm of Kings: Son of Hulk (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29726",
+        "name": "Realm of Kings: Son of Hulk (2010) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9252/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/295",
+        "name": "Realm of Kings"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

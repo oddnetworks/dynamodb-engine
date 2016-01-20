@@ -1,0 +1,160 @@
+{
+  "id": 336,
+  "title": "Ultimate Spider-Man Vol. 8: Cats & Kings (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/336",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/336/ultimate_spider-man_vol_8_cats_kings_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4bc6a29620b1c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/336/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/568",
+        "name": "Art Thibert",
+        "role": "inker"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/336/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+        "name": "Spider-Man (Ultimate)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/336/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1608",
+        "name": "Cover #1608",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1609",
+        "name": "Interior #1609",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1635",
+        "name": "Cover #1635",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1636",
+        "name": "Interior #1636",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1743",
+        "name": "Cover #1743",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1744",
+        "name": "Interior #1744",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1976",
+        "name": "Cover #1976",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1977",
+        "name": "Interior #1977",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2035",
+        "name": "Cover #2035",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2036",
+        "name": "Interior #2036",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2077",
+        "name": "Cover #2077",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2078",
+        "name": "Interior #2078",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2320",
+        "name": "Cover #2320",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2321",
+        "name": "Interior #2321",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65342",
+        "name": "Ultimate Spider-Man Vol. 8: Cats & Kings TPB 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106677",
+        "name": "",
+        "type": "cover"
+      }
+    ],
+    "returned": 16
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/336/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1284",
+        "name": "Ultimate Spider-Man Vol. 8: Cats & Kings (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/336/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

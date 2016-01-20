@@ -1,0 +1,191 @@
+{
+  "id": 2890,
+  "title": "X-Men: Die by the Sword (2007 - 2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2890",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2890/x-men_die_by_the_sword_2007_-_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2008,
+  "rating": "A",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bc392a803ce9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2890/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5138",
+        "name": "Cafu",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4071",
+        "name": "Juan Santacruz",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8187",
+        "name": "Carlos Alberto Fernandez Urbano",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4992",
+        "name": "Simon Bowland",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5638",
+        "name": "Raul Fernandez",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8729",
+        "name": "Jelena Kevic Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+        "name": "Wil Quintana",
+        "role": "colorist"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2890/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+        "name": "Dazzler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009288",
+        "name": "Elektra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+        "name": "Psylocke"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009555",
+        "name": "Sage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2890/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33460",
+        "name": "5XLS - 1 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33461",
+        "name": "5XLS - 1 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33462",
+        "name": "5XLS - 2 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36216",
+        "name": "5XLS - 3 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36217",
+        "name": "5XLS - 3 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36513",
+        "name": "5XLS - 4 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36514",
+        "name": "5XLS - 4 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36515",
+        "name": "5XLS - 5 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36516",
+        "name": "5XLS - 5 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67567",
+        "name": "X-MEN: DIE BY THE SWORD 2 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2890/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16590",
+        "name": "X-Men: Die by the Sword (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16591",
+        "name": "X-Men: Die by the Sword (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17282",
+        "name": "X-Men: Die by the Sword (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17414",
+        "name": "X-Men: Die by the Sword (2007) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17415",
+        "name": "X-Men: Die by the Sword (2007) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2890/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

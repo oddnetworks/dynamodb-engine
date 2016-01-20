@@ -1,0 +1,172 @@
+{
+  "id": 13922,
+  "title": "Silver Surfer (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13922",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13922/silver_surfer_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2014-09-30T17:24:22-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/542b1f603f1ae",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13922/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6806",
+        "name": "Carlo Pagualyan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8991",
+        "name": "Lee Weeks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9468",
+        "name": "Stephen Segovia",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8584",
+        "name": "Harvey Tolibao",
+        "role": "penciller"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13922/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13922/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84815",
+        "name": "Silver Surfer (0000) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84816",
+        "name": "Silver Surfer (0000) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85233",
+        "name": "Silver Surfer #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85250",
+        "name": "Silver Surfer #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89206",
+        "name": "Silver Surfer #1 ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89820",
+        "name": "SILVER SURFER 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89892",
+        "name": "Interior #89892",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90207",
+        "name": "SILVER SURFER 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90222",
+        "name": "Cover Silver Surfer #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90542",
+        "name": "Silver Surfer #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13922/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38637",
+        "name": "Silver Surfer (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38635",
+        "name": "Silver Surfer (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38636",
+        "name": "Silver Surfer (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38638",
+        "name": "Silver Surfer (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38639",
+        "name": "Silver Surfer (2010) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13922/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

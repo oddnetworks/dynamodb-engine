@@ -1,0 +1,128 @@
+{
+  "id": 13379,
+  "title": "15 Love (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13379",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13379/15_love_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2015-09-22T17:11:46-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/51644d6b47668",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/274",
+        "name": "Tommy Ohtsuka",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/496",
+        "name": "Andi Watson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+        "name": "Jordan White",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82480",
+        "name": "Cover #82480",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82481",
+        "name": "Interior #82481",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82484",
+        "name": "Cover #82484",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82485",
+        "name": "Interior #82485",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82486",
+        "name": "15-Love (2011) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82487",
+        "name": "Interior #82487",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106025",
+        "name": "cover from 15-Love #1.5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106026",
+        "name": "cover from 15-Love #2.5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106027",
+        "name": "cover from 15-Love #3.5",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37254",
+        "name": "15 Love (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37251",
+        "name": "15 Love (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37253",
+        "name": "15 Love (2011) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13379/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

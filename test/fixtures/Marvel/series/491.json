@@ -1,0 +1,287 @@
+{
+  "id": 491,
+  "title": "Silver Surfer (2003 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/491",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/491/silver_surfer_2003_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bb6f736600f9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/491/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/594",
+        "name": "Milx Mahathir Buang",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+        "name": "Clayton Crain",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/308",
+        "name": "Gary Frank",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+        "name": "Adi Granov",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/56",
+        "name": "Jae Lee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4261",
+        "name": "Jorge Pereira Lucas",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+        "name": "Alex Maleev",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+        "name": "Paolo Rivera",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/555",
+        "name": "Mizuki Sakakibara",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/336",
+        "name": "Dan Chariton",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/335",
+        "name": "Stacy Weiss",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/437",
+        "name": "Lan Medina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+        "name": "Avalon Studio",
+        "role": "colorist"
+      }
+    ],
+    "returned": 14
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/491/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 28,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/491/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/696",
+        "name": "Cover #696",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/697",
+        "name": "Interior #697",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1604",
+        "name": "Cover #1604",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1605",
+        "name": "Interior #1605",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1740",
+        "name": "Cover #1740",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1741",
+        "name": "Interior #1741",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1772",
+        "name": "Cover #1772",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1773",
+        "name": "Interior #1773",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1972",
+        "name": "Cover #1972",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1973",
+        "name": "Interior #1973",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2019",
+        "name": "Cover #2019",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2020",
+        "name": "Interior #2020",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2021",
+        "name": "Cover #2021",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2022",
+        "name": "Interior #2022",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2023",
+        "name": "Cover #2023",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2024",
+        "name": "Interior #2024",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2025",
+        "name": "Cover #2025",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2026",
+        "name": "Interior #2026",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2027",
+        "name": "Cover #2027",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2028",
+        "name": "Interior #2028",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/491/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18876",
+        "name": "Silver Surfer (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/203",
+        "name": "Silver Surfer (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/202",
+        "name": "Silver Surfer (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/201",
+        "name": "Silver Surfer (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/200",
+        "name": "Silver Surfer (2003) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/199",
+        "name": "Silver Surfer (2003) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/434",
+        "name": "Silver Surfer (2003) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/502",
+        "name": "Silver Surfer (2003) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/669",
+        "name": "Silver Surfer (2003) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/731",
+        "name": "Silver Surfer (2003) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/534",
+        "name": "Silver Surfer (2003) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/774",
+        "name": "Silver Surfer (2003) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/846",
+        "name": "Silver Surfer (2003) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/919",
+        "name": "Silver Surfer (2003) #14"
+      }
+    ],
+    "returned": 14
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/491/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,147 @@
+{
+  "id": 1873,
+  "title": "Thunderbolts Presents: Zemo - Born Better (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1873",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1873/thunderbolts_presents_zemo_-_born_better_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "NOT IN ORACLE",
+  "type": "",
+  "modified": "2011-06-01T10:55:59-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bad44c7f0e5b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1873/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/762",
+        "name": "Gary Erskine",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+        "name": "Tom Grummett",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1873/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1873/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7946",
+        "name": "Cover #7946",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7947",
+        "name": "Interior #7947",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7948",
+        "name": "2 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7949",
+        "name": "2 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8403",
+        "name": "2 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8404",
+        "name": "2 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8405",
+        "name": "3 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8406",
+        "name": "3 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8714",
+        "name": "4 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8715",
+        "name": "4 of 4 - 4XLS",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1873/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6046",
+        "name": "Thunderbolts Presents: Zemo - Born Better (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6124",
+        "name": "Thunderbolts Presents: Zemo - Born Better (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6237",
+        "name": "Thunderbolts Presents: Zemo - Born Better (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13492",
+        "name": "Thunderbolts Presents: Zemo - Born Better (2007) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1873/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

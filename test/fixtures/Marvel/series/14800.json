@@ -1,0 +1,100 @@
+{
+  "id": 14800,
+  "title": "Fear Itself: Monkey King (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14800",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14800/fear_itself_monkey_king_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-19T15:53:42-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/550b27131a3f9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14800/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+        "name": "Alejandro Arbona",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1054",
+        "name": "Juan Doe",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8843",
+        "name": "Joshua Fialkov",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+        "name": "Wil Quintana",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14800/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14800/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90571",
+        "name": "Cover #90571",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90753",
+        "name": "Fear Itself: Monkey King (2011) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14800/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39902",
+        "name": "Fear Itself: Monkey King (2011) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14800/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

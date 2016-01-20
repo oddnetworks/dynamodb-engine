@@ -1,0 +1,115 @@
+{
+  "id": 1924,
+  "title": "Annihilation Book 1 (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1924",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1924/annihilation_book_1_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "NOT IN ORACLE",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/40/4bc5a6d4b3c86",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1924/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+        "name": "Keith Giffen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/969",
+        "name": "Mitch Breitweiser",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/234",
+        "name": "Kev Walker",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1924/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1924/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8048",
+        "name": "Drax, Prologue, Nova",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8049",
+        "name": "Drax, Prologue, Nova",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1924/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6028",
+        "name": "Annihilation Book 1 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1924/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/229",
+        "name": "Annihilation"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

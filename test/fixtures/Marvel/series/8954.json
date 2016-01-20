@@ -1,0 +1,141 @@
+{
+  "id": 8954,
+  "title": "Marvel Universe Vs. the Punisher (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8954",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8954/marvel_universe_vs_the_punisher_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T14:26:24-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/5131007cbb5a9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8954/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+        "name": "Lee Loughridge",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10200",
+        "name": "Jonathan Maberry",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/674",
+        "name": "Goran Parlov",
+        "role": "inker"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8954/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8954/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61214",
+        "name": "Cover #61214",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61215",
+        "name": "Interior #61215",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61216",
+        "name": "Cover #61216",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61217",
+        "name": "Interior #61217",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61218",
+        "name": "Cover #61218",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61219",
+        "name": "Interior #61219",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61220",
+        "name": "Cover #61220",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61221",
+        "name": "Interior #61221",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83355",
+        "name": "Cover #83355",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83356",
+        "name": "Interior #83356",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8954/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27986",
+        "name": "Marvel Universe Vs. the Punisher (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37719",
+        "name": "Marvel Universe Vs. the Punisher (2010) #1 (2ND PRINTING WRAPAROUND VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27987",
+        "name": "Marvel Universe Vs. the Punisher (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27988",
+        "name": "Marvel Universe Vs. the Punisher (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27989",
+        "name": "Marvel Universe Vs. the Punisher (2010) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8954/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

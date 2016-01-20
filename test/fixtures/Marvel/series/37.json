@@ -1,0 +1,90 @@
+{
+  "id": 37,
+  "title": "Essential Wolverine Vol. III (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/37",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/37/essential_wolverine_vol_iii_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bc66f247aefc",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/37/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+        "name": "Larry Hama",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/49",
+        "name": "Darick Robertson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+        "name": "Marc Silvestri",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11501",
+        "name": "Mark Texeira",
+        "role": "penciller"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/37/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/37/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38",
+        "name": "This volume continues the stories of the enigmatic Wolverine Ñ gifted with heightened senses, a healing factor and razor-sharp c",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65115",
+        "name": "ESSENTIAL WOLVERINE VOL. III 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/37/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/975",
+        "name": "Essential Wolverine Vol. III (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/37/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

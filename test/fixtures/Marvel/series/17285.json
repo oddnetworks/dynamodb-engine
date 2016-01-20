@@ -1,0 +1,354 @@
+{
+  "id": 17285,
+  "title": "Amazing Spider-Man (2014 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17285",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17285/amazing_spider-man_2014_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2015-04-27T06:03:08-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/20/5399c2b1874e7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 32,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17285/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+        "name": "Arthur Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+        "name": "John Cassaday",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+        "name": "Olivier Coipel",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10326",
+        "name": "Ming Doyle",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/365",
+        "name": "Pasqual Ferry",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7495",
+        "name": "JAKE FORBES",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/894",
+        "name": "Marcos Martin",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+        "name": "Ed McGuinness",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5105",
+        "name": "Pop Mhan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+        "name": "Phil Noto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/412",
+        "name": "Carlo Barberi",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17285/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 157,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17285/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103052",
+        "name": "cover from The Amazing Spider-Man (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103053",
+        "name": "story from The Amazing Spider-Man (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103056",
+        "name": "cover from The Amazing Spider-Man (2013) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103057",
+        "name": "story from The Amazing Spider-Man (2013) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103060",
+        "name": "cover from The Amazing Spider-Man (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103061",
+        "name": "story from The Amazing Spider-Man (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103062",
+        "name": "cover from The Amazing Spider-Man (2013) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103063",
+        "name": "story from The Amazing Spider-Man (2013) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103064",
+        "name": "cover from The Amazing Spider-Man (2013) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103065",
+        "name": "story from The Amazing Spider-Man (2013) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103066",
+        "name": "cover from The Amazing Spider-Man (2013) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103067",
+        "name": "story from The Amazing Spider-Man (2013) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103068",
+        "name": "cover from The Amazing Spider-Man (2013) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103069",
+        "name": "story from The Amazing Spider-Man (2013) #7",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103070",
+        "name": "cover from The Amazing Spider-Man (2013) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103071",
+        "name": "story from The Amazing Spider-Man (2013) #8",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103072",
+        "name": "cover from The Amazing Spider-Man (2013) #9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103073",
+        "name": "story from The Amazing Spider-Man (2013) #9",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103074",
+        "name": "cover from The Amazing Spider-Man (2013) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103075",
+        "name": "story from The Amazing Spider-Man (2013) #10",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 72,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17285/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51315",
+        "name": "Amazing Spider-Man (2014) #10 (Wamester Marvel Animation Spider-&#8203;Verse Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45810",
+        "name": "Amazing Spider-Man (2014) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51316",
+        "name": "Amazing Spider-Man (2014) #11 (Dell'otto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50318",
+        "name": "Amazing Spider-Man (2014) #11 (Wamester Marvel Animation Spider-&#8203;Verse Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45811",
+        "name": "Amazing Spider-Man (2014) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51317",
+        "name": "Amazing Spider-Man (2014) #12 (Dell'otto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53056",
+        "name": "Amazing Spider-Man (2014) #12 (In Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50319",
+        "name": "Amazing Spider-Man (2014) #12 (Wamester Marvel Animation Spider-&#8203;Verse Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50350",
+        "name": "Amazing Spider-Man (2014) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51318",
+        "name": "Amazing Spider-Man (2014) #13 (Dell'otto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51319",
+        "name": "Amazing Spider-Man (2014) #13 (Larroca Welcome Home Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50351",
+        "name": "Amazing Spider-Man (2014) #13 (Wamester Marvel Animation Spider-&#8203;Verse Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51320",
+        "name": "Amazing Spider-Man (2014) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51321",
+        "name": "Amazing Spider-Man (2014) #14 (Dell'otto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51323",
+        "name": "Amazing Spider-Man (2014) #14 (Noto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51322",
+        "name": "Amazing Spider-Man (2014) #14 (Wamester Marvel Animation Spider-&#8203;Verse Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51324",
+        "name": "Amazing Spider-Man (2014) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53597",
+        "name": "Amazing Spider-Man (2014) #15 (Molina Comicxposure Black and White Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51325",
+        "name": "Amazing Spider-Man (2014) #15 (Bianchi Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53422",
+        "name": "Amazing Spider-Man (2014) #15 (Medina Decomixado Variant)"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17285/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+        "name": "Marvel NOW!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/319",
+        "name": "Original Sin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/321",
+        "name": "Spider-Verse"
+      }
+    ],
+    "returned": 3
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,85 @@
+{
+  "id": 16281,
+  "title": "Gambit Vol. 1: Once a Thief... (2012 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16281",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16281/gambit_vol_1_once_a_thief._2012_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2013-05-09T14:24:43-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16281/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8658",
+        "name": "James Asmus",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/757",
+        "name": "Clay Mann",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8382",
+        "name": "Diogenes Neves",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16281/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16281/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96106",
+        "name": "Cover #96106",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96107",
+        "name": "Interior #96107",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16281/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42679",
+        "name": "Gambit Vol. 1: Once a Thief... (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16281/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

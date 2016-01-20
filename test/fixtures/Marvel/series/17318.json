@@ -1,0 +1,336 @@
+{
+  "id": 17318,
+  "title": "Age of Ultron (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17318",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17318/age_of_ultron_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2015-08-27T12:52:36-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/51881d494a93c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17318/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12297",
+        "name": "Andre Araujo",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+        "name": "Bryan Hitch",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+        "name": "Carlos Pacheco",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+        "name": "Brandon Peterson",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+        "name": "Adi Granov",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+        "name": "Jorge Molina",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+        "name": "Sara Pichelli",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+        "name": "Paul Mounts",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/262",
+        "name": "Paul Neary",
+        "role": "inker"
+      }
+    ],
+    "returned": 18
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17318/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+        "name": "Ultron"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 96,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17318/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82752",
+        "name": "Cover #82752",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82753",
+        "name": "Interior #82753",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82809",
+        "name": "Cover #82809",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82810",
+        "name": "Interior #82810",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82811",
+        "name": "Cover #82811",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82812",
+        "name": "Interior #82812",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82813",
+        "name": "Cover #82813",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82814",
+        "name": "Interior #82814",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103326",
+        "name": "cover from Avengers: Age of Ultron (2013) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103327",
+        "name": "story from Avengers: Age of Ultron (2013) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103328",
+        "name": "cover from Avengers: Age of Ultron (2013) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103329",
+        "name": "story from Avengers: Age of Ultron (2013) #7",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103330",
+        "name": "cover from Avengers: Age of Ultron (2013) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103331",
+        "name": "story from Avengers: Age of Ultron (2013) #8",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103332",
+        "name": "cover from Avengers: Age of Ultron (2013) #9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103333",
+        "name": "story from Avengers: Age of Ultron (2013) #9",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103334",
+        "name": "cover from Avengers: Age of Ultron (2013) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/103335",
+        "name": "story from Avengers: Age of Ultron (2013) #10",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105606",
+        "name": "cover from Avengers: Age of Ultron (2013) #1 (BLANK COVER VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105607",
+        "name": "story from Avengers: Age of Ultron (2013) #1 (BLANK COVER VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 40,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17318/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47071",
+        "name": "Age of Ultron (2013) #1 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47708",
+        "name": "Age of Ultron (2013) #1 ((ULTRON VARIANT))"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47892",
+        "name": "Age of Ultron (2013) #2 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47002",
+        "name": "Age of Ultron (2013) #2 (Yoon Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37405",
+        "name": "Age of Ultron (2013) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47008",
+        "name": "Age of Ultron (2013) #3 (Lee Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48064",
+        "name": "Age of Ultron (2013) #3 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37406",
+        "name": "Age of Ultron (2013) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47831",
+        "name": "Age of Ultron (2013) #4 (AGE OF ULTRON 4 ULTRON VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48098",
+        "name": "Age of Ultron (2013) #4 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37407",
+        "name": "Age of Ultron (2013) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47013",
+        "name": "Age of Ultron (2013) #5 (Ultron Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47012",
+        "name": "Age of Ultron (2013) #5 (Granov Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48171",
+        "name": "Age of Ultron (2013) #5 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45904",
+        "name": "Age of Ultron (2013) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47015",
+        "name": "Age of Ultron (2013) #6 (Ultron Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45905",
+        "name": "Age of Ultron (2013) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47016",
+        "name": "Age of Ultron (2013) #7 (Ultron Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47017",
+        "name": "Age of Ultron (2013) #7 (Yu Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45906",
+        "name": "Age of Ultron (2013) #8"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17318/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/314",
+        "name": "Age of Ultron"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

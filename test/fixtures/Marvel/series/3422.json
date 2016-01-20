@@ -1,0 +1,128 @@
+{
+  "id": 3422,
+  "title": "World War Hulk: Aftersmash! - Damage Control (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3422",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3422/world_war_hulk_aftersmash_-_damage_control_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "T+",
+  "type": "limited",
+  "modified": "2015-10-14T15:23:34-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/51645372428da",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3422/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9394",
+        "name": "Salvador Espin",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4989",
+        "name": "Nic Klein",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/392",
+        "name": "Dwayne McDuffie",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1065",
+        "name": "Nate Piekos",
+        "role": "letterer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3422/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3422/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36969",
+        "name": "3XLS 1 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36970",
+        "name": "3XLS 1 of 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44411",
+        "name": "3XLS 2 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44412",
+        "name": "3XLS 2 of 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44756",
+        "name": "3XLS 3 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44757",
+        "name": "3XLS 3 of 3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3422/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17661",
+        "name": "World War Hulk: Aftersmash! - Damage Control (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20708",
+        "name": "World War Hulk: Aftersmash! - Damage Control (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20901",
+        "name": "World War Hulk: Aftersmash! - Damage Control (2008) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3422/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

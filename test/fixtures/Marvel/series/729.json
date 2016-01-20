@@ -1,0 +1,226 @@
+{
+  "id": 729,
+  "title": "New Invaders (2004 - 2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/729",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/729/new_invaders_2004_-_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2005,
+  "rating": "MARVEL PSR",
+  "type": "ongoing",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bb664c4d5b6f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/729/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/782",
+        "name": "Allan Jacobsen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8178",
+        "name": "C.P. Smith",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/680",
+        "name": "Chris Walker",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/729/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010830",
+        "name": "Blazing Skull"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/729/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3109",
+        "name": "1 of 2 - Baron Blood",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3110",
+        "name": "1 of 2 - Baron Blood",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3117",
+        "name": "\"TO END ALL WARS\" PART 3 (OF 3) Because you demanded it! It's all-out action aboard the Battleship Infiltrator as the greatest v",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3118",
+        "name": "\"TO END ALL WARS\" PART 3 (OF 3) Because you demanded it! It's all-out action aboard the Battleship Infiltrator as the greatest v",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3119",
+        "name": "2 of 2 - Baron Blood",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3120",
+        "name": "2 of 2 - Baron Blood",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3121",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3122",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3123",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3124",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3125",
+        "name": "2 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3126",
+        "name": "2 of 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3127",
+        "name": "3 of 3 - Cruel & Unusual",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3128",
+        "name": "3 of 3 - Cruel & Unusual",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36679",
+        "name": "Cover #36679",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36680",
+        "name": "Interior #36680",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50610",
+        "name": "Cover #50610",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50611",
+        "name": "Interior #50611",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106418",
+        "name": "cover from New Invaders #0",
+        "type": "cover"
+      }
+    ],
+    "returned": 19
+  },
+  "comics": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/729/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37748",
+        "name": "New Invaders (2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22810",
+        "name": "New Invaders (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16040",
+        "name": "New Invaders (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/905",
+        "name": "New Invaders (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35",
+        "name": "New Invaders (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1432",
+        "name": "New Invaders (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1528",
+        "name": "New Invaders (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1687",
+        "name": "New Invaders (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1786",
+        "name": "New Invaders (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1894",
+        "name": "New Invaders (2004) #9"
+      }
+    ],
+    "returned": 10
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/729/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+        "name": "Enemy of the State"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

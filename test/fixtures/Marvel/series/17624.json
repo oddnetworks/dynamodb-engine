@@ -1,0 +1,90 @@
+{
+  "id": 17624,
+  "title": "Wolverine: Season One (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17624",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17624/wolverine_season_one_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "collection",
+  "modified": "2013-05-28T12:06:20-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17624/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11953",
+        "name": "Benjamin Acker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11952",
+        "name": "Benjamin a. Blacker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9394",
+        "name": "Salvador Espin",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+        "name": "Julian Totino Tedesco",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17624/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17624/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105102",
+        "name": "cover from Wolverine: Season One (2013)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105103",
+        "name": "story from Wolverine: Season One (2013)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17624/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46751",
+        "name": "Wolverine: Season One (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17624/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

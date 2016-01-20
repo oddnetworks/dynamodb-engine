@@ -1,0 +1,442 @@
+{
+  "id": 2271,
+  "title": "Peter Parker, the Spectacular Spider-Man (1976 - 1998)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2271",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2271/peter_parker_the_spectacular_spider-man_1976_-_1998?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1976,
+  "endYear": 1998,
+  "rating": "",
+  "type": "",
+  "modified": "2013-05-21T17:18:46-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/519be45871d4a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 247,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2271/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2529",
+        "name": "Liz Agraphiotis",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2687",
+        "name": "Jonathan Babcock",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4706",
+        "name": "Gcw",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2330",
+        "name": "Malibu",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4687",
+        "name": "McGray",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+        "name": "Joe Andreani",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4239",
+        "name": "Jose Albelo",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/300",
+        "name": "Kyle Baker",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/779",
+        "name": "Matt Banning",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2939",
+        "name": "Dell Barras",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+        "name": "John Beatty",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4659",
+        "name": "Juan Alacantara",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+        "name": "Ross Andru",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/406",
+        "name": "Mark Beagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3483",
+        "name": "Mark Beachum",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 56,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2271/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009179",
+        "name": "Beetle (Abner Jenkins)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009185",
+        "name": "Black Cat"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009227",
+        "name": "Carnage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009234",
+        "name": "Chameleon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009241",
+        "name": "Cloak"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009258",
+        "name": "Dagger"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009266",
+        "name": "Darkstar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009276",
+        "name": "Doctor Octopus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009283",
+        "name": "Dragon Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009287",
+        "name": "Electro"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009334",
+        "name": "Hammerhead"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009347",
+        "name": "Hobgoblin (Roderick Kingsley)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 697,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2271/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29494",
+        "name": "Cover #29494",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29495",
+        "name": "That Thompson Boy!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29496",
+        "name": "Spider-Mail",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29497",
+        "name": "Cover #29497",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29498",
+        "name": "Twice Stings the Tarantula!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29499",
+        "name": "Cover #29499",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29500",
+        "name": "Tiger In a Web!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29501",
+        "name": "Cover #29501",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29502",
+        "name": "Breakin'!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29503",
+        "name": "Spectacular Spider-Mail",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29504",
+        "name": "Cover #29504",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29505",
+        "name": "Echoes ...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29506",
+        "name": "Spectacular Spider-Mail",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29507",
+        "name": "Statement of Ownership",
+        "type": "statement of ownership"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29508",
+        "name": "Cover #29508",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29509",
+        "name": "A Life for a Life!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29510",
+        "name": "Cover #29510",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29511",
+        "name": "Compulsion",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29512",
+        "name": "Cover #29512",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29513",
+        "name": "The Last Race",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 264,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2271/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14541",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14542",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14653",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14728",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14739",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14750",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14761",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14772",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14783",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14794",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14543",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14554",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14565",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14576",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14587",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14598",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14609",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14620",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14631",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14642",
+        "name": "Peter Parker, the Spectacular Spider-Man (1976) #19"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2271/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+        "name": "Inferno"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/258",
+        "name": "Kraven's Last Hunt"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+        "name": "Maximum Carnage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "name": "Secret Wars"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "name": "Secret Wars II"
+      }
+    ],
+    "returned": 6
+  },
+  "next": null,
+  "previous": null
+}

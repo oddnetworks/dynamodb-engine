@@ -1,0 +1,90 @@
+{
+  "id": 1934,
+  "title": "Ultimate Spider-Man: Clone Saga Premiere (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1934",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1934/ultimate_spider-man_clone_saga_premiere_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bc5a3ae6ec03",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1934/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1934/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1934/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8067",
+        "name": "Ultimate Spider-Man 97-105, Marvel Spotlight: Brian Michael Bendis/Mark Bagley, extras",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8068",
+        "name": "Ultimate Spider-Man 97-105, Marvel Spotlight: Brian Michael Bendis/Mark Bagley, extras",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8544",
+        "name": "Ultimate Spider-Man 97-105, Marvel Spotlight: Brian Michael Bendis/Mark Bagley, extras",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8545",
+        "name": "Ultimate Spider-Man 97-105, Marvel Spotlight: Brian Michael Bendis/Mark Bagley, extras",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1934/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6107",
+        "name": "Ultimate Spider-Man: Clone Saga Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1934/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

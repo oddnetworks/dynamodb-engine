@@ -1,0 +1,200 @@
+{
+  "id": 961,
+  "title": "X-Men: Phoenix - Warsong (2006 - 2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/961",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/961/x-men_phoenix_-_warsong_2006_-_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2007,
+  "rating": "T",
+  "type": "",
+  "modified": "2013-03-01T16:04:54-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/51311774ba32a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/961/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1032",
+        "name": "Troy Peteri",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1026",
+        "name": "Tyler Kirkham",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/536",
+        "name": "Greg Pak",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9395",
+        "name": "Salvador Regla",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+        "name": "Marc Silvestri",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1029",
+        "name": "John STARR",
+        "role": "colorist"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/961/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+        "name": "Emma Frost"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+        "name": "Kitty Pryde"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/961/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5377",
+        "name": "1 of 5 - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5378",
+        "name": "1 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5379",
+        "name": "2 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5380",
+        "name": "3 of 5 - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5381",
+        "name": "3 of 5 - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5382",
+        "name": "4 of 5 - Warsong - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5383",
+        "name": "4 of 5 - Warsong - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5384",
+        "name": "5 of 5 - Warsong - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5385",
+        "name": "5 of 5 - Warsong - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7756",
+        "name": "5 of 5 - Warsong - 5XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7757",
+        "name": "5 of 5 - Warsong - 5XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65583",
+        "name": "X-MEN: PHOENIX - WARSONG 2 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/961/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5043",
+        "name": "X-Men: Phoenix - Warsong (2006) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5196",
+        "name": "X-Men: Phoenix - Warsong (2006) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5357",
+        "name": "X-Men: Phoenix - Warsong (2006) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5625",
+        "name": "X-Men: Phoenix - Warsong (2006) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5773",
+        "name": "X-Men: Phoenix - Warsong (2006) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/961/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

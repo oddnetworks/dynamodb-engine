@@ -100,11 +100,11 @@
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010784/series",
     "items": [
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
         "name": "Adam: Legend of the Blue Marvel (2008)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
         "name": "Adam: Legend of the Blue Marvel (2008)"
       },
       {
@@ -120,12 +120,12 @@
         "name": "Ares: God of War (2006)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
-        "name": "Avengers (1963 - 1996)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
         "name": "Avengers (1998 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+        "name": "Avengers (1963 - 1996)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/4864",
@@ -303,7 +303,7 @@
   "urls": [
     {
       "type": "detail",
-      "url": "http://marvel.com/comics/characters/1010784/ares?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+      "url": "http://marvel.com/characters/183/ares?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
     },
     {
       "type": "wiki",

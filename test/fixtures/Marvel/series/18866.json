@@ -1,0 +1,70 @@
+{
+  "id": 18866,
+  "title": "Cyclops Vol. 2: A Pirate's Life For Me (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18866",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18866/cyclops_vol_2_a_pirates_life_for_me_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-06-23T15:24:31-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5589b15a75399",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18866/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18866/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18866/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112932",
+        "name": "cover from Starjammers (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18866/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50453",
+        "name": "Cyclops Vol. 2: A Pirate's Life For Me (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18866/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

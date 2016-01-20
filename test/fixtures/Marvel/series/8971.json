@@ -1,0 +1,95 @@
+{
+  "id": 8971,
+  "title": "Marvel Masterworks: Golden Age Marvel Comics Vol. 6 (2011 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8971",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8971/marvel_masterworks_golden_age_marvel_comics_vol_6_2011_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-09-16T17:12:32-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4baea103ec370",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8971/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/586",
+        "name": "Michael Kelleher",
+        "role": "Other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10875",
+        "name": "PACIFIC RIM GRAPHICS LTD",
+        "role": "Other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1283",
+        "name": "Wesley Wong",
+        "role": "other"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8971/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8971/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61256",
+        "name": "Marvel Masterworks: Golden Age Marvel Comics Vol. 6 #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/61257",
+        "name": "Marvel Masterworks: Golden Age Marvel Comics Vol. 6 #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68820",
+        "name": "Cover #68820",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68821",
+        "name": "Interior #68821",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8971/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28007",
+        "name": "Marvel Masterworks: Golden Age Marvel Comics Vol. 6 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8971/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,193 @@
+{
+  "id": 875,
+  "title": "Spider-Man: House of M (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/875",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/875/spider-man_house_of_m_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bb86d0cf217b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/875/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/409",
+        "name": "Liquid Graphics",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+        "name": "Danny K. Miki",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/933",
+        "name": "Tom Peyer",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/875/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009372",
+        "name": "J. Jonah Jameson"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+        "name": "Norman Osborn"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/875/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4630",
+        "name": "1 of 5 XLS - World Famous Spider-Man",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4631",
+        "name": "1 of 5 XLS - World Famous Spider-Man",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4632",
+        "name": "2 of 5 XLS - World Famous Spider-Man",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4633",
+        "name": "2 of 5 XLS - World Famous Spider-Man",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4634",
+        "name": "3 of 5 XLS - World Famous Spider-Man",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4635",
+        "name": "3 of 5 XLS - World Famous Spider-Man",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4636",
+        "name": "4 of 5 XLS - World Famous Spider-Man",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4637",
+        "name": "4 of 5 XLS - World Famous Spider-Man",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4638",
+        "name": "5 of 5 XLS - World Famous Spider-Man",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4639",
+        "name": "5 of 5 XLS - World Famous Spider-Man",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4640",
+        "name": "2 of 5 XLS - World Famous Spider-Man",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4641",
+        "name": "2 of 5 XLS - World Famous Spider-Man",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/875/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2101",
+        "name": "Spider-Man: House of M (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2206",
+        "name": "Spider-Man: House of M (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2988",
+        "name": "Spider-Man: House of M (2005) #2 (Limited Edition)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2326",
+        "name": "Spider-Man: House of M (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2443",
+        "name": "Spider-Man: House of M (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2444",
+        "name": "Spider-Man: House of M (2005) #5"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/875/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "name": "House of M"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

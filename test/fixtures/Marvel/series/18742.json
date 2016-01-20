@@ -1,0 +1,80 @@
+{
+  "id": 18742,
+  "title": "ULTIMATES 3: WHO KILLED THE SCARLET WITCH? TPB (NEW PRINTING) (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18742",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18742/ultimates_3_who_killed_the_scarlet_witch_tpb_new_printing_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "collection",
+  "modified": "2014-01-16T12:42:55-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18742/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+        "name": "Jeph Loeb",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+        "name": "Joe Madureira",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18742/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18742/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111828",
+        "name": "cover from Ultimates 3: Who Killed the Scarlet Witch? (2014)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111829",
+        "name": "story from Ultimates 3: Who Killed the Scarlet Witch? (2014)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18742/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49884",
+        "name": "ULTIMATES 3: WHO KILLED THE SCARLET WITCH? TPB (NEW PRINTING) (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18742/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,95 @@
+{
+  "id": 2434,
+  "title": "Civil War: Marvel Universe (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2434",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2434/civil_war_marvel_universe_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bc496d1c8e8e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2434/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+        "name": "Warren Ellis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+        "name": "Marc Silvestri",
+        "role": "penciller"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2434/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2434/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7905",
+        "name": "Interior #7905",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36624",
+        "name": "Interior #36624",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67495",
+        "name": "CIVIL WAR: MARVEL UNIVERSE 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2434/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15905",
+        "name": "Civil War: Marvel Universe (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2434/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

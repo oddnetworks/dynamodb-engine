@@ -1,0 +1,185 @@
+{
+  "id": 1914,
+  "title": "Universe X Vol. 2 (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1914",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1914/universe_x_vol_2_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc363aea573e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1914/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/128",
+        "name": "Doug Braithwaite",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1396",
+        "name": "Ron Randall",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1362",
+        "name": "Thomas Yeates",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+        "name": "Todd Klein",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/267",
+        "name": "Jim Krueger",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+        "name": "Laura Martin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/652",
+        "name": "Peter Pantazis",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+        "name": "Mike Marts",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+        "name": "Mike Raicht",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/523",
+        "name": "Bill Reinhold",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+        "name": "Alex Ross",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1914/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1914/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25632",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25634",
+        "name": "Cover #25634",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25635",
+        "name": "Interior #25635",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25636",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25637",
+        "name": "Cover #25637",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25638",
+        "name": "Interior #25638",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25651",
+        "name": "Cover #25651",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25652",
+        "name": "Interior #25652",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25653",
+        "name": "Cover #25653",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25654",
+        "name": "Interior #25654",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25656",
+        "name": "Cover #25656",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25657",
+        "name": "Interior #25657",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25658",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66133",
+        "name": "UNIVERSE X VOL. 2 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 14
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1914/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6009",
+        "name": "Universe X Vol. 2 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1914/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

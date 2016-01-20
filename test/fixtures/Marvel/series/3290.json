@@ -1,0 +1,165 @@
+{
+  "id": 3290,
+  "title": "Defenders: Indefensible (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3290",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3290/defenders_indefensible_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/c0/4bc62596d6dfb",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3290/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+        "name": "J. M. DeMatteis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+        "name": "Keith Giffen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/780",
+        "name": "Kevin Maguire",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3290/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011023",
+        "name": "Defenders"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009280",
+        "name": "Dormammu"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3290/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3099",
+        "name": "1 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3100",
+        "name": "1 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3101",
+        "name": "2 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3102",
+        "name": "2 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3103",
+        "name": "3 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3104",
+        "name": "3 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3105",
+        "name": "4 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3106",
+        "name": "4 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3107",
+        "name": "5 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3108",
+        "name": "5 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67660",
+        "name": "DEFENDERS: INDEFENSIBLE TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3290/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17458",
+        "name": "Defenders: Indefensible (2005)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3290/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

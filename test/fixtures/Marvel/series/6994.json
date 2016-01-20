@@ -1,0 +1,125 @@
+{
+  "id": 6994,
+  "title": "Secret Invasion Chronicles (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6994",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6994/secret_invasion_chronicles_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb597e9b660f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6994/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6994/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6994/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52884",
+        "name": "9XLS 1 of 9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52885",
+        "name": "9XLS 1 of 9",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53293",
+        "name": "9XLS 2 of 9; SI 1, NA 40",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53701",
+        "name": "9XLS 3 of 9; SI 2, NA 41, NA 43",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57825",
+        "name": "Cover #57825",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57826",
+        "name": "Cover #57826",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57827",
+        "name": "Cover #57827",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57828",
+        "name": "Interior #57828",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57829",
+        "name": "Cover #57829",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57830",
+        "name": "Interior #57830",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6994/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23836",
+        "name": "Secret Invasion Chronicles (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24033",
+        "name": "Secret Invasion Chronicles (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24236",
+        "name": "Secret Invasion Chronicles (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26263",
+        "name": "Secret Invasion Chronicles (2009) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26264",
+        "name": "Secret Invasion Chronicles (2009) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6994/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

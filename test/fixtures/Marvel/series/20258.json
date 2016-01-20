@@ -1,0 +1,166 @@
+{
+  "id": 20258,
+  "title": "Karnak (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20258",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20258/karnak_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "ongoing",
+  "modified": "2016-01-15T11:15:28-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20258/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/750",
+        "name": "David Aja",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/191",
+        "name": "Kaare Andrews",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+        "name": "Warren Ellis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8827",
+        "name": "Jorge Zaffino",
+        "role": "artist"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20258/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009385",
+        "name": "Karnak"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20258/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120729",
+        "name": "cover from Karnak (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120730",
+        "name": "story from Karnak (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120733",
+        "name": "cover from Karnak (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120734",
+        "name": "story from Karnak (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124785",
+        "name": "cover from Karnak (2015) #1 (YOUNG VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124786",
+        "name": "story from Karnak (2015) #1 (YOUNG VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124787",
+        "name": "cover from Karnak (2015) #1 (ZAFFINO VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124797",
+        "name": "cover from Karnak (2015) #1 (ANDREWS HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/124798",
+        "name": "story from Karnak (2015) #1 (ANDREWS HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125736",
+        "name": "cover from Karnak (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125737",
+        "name": "story from Karnak (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20258/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54754",
+        "name": "Karnak (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56984",
+        "name": "Karnak (2015) #1 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56990",
+        "name": "Karnak (2015) #1 (Andrews Hip-&#8203;Hop Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54756",
+        "name": "Karnak (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57459",
+        "name": "Karnak (2015) #2 (Nowlan Variant)"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20258/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,74 @@
+{
+  "id": 6069,
+  "title": "Sentry: X-Men (2001)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6069",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6069/sentry_x-men_2001?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2001,
+  "endYear": 2001,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-01T10:40:50-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb69af6e44b7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6069/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6069/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6069/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50632",
+        "name": "Cover #50632",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50633",
+        "name": "Interior #50633",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6069/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22446",
+        "name": "Sentry: X-Men (2001) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6069/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

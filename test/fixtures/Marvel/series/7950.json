@@ -1,0 +1,208 @@
+{
+  "id": 7950,
+  "title": "Luke Cage Noir (2009 - 2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7950",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7950/luke_cage_noir_2009_-_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T16:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/40/4bb414b4c205b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7950/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+        "name": "Mike Benson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7978",
+        "name": "Adam Glass",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/970",
+        "name": "Dennis Calero",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9191",
+        "name": "Nick Filardi",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5026",
+        "name": "Shawn Martinbrough",
+        "role": "penciller"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7950/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7950/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56515",
+        "name": "Cover #56515",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56516",
+        "name": "Interior #56516",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56517",
+        "name": "Cover #56517",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56518",
+        "name": "Interior #56518",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56519",
+        "name": "Cover #56519",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56520",
+        "name": "Interior #56520",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56521",
+        "name": "Cover #56521",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56522",
+        "name": "Interior #56522",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56523",
+        "name": "Cover #56523",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56524",
+        "name": "Interior #56524",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56525",
+        "name": "Cover #56525",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56526",
+        "name": "Interior #56526",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56527",
+        "name": "Cover #56527",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56528",
+        "name": "Interior #56528",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56529",
+        "name": "Cover #56529",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56530",
+        "name": "Interior #56530",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 16
+  },
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7950/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25634",
+        "name": "Luke Cage Noir (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25635",
+        "name": "Luke Cage Noir (2009) #1 (CALERO VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25636",
+        "name": "Luke Cage Noir (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25637",
+        "name": "Luke Cage Noir (2009) #2 (CALERO VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25638",
+        "name": "Luke Cage Noir (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25639",
+        "name": "Luke Cage Noir (2009) #3 (CALERO VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25640",
+        "name": "Luke Cage Noir (2009) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25641",
+        "name": "Luke Cage Noir (2009) #4 (CALERO VARIANT)"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7950/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

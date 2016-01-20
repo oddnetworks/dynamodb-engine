@@ -1,0 +1,117 @@
+{
+  "id": 3706,
+  "title": "Maximum Security: Dangerous Planet (2000)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3706",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3706/maximum_security_dangerous_planet_2000?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2000,
+  "endYear": 2000,
+  "rating": "",
+  "type": "",
+  "modified": "2015-04-27T15:46:42-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3706/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+        "name": "Kurt Busiek",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1232",
+        "name": "Jerry Ordway",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4410",
+        "name": "Jason Wright",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3706/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+        "name": "Gladiator (Kallark)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009402",
+        "name": "Lilandra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3706/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40706",
+        "name": "Cover #40706",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40707",
+        "name": "A Very Dangerous Planet",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3706/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19032",
+        "name": "Maximum Security: Dangerous Planet (2000) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3706/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+        "name": "Maximum Security"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

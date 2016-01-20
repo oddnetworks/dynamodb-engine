@@ -1,0 +1,90 @@
+{
+  "id": 1984,
+  "title": "Punisher War Journal Vol. 1: Civil War Premiere (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1984",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1984/punisher_war_journal_vol_1_civil_war_premiere_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bc3543cd9145",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1984/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+        "name": "Matt Fraction",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1984/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1984/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8562",
+        "name": "Punisher War Journal 1-4, B&W variant",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8563",
+        "name": "Punisher War Journal 1-4, B&W variant",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1984/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6285",
+        "name": "Punisher War Journal Vol. 1: Civil War Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1984/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

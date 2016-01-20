@@ -1,0 +1,132 @@
+{
+  "id": 21127,
+  "title": "Spider-Man & Silk: The Spider(fly) Effect Infinite Comic (2016 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21127",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21127/spider-man_silk_the_spiderfly_effect_infinite_comic_2016_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2016,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2016-01-15T14:19:07-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/e0/5699311195336",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21127/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12716",
+        "name": "Stacey Lee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/935",
+        "name": "Todd Nauck",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12444",
+        "name": "Robbie Thompson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+        "name": "Jordan White",
+        "role": "editor"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21127/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21127/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126648",
+        "name": "cover from Spider-Man: TBD Infinite Comic (2016) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126649",
+        "name": "story from Spider-Man: TBD Infinite Comic (2016) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126652",
+        "name": "cover from Spider-Man: TBD Infinite Comic (2016) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126653",
+        "name": "story from Spider-Man: TBD Infinite Comic (2016) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126654",
+        "name": "cover from Spider-Man: TBD Infinite Comic (2016) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126655",
+        "name": "story from Spider-Man: TBD Infinite Comic (2016) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126656",
+        "name": "cover from Spider-Man: TBD Infinite Comic (2016) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126657",
+        "name": "story from Spider-Man: TBD Infinite Comic (2016) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21127/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57973",
+        "name": "Spider-Man & Silk: The Spider(fly) Effect Infinite Comic (2016) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57975",
+        "name": "Spider-Man & Silk: The Spider(fly) Effect Infinite Comic (2016) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57976",
+        "name": "Spider-Man & Silk: The Spider(fly) Effect Infinite Comic (2016) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57977",
+        "name": "Spider-Man & Silk: The Spider(fly) Effect Infinite Comic (2016) #5"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21127/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

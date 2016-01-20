@@ -1,0 +1,173 @@
+{
+  "id": 1673,
+  "title": "Ultimate Annuals Vol. 1 (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1673",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1673/ultimate_annuals_vol_1_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "T",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc6062f2d2e1",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1673/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/520",
+        "name": "Rainier Beredo",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+        "name": "Paul Mounts",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+        "name": "Bryan Hitch",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+        "name": "Steve Dillon",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1015",
+        "name": "Charlie Huston",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+        "name": "Mark Millar",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/513",
+        "name": "Jose Pimentel",
+        "role": "inker"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1673/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010913",
+        "name": "Captain America (Ultimate)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011010",
+        "name": "Spider-Man (Ultimate)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+        "name": "X-Men (Ultimate)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1673/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5331",
+        "name": "1 of 1 - Inhumans",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5332",
+        "name": "1 of 1 - Inhumans",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5364",
+        "name": "Cover #5364",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5365",
+        "name": "Interior #5365",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5832",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5833",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36755",
+        "name": "Cover #36755",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36756",
+        "name": "Interior #36756",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36757",
+        "name": "Cover #36757",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36758",
+        "name": "Interior #36758",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65992",
+        "name": "ULTIMATE ANNUALS VOL. 1 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1673/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3438",
+        "name": "Ultimate Annuals Vol. 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1673/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

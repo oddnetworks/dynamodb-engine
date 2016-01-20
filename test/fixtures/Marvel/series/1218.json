@@ -1,0 +1,215 @@
+{
+  "id": 1218,
+  "title": "Incredible Hulk Vol. 7: Dead Like Me (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1218",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1218/incredible_hulk_vol_7_dead_like_me_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/80/4c7d679010af7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1218/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4728",
+        "name": "Kelly Lamy",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6298",
+        "name": "Nanci Dakesian",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/643",
+        "name": "Stuart Moore",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6694",
+        "name": "Wes Abbot",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/128",
+        "name": "Doug Braithwaite",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+        "name": "Klaus Janson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/523",
+        "name": "Bill Reinhold",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/52",
+        "name": "Bruce Jones",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8794",
+        "name": "John McCrea",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1275",
+        "name": "Kevin Nowlan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "colorist"
+      }
+    ],
+    "returned": 12
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1218/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1218/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1217",
+        "name": "Cover #1217",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1218",
+        "name": "Interior #1218",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1219",
+        "name": "Cover #1219",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1220",
+        "name": "Interior #1220",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1780",
+        "name": "Cover #1780",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1781",
+        "name": "Interior #1781",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1982",
+        "name": "Cover #1982",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1983",
+        "name": "Interior #1983",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32834",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32835",
+        "name": "Hulk Smash Part One",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32836",
+        "name": "",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32837",
+        "name": "",
+        "type": "ads"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32838",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32839",
+        "name": "Hulk Smash Part Two",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32840",
+        "name": "",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32841",
+        "name": "Bullpen Bulletins",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32842",
+        "name": "",
+        "type": "ads"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65665",
+        "name": "INCREDIBLE HULK VOL. 7: DEAD LIKE ME TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 18
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1218/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1298",
+        "name": "Incredible Hulk Vol. 7: Dead Like Me (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1218/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

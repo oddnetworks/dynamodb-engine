@@ -1,0 +1,244 @@
+{
+  "id": 5224,
+  "title": "Marvel Masterworks: Golden Age Captain America Vol. 2 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5224",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5224/marvel_masterworks_golden_age_captain_america_vol_2_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/4bb7955fe58fe",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5224/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1358",
+        "name": "Al Avison",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1456",
+        "name": "Jack Binder",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1451",
+        "name": "Charles Nicholas",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1499",
+        "name": "Otto Binder",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/376",
+        "name": "Gerard Jones",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8293",
+        "name": "Dale Crain",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9208",
+        "name": "Pacific Rim Graphics",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1361",
+        "name": "Tom Mullin",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4412",
+        "name": "Cory Sedlmeier",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1253",
+        "name": "Greg Theakston",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1439",
+        "name": "Al Gabriele",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1256",
+        "name": "Syd Shores",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/947",
+        "name": "Joe Simon",
+        "role": "editor"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5224/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 29,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5224/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9584",
+        "name": "Cover #9584",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9585",
+        "name": "Contents page",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9586",
+        "name": "The Camera Fiend and His Darts of Doom",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9587",
+        "name": "Meet the Fang, Arch-Fiend of the Orient",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9588",
+        "name": "The Grim Reaper Deals With Crime",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9589",
+        "name": "The Hangman",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9590",
+        "name": "Trap For a Traitor",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9591",
+        "name": "The Engine of Destruction",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9592",
+        "name": "[The Boarding House Murders]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9656",
+        "name": "Cover #9656",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9657",
+        "name": "Contents page",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9658",
+        "name": "The Red Skull",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9659",
+        "name": "Death Loads the Bases",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9660",
+        "name": "A Message from Captain America",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9661",
+        "name": "Horror Plays the Scales",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9662",
+        "name": "Justice Laughs Last",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9663",
+        "name": "Dust of Destruction",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9664",
+        "name": "Race Against Doom",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9697",
+        "name": "Cover #9697",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/9698",
+        "name": "Contents page",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5224/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21606",
+        "name": "Marvel Masterworks: Golden Age Captain America Vol. 2 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5224/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

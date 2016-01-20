@@ -1,0 +1,198 @@
+{
+  "id": 845,
+  "title": "Sentry (2005 - 2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/845",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/845/sentry_2005_-_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2006,
+  "rating": "T",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb71ef816b29",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/845/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+        "name": "Paul Jenkins",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+        "name": "Mark Morales",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+        "name": "Dean White",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "letterer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/845/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009571",
+        "name": "Sentry (Robert Reynolds)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/845/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4402",
+        "name": "3 of 8 - 8XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4403",
+        "name": "3 of 8 - 8XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4404",
+        "name": "4 of 8 - 8XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4405",
+        "name": "4 of 8 - 8XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4406",
+        "name": "5 of 8 - 8XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4407",
+        "name": "5 of 8 - 8XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4408",
+        "name": "6 of 8 - 8XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4409",
+        "name": "6 of 8 - 8XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4410",
+        "name": "7 of 8 - 8XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4411",
+        "name": "7 of 8 - 8XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4412",
+        "name": "8 of 8 - 8XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4413",
+        "name": "8 of 8 - 8XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45043",
+        "name": "Cover #45043",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45044",
+        "name": "Interior #45044",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45045",
+        "name": "Cover #45045",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45046",
+        "name": "Interior #45046",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 16
+  },
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/845/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18882",
+        "name": "Sentry (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18883",
+        "name": "Sentry (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3005",
+        "name": "Sentry (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3124",
+        "name": "Sentry (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3349",
+        "name": "Sentry (2005) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3465",
+        "name": "Sentry (2005) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3903",
+        "name": "Sentry (2005) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4035",
+        "name": "Sentry (2005) #8"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/845/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

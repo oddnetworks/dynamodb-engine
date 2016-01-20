@@ -1,0 +1,445 @@
+{
+  "id": 2021,
+  "title": "Incredible Hulk (1962 - 1999)",
+  "description": "Trapped in a the radioactive blast of a Gamma Bomb, withdrawn Doctor Bruce Banner becomes the rampaging Incredible Hulk! Witness the evolution of Marvel's most unstoppable force, from sinister brute to uncontrollable beast and every stage in between.",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2021",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2021/incredible_hulk_1962_-_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1962,
+  "endYear": 1999,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T14:12:36-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/f0/5130fcef3b4dd",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 244,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2021/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2935",
+        "name": "Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2931",
+        "name": "Bulanadi",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2923",
+        "name": "DeMulder",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2914",
+        "name": "Mitchell",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2943",
+        "name": "Rubinstein",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2922",
+        "name": "Stone",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2926",
+        "name": "Talaoc",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2937",
+        "name": "Williamson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2707",
+        "name": "Jeff Albrecht",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2933",
+        "name": "Cirroco",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2941",
+        "name": "Geiger",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2944",
+        "name": "McFarlane",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2929",
+        "name": "Steacy",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2977",
+        "name": "Liquid",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4139",
+        "name": "Matthew Paine",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1258",
+        "name": "Alfredo Alcala",
+        "role": "penciller"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 51,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2021/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009146",
+        "name": "Abomination (Emil Blonsky)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+        "name": "Absorbing Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+        "name": "Adam Warlock"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+        "name": "Alpha Flight"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+        "name": "Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009251",
+        "name": "Crimson Dynamo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+        "name": "Crystal"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009275",
+        "name": "Doc Samson"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+        "name": "Falcon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010343",
+        "name": "Human Cannonball"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 819,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2021/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13514",
+        "name": "[none]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13515",
+        "name": "The Hulk",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13516",
+        "name": "Cover #13516",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13517",
+        "name": "The Terror of the Toad Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13518",
+        "name": "Cover #13518",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13519",
+        "name": "Banished to Outer Space",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13520",
+        "name": "The Origin of the Hulk!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13521",
+        "name": "The Ringmaster",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13522",
+        "name": "Cover #13522",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13523",
+        "name": "The Monster and the Machine",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13524",
+        "name": "The Gladiator from Outer Space",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13525",
+        "name": "Cover #13525",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13526",
+        "name": "Beauty and the Beast!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13527",
+        "name": "The Hordes of General Fang!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13528",
+        "name": "Cover #13528",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13529",
+        "name": "The Metal Master!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18345",
+        "name": "Cover #18345",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18346",
+        "name": "Grave Matters",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18347",
+        "name": "Cover #18347",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18348",
+        "name": "This World Not His Own",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 389,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2021/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8912",
+        "name": "Incredible Hulk (1962)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8906",
+        "name": "Incredible Hulk (1962) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8907",
+        "name": "Incredible Hulk (1962) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8908",
+        "name": "Incredible Hulk (1962) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8909",
+        "name": "Incredible Hulk (1962) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8910",
+        "name": "Incredible Hulk (1962) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8911",
+        "name": "Incredible Hulk (1962) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8913",
+        "name": "Incredible Hulk (1962) #102"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17157",
+        "name": "Incredible Hulk (1962) #102"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17158",
+        "name": "Incredible Hulk (1962) #103"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8915",
+        "name": "Incredible Hulk (1962) #104"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17159",
+        "name": "Incredible Hulk (1962) #104"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17160",
+        "name": "Incredible Hulk (1962) #105"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8916",
+        "name": "Incredible Hulk (1962) #105"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17161",
+        "name": "Incredible Hulk (1962) #106"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8917",
+        "name": "Incredible Hulk (1962) #106"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17162",
+        "name": "Incredible Hulk (1962) #107"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17163",
+        "name": "Incredible Hulk (1962) #108"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8919",
+        "name": "Incredible Hulk (1962) #108"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17164",
+        "name": "Incredible Hulk (1962) #109"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2021/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/248",
+        "name": "Fall of the Mutants"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/253",
+        "name": "Infinity Gauntlet"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "name": "Secret Wars"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "name": "Secret Wars II"
+      }
+    ],
+    "returned": 6
+  },
+  "next": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/465",
+    "name": "Incredible Hulk (1999 - 2008)"
+  },
+  "previous": null
+}

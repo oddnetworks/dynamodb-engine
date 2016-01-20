@@ -1,0 +1,113 @@
+{
+  "id": 2054,
+  "title": "New Mutants Special (1985)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2054",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2054/new_mutants_special_1985?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1985,
+  "endYear": 1985,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/4bad3e3fce3b9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2054/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+        "name": "Bret Blevins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+        "name": "Ann Nocenti",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+        "name": "Bill Oakley",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2364",
+        "name": "Greg Wright",
+        "role": "colorist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2054/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+        "name": "Adam Warlock"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010366",
+        "name": "Boom Boom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009638",
+        "name": "Sunspot"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2054/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26202",
+        "name": "Enter a Televised World Gone Bonkers!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26203",
+        "name": "A Mutant In Megalopolis",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26204",
+        "name": "Pin-Up Gallery",
+        "type": "pinup"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2054/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10342",
+        "name": "New Mutants Special (1985) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2054/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,239 @@
+{
+  "id": 2049,
+  "title": "Maximum Security (2000 - 2001)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2049",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2049/maximum_security_2000_-_2001?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2000,
+  "endYear": 2001,
+  "rating": "",
+  "type": "",
+  "modified": "2013-06-12T14:32:19-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/51b8be7494703",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2049/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3603",
+        "name": "Albert Deschesne",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4409",
+        "name": "Jason Levine",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1032",
+        "name": "Troy Peteri",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5075",
+        "name": "Bobbie Chase",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+        "name": "Marc Sumerak",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+        "name": "Kurt Busiek",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1232",
+        "name": "Jerry Ordway",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4410",
+        "name": "Jason Wright",
+        "role": "colorist"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 42,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2049/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+        "name": "Bishop"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+        "name": "Captain Marvel (Mar-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009266",
+        "name": "Darkstar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+        "name": "Gambit"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+        "name": "Gladiator (Kallark)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009402",
+        "name": "Lilandra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010362",
+        "name": "Moonstone"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009469",
+        "name": "Namorita"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2049/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26234",
+        "name": "Cover #26234",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26235",
+        "name": "Illegal Aliens",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26236",
+        "name": "Cover #26236",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26237",
+        "name": "A World of Hurt",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26238",
+        "name": "Cover #26238",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26239",
+        "name": "Whatever the Cost!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2049/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10284",
+        "name": "Maximum Security (2000) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10285",
+        "name": "Maximum Security (2000) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10286",
+        "name": "Maximum Security (2000) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2049/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+        "name": "Maximum Security"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

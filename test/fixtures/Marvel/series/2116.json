@@ -1,0 +1,430 @@
+{
+  "id": 2116,
+  "title": "Alpha Flight (1983 - 1994)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2116",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2116/alpha_flight_1983_-_1994?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1983,
+  "endYear": 1994,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/4bad387b70568",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 83,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2116/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1871",
+        "name": "Ken Bruzenak",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+        "name": "Janice Chiang",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2707",
+        "name": "Jeff Albrecht",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3074",
+        "name": "Ralph Cabrera",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1279",
+        "name": "Jon Bogdanove",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3394",
+        "name": "Craig Brasfield",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3415",
+        "name": "John Calimee",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2823",
+        "name": "Dario Carrasco",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2077",
+        "name": "Hilary Barta",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1298",
+        "name": "June Brigman",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1185",
+        "name": "Pat Broderick",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3404",
+        "name": "Dario Carrasco Jr.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5075",
+        "name": "Bobbie Chase",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 62,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2116/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+        "name": "Alpha Flight"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163",
+        "name": "Aurora"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+        "name": "Banshee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+        "name": "Black Knight (Sir Percy of Scandia)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009206",
+        "name": "Box"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009212",
+        "name": "Bullseye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+        "name": "Crystal"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+        "name": "Dazzler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009306",
+        "name": "Firestar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+        "name": "Forge"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 280,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2116/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21096",
+        "name": "Alpha Flight (1983) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21097",
+        "name": "Tundra!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21098",
+        "name": "Cover #21098",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21099",
+        "name": "Blood Battle",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21100",
+        "name": "Family Ties",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21101",
+        "name": "Cover #21101",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21102",
+        "name": "The Final Option, Part Four: Decisions of Trust",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21103",
+        "name": "Cover #21103",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21104",
+        "name": "Death and How To Live It",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21105",
+        "name": "Cover #21105",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21106",
+        "name": "...I Want To Live",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21107",
+        "name": "Cover #21107",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21108",
+        "name": "Spontaneous Combustion",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21109",
+        "name": "Cover #21109",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21110",
+        "name": "Headache",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21111",
+        "name": "Cover #21111",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21112",
+        "name": "The Bachelor Party",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21113",
+        "name": "Cover #21113",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21114",
+        "name": "The Walking Wounded",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21115",
+        "name": "World Tour Part 1",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 130,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2116/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12637",
+        "name": "Alpha Flight (1983) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12679",
+        "name": "Alpha Flight (1983) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12690",
+        "name": "Alpha Flight (1983) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12701",
+        "name": "Alpha Flight (1983) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12712",
+        "name": "Alpha Flight (1983) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12723",
+        "name": "Alpha Flight (1983) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12734",
+        "name": "Alpha Flight (1983) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12745",
+        "name": "Alpha Flight (1983) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12756",
+        "name": "Alpha Flight (1983) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12638",
+        "name": "Alpha Flight (1983) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12649",
+        "name": "Alpha Flight (1983) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12660",
+        "name": "Alpha Flight (1983) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12671",
+        "name": "Alpha Flight (1983) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12673",
+        "name": "Alpha Flight (1983) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12674",
+        "name": "Alpha Flight (1983) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12675",
+        "name": "Alpha Flight (1983) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12676",
+        "name": "Alpha Flight (1983) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12677",
+        "name": "Alpha Flight (1983) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12678",
+        "name": "Alpha Flight (1983) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12680",
+        "name": "Alpha Flight (1983) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2116/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+        "name": "Infinity War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "name": "Secret Wars II"
+      }
+    ],
+    "returned": 3
+  },
+  "next": null,
+  "previous": null
+}

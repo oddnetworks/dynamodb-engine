@@ -1,0 +1,64 @@
+{
+  "id": 8805,
+  "title": "X-Men Forever Digital Preview (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8805",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8805/x-men_forever_digital_preview_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "A",
+  "type": "one shot",
+  "modified": "2011-06-01T17:06:02-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/4bb4dcd68619e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8805/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8805/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8805/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68658",
+        "name": "X-MEN FOREVER DIGITAL PREVIEW 1 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8805/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27539",
+        "name": "X-Men Forever Digital Preview (2009) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8805/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

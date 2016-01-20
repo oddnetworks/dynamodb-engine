@@ -1,0 +1,190 @@
+{
+  "id": 889,
+  "title": "Toxin (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/889",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/889/toxin_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/4bc63e7eead78",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/889/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/193",
+        "name": "Simon Bisley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+        "name": "Clayton Crain",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/545",
+        "name": "Duncan Fegredo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+        "name": "Esad Ribic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+        "name": "Matt Milla",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+        "name": "Peter Milligan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/768",
+        "name": "Rodney Ramos",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/49",
+        "name": "Darick Robertson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/943",
+        "name": "Mike Sellers",
+        "role": "letterer"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/889/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009676",
+        "name": "Toxin"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/889/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4790",
+        "name": "1 of 6 - 6XLS- The Devil You Know",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4791",
+        "name": "1 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4792",
+        "name": "2 of 6 - 6XLS- The Devil You Know",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4793",
+        "name": "2 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4794",
+        "name": "3 of 6 - 6XLS- The Devil You Know",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4795",
+        "name": "3 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4796",
+        "name": "4 of 6 - 6XLS- The Devil You Know",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4797",
+        "name": "4 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4798",
+        "name": "5 of 6 - 6XLS- The Devil You Know",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4799",
+        "name": "5 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4800",
+        "name": "6 of 6 - 6XLS- The Devil You Know",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4801",
+        "name": "6 of 6 - 6XLS- The Devil You Know",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/889/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1910",
+        "name": "Toxin (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2012",
+        "name": "Toxin (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2117",
+        "name": "Toxin (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2228",
+        "name": "Toxin (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2341",
+        "name": "Toxin (2005) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2477",
+        "name": "Toxin (2005) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/889/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

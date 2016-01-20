@@ -1,0 +1,426 @@
+{
+  "id": 3654,
+  "title": "Warlock and the Infinity Watch (1992 - 1995)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3654",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3654/warlock_and_the_infinity_watch_1992_-_1995?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1992,
+  "endYear": 1995,
+  "rating": "",
+  "type": "",
+  "modified": "2014-05-27T13:56:29-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/e0/4c35fad22ecd3",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 31,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3654/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4201",
+        "name": "Bob Almond",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2041",
+        "name": "Bill Anderson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+        "name": "Harry Candelario",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2319",
+        "name": "Tim Dzon",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2047",
+        "name": "Craig Anderson",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8953",
+        "name": "Lynaire Brust",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2285",
+        "name": "John Lewandowski",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3640",
+        "name": "John Arcudi",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3667",
+        "name": "Richard Ashford",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1937",
+        "name": "Jon Babcock",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+        "name": "Janice Chiang",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2484",
+        "name": "Many Hands",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4794",
+        "name": "Steve Carr",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1301",
+        "name": "Tom Grindberg",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2297",
+        "name": "Mike Gustovich",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1252",
+        "name": "Rick Leonardi",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/372",
+        "name": "Angel Medina",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2318",
+        "name": "Jeffrey Moore",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1929",
+        "name": "Ian Laughlin",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 31,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3654/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+        "name": "Adam Warlock"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011061",
+        "name": "Eternity"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010763",
+        "name": "Gamora"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009330",
+        "name": "Guardian"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+        "name": "Havok"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009449",
+        "name": "Mole Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009477",
+        "name": "Nova"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009499",
+        "name": "Polaris"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+        "name": "Psylocke"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009523",
+        "name": "Quasar (Phyla-Vell)"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 84,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3654/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39230",
+        "name": "The Aftermath of the Infinity Gauntlet",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39231",
+        "name": "Judgment",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39232",
+        "name": "Clash of the Titans!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39233",
+        "name": "Self-Desructive Tendencies",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39234",
+        "name": "Secrets of the Watch",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39235",
+        "name": "The Appeal",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39236",
+        "name": "Temper Tantrum",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39237",
+        "name": "Distant Memories",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39238",
+        "name": "Demand This, Hulkie!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39239",
+        "name": "Sweet Music",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39240",
+        "name": "Assault on Monster Isle",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39241",
+        "name": "Strange  Encounters",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39242",
+        "name": "Identity Crisis",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39243",
+        "name": "Divisions",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39244",
+        "name": "Shadows From the Abyss!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39245",
+        "name": "Abyss",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39246",
+        "name": "Can Even Drax Prevail Against the Power of Maxam",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39247",
+        "name": "Maxam",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39248",
+        "name": "I'm Here to Save the Universe",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39249",
+        "name": "Power Play",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 42,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3654/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18413",
+        "name": "Warlock and the Infinity Watch (1992) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18424",
+        "name": "Warlock and the Infinity Watch (1992) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18435",
+        "name": "Warlock and the Infinity Watch (1992) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18446",
+        "name": "Warlock and the Infinity Watch (1992) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18450",
+        "name": "Warlock and the Infinity Watch (1992) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18451",
+        "name": "Warlock and the Infinity Watch (1992) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18452",
+        "name": "Warlock and the Infinity Watch (1992) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18453",
+        "name": "Warlock and the Infinity Watch (1992) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18454",
+        "name": "Warlock and the Infinity Watch (1992) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18414",
+        "name": "Warlock and the Infinity Watch (1992) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18415",
+        "name": "Warlock and the Infinity Watch (1992) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18416",
+        "name": "Warlock and the Infinity Watch (1992) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18417",
+        "name": "Warlock and the Infinity Watch (1992) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18418",
+        "name": "Warlock and the Infinity Watch (1992) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18419",
+        "name": "Warlock and the Infinity Watch (1992) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18420",
+        "name": "Warlock and the Infinity Watch (1992) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18421",
+        "name": "Warlock and the Infinity Watch (1992) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18422",
+        "name": "Warlock and the Infinity Watch (1992) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18423",
+        "name": "Warlock and the Infinity Watch (1992) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18425",
+        "name": "Warlock and the Infinity Watch (1992) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3654/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/235",
+        "name": "Blood and Thunder"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+        "name": "Infinity War"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

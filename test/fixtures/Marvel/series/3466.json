@@ -1,0 +1,85 @@
+{
+  "id": 3466,
+  "title": "Marvel Masterworks: The Silver Surfer Vol. 1 (2nd Edition, 2nd (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3466",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3466/marvel_masterworks_the_silver_surfer_vol_1_2nd_edition_2nd_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/80/4bc33ca4deaf0",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3466/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3466/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3466/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37054",
+        "name": "Silver Surfer Vol. 1 1-6, Fantastic Four Annual 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37055",
+        "name": "Silver Surfer Vol. 1 1-6, Fantastic Four Annual 5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3466/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17699",
+        "name": "Marvel Masterworks: The Silver Surfer Vol. 1 (2nd Edition, 2nd (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3466/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

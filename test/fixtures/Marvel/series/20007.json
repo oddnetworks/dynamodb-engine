@@ -1,0 +1,165 @@
+{
+  "id": 20007,
+  "title": "X-Men '92 (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20007",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20007/x-men_92_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T",
+  "type": "limited",
+  "modified": "2015-09-18T10:57:06-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/556497a3e2ef0",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20007/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12738",
+        "name": "Chad Bowers",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12737",
+        "name": "Chris Sims",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+        "name": "Scott Koblish",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+        "name": "Pepe Larraz",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5022",
+        "name": "David Nakayama",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+        "name": "Jordan White",
+        "role": "editor"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20007/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20007/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118028",
+        "name": "cover from X-Men '92 (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118029",
+        "name": "story from X-Men '92 (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118030",
+        "name": "cover from X-Men '92 (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118031",
+        "name": "story from X-Men '92 (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118032",
+        "name": "cover from X-Men '92 (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118034",
+        "name": "cover from X-Men '92 (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118035",
+        "name": "story from X-Men '92 (2015) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121560",
+        "name": "cover from X-Men '92 (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121561",
+        "name": "story from X-Men '92 (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126324",
+        "name": "cover from X-Men '92 (2015) #4 (NAKAYAMA VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/126325",
+        "name": "story from X-Men '92 (2015) #4 (NAKAYAMA VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20007/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53332",
+        "name": "X-Men '92 (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53333",
+        "name": "X-Men '92 (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55246",
+        "name": "X-Men '92 (2015) #2 (Tbd Artist Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53334",
+        "name": "X-Men '92 (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53335",
+        "name": "X-Men '92 (2015) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/57776",
+        "name": "X-Men '92 (2015) #4 (Nakayama Variant)"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20007/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

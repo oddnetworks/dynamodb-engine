@@ -1,0 +1,70 @@
+{
+  "id": 19276,
+  "title": "Ant-Man Vol. 1: Second-Chance Man (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19276",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19276/ant-man_vol_1_second-chance_man_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-06-23T14:33:33-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/5589a5e0734f0",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19276/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19276/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19276/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114327",
+        "name": "cover from Ant-Man (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19276/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51375",
+        "name": "Ant-Man Vol. 1: Second-Chance Man (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19276/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

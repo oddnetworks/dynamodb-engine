@@ -1,0 +1,69 @@
+{
+  "id": 258,
+  "title": "Marvel Encyclopedia Vol. IV: Spider-Man (2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/258",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/258/marvel_encyclopedia_vol_iv_spider-man_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2003,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/258/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/258/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/258/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/332",
+        "name": " Marvel's best-selling Encyclopedia series continues! This fully illustrated, comprehensive deluxe hardcover volume includes in-",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65291",
+        "name": "Marvel Encyclopedia Vol. IV: Spider-Man HC 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/258/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1201",
+        "name": "Marvel Encyclopedia Vol. IV: Spider-Man (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/258/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

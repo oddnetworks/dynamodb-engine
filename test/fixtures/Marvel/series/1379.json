@@ -1,0 +1,140 @@
+{
+  "id": 1379,
+  "title": "Marvel Holiday Special 2004 (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1379",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1379/marvel_holiday_special_2004_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bc65a9ce5d3a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1379/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+        "name": "Roberto Aguirre-Sacasa",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+        "name": "David Michelinie",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+        "name": "Ross Andru",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1207",
+        "name": "Bill Jaaska",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/75",
+        "name": "Todd McFarlane",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+        "name": "Bill Sienkiewicz",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+        "name": "Stuart Immonen",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 13
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1379/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1379/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6720",
+        "name": "Holiday Special 2004; Unc X-Men 143, Am. Spider-Man 314; Marvel Team-Up 1; Incredible Hulk 378",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6721",
+        "name": "Holiday Special 2004; Unc X-Men 143, Am. Spider-Man 314; Marvel Team-Up 1; Incredible Hulk 378",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1379/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1486",
+        "name": "Marvel Holiday Special 2004 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1379/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

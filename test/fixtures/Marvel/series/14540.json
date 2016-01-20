@@ -1,0 +1,69 @@
+{
+  "id": 14540,
+  "title": "MARVEL MASTERWORKS: ATLAS ERA STRANGE TALES VOL. 4 HC VARIANT (DM ONLY) (2011 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14540",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14540/marvel_masterworks_atlas_era_strange_tales_vol_4_hc_variant_dm_only_2011_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-04T09:00:09-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14540/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14540/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14540/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89791",
+        "name": "MARVEL MASTERWORKS: ATLAS ERA STRANGE TALES VOL. 4 HC VARIANT (DM ONLY)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89792",
+        "name": "Interior #89792",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14540/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39585",
+        "name": "MARVEL MASTERWORKS: ATLAS ERA STRANGE TALES VOL. 4 HC VARIANT (DM ONLY) (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14540/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

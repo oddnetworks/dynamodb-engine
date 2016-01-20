@@ -1,0 +1,125 @@
+{
+  "id": 4559,
+  "title": "X-Men: Messiah Complex (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4559",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4559/x-men_messiah_complex_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bb85bd7e7130",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4559/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+        "name": "Chris Bachalo",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5106",
+        "name": "Scot Eaton",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5044",
+        "name": "Marc Silvestri",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+        "name": "Billy Tan",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+        "name": "Ed Brubaker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/801",
+        "name": "Craig Kyle",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4559/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4559/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46104",
+        "name": "X-Men Messiah Complex One-Shot, Uncanny X-Men 492-494, X-Men 205-207, New X-Men 44-46, X-Factor 25-27, Mutant Files",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46105",
+        "name": "X-Men Messiah Complex One-Shot, Uncanny X-Men 492-494, X-Men 205-207, New X-Men 44-46, X-Factor 25-27, Mutant Files",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4559/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21069",
+        "name": "X-Men: Messiah Complex (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4559/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/299",
+        "name": "Messiah CompleX"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,194 @@
+{
+  "id": 6988,
+  "title": "New Avengers: The Reunion (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6988",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6988/new_avengers_the_reunion_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "2011-05-31T16:14:28-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb3e73a5ee8b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6988/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/619",
+        "name": "Jo Chen",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10433",
+        "name": "Alvaro Lopez",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8349",
+        "name": "David Lopez Lopez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9967",
+        "name": "Jim McCann",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1134",
+        "name": "Daniele Rudoni",
+        "role": "colorist"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6988/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011220",
+        "name": "Mockingbird"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6988/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52872",
+        "name": "The Reunion (2009) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52873",
+        "name": "4XLS 1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52874",
+        "name": "New Avengers: The Reunion (2009) #1, COVER VARIANT",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52875",
+        "name": "4XLS 1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53289",
+        "name": "4XLS 2 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53290",
+        "name": "4XLS 2 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53697",
+        "name": "4XLS 3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53698",
+        "name": "4XLS 3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57377",
+        "name": "Cover #57377",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57378",
+        "name": "Interior #57378",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57379",
+        "name": "Cover #57379",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57380",
+        "name": "Interior #57380",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60224",
+        "name": "Cover #60224",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60225",
+        "name": "Interior #60225",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 14
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6988/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23830",
+        "name": "New Avengers: The Reunion (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23831",
+        "name": "New Avengers: The Reunion (2009) #1 (COVER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27459",
+        "name": "New Avengers: The Reunion (2009) #1 (LOPEZ 2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24031",
+        "name": "New Avengers: The Reunion (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24234",
+        "name": "New Avengers: The Reunion (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26046",
+        "name": "New Avengers: The Reunion (2009) #4"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6988/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,145 @@
+{
+  "id": 3653,
+  "title": "Weapon X: The Draft - Wild Child (2002)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3653",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3653/weapon_x_the_draft_-_wild_child_2002?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2002,
+  "endYear": 2002,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-03T10:06:41-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4c361ed768ee5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3653/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6147",
+        "name": "HiFi Colour",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8836",
+        "name": "Jose Villarrubia",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+        "name": "Mike Marts",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+        "name": "Mike Raicht",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4565",
+        "name": "Matt Nixon",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/461",
+        "name": "Norm Rapmund",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1329",
+        "name": "Ethan Van Sciver",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6143",
+        "name": "J.H. Williams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4210",
+        "name": "Paul Tutrone",
+        "role": "letterer"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3653/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009163",
+        "name": "Aurora"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009442",
+        "name": "Mesmero"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009554",
+        "name": "Sabretooth"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009636",
+        "name": "Sunfire"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009715",
+        "name": "Wild Child"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3653/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39227",
+        "name": "Cover #39227",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39228",
+        "name": "[Credits and Recap]",
+        "type": "recap"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/39229",
+        "name": "Shock the Monkey",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3653/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18412",
+        "name": "Weapon X: The Draft - Wild Child (2002) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3653/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,127 @@
+{
+  "id": 11280,
+  "title": "World War Hulks: Spider-Man & Thor (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/11280",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/11280/world_war_hulks_spider-man_thor_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-03T11:23:52-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bc5d4588095f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11280/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+        "name": "Barry Kitson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+        "name": "Jorge Molina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+        "name": "Patrick Scherberger",
+        "role": "penciller"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11280/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11280/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75438",
+        "name": "Cover #75438",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75439",
+        "name": "Interior #75439",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75637",
+        "name": "Interior #75637",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96378",
+        "name": "World War Hulks: Spider-Man & Thor (2010) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11280/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33580",
+        "name": "World War Hulks: Spider-Man & Thor (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33581",
+        "name": "World War Hulks: Spider-Man & Thor (2010) #2"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11280/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/60",
+        "name": "World War Hulks"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

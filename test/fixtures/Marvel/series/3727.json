@@ -1,0 +1,174 @@
+{
+  "id": 3727,
+  "title": "Infinity Abyss (2002)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3727",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3727/infinity_abyss_2002?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2002,
+  "endYear": 2002,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4bb6de59aeded",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3727/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+        "name": "Al Milgrom",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+        "name": "Jack Morelli",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+        "name": "Christie Scheele",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+        "name": "Jim Starlin",
+        "role": "penciler"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3727/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+        "name": "Captain Marvel (Mar-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+        "name": "Thanos"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3727/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42832",
+        "name": "Cover #42832",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42833",
+        "name": "A Mad Calling!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42834",
+        "name": "Cover #42834",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42835",
+        "name": "Paranoids and Nihilists",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42836",
+        "name": "Cover #42836",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42837",
+        "name": "Memory Disorders",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42838",
+        "name": "Cover #42838",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42839",
+        "name": "Breakdown!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42840",
+        "name": "Cover #42840",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42841",
+        "name": "Errors in Judgment",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42842",
+        "name": "Cover #42842",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42843",
+        "name": "Rewards & Punishment",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3727/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20010",
+        "name": "Infinity Abyss (2002) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20011",
+        "name": "Infinity Abyss (2002) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20012",
+        "name": "Infinity Abyss (2002) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20013",
+        "name": "Infinity Abyss (2002) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20014",
+        "name": "Infinity Abyss (2002) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20015",
+        "name": "Infinity Abyss (2002) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3727/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

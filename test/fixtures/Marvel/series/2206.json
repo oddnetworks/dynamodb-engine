@@ -1,0 +1,146 @@
+{
+  "id": 2206,
+  "title": "Spider-Man and the Fantastic Four (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2206",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2206/spider-man_and_the_fantastic_four_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "A",
+  "type": "",
+  "modified": "2011-06-01T11:06:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/4bad38516902f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2206/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+        "name": "Wade von Grawbadger",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/652",
+        "name": "Peter Pantazis",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/824",
+        "name": "Jeff Parker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1065",
+        "name": "Nate Piekos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/206",
+        "name": "Mike Wieringo",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2206/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2206/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8411",
+        "name": "1 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8412",
+        "name": "1 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8718",
+        "name": "2 of 4 - 4XLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8719",
+        "name": "2 of 4 - 4XLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32430",
+        "name": "4XLS Silver Rage 3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32431",
+        "name": "4XLS Silver Rage 3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32651",
+        "name": "4XLS Silver Rage 4 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32652",
+        "name": "4XLS Silver Rage 4 of 4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2206/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6256",
+        "name": "Spider-Man and the Fantastic Four (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13494",
+        "name": "Spider-Man and the Fantastic Four (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15880",
+        "name": "Spider-Man and the Fantastic Four (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15989",
+        "name": "Spider-Man and the Fantastic Four (2007) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2206/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

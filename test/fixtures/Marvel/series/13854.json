@@ -1,0 +1,128 @@
+{
+  "id": 13854,
+  "title": "Fear Itself: Spider-Man (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13854",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13854/fear_itself_spider-man_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-19T15:49:57-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/550b273378b10",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13854/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+        "name": "Mike McKone",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9471",
+        "name": "Stephen Wacker",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13854/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13854/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89805",
+        "name": "Spider-Man: Fear Itself #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90185",
+        "name": "Spider-Man: Fear Itself #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90518",
+        "name": "Spider-Man: Fear Itself #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91004",
+        "name": "Spider-Man: Fear Itself #3 interior",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91140",
+        "name": "FEAR ITSELF: SPIDER-MAN #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92602",
+        "name": "interior",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13854/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38442",
+        "name": "Fear Itself: Spider-Man (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38443",
+        "name": "Fear Itself: Spider-Man (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38450",
+        "name": "Fear Itself: Spider-Man (2011) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13854/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,180 @@
+{
+  "id": 6673,
+  "title": "Infinity Crusade (1993 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6673",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6673/infinity_crusade_1993_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1993,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T14:22:01-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/5130ff55202a5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6673/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2047",
+        "name": "Craig Anderson",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7815",
+        "name": "Mike Kenny",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1929",
+        "name": "Ian Laughlin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2654",
+        "name": "Tom Vincent",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+        "name": "Ron Lim",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+        "name": "Al Milgrom",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1933",
+        "name": "Jack Morelli",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+        "name": "Jim Starlin",
+        "role": "writer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6673/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6673/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52032",
+        "name": "Cover #52032",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52033",
+        "name": "Epiphany",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52034",
+        "name": "Cover #52034",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52035",
+        "name": "Enlightenment",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52036",
+        "name": "Cover #52036",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52037",
+        "name": "The Damned",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52038",
+        "name": "Cover #52038",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52039",
+        "name": "Mortal Sins",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52040",
+        "name": "Cover #52040",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52041",
+        "name": "Holy War",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52042",
+        "name": "Cover #52042",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52043",
+        "name": "Interior #52043",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6673/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23307",
+        "name": "Infinity Crusade (1993) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23308",
+        "name": "Infinity Crusade (1993) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23309",
+        "name": "Infinity Crusade (1993) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23310",
+        "name": "Infinity Crusade (1993) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23311",
+        "name": "Infinity Crusade (1993) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23312",
+        "name": "Infinity Crusade (1993) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6673/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

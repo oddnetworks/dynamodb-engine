@@ -1,0 +1,170 @@
+{
+  "id": 1965,
+  "title": "Civil War: X-Men (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1965",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1965/civil_war_x-men_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bc354ee3f006",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1965/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1054",
+        "name": "Juan Doe",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+        "name": "David Hine",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9437",
+        "name": "Serge LaPointe",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1129",
+        "name": "Yanick Paquette",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1131",
+        "name": "Stephane Peru",
+        "role": "colorist"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1965/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+        "name": "Bishop"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+        "name": "Domino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009580",
+        "name": "Shatterstar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1965/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6126",
+        "name": "1 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6127",
+        "name": "1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6128",
+        "name": "2 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6129",
+        "name": "2 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6130",
+        "name": "3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6131",
+        "name": "3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6132",
+        "name": "4 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6133",
+        "name": "4 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66160",
+        "name": "CIVIL WAR: X-MEN 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106165",
+        "name": "",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1965/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6337",
+        "name": "Civil War: X-Men (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42816",
+        "name": "Civil War: X-Men (2007)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1965/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

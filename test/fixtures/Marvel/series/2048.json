@@ -1,0 +1,203 @@
+{
+  "id": 2048,
+  "title": "Marvels (1994)",
+  "description": "Experience the Marvel Universe through the eyes of the man on the street: photographer and family man Phil Sheldon. Follow years of history through the writing of Kurt Busiek and first major painted work by Alex Ross in one of Marvel's most beloved series of all-time.",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2048",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2048/marvels_1994?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1994,
+  "endYear": 1994,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T14:25:45-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/5131005c5a705",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2048/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4085",
+        "name": "Starkings w John Gaushell",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+        "name": "Kurt Busiek",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3412",
+        "name": "Marcus McLaurin",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+        "name": "Alex Ross",
+        "role": "inker"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2048/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010932",
+        "name": "Human Torch (Jim Hammond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011309",
+        "name": "Toro (Thomas Raymond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2048/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24413",
+        "name": "Cover #24413",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24414",
+        "name": "",
+        "type": "introduction"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24415",
+        "name": "[The Origin of the Human Torch]",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24416",
+        "name": "",
+        "type": "text feature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24417",
+        "name": "Images",
+        "type": "feature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24418",
+        "name": "Cover #24418",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24419",
+        "name": "A Time of Marvels",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24420",
+        "name": "Cover #24420",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24421",
+        "name": "Monsters",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24422",
+        "name": "Cover #24422",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24423",
+        "name": "Judgment Day",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24424",
+        "name": "Cover #24424",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24425",
+        "name": "The Day She Died",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2048/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10279",
+        "name": "Marvels (1994)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10280",
+        "name": "Marvels (1994) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10281",
+        "name": "Marvels (1994) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10282",
+        "name": "Marvels (1994) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10283",
+        "name": "Marvels (1994) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2048/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/6282",
+    "name": "Marvels: Eye of the Camera (2008 - 2010)"
+  },
+  "previous": null
+}

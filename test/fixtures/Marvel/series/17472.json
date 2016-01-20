@@ -1,0 +1,105 @@
+{
+  "id": 17472,
+  "title": "Marvel Noir: Spider-Man/Punisher (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17472",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17472/marvel_noir_spider-manpunisher_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "collection",
+  "modified": "2013-05-16T16:58:37-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17472/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/465",
+        "name": "Paul Azaceta",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8049",
+        "name": "Antonio Fuso",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/827",
+        "name": "Carmine Di Giandomenico",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+        "name": "David Hine",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8487",
+        "name": "Fabrice Sapolsky",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+        "name": "Frank Tieri",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+        "name": "Patrick Zircher",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17472/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17472/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104114",
+        "name": "cover from Marvel Noir: Spider-Man/Punisher (2013)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104115",
+        "name": "story from Marvel Noir: Spider-Man/Punisher (2013)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17472/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46277",
+        "name": "Marvel Noir: Spider-Man/Punisher (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17472/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

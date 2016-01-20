@@ -1,0 +1,80 @@
+{
+  "id": 19690,
+  "title": "STAR WARS VOL. 1: SKYWALKER STRIKES (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19690",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19690/star_wars_vol_1_skywalker_strikes_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-10-06T11:38:24-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19690/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+        "name": "Jason Aaron",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/162",
+        "name": "John Cassaday",
+        "role": "artist"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19690/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19690/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116775",
+        "name": "cover from Star Wars (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116776",
+        "name": "story from Star Wars (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19690/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52599",
+        "name": "STAR WARS VOL. 1: SKYWALKER STRIKES (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19690/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

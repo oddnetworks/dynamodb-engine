@@ -1,0 +1,226 @@
+{
+  "id": 2016,
+  "title": "Giant Size X-Men (1975)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2016",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2016/giant_size_x-men_1975?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1975,
+  "endYear": 1975,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/4bad417a6264c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2016/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+        "name": "Dave Cockrum",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/956",
+        "name": "Werner Roth",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/60",
+        "name": "Arnold Drake",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1280",
+        "name": "Linda Fite",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1314",
+        "name": "Sam Grainger",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+        "name": "Joe Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1754",
+        "name": "Gaspar Saladino",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+        "name": "Artie Simek",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3163",
+        "name": "Peter Iro",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+        "name": "Klaus Janson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1740",
+        "name": "John Verpoorten",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+        "name": "Glynis Oliver",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/967",
+        "name": "Len Wein",
+        "role": "editor"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2016/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+        "name": "Iceman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009430",
+        "name": "Rachel Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2016/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20474",
+        "name": "Deadly Genesis",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20475",
+        "name": "Second Genesis",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20476",
+        "name": "Call Him...Cyclops!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20477",
+        "name": "I, the Iceman",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20478",
+        "name": "The Female of the Species",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20479",
+        "name": "Cover #20479",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20480",
+        "name": "The Sentinels Live",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20481",
+        "name": "Mission:  Murder",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20482",
+        "name": "Do Or Die, Baby",
+        "type": ""
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2016/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8797",
+        "name": "Giant Size X-Men (1975) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8798",
+        "name": "Giant Size X-Men (1975) #2"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2016/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

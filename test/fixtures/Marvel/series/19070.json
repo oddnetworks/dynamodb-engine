@@ -1,0 +1,155 @@
+{
+  "id": 19070,
+  "title": "Deadpool: Dracula's Gauntlet (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19070",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19070/deadpool_draculas_gauntlet_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-17T13:46:41-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/5508685a069a1",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19070/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/665",
+        "name": "Reilly Brown",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11801",
+        "name": "Brian Posehn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/486",
+        "name": "Scott Koblish",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/613",
+        "name": "Khary Randolph",
+        "role": "artist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19070/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19070/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113715",
+        "name": "Deadpool: Dracula's Gauntlet #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113716",
+        "name": "Deadpool: Dracula's Gauntlet (2014) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113717",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113718",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113723",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113724",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113736",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113737",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113755",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113757",
+        "name": "DEADPOOL: DRACULA'S GAUNTLET 7",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19070/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50934",
+        "name": "Deadpool: Dracula's Gauntlet (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50935",
+        "name": "Deadpool: Dracula's Gauntlet (2014) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50937",
+        "name": "Deadpool: Dracula's Gauntlet (2014) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50938",
+        "name": "Deadpool: Dracula's Gauntlet (2014) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50939",
+        "name": "Deadpool: Dracula's Gauntlet (2014) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50940",
+        "name": "Deadpool: Dracula's Gauntlet (2014) #7"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19070/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 21443,
+  "title": "Mythos: X-Men (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21443",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21443/mythos_x-men_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "",
+  "type": "",
+  "modified": "2015-12-10T15:26:28-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/60/5669dfeb2874e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21443/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/55",
+        "name": "Paul Jenkins",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+        "name": "Paolo Rivera",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21443/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+        "name": "Iceman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009327",
+        "name": "Jean Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21443/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4058",
+        "name": "Cover #4058",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4059",
+        "name": "Interior #4059",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21443/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3355",
+        "name": "Mythos: X-Men (2006) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21443/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

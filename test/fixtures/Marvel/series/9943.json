@@ -1,0 +1,198 @@
+{
+  "id": 9943,
+  "title": "Strange Tales II (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9943",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9943/strange_tales_ii_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2010-12-17T16:37:27-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c44ccb09982b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 25,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9943/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10332",
+        "name": "Kate Beaton",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10757",
+        "name": "JEFFREY D. BROWN",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9183",
+        "name": "Nicholas Gurewitch",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6002",
+        "name": "Tim Hamilton",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4282",
+        "name": "Dean Haspiel",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10334",
+        "name": "Gilbert Hernandez",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5136",
+        "name": "Paul Hornschemeier",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11259",
+        "name": "KEVIN HUIZENGA",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10759",
+        "name": "Jeff Lemire",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11253",
+        "name": "HARVEY PEKAR",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11071",
+        "name": "SCOTT RICHARDSON",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4545",
+        "name": "Wayne Robinson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11261",
+        "name": "FRANK SANTORO",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9555",
+        "name": "Toby Cypress",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10756",
+        "name": "RAFAEL ALEXANDRE CLAUDINO DIAS",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10336",
+        "name": "Jaime Hernandez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/256",
+        "name": "Terry Moore",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8324",
+        "name": "Dash Shaw",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5133",
+        "name": "Farel Dalrymple",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11396",
+        "name": "Rafael Grampa",
+        "role": "penciler"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9943/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9943/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69234",
+        "name": "Cover #69234",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69235",
+        "name": "Interior #69235",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69236",
+        "name": "Cover From Strange Tales II (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69237",
+        "name": "Interior From Strange Tales II (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69382",
+        "name": "Cover #69382",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69383",
+        "name": "Interior #69383",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9943/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30278",
+        "name": "Strange Tales II (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30204",
+        "name": "Strange Tales II (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30205",
+        "name": "Strange Tales II (2010) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9943/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

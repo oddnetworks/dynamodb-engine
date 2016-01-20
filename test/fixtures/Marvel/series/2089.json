@@ -1,0 +1,317 @@
+{
+  "id": 2089,
+  "title": "Vampire Tales (1973 - 1975)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2089",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2089/vampire_tales_1973_-_1975?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1973,
+  "endYear": 1975,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4bad3ba0845aa",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 64,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2089/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3188",
+        "name": "Balcells",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3178",
+        "name": "Bernet",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3187",
+        "name": "Lombardia",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3186",
+        "name": "Vicente Alcazar",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1671",
+        "name": "Mannie Banks",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3182",
+        "name": "Jesus Blasco",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/106",
+        "name": "Bob Brown",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1172",
+        "name": "Tony Dezuniga",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1261",
+        "name": "Tony Dipreta",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1258",
+        "name": "Alfredo Alcala",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2151",
+        "name": "Frank Chiaramonte",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1324",
+        "name": "Carla Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3133",
+        "name": "Gardner F. Fox",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3181",
+        "name": "Jose Antonio Domingo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3183",
+        "name": "Luis Dominguez",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2089/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+        "name": "Blade"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011074",
+        "name": "Lilith"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009454",
+        "name": "Morbius"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011035",
+        "name": "Satana"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 65,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2089/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20367",
+        "name": "Cover #20367",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20368",
+        "name": "[The Creature From the Crystal]",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20369",
+        "name": "To Kill a Werewolf",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20370",
+        "name": "The Vampyre",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20371",
+        "name": "Satan Can Wait",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20372",
+        "name": "Revenge of the Unliving",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20373",
+        "name": "Cover #20373",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20374",
+        "name": "A Taste of Crimson Life:  First Phase:  Fast of Blood",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20375",
+        "name": "A House of Pleasure, The House of Death",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20376",
+        "name": "Second Phase: Temptation",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20377",
+        "name": "Blindspot",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20378",
+        "name": "Third Phase:  Feast of Blood",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20379",
+        "name": "Cover #20379",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20380",
+        "name": "Death Kiss",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20381",
+        "name": "Hobo's Lullaby",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20382",
+        "name": "Cover #20382",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20383",
+        "name": "The Blood Sacrifice of Amanda Saint",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20384",
+        "name": "Witch Hunt",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20385",
+        "name": "Five Claws To Tryphon",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/20386",
+        "name": "[Introducing Satana]",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2089/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11943",
+        "name": "Vampire Tales (1973) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11946",
+        "name": "Vampire Tales (1973) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11947",
+        "name": "Vampire Tales (1973) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11948",
+        "name": "Vampire Tales (1973) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11949",
+        "name": "Vampire Tales (1973) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11950",
+        "name": "Vampire Tales (1973) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11951",
+        "name": "Vampire Tales (1973) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11952",
+        "name": "Vampire Tales (1973) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11953",
+        "name": "Vampire Tales (1973) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11944",
+        "name": "Vampire Tales (1973) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11945",
+        "name": "Vampire Tales (1973) #11"
+      }
+    ],
+    "returned": 11
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2089/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

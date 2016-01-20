@@ -1,0 +1,80 @@
+{
+  "id": 1741,
+  "title": "Essential Man-Thing Vol. 1 (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1741",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1741/essential_man-thing_vol_1_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "PARENTAL ADVISORY",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1741/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/125",
+        "name": "Frank Brunner",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1741/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1741/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7382",
+        "name": "Savage Tales 1, Astonishing Tales 12-13, Adv Into Fear 10-19, Man-Thing 1-14, GS Man-Thing 1-2, Monsters Unleashed 5, 8-9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7383",
+        "name": "Savage Tales 1, Astonishing Tales 12-13, Adv Into Fear 10-19, Man-Thing 1-14, GS Man-Thing 1-2, Monsters Unleashed 5, 8-9",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1741/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5375",
+        "name": "Essential Man-Thing Vol. 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1741/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

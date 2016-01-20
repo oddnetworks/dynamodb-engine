@@ -1,0 +1,192 @@
+{
+  "id": 737,
+  "title": "X-Men: The End - Dreamers & Demons (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/737",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/737/x-men_the_end_-_dreamers_demons_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "Marvel Psr",
+  "type": "",
+  "modified": "2014-04-18T16:28:12-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/737/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/174",
+        "name": "Sean Chen",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/420",
+        "name": "Sandu Florea",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+        "name": "Ian Hannin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+        "name": "Avalon Studio",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/737/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+        "name": "Storm"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/737/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3204",
+        "name": "5 of 6 - Dreamers and Demons",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3205",
+        "name": "5 of 6 - Dreamers and Demons",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3206",
+        "name": "Cover #3206",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3207",
+        "name": "Interior #3207",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3208",
+        "name": "Cover #3208",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3209",
+        "name": "Interior #3209",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3210",
+        "name": "X-Men godfather Chris Claremont writes his take on the closing days of the X-Men, with art by fan-favorite Sean Chen (Wolverine,",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3211",
+        "name": "X-Men godfather Chris Claremont writes his take on the closing days of the X-Men, with art by fan-favorite Sean Chen (Wolverine,",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3212",
+        "name": "\"DREAMERS AND DEMONS\" PART 4 (OF 6) It's the last stand of X-Force as an old foe of the X-teams emerges from the unlikeliest of ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3213",
+        "name": "\"DREAMERS AND DEMONS\" PART 4 (OF 6) It's the last stand of X-Force as an old foe of the X-teams emerges from the unlikeliest of ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3214",
+        "name": "6 of 6 - Dreamers and Demons",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3215",
+        "name": "6 of 6 - Dreamers and Demons",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/737/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/523",
+        "name": "X-Men: The End - Dreamers & Demons (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/763",
+        "name": "X-Men: The End - Dreamers & Demons (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/807",
+        "name": "X-Men: The End - Dreamers & Demons (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/888",
+        "name": "X-Men: The End - Dreamers & Demons (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34",
+        "name": "X-Men: The End - Dreamers & Demons (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1430",
+        "name": "X-Men: The End - Dreamers & Demons (2004) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/737/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,385 @@
+{
+  "id": 787,
+  "title": "Official Handbook of the Marvel Universe (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/787",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/787/official_handbook_of_the_marvel_universe_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4bc682ece6395",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 33,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/787/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/904",
+        "name": "Chris Biggs",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/907",
+        "name": "Heather Buchanan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+        "name": "Ronald Byrd",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/902",
+        "name": "Jeff Christiansen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/919",
+        "name": "Jonathan Coupersmartt",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/909",
+        "name": "Eric Engelhard",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/906",
+        "name": "Mike Fichera",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/903",
+        "name": "Anthony Flamini",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/910",
+        "name": "Jason Godin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/930",
+        "name": "Richard Green",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/888",
+        "name": "Michael Hoskin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/404",
+        "name": "Dick Giordano",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+        "name": "Tom Grummett",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+        "name": "Morry Hollowell",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/490",
+        "name": "Pat Lee",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/557",
+        "name": "James Calafiore",
+        "role": "penciller"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/787/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009156",
+        "name": "Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+        "name": "Blink"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+        "name": "Gambit"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009349",
+        "name": "Holocaust (Age of Apocalypse)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+        "name": "Magneto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+        "name": "Mister Sinister"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+        "name": "Rogue"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010969",
+        "name": "Sabretooth (Age of Apocalypse)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010975",
+        "name": "Shadowcat (Age of Apocalypse)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010976",
+        "name": "Silver Samurai (Age of Apocalypse)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010979",
+        "name": "Storm (Age of Apocalypse)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009636",
+        "name": "Sunfire"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 14
+  },
+  "stories": {
+    "available": 36,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/787/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3425",
+        "name": "Cover #3425",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3426",
+        "name": "Interior #3426",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3588",
+        "name": "Cover #3588",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3589",
+        "name": "Interior #3589",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3592",
+        "name": "Cover #3592",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3593",
+        "name": "Interior #3593",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3866",
+        "name": "Cover #3866",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3867",
+        "name": "Interior #3867",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4042",
+        "name": "Whatever happened to Turk? Just how many times HAS Elektra died and come back to life? And who the heck is Mike Murdock?! Find o",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4043",
+        "name": "Whatever happened to Turk? Just how many times HAS Elektra died and come back to life? And who the heck is Mike Murdock?! Find o",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4044",
+        "name": "The Mighty Marvel Handbook collides with everyone’s favorite mutant!  Featuring the most comprehensive profile of Wolverine ever",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4045",
+        "name": "The Mighty Marvel Handbook collides with everyone’s favorite mutant!  Featuring the most comprehensive profile of Wolverine ever",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4153",
+        "name": "Cover #4153",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4154",
+        "name": "Interior #4154",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4223",
+        "name": "Cover #4223",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4224",
+        "name": "Interior #4224",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4225",
+        "name": "Cover #4225",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4226",
+        "name": "Interior #4226",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4416",
+        "name": "Cover #4416",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4417",
+        "name": "Interior #4417",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/787/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/621",
+        "name": "Official Handbook of the Marvel Universe (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/700",
+        "name": "Official Handbook of the Marvel Universe (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/611",
+        "name": "Official Handbook of the Marvel Universe (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/565",
+        "name": "Official Handbook of the Marvel Universe (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/854",
+        "name": "Official Handbook of the Marvel Universe (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/863",
+        "name": "Official Handbook of the Marvel Universe (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/89",
+        "name": "Official Handbook of the Marvel Universe (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1489",
+        "name": "Official Handbook of the Marvel Universe (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1590",
+        "name": "Official Handbook of the Marvel Universe (2004) #9 (THE WOMEN OF MARVEL)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1689",
+        "name": "Official Handbook of the Marvel Universe (2004) #10 (MARVEL KNIGHTS)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1749",
+        "name": "Official Handbook of the Marvel Universe (2004) #11 (X-MEN - AGE OF APOCALYPSE)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1886",
+        "name": "Official Handbook of the Marvel Universe (2004) #12 (SPIDER-MAN)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1994",
+        "name": "Official Handbook of the Marvel Universe (2004) #13 (TEAMS)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2088",
+        "name": "Official Handbook of the Marvel Universe (2004) #14 (FANTASTIC FOUR)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2191",
+        "name": "Official Handbook of the Marvel Universe (2004) #15 (AVENGERS)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2441",
+        "name": "Official Handbook of the Marvel Universe (2004) #16 (ALTERNATE UNIVERSES)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2442",
+        "name": "Official Handbook of the Marvel Universe (2004) #17 (HORROR)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3008",
+        "name": "Official Handbook of the Marvel Universe (2004) #18 (X-MEN)"
+      }
+    ],
+    "returned": 18
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/787/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

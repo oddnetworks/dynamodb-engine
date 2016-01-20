@@ -1,0 +1,309 @@
+{
+  "id": 1683,
+  "title": "Marvel Masterworks: Ant-Man/Giant-Man Vol. (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1683",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1683/marvel_masterworks_ant-mangiant-man_vol_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/c0/4bc5f9a6cd4d8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 38,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1683/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+        "name": "Dick Ayers",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1089",
+        "name": "Sol Brodsky",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+        "name": "Vince Colletta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+        "name": "Mike Esposito",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1549",
+        "name": "Matt Fox",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1643",
+        "name": "John Giunta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1289",
+        "name": "Robert Bernstein",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1722",
+        "name": "Ernest Hart",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1287",
+        "name": "Al Hartley",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/408",
+        "name": "Carl Burgos",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1530",
+        "name": "Bob Forgione",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/305",
+        "name": "Don Heck",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+        "name": "Gil Kane",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1541",
+        "name": "John Duffy",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1544",
+        "name": "Ray Holloway",
+        "role": "letterer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1683/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010371",
+        "name": "Boomerang"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009234",
+        "name": "Chameleon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009379",
+        "name": "Rick Jones"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011062",
+        "name": "Stranger"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009660",
+        "name": "The Stranger"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+        "name": "Wasp"
+      }
+    ],
+    "returned": 12
+  },
+  "stories": {
+    "available": 122,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1683/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12092",
+        "name": "Cover #12092",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12093",
+        "name": "*The Man In The Ant Hill",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12094",
+        "name": "Trouble Bubble",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12095",
+        "name": "Mirror, Mirror, On The Wall...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12096",
+        "name": "The Talking Horse",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12097",
+        "name": "Dead Planet",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12140",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12141",
+        "name": "The Return of the Ant-Man",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12142",
+        "name": "The Doorway to Nowhere",
+        "type": "mystery story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12143",
+        "name": "The Thing From Outer Space",
+        "type": "mystery story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12144",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12145",
+        "name": "The Challenge of Comrade X",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12146",
+        "name": "The Hands of Time",
+        "type": "mystery story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12147",
+        "name": "The Search for Pan",
+        "type": "mystery story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12148",
+        "name": "Cover #12148",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12149",
+        "name": "Trapped by the Protector",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12150",
+        "name": "Afraid to Dream",
+        "type": "mystery story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12151",
+        "name": "The Star Raiders",
+        "type": "mystery story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12152",
+        "name": "Cover #12152",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/12153",
+        "name": "Betrayed by the Ants",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1683/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3965",
+        "name": "Marvel Masterworks: Ant-Man/Giant-Man Vol. (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1683/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

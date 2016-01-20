@@ -1,0 +1,165 @@
+{
+  "id": 2418,
+  "title": "World War Hulk: X-Men (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2418",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2418/world_war_hulk_x-men_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "Rated a",
+  "type": "",
+  "modified": "2013-04-09T13:39:10-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/40/516451bda6691",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2418/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+        "name": "Ed McGuinness",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/475",
+        "name": "Laura Villari",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/474",
+        "name": "Andrea Di Vito",
+        "role": "penciller"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2418/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+        "name": "Iceman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+        "name": "Nightcrawler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+        "name": "Rogue"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 9
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2418/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32450",
+        "name": "World War Hulk: X-Men (2007) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32451",
+        "name": "3XLS 1 of 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32671",
+        "name": "World War Hulk: X-Men (2007) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32672",
+        "name": "3XLS 2 of 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33056",
+        "name": "World War Hulk: X-Men (2007) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33057",
+        "name": "3XLS 3 of 3",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2418/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15889",
+        "name": "World War Hulk: X-Men (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15999",
+        "name": "World War Hulk: X-Men (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16183",
+        "name": "World War Hulk: X-Men (2007) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2418/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/277",
+        "name": "World War Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

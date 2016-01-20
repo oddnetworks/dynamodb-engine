@@ -1,0 +1,150 @@
+{
+  "id": 9783,
+  "title": "Avengers Assemble Handbook (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9783",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9783/avengers_assemble_handbook_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2013-06-27T11:05:06-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4baa849ed10a8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9783/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/904",
+        "name": "Chris Biggs",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+        "name": "Ronald Byrd",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1067",
+        "name": "Madison Carter",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/902",
+        "name": "Jeff Christiansen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10027",
+        "name": "Kevin Garcia",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/888",
+        "name": "Michael Hoskin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9337",
+        "name": "Rob London",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/897",
+        "name": "Sean McQuaid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10322",
+        "name": "Mike O Sullivan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10323",
+        "name": "MARKUS RAYMOND",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5640",
+        "name": "Jacob Rougemont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7235",
+        "name": "GABRIEL SHECHTER",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+        "name": "Morry Hollowell",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+        "name": "Mike McKone",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/685",
+        "name": "Gus Vazquez",
+        "role": "penciller"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9783/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9783/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63709",
+        "name": "Cover #63709",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63710",
+        "name": "Interior #63710",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75238",
+        "name": "Cover #75238",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9783/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29271",
+        "name": "Avengers Assemble Handbook (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9783/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

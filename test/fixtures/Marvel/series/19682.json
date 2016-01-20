@@ -1,0 +1,135 @@
+{
+  "id": 19682,
+  "title": "Spider-Man: Big Time - The Complete Collection (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19682",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19682/spider-man_big_time_-_the_complete_collection_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-01-22T11:07:36-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19682/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1406",
+        "name": "Kano",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+        "name": "Stefano Caselli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/637",
+        "name": "Matthew Clark",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10125",
+        "name": "Emma Rios",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11863",
+        "name": "BRIAN DEAN CLEVINGER",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/918",
+        "name": "Ty Templeton",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/646",
+        "name": "Rob Williams",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/663",
+        "name": "Shane Davis",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 13
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19682/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19682/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116719",
+        "name": "cover from Spider-Man: Big Time - The Complete Collection (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116720",
+        "name": "story from Spider-Man: Big Time - The Complete Collection (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19682/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52571",
+        "name": "Spider-Man: Big Time - The Complete Collection (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19682/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

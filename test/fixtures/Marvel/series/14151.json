@@ -1,0 +1,159 @@
+{
+  "id": 14151,
+  "title": "Fear Itself: Uncanny X-Force (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14151",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14151/fear_itself_uncanny_x-force_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-19T15:50:33-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/d0/550b27576ff81",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14151/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/753",
+        "name": "John Lucas",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5003",
+        "name": "Simone Peruzzi",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+        "name": "Joe Sabino",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/646",
+        "name": "Rob Williams",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14151/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+        "name": "Deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011207",
+        "name": "Purifiers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009572",
+        "name": "Serpent Society"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009724",
+        "name": "X-Force"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14151/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88527",
+        "name": "Fear Itself: Uncanny X-Force (2011) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88528",
+        "name": "Fear Itself: Uncanny X-Force #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88529",
+        "name": "Cover #88529",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88530",
+        "name": "Interior #88530",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88531",
+        "name": "Cover #88531",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88532",
+        "name": "Interior #88532",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14151/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39003",
+        "name": "Fear Itself: Uncanny X-Force (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39004",
+        "name": "Fear Itself: Uncanny X-Force (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39002",
+        "name": "Fear Itself: Uncanny X-Force (2011) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14151/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

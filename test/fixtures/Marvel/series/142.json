@@ -1,0 +1,279 @@
+{
+  "id": 142,
+  "title": "X-Treme X-Men Vol. I (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/142",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/142/x-treme_x-men_vol_i_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/4bc668754268a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/142/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4146",
+        "name": "Frank Dunkerley",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4131",
+        "name": "Matt Hicks",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4009",
+        "name": "Andrew Lis",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+        "name": "Mark Powers",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/409",
+        "name": "Liquid Graphics",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4566",
+        "name": "Joe Weems",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+        "name": "Tom Orzechowski",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+        "name": "Carlos Pacheco",
+        "role": "penciller"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/142/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+        "name": "Banshee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009182",
+        "name": "Bishop"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+        "name": "Destiny"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009313",
+        "name": "Gambit"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009315",
+        "name": "Gateway"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+        "name": "Iceman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009401",
+        "name": "Lifeguard"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+        "name": "Nightcrawler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009512",
+        "name": "Psylocke"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009546",
+        "name": "Rogue"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+        "name": "Storm"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009667",
+        "name": "Thunderbird (Neal Shaara)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009690",
+        "name": "Vargas"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 17
+  },
+  "stories": {
+    "available": 27,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/142/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30525",
+        "name": "Now, It Begins !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30526",
+        "name": "Now, It Begins !",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30527",
+        "name": "Claremont Gets X-Treme !",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30528",
+        "name": "Salvador Larroca Sketchbook",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30529",
+        "name": "What's To Come...",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30555",
+        "name": "Blindside !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30556",
+        "name": "Blindside",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30557",
+        "name": "Covers for X-Treme X-Men #2",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30558",
+        "name": "What's To Come...",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30579",
+        "name": "Hell To Pay",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30580",
+        "name": "Hell To Pay !",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30581",
+        "name": "What's To Come...",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30599",
+        "name": "Dreamtime Serenade",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30600",
+        "name": "Dreamtime Serenade",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30607",
+        "name": "Deadline",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30608",
+        "name": "Deadline !",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30609",
+        "name": "Cover #30609",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30610",
+        "name": "Paradise Lost !",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30611",
+        "name": "Cover #30611",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30612",
+        "name": "Getting Even !",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/142/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1082",
+        "name": "X-Treme X-Men Vol. I (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/142/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

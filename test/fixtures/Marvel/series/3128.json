@@ -1,0 +1,135 @@
+{
+  "id": 3128,
+  "title": "Punisher War Journal Vol. 2: Goin' Out West Premiere (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3128",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3128/punisher_war_journal_vol_2_goin_out_west_premiere_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4bc38c5220765",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3128/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5179",
+        "name": "Seth Biederman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1132",
+        "name": "Matt Fraction",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+        "name": "Leandro Fernandez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "penciller"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3128/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3128/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8320",
+        "name": "2 of 5 - Punisher/Cap",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8672",
+        "name": "3 of 5 - Punisher/Cap; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8674",
+        "name": "3 of 5 - Punisher/Cap; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32372",
+        "name": "4 of 5 - Punisher/Cap; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32599",
+        "name": "4 of 5 - Punisher/Cap; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32981",
+        "name": "5 of 5 - Punisher/Cap; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33298",
+        "name": "Jay's Story 1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36317",
+        "name": "Punisher War Journal 5-9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36318",
+        "name": "Punisher War Journal 5-9",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3128/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17326",
+        "name": "Punisher War Journal Vol. 2: Goin' Out West Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3128/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,418 @@
+{
+  "id": 693,
+  "title": "Cable & Deadpool (2004 - 2008)",
+  "description": "The Odd Couple of the Marvel Universe, Cable is a soldier from the future, fighting for peace today while Deadpool is the wisecracking, gun-for-hire by-product of the military's Weapon X program. Sparks fly when this oddest of all couples kicks butts and takes names throughout the Marvel Universe.",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/693",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/693/cable_deadpool_2004_-_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2008,
+  "rating": "T",
+  "type": "",
+  "modified": "2013-03-01T13:38:57-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5130f55939e73",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/693/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11854",
+        "name": "Nicole Boose",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8924",
+        "name": "Lauren Sankovitch",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/665",
+        "name": "Reilly Brown",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/338",
+        "name": "Staz Johnson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/437",
+        "name": "Lan Medina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/666",
+        "name": "Roberto Campus",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8018",
+        "name": "Amanda Conner",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/663",
+        "name": "Shane Davis",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+        "name": "Rob Liefeld",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6588",
+        "name": "David Ross",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+        "name": "Udon Comics",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/668",
+        "name": "Jeremy Freeman",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/570",
+        "name": "Klaus Janson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/480",
+        "name": "Cam Smith",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+        "name": "Avalon Studio",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/457",
+        "name": "Gotham Entertainment Group",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/693/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011031",
+        "name": "Agent X (Nijo)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011119",
+        "name": "Bob, Agent of Hydra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+        "name": "Cable"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+        "name": "Deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+        "name": "Domino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009537",
+        "name": "Rhino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+        "name": "Storm"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+        "name": "Taskmaster"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 18
+  },
+  "stories": {
+    "available": 104,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/693/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1618",
+        "name": "Cover #1618",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1619",
+        "name": "Interior #1619",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2464",
+        "name": "3 of 6 - The Passion of the Cable",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2465",
+        "name": "3 of 6 - The Passion of the Cable",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2466",
+        "name": "Cover #2466",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2467",
+        "name": "Interior #2467",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2468",
+        "name": "Cover #2468",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2469",
+        "name": "Interior #2469",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2470",
+        "name": "Cover #2470",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2471",
+        "name": "Interior #2471",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2472",
+        "name": "Cover #2472",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2473",
+        "name": "Interior #2473",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2474",
+        "name": "Cover #2474",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2475",
+        "name": "Interior #2475",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2476",
+        "name": "Cover #2476",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2477",
+        "name": "Interior #2477",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2478",
+        "name": "Cover #2478",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2479",
+        "name": "Interior #2479",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2480",
+        "name": "4 of 6 - The Passion of the Cable",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2481",
+        "name": "4 of 6 - The Passion of the Cable",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 51,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/693/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/430",
+        "name": "Cable & Deadpool (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/479",
+        "name": "Cable & Deadpool (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/644",
+        "name": "Cable & Deadpool (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/706",
+        "name": "Cable & Deadpool (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/548",
+        "name": "Cable & Deadpool (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/512",
+        "name": "Cable & Deadpool (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/832",
+        "name": "Cable & Deadpool (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/903",
+        "name": "Cable & Deadpool (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/69",
+        "name": "Cable & Deadpool (2004) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1467",
+        "name": "Cable & Deadpool (2004) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1560",
+        "name": "Cable & Deadpool (2004) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1649",
+        "name": "Cable & Deadpool (2004) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1793",
+        "name": "Cable & Deadpool (2004) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1899",
+        "name": "Cable & Deadpool (2004) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1999",
+        "name": "Cable & Deadpool (2004) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2106",
+        "name": "Cable & Deadpool (2004) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2213",
+        "name": "Cable & Deadpool (2004) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2330",
+        "name": "Cable & Deadpool (2004) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2832",
+        "name": "Cable & Deadpool (2004) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2537",
+        "name": "Cable & Deadpool (2004) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/693/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "name": "House of M"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

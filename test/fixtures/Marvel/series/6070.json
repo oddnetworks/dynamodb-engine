@@ -1,0 +1,130 @@
+{
+  "id": 6070,
+  "title": "Giant Size Fantastic Four (1974 - 1975)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6070",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6070/giant_size_fantastic_four_1974_-_1975?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1974,
+  "endYear": 1975,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T14:34:46-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/4bb69358c3934",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6070/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6070/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6070/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50558",
+        "name": "Cover #50558",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50559",
+        "name": "Interior #50559",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50560",
+        "name": "Cover #50560",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50561",
+        "name": "Interior #50561",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50562",
+        "name": "Cover #50562",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50563",
+        "name": "Interior #50563",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50564",
+        "name": "Cover #50564",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50565",
+        "name": "Interior #50565",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50566",
+        "name": "Cover #50566",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50567",
+        "name": "Interior #50567",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6070/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22449",
+        "name": "Giant Size Fantastic Four (1974) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22450",
+        "name": "Giant Size Fantastic Four (1974) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22451",
+        "name": "Giant Size Fantastic Four (1974) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22452",
+        "name": "Giant Size Fantastic Four (1974) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22453",
+        "name": "Giant Size Fantastic Four (1974) #6"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6070/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

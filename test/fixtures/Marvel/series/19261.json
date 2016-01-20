@@ -1,0 +1,80 @@
+{
+  "id": 19261,
+  "title": "All-New X-Men Vol. 7: The Utopians (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19261",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19261/all-new_x-men_vol_7_the_utopians_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-07-13T11:28:41-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/00/55a3d905e3b1d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19261/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+        "name": "Mahmud Asrar",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19261/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19261/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114145",
+        "name": "cover from All-New X-Men (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114146",
+        "name": "story from All-New X-Men (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19261/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51284",
+        "name": "All-New X-Men Vol. 7: The Utopians (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19261/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

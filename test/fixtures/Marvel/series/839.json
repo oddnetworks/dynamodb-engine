@@ -1,0 +1,187 @@
+{
+  "id": 839,
+  "title": "New Warriors (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/839",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/839/new_warriors_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T",
+  "type": "",
+  "modified": "2015-01-08T11:37:11-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc636bf54332",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/839/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/839/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010717",
+        "name": "Debrii"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010690",
+        "name": "Microbe"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009469",
+        "name": "Namorita"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010683",
+        "name": "New Warriors"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010684",
+        "name": "Night Thrasher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009477",
+        "name": "Nova"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009493",
+        "name": "Penance (Robert Baldwin)"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/839/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4314",
+        "name": "1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4315",
+        "name": "1 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4316",
+        "name": "2 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4317",
+        "name": "2 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4318",
+        "name": "3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4319",
+        "name": "3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4320",
+        "name": "4 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4321",
+        "name": "4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4322",
+        "name": "5 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4323",
+        "name": "5 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4324",
+        "name": "6 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4325",
+        "name": "6 of 6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/839/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2072",
+        "name": "New Warriors (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2180",
+        "name": "New Warriors (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2300",
+        "name": "New Warriors (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2408",
+        "name": "New Warriors (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3000",
+        "name": "New Warriors (2005) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3119",
+        "name": "New Warriors (2005) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/839/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/16341",
+    "name": "New Warriors (1990 - 1996)"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "id": 13996,
+  "title": "Spider-Man: Big Time (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13996",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13996/spider-man_big_time_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "A",
+  "type": "limited",
+  "modified": "2011-06-01T11:22:55-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13996/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1117",
+        "name": "Javier Rodriguez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+        "name": "Todd Dezago",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/626",
+        "name": "Dan Slott",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/91",
+        "name": "Frank Tieri",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/935",
+        "name": "Todd Nauck",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2985",
+        "name": "Javier Pulido",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7413",
+        "name": "PAULO SIQUEIRA",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13996/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13996/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85516",
+        "name": "Spider-Man: Big Time #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85517",
+        "name": "Spider-Man: Big Time #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88555",
+        "name": "Spider-Man: Big Time #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88556",
+        "name": "Spider-Man: Big Time #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88557",
+        "name": "The Final Lesson",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88558",
+        "name": "Spider-Man: Big Time #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88886",
+        "name": "Interior: Spider-Man: Big Time (2010) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88887",
+        "name": "Interior: Spider-Man: Big Time (2010) #7",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89176",
+        "name": "Spider-Man: Big Time #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89177",
+        "name": "Spider-Man: Big Time #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89188",
+        "name": "Spider-Man: Big Time #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89277",
+        "name": "Spider-Man: Big Time #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89278",
+        "name": "Spider-Man: Big Time #5 ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92841",
+        "name": "Spider-Man: Big Time #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93010",
+        "name": "Spider-Man: Big Time #9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93130",
+        "name": "Spider-Man: Big Time #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93131",
+        "name": "Spider-Man: Big Time #10",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93225",
+        "name": "Spider-Man: Big Time #11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93226",
+        "name": "Spider-Man: Big Time #11",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93979",
+        "name": "Spider-Man: Big Time #12",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13996/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38799",
+        "name": "Spider-Man: Big Time (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38801",
+        "name": "Spider-Man: Big Time (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38802",
+        "name": "Spider-Man: Big Time (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38803",
+        "name": "Spider-Man: Big Time (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38804",
+        "name": "Spider-Man: Big Time (2010) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38805",
+        "name": "Spider-Man: Big Time (2010) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38806",
+        "name": "Spider-Man: Big Time (2010) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38807",
+        "name": "Spider-Man: Big Time (2010) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41072",
+        "name": "Spider-Man: Big Time (2010) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41073",
+        "name": "Spider-Man: Big Time (2010) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41074",
+        "name": "Spider-Man: Big Time (2010) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41075",
+        "name": "Spider-Man: Big Time (2010) #12"
+      }
+    ],
+    "returned": 12
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13996/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

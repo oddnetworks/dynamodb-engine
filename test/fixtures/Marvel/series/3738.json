@@ -1,0 +1,172 @@
+{
+  "id": 3738,
+  "title": "Firestar (1986)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3738",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3738/firestar_1986?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1986,
+  "endYear": 1986,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/b0/4c365f5773b1f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3738/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1322",
+        "name": "Mary Wilshire",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11419",
+        "name": "Barry Windsor-Smith",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3632",
+        "name": "Lois Buhalis",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+        "name": "Tom Orzechowski",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6798",
+        "name": "Daina Graziunas",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1315",
+        "name": "Steve Leialoha",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+        "name": "Bill Sienkiewicz",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2030",
+        "name": "Bob Wiacek",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+        "name": "Ann Nocenti",
+        "role": "editor"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3738/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009306",
+        "name": "Firestar"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3738/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42946",
+        "name": "Cover #42946",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42947",
+        "name": "Mark of the Mutant!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42948",
+        "name": "Cover #42948",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42949",
+        "name": "The Players and the Pawn!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42950",
+        "name": "Cover #42950",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42951",
+        "name": "This Lady Kills!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42952",
+        "name": "Cover #42952",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42953",
+        "name": "Now Strikes the Assassin!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3738/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20048",
+        "name": "Firestar (1986) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20049",
+        "name": "Firestar (1986) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20050",
+        "name": "Firestar (1986) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20051",
+        "name": "Firestar (1986) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3738/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

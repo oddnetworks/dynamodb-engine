@@ -1,0 +1,373 @@
+{
+  "id": 13440,
+  "title": "FF (2010 - 2012)",
+  "description": "A bold new direction for Marvel's First Family featuring new members, old friends, older enemies and uneasy alliances that will send shockwaves through the Marvel Universe.  ",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13440",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13440/ff_2010_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2012,
+  "rating": "T+",
+  "type": "ongoing",
+  "modified": "2013-03-08T16:13:11-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/03/513a540366f68",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 32,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13440/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "Colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+        "name": "Daniel Acuna",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1052",
+        "name": "Mike Choi",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/962",
+        "name": "Stan Goldberg",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+        "name": "Greg Horn",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4994",
+        "name": "Kalman Andrasofszky",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/239",
+        "name": "Juan Bobillo",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1298",
+        "name": "June Brigman",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1141",
+        "name": "Giuseppe Camuncoli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1064",
+        "name": "Nick Dragotta",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10851",
+        "name": "MICHAEL HYUN-MIN CHOI",
+        "role": "Penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10713",
+        "name": "NICK DRAGOTTA",
+        "role": "Penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+        "name": "Clayton Cowles",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "Letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+        "name": "Steve Epting",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13440/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009184",
+        "name": "Black Bolt"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+        "name": "Inhumans"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010344",
+        "name": "Ronan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      }
+    ],
+    "returned": 9
+  },
+  "stories": {
+    "available": 89,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13440/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82789",
+        "name": "Cover #82789",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82790",
+        "name": "Interior #82790",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82793",
+        "name": "Cover #82793",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82794",
+        "name": "Interior #82794",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82795",
+        "name": "Ff (2010) #1 ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82796",
+        "name": "Interior #82796  ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82799",
+        "name": "Cover #82799",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82800",
+        "name": "Interior #82800",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82801",
+        "name": "Cover #82801",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82802",
+        "name": "Interior #82802",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82803",
+        "name": "FF #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82804",
+        "name": "Interior #82804",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82805",
+        "name": "FF #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82806",
+        "name": "FF #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82807",
+        "name": "Cover #82807",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82808",
+        "name": "Interior #82808",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84649",
+        "name": "Cover #84649",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84650",
+        "name": "Interior #84650",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84976",
+        "name": "Cover #84976",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/84977",
+        "name": "Interior #84977",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 46,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13440/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37398",
+        "name": "FF (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38554",
+        "name": "FF (2010) #1 (CHARACTER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38557",
+        "name": "FF (2010) #1 (PREMIERE VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38558",
+        "name": "FF (2010) #1 (Acuna Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38551",
+        "name": "FF (2010) #1 (BLANK COVER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39250",
+        "name": "FF (2010) #1 (Djurdjevic Gatefold Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38407",
+        "name": "FF (2010) #1 (FF ANNIVERSARY VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39985",
+        "name": "FF (2010) #1 (2nd Printing Mcguinness Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38556",
+        "name": "FF (2010) #1 (GOLDBERG VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37400",
+        "name": "FF (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38553",
+        "name": "FF (2010) #2 (CHARACTER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38704",
+        "name": "FF (2010) #2 (THOR HOLLYWOOD VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41492",
+        "name": "FF (2010) #2 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37404",
+        "name": "FF (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39230",
+        "name": "FF (2010) #3 (X-Men Art Variant   )"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38552",
+        "name": "FF (2010) #3 (CHARACTER VARIANT )"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41491",
+        "name": "FF (2010) #3 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37403",
+        "name": "FF (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38555",
+        "name": "FF (2010) #4 (CHARACTER VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41493",
+        "name": "FF (2010) #4 (2nd Printing Variant)"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13440/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

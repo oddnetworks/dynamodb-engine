@@ -1,0 +1,105 @@
+{
+  "id": 19826,
+  "title": "Black Panther by Christopher Priest: The Complete Collection Vol. 2 (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19826",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19826/black_panther_by_christopher_priest_the_complete_collection_vol_2_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-12-07T13:50:34-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19826/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1341",
+        "name": "Norm Breyfogle",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/211",
+        "name": "Mark Bright",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5268",
+        "name": "Jim Calafiore",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1421",
+        "name": "Tomm Coker",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/189",
+        "name": "Kyle Hotz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/960",
+        "name": "Sal Velluto",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/110",
+        "name": "Christopher Priest",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19826/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19826/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117589",
+        "name": "cover from Black Panther by Christopher Priest: The Complete Collection (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117590",
+        "name": "story from Black Panther by Christopher Priest: The Complete Collection (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19826/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52998",
+        "name": "Black Panther by Christopher Priest: The Complete Collection Vol. 2 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19826/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

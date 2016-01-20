@@ -1,0 +1,160 @@
+{
+  "id": 3092,
+  "title": "Marvel Legacy: The 1960s-1990s Handbook (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3092",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3092/marvel_legacy_the_1960s-1990s_handbook_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/4bc39090c9592",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3092/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1072",
+        "name": "Chad Anderson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/904",
+        "name": "Chris Biggs",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+        "name": "Ronald Byrd",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1067",
+        "name": "Madison Carter",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/902",
+        "name": "Jeff Christiansen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/909",
+        "name": "Eric Engelhard",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/906",
+        "name": "Mike Fichera",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/903",
+        "name": "Anthony Flamini",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/930",
+        "name": "Richard Green",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/888",
+        "name": "Michael Hoskin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/897",
+        "name": "Sean McQuaid",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/394",
+        "name": "Eric J. Moreels",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/899",
+        "name": "Mark OEnglish",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/900",
+        "name": "Barry Reese",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5640",
+        "name": "Jacob Rougemont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/905",
+        "name": "Al Sjoerdsma",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/896",
+        "name": "Stuart Vandal",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 18
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3092/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3092/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36250",
+        "name": "Marvel Legacy: The 1960s, The 1970s, The 1980s, The 1990s Handbooks",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36251",
+        "name": "Marvel Legacy: The 1960s, The 1970s, The 1980s, The 1990s Handbooks",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3092/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17298",
+        "name": "Marvel Legacy: The 1960s-1990s Handbook (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3092/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

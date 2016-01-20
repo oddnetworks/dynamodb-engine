@@ -1,0 +1,122 @@
+{
+  "id": 13046,
+  "title": "Captain America: The Fighting Avenger (2010 - 2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13046",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13046/captain_america_the_fighting_avenger_2010_-_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-04-07T16:59:11-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c3e1e04e512e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13046/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/322",
+        "name": "Gurihiru",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11863",
+        "name": "BRIAN DEAN CLEVINGER",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+        "name": "Barry Kitson",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13046/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+        "name": "Red Skull"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13046/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85355",
+        "name": "Captain America: The Fighting Avenger (2010) #1, Gurihiru Cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/85356",
+        "name": "Captain America: The Fighting Avenger (2010) #1, Gurihiru Cove",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88559",
+        "name": "Captain America: Fighting Avenger (2010) #1, Kitson Cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88560",
+        "name": "Captain America: Fighting Avenger (2010) #1, Kitson Cover",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88725",
+        "name": "Captain America: The Fighting Avenger #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88726",
+        "name": "Interior: Captain America: Fighting Avenger (2010) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13046/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39094",
+        "name": "Captain America: The Fighting Avenger (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38896",
+        "name": "Captain America: The Fighting Avenger (2010) #1 (Gurihiru Cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39015",
+        "name": "Captain America: The Fighting Avenger (2010) #1 (Kitson Cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13046/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

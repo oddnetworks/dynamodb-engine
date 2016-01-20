@@ -1,0 +1,90 @@
+{
+  "id": 11291,
+  "title": "Shadowland: Elektra (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/11291",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/11291/shadowland_elektra_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/4c0fc123a0ebf",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11291/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10125",
+        "name": "Emma Rios",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1113",
+        "name": "Sana Takeda",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11291/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11291/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75446",
+        "name": "Cover #75446",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75447",
+        "name": "Interior #75447",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11291/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33587",
+        "name": "Shadowland: Elektra (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11291/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/59",
+        "name": "Shadowland"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

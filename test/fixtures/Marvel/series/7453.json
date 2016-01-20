@@ -1,0 +1,113 @@
+{
+  "id": 7453,
+  "title": "X-Men Forever Alpha (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7453",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7453/x-men_forever_alpha_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bb52c24c258a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7453/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7553",
+        "name": "JEPH YORK",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7453/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7453/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53748",
+        "name": "X-Men 1-3; 8-page digital comic",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53749",
+        "name": "X-Men 1-3; 8-page digital comic",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53750",
+        "name": "X-Men 1-3; 8-page digital comic",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53751",
+        "name": "X-Men 1-3; 8-page digital comic",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60321",
+        "name": "Cover #60321",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60322",
+        "name": "Interior #60322",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7453/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24260",
+        "name": "X-Men Forever Alpha (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24261",
+        "name": "X-Men Forever Alpha (2009) #1 ((50/50 COVER))"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27507",
+        "name": "X-Men Forever Alpha (2009) #1 (BOOK MARKET VARIANT)"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7453/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -9,19 +9,15 @@
   },
   "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009250",
   "comics": {
-    "available": 2,
+    "available": 1,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009250/comics",
     "items": [
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13317",
-        "name": "Fantastic Four (1996) #2"
-      },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/5280",
         "name": "Heroes Reborn: Fantastic Four (Trade Paperback)"
       }
     ],
-    "returned": 2
+    "returned": 1
   },
   "series": {
     "available": 2,

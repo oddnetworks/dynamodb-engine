@@ -1,0 +1,228 @@
+{
+  "id": 1346,
+  "title": "Marvel Masterworks: The Fantastic Four Vol. 7 (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1346",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1346/marvel_masterworks_the_fantastic_four_vol_7_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/10/4bc664565112c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1346/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+        "name": "Joe Sinnott",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6631",
+        "name": "L.P. Gregory",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+        "name": "Artie Simek",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "editor"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1346/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+        "name": "Galactus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+        "name": "Inhumans"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009406",
+        "name": "Lockjaw"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010334",
+        "name": "Quasimodo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      }
+    ],
+    "returned": 8
+  },
+  "stories": {
+    "available": 30,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1346/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13416",
+        "name": "Cover #13416",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13417",
+        "name": "Where Stalks the Sandman?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13418",
+        "name": "Cover #13418",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13419",
+        "name": "And One Shall Save Him",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13420",
+        "name": "Cover #13420",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13421",
+        "name": "Blastaar, the Living Bomb-Burst",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13422",
+        "name": "Cover #13422",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13423",
+        "name": "The Sentry Sinister",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13424",
+        "name": "Cover #13424",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13425",
+        "name": "From Beyond This Planet Earth",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13426",
+        "name": "Cover #13426",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13427",
+        "name": "What Lurks Behind the Beehive",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13428",
+        "name": "Cover #13428",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13429",
+        "name": "When Opens the Cocoon",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13430",
+        "name": "Cover #13430",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13431",
+        "name": "His Mission: Destroy the Fantastic Four",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13432",
+        "name": "Cover #13432",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13433",
+        "name": "By Ben Betrayed",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13440",
+        "name": "Cover #13440",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13441",
+        "name": "When Fall the Mighty",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1346/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1335",
+        "name": "Marvel Masterworks: The Fantastic Four Vol. 7 (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1346/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,219 @@
+{
+  "id": 9311,
+  "title": "Girl Comics (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9311",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9311/girl_comics_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/4baa7d9e96703",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 27,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9311/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1298",
+        "name": "June Brigman",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9461",
+        "name": "Stephanie Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8018",
+        "name": "Amanda Conner",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10281",
+        "name": "Nicole Cook",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8253",
+        "name": "Colleen Coover",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10326",
+        "name": "Ming Doyle",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10494",
+        "name": "Agnieszka Garbowska",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10399",
+        "name": "Faith Erin Hicks",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+        "name": "Laura Martin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/619",
+        "name": "Jo Chen",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9155",
+        "name": "Molly Crabapple",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9643",
+        "name": "Valerie d'Orazio",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10320",
+        "name": "Kelly Sue DeConnick",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7857",
+        "name": "ABBY DENSON",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10365",
+        "name": "Robin Furth",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/97",
+        "name": "Devin Grayson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8930",
+        "name": "Lea Hernandez",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5144",
+        "name": "Kathryn Immonen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10328",
+        "name": "Lucy Knisley",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9047",
+        "name": "Marjorie Liu",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9311/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009185",
+        "name": "Black Cat"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009496",
+        "name": "Jean Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+        "name": "Kitty Pryde"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+        "name": "Scarlet Witch"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9311/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69302",
+        "name": "Cover #69302",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69303",
+        "name": "Interior #69303",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69304",
+        "name": "Cover #69304",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69305",
+        "name": "Interior #69305",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69306",
+        "name": "Cover #69306",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/69307",
+        "name": "Interior #69307",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9311/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30238",
+        "name": "Girl Comics (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30239",
+        "name": "Girl Comics (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30240",
+        "name": "Girl Comics (2010) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9311/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

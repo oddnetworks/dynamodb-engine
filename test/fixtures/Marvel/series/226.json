@@ -1,0 +1,236 @@
+{
+  "id": 226,
+  "title": "X-Statix Vol. 2: Good Guys & Bad Guys (2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/226",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/226/x-statix_vol_2_good_guys_bad_guys_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2003,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/4bb79c0d0de0a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/226/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11735",
+        "name": "Laura Allred",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/95",
+        "name": "Mike Allred",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+        "name": "John Miesegaes",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4593",
+        "name": "Warren Simons",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+        "name": "Peter Milligan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1065",
+        "name": "Nate Piekos",
+        "role": "letterer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/226/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011087",
+        "name": "Dead Girl"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009279",
+        "name": "Doop"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009653",
+        "name": "The Anarchist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009693",
+        "name": "Venus Dee Milo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009698",
+        "name": "Vivisector"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010806",
+        "name": "X-Statix"
+      }
+    ],
+    "returned": 10
+  },
+  "stories": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/226/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25963",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25989",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25990",
+        "name": "Good Guy, Bad Guy",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25991",
+        "name": "[Marvel Subscription Form]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25992",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25993",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25994",
+        "name": "It's Official!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25995",
+        "name": "Doop Speak",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25996",
+        "name": "[House Advertisement]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25997",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25998",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25999",
+        "name": "The Dark Dimension",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26000",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26001",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26002",
+        "name": "X-Statix: The Movie",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26003",
+        "name": "Doop Speak",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26004",
+        "name": "[House Advertisement]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26005",
+        "name": "U.S. Postal Service Statement of Ownership, Management and Circulation",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26006",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45083",
+        "name": "Cover #45083",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/226/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1168",
+        "name": "X-Statix Vol. 2: Good Guys & Bad Guys (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/226/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

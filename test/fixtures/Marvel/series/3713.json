@@ -1,0 +1,108 @@
+{
+  "id": 3713,
+  "title": "Marvelous Adventures of Gus Beezer: Spider-Man (2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3713",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3713/marvelous_adventures_of_gus_beezer_spider-man_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2003,
+  "rating": "",
+  "type": "",
+  "modified": "2014-06-18T15:09:48-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/30/4c7d478ab88b8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3713/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6147",
+        "name": "HiFi Colour",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6346",
+        "name": "Jason Lethcoe",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+        "name": "Mike Raicht",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/519",
+        "name": "Gail Simone",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3713/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+        "name": "Norman Osborn"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009692",
+        "name": "Toxin (Eddie Brock)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3713/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41292",
+        "name": "Cover #41292",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41293",
+        "name": "The Amazing Gus Beezer",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3713/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19468",
+        "name": "Marvelous Adventures of Gus Beezer: Spider-Man (2003) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3713/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,160 @@
+{
+  "id": 1486,
+  "title": "Marvel Knights Spider-Man Vol. 4: Wild Blue Yonder (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1486",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1486/marvel_knights_spider-man_vol_4_wild_blue_yonder_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bc615b0841a9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1486/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4266",
+        "name": "Ian Hannin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/521",
+        "name": "Reginald Hudlin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+        "name": "Steve McNiven",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/433",
+        "name": "Jonathan Sibal",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+        "name": "Billy Tan",
+        "role": "penciller"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1486/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1486/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2979",
+        "name": "1 of 5 - Wild Blue Yonder",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2980",
+        "name": "1 of 5 - Wild Blue Yonder",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2981",
+        "name": "2 of 6 - Wild Blue Yonder",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2982",
+        "name": "2 of 6 - Wild Blue Yonder",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2983",
+        "name": "3 of 6 - Wild Blue Yonder",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2984",
+        "name": "3 of 6 - Wild Blue Yonder",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2985",
+        "name": "4 of 6 - Wild Blue Yonder",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2986",
+        "name": "4 of 6 - Wild Blue Yonder",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2987",
+        "name": "5 of 6 - Wild Blue Yonder",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2988",
+        "name": "5 of 6 - Wild Blue Yonder",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2989",
+        "name": "6 of 6 - Wild Blue Yonder",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2990",
+        "name": "6 of 6 - Wild Blue Yonder",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65853",
+        "name": "MARVEL KNIGHTS SPIDER-MAN VOL. 4: WILD BLUE YONDER 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1486/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3022",
+        "name": "Marvel Knights Spider-Man Vol. 4: Wild Blue Yonder (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1486/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,211 @@
+{
+  "id": 6473,
+  "title": "Avengers: First to Last Premiere (2008 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6473",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6473/avengers_first_to_last_premiere_2008_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2099,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "2011-04-29T14:04:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/00/4bb6489a7c7f4",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6473/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8193",
+        "name": "Carrie Beadle",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/887",
+        "name": "Ronald Byrd",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7843",
+        "name": "Todd Klein",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/399",
+        "name": "Jim Novak",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3412",
+        "name": "Marcus McLaurin",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7842",
+        "name": "Nancy Poletti",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "penciler"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6473/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009328",
+        "name": "Grim Reaper"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+        "name": "Kang"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011220",
+        "name": "Mockingbird"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009524",
+        "name": "Quicksilver"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+        "name": "Scarlet Witch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009670",
+        "name": "Tigra (Greer Nelson)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+        "name": "Ultron"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+        "name": "Vision"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+        "name": "Wasp"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009719",
+        "name": "Wonder Man"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6473/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51160",
+        "name": "The Last Avengers Story 1-2; Avengers Classic 1-12",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51161",
+        "name": "The Last Avengers Story 1-2; Avengers Classic 1-12",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52156",
+        "name": "Cover #52156",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52157",
+        "name": "Interior #52157",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52158",
+        "name": "Cover #52158",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52159",
+        "name": "Interior #52159",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6473/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23057",
+        "name": "Avengers: First to Last Premiere (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6473/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

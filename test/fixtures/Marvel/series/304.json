@@ -1,0 +1,194 @@
+{
+  "id": 304,
+  "title": "Marvels 10th Anniversary (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/304",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/304/marvels_10th_anniversary_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc473d2f18f6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/304/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4085",
+        "name": "Starkings w John Gaushell",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1231",
+        "name": "Kurt Busiek",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3412",
+        "name": "Marcus McLaurin",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/63",
+        "name": "Alex Ross",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/304/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010932",
+        "name": "Human Torch (Jim Hammond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011309",
+        "name": "Toro (Thomas Raymond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/304/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/394",
+        "name": "Welcome to New York City. Here, burning figures roam the streets, men in brightly colored costumes scale the glass and concrete ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/395",
+        "name": "Welcome to New York City. Here, burning figures roam the streets, men in brightly colored costumes scale the glass and concrete ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24413",
+        "name": "Cover #24413",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24414",
+        "name": "",
+        "type": "introduction"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24415",
+        "name": "[The Origin of the Human Torch]",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24416",
+        "name": "",
+        "type": "text feature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24417",
+        "name": "Images",
+        "type": "feature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24418",
+        "name": "Cover #24418",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24419",
+        "name": "A Time of Marvels",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24420",
+        "name": "Cover #24420",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24421",
+        "name": "Monsters",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24422",
+        "name": "Cover #24422",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24423",
+        "name": "Judgment Day",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24424",
+        "name": "Cover #24424",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24425",
+        "name": "The Day She Died",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 15
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/304/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1248",
+        "name": "Marvels 10th Anniversary (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/304/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

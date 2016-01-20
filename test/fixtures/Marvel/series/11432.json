@@ -1,0 +1,69 @@
+{
+  "id": 11432,
+  "title": "Punisher: Franken-Castle - The Birth of the Monster (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/11432",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/11432/punisher_franken-castle_-_the_birth_of_the_monster_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/4baa1069d8506",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11432/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11432/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11432/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75506",
+        "name": "Cover #75506",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75507",
+        "name": "Interior #75507",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11432/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33653",
+        "name": "Punisher: Franken-Castle - The Birth of the Monster (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11432/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

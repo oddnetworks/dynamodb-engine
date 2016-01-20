@@ -1,0 +1,90 @@
+{
+  "id": 16455,
+  "title": "Deadpool and Death Annual (1998)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16455",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16455/deadpool_and_death_annual_1998?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1998,
+  "endYear": 1998,
+  "rating": "",
+  "type": "one shot",
+  "modified": "2015-09-21T10:32:19-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/55f310a7447b7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16455/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4039",
+        "name": "Bernard Chang",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4047",
+        "name": "Steven Harris",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2428",
+        "name": "Joe Kelly",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16455/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16455/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/97326",
+        "name": "cover from Deadpool and Death Annual",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/97327",
+        "name": "story from Deadpool and Death Annual",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16455/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43557",
+        "name": "Deadpool and Death Annual (1998) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16455/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

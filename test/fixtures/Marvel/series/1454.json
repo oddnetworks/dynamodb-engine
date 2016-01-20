@@ -1,0 +1,175 @@
+{
+  "id": 1454,
+  "title": "Araña Vol. 2: In the Beginning (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1454",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1454/araa_vol_2_in_the_beginning_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4bc629190932e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1454/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/578",
+        "name": "Fiona Avery",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3635",
+        "name": "Joe Quesada",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+        "name": "Udon Comics",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/912",
+        "name": "Danny Salgo",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+        "name": "Roger Cruz",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+        "name": "Victor Olazaba",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "letterer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1454/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1454/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4436",
+        "name": "1 of 6 - Freshman Flu",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4437",
+        "name": "1 of 6 - Freshman Flu",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4438",
+        "name": "2 of 6 - Freshman Flu",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4439",
+        "name": "2 of 6 - Freshman Flu",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4440",
+        "name": "3 of 6 - In the Beginning",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4441",
+        "name": "3 of 6 - In the Beginning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4442",
+        "name": "Cover #4442",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4443",
+        "name": "Interior #4443",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4444",
+        "name": "4 of 6 - In the Beginning",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4445",
+        "name": "4 of 6 - In the Beginning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4446",
+        "name": "5 of 6 - In the Beginning",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4447",
+        "name": "5 of 6 - In the Beginning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4448",
+        "name": "6 of 6 - In the Beginning",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4449",
+        "name": "6 of 6 - In the Beginning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65831",
+        "name": "ARANA VOL. 2: IN THE BEGINNING 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 15
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1454/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2311",
+        "name": "Araña Vol. 2: In the Beginning (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1454/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

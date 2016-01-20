@@ -1,0 +1,175 @@
+{
+  "id": 863,
+  "title": "Punisher Vs. Bullseye (2005 - 2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/863",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/863/punisher_vs_bullseye_2005_-_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2006,
+  "rating": "T",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/863/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/222",
+        "name": "Paul Gulacy",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11501",
+        "name": "Mark Texeira",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/73",
+        "name": "Steve Dillon",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+        "name": "Avalon Studio",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+        "name": "Daniel Way",
+        "role": "writer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/863/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009212",
+        "name": "Bullseye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/863/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4518",
+        "name": "1 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4519",
+        "name": "1 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4520",
+        "name": "2 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4521",
+        "name": "2 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4522",
+        "name": "3 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4523",
+        "name": "3 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4524",
+        "name": "4 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4525",
+        "name": "4 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4526",
+        "name": "5 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4527",
+        "name": "5 of 5 - 5XLS (Bullseye vs. Punisher)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/863/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3013",
+        "name": "Punisher Vs. Bullseye (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3129",
+        "name": "Punisher Vs. Bullseye (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3354",
+        "name": "Punisher Vs. Bullseye (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3469",
+        "name": "Punisher Vs. Bullseye (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3886",
+        "name": "Punisher Vs. Bullseye (2005) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/863/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

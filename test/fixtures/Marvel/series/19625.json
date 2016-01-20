@@ -1,0 +1,223 @@
+{
+  "id": 19625,
+  "title": "Planet Hulk (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19625",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19625/planet_hulk_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T",
+  "type": "limited",
+  "modified": "2015-04-24T11:53:22-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/10/553a63a29bbc6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19625/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12448",
+        "name": "Yildiray Cinar",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10159",
+        "name": "Michael Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+        "name": "Mike Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+        "name": "Alex Maleev",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12288",
+        "name": "Michael Del Mundo",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11530",
+        "name": "Sam Humphries",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12406",
+        "name": "Marc Laming",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+        "name": "Mark Paniccia",
+        "role": "editor"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19625/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19625/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116243",
+        "name": "cover from Planet Hulk (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116244",
+        "name": "story from Planet Hulk (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116245",
+        "name": "cover from Planet Hulk (2015) #1 (YOUNG VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116246",
+        "name": "story from Planet Hulk (2015) #1 (YOUNG VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116247",
+        "name": "cover from Planet Hulk (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116248",
+        "name": "story from Planet Hulk (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116249",
+        "name": "cover from Planet Hulk (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116250",
+        "name": "story from Planet Hulk (2015) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116251",
+        "name": "cover from Planet Hulk (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116252",
+        "name": "story from Planet Hulk (2015) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116253",
+        "name": "cover from Planet Hulk (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116254",
+        "name": "story from Planet Hulk (2015) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121139",
+        "name": "cover from Planet Hulk (2015) #3 (TBD ARTIST LANDSCAPE WRAPAROUND VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121140",
+        "name": "story from Planet Hulk (2015) #3 (TBD ARTIST LANDSCAPE WRAPAROUND VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121201",
+        "name": "cover from Planet Hulk (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121202",
+        "name": "story from Planet Hulk (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/122897",
+        "name": "cover from Planet Hulk (2015) #4 (TBD ARTIST MANGA VARIANT)",
+        "type": "cover"
+      }
+    ],
+    "returned": 17
+  },
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19625/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52333",
+        "name": "Planet Hulk (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52334",
+        "name": "Planet Hulk (2015) #1 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52335",
+        "name": "Planet Hulk (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55019",
+        "name": "Planet Hulk (2015) #2 (Cinar Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52336",
+        "name": "Planet Hulk (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54988",
+        "name": "Planet Hulk (2015) #3 (MALEEV LANDSCAPE WRAPAROUND VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52337",
+        "name": "Planet Hulk (2015) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52338",
+        "name": "Planet Hulk (2015) #5"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19625/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

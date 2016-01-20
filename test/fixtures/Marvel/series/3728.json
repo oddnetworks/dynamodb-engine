@@ -1,0 +1,206 @@
+{
+  "id": 3728,
+  "title": "Havok & Wolverine: Meltdown (1988)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3728",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3728/havok_wolverine_meltdown_1988?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1988,
+  "endYear": 1988,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bad40071ef7f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3728/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6761",
+        "name": "Ballard Borich",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6767",
+        "name": "Julianna Jones",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6765",
+        "name": "Jon Jay Muth painting",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6759",
+        "name": "Jon Jay Muth signed JJM painting",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6636",
+        "name": "Sherilyn Van Valkenburgh",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2264",
+        "name": "Kent Williams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+        "name": "Steve Buccellato",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4858",
+        "name": "Margaret Clark",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6760",
+        "name": "Jon Jay Muth",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+        "name": "Bill Oakley",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/184",
+        "name": "Louise Simonson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5125",
+        "name": "Walter Simonson",
+        "role": "writer"
+      }
+    ],
+    "returned": 12
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3728/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3728/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42844",
+        "name": "Meltdown 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42845",
+        "name": "Interior #42845",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42846",
+        "name": "Mexican Standoff",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42847",
+        "name": "",
+        "type": "backcovers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42848",
+        "name": "Meltdown 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42849",
+        "name": "Tender Loving Lies!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42850",
+        "name": "",
+        "type": "backcovers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42851",
+        "name": "Meltdown 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42852",
+        "name": "Duel",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42853",
+        "name": "",
+        "type": "backcovers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42854",
+        "name": "Meltdown 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42855",
+        "name": "Endgame",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42856",
+        "name": "",
+        "type": "backcovers"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3728/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20016",
+        "name": "Havok & Wolverine: Meltdown (1988) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20017",
+        "name": "Havok & Wolverine: Meltdown (1988) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20018",
+        "name": "Havok & Wolverine: Meltdown (1988) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20019",
+        "name": "Havok & Wolverine: Meltdown (1988) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3728/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

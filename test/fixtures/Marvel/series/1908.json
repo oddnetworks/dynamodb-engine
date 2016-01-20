@@ -1,0 +1,156 @@
+{
+  "id": 1908,
+  "title": "Civil War: Young Avengers & Runaways (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1908",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1908/civil_war_young_avengers_runaways_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc4ccb36e348",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1908/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+        "name": "Stefano Caselli",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1134",
+        "name": "Daniele Rudoni",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1908/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010691",
+        "name": "Molly Hayes"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009492",
+        "name": "Patriot"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010747",
+        "name": "Runaways"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010828",
+        "name": "Stature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010698",
+        "name": "Young Avengers"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1908/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6141",
+        "name": "1 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6142",
+        "name": "1 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6143",
+        "name": "2 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6144",
+        "name": "2 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6145",
+        "name": "3 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6146",
+        "name": "3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6147",
+        "name": "4 of 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6148",
+        "name": "4 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66128",
+        "name": "CIVIL WAR: YOUNG AVENGERS & RUNAWAYS 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1908/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6188",
+        "name": "Civil War: Young Avengers & Runaways (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1908/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": 18060,
+  "title": "Kick-Ass 2 Prelude: Hit-Girl (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18060",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18060/kick-ass_2_prelude_hit-girl_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "collection",
+  "modified": "2013-07-15T13:34:51-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18060/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+        "name": "Mark Millar",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18060/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18060/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107863",
+        "name": "cover from Kick-Ass 2 Prelude: Hit-Girl (2013) (ROMITA COVER)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107864",
+        "name": "story from Kick-Ass 2 Prelude: Hit-Girl (2013) (ROMITA COVER)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18060/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47803",
+        "name": "Kick-Ass 2 Prelude: Hit-Girl (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18060/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

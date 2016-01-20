@@ -1,0 +1,85 @@
+{
+  "id": 20130,
+  "title": "Star Wars: Boba Fett - Murder Most Foul (1997)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20130",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20130/star_wars_boba_fett_-_murder_most_foul_1997?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1997,
+  "endYear": 1997,
+  "rating": "",
+  "type": "",
+  "modified": "2015-02-03T10:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20130/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7668",
+        "name": "CAM KENNEDY",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12615",
+        "name": "Mathieu Lauffray",
+        "role": "artist (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12613",
+        "name": "John Wagner",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20130/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20130/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119286",
+        "name": "story from Star Wars: Boba Fett - Murder Most Foul (1997) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119287",
+        "name": "cover from Star Wars: Boba Fett - Murder Most Foul (1997) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20130/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54030",
+        "name": "Star Wars: Boba Fett - Murder Most Foul (1997) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20130/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,386 @@
+{
+  "id": 3643,
+  "title": "X-Man (1995 - 2000)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3643",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3643/x-man_1995_-_2000?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1995,
+  "endYear": 2000,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb7bc51b8966",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 70,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5979",
+        "name": "Caesar",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+        "name": "Harry Candelario",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5960",
+        "name": "Mario Capaldi",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5978",
+        "name": "Chriscross",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5983",
+        "name": "Skroce",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4627",
+        "name": "Roberto Aguirre-Sacasa",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5989",
+        "name": "Haynes Austin",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5971",
+        "name": "Manny Clark",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5977",
+        "name": "Chris Cross",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+        "name": "Roger Cruz",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/354",
+        "name": "Tony Daniel",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+        "name": "Pat Brosseau",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+        "name": "Joe Andreani",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+        "name": "Paul Becton",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2974",
+        "name": "Digital Chameleon",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1945",
+        "name": "Mark Bernardo",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3572",
+        "name": "Kelly Corvese",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009150",
+        "name": "Agent Zero"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+        "name": "Cable"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+        "name": "Deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011285",
+        "name": "Generation X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009483",
+        "name": "Onslaught"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010360",
+        "name": "Thunderbolts"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009725",
+        "name": "X-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 10
+  },
+  "stories": {
+    "available": 226,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38648",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38649",
+        "name": "Breeding Ground",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38650",
+        "name": "Maverick",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38651",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38652",
+        "name": "Breaking Away",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38653",
+        "name": "X-Facts",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38654",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38655",
+        "name": "Confrontation",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38656",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38657",
+        "name": "The X-Cutioner's Song",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38658",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38659",
+        "name": "Trust",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38660",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38661",
+        "name": "The Hunted Below",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38662",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38663",
+        "name": "Fallen From Grace",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38664",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38665",
+        "name": "Turning Point",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38666",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38667",
+        "name": "Survivors of the Storm",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 76,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18176",
+        "name": "X-Man (1995)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18177",
+        "name": "X-Man (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18188",
+        "name": "X-Man (1995) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18199",
+        "name": "X-Man (1995) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18210",
+        "name": "X-Man (1995) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18221",
+        "name": "X-Man (1995) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18232",
+        "name": "X-Man (1995) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18243",
+        "name": "X-Man (1995) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18250",
+        "name": "X-Man (1995) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18251",
+        "name": "X-Man (1995) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18178",
+        "name": "X-Man (1995) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18179",
+        "name": "X-Man (1995) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18180",
+        "name": "X-Man (1995) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18181",
+        "name": "X-Man (1995) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18182",
+        "name": "X-Man (1995) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18183",
+        "name": "X-Man (1995) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18184",
+        "name": "X-Man (1995) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18185",
+        "name": "X-Man (1995) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18186",
+        "name": "X-Man (1995) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18187",
+        "name": "X-Man (1995) #19"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3643/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

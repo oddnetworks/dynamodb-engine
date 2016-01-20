@@ -1,0 +1,90 @@
+{
+  "id": 19370,
+  "title": "Dark Tower: The Drawing of the Three - House of Cards (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19370",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19370/dark_tower_the_drawing_of_the_three_-_house_of_cards_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-09-02T16:19:21-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19370/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10365",
+        "name": "Robin Furth",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12370",
+        "name": "Piotr Kowalski",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+        "name": "Julian Totino Tedesco",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19370/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19370/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114831",
+        "name": "cover from Dark Tower: The Drawing of the Three - House of Cards (2015)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114832",
+        "name": "story from Dark Tower: The Drawing of the Three - House of Cards (2015)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19370/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51627",
+        "name": "Dark Tower: The Drawing of the Three - House of Cards (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19370/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

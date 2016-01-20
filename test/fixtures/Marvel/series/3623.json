@@ -1,0 +1,374 @@
+{
+  "id": 3623,
+  "title": "Avengers West Coast (1985 - 1994)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3623",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3623/avengers_west_coast_1985_-_1994?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1985,
+  "endYear": 1994,
+  "rating": "",
+  "type": "",
+  "modified": "2015-04-22T12:11:17-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4bb6e93bd6e3d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 48,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3623/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5810",
+        "name": "Ariane",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+        "name": "Joe Andreani",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3052",
+        "name": "Avon",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2383",
+        "name": "Charles Barnett",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+        "name": "Danny Bulanadi",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3053",
+        "name": "Don Cameron",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2319",
+        "name": "Tim Dzon",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2078",
+        "name": "Randy Emberlin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6049",
+        "name": "Danny Fingeroth",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5815",
+        "name": "Steven Butler",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/505",
+        "name": "Andrew Currie",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5816",
+        "name": "George Freeman",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2651",
+        "name": "Gary Hartle",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1928",
+        "name": "Steve Dutro",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1892",
+        "name": "Michael Heisler",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "editor"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3623/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009538",
+        "name": "Iron Patriot (James Rhodes)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+        "name": "Loki"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+        "name": "Magneto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009682",
+        "name": "U.S. Agent"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009719",
+        "name": "Wonder Man"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 117,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3623/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37787",
+        "name": "Cover #37787",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37788",
+        "name": "Soul Gauntlet",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37789",
+        "name": "... And Make Death Proud To Take Us!",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37790",
+        "name": "Boys Will Be Boys",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37791",
+        "name": "Wild In The Streets",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37792",
+        "name": "Cover #37792",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37793",
+        "name": "Bloodties: part 3 of 4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37794",
+        "name": "Cover #37794",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37795",
+        "name": "The Avengers West Coast Are Finished",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37796",
+        "name": "Cover #37796",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37797",
+        "name": "This Ancient Evil",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37798",
+        "name": "Cover #37798",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37799",
+        "name": "Baptism of Fire",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37800",
+        "name": "Cover #37800",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37801",
+        "name": "Return of the Hero",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37802",
+        "name": "Cover #37802",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37803",
+        "name": "I Sing of Arms and Heroes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37804",
+        "name": "Cover #37804",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37805",
+        "name": "Fragments of a Greater Darkness",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37806",
+        "name": "Enter the U-Foes!",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 55,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3623/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17790",
+        "name": "Avengers West Coast (1985) #48"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17791",
+        "name": "Avengers West Coast (1985) #49"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17792",
+        "name": "Avengers West Coast (1985) #50"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17793",
+        "name": "Avengers West Coast (1985) #51"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17794",
+        "name": "Avengers West Coast (1985) #52"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17795",
+        "name": "Avengers West Coast (1985) #53"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17796",
+        "name": "Avengers West Coast (1985) #54"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17797",
+        "name": "Avengers West Coast (1985) #55"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17798",
+        "name": "Avengers West Coast (1985) #56"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17799",
+        "name": "Avengers West Coast (1985) #57"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17800",
+        "name": "Avengers West Coast (1985) #58"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17801",
+        "name": "Avengers West Coast (1985) #59"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17802",
+        "name": "Avengers West Coast (1985) #60"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17803",
+        "name": "Avengers West Coast (1985) #61"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17804",
+        "name": "Avengers West Coast (1985) #62"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17805",
+        "name": "Avengers West Coast (1985) #63"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17806",
+        "name": "Avengers West Coast (1985) #64"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17807",
+        "name": "Avengers West Coast (1985) #65"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17808",
+        "name": "Avengers West Coast (1985) #66"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17809",
+        "name": "Avengers West Coast (1985) #67"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3623/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

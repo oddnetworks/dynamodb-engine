@@ -1,0 +1,75 @@
+{
+  "id": 17981,
+  "title": "Thanos: Infinity Abyss (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17981",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17981/thanos_infinity_abyss_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "collection",
+  "modified": "2013-12-10T11:35:49-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17981/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+        "name": "Jim Starlin",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17981/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17981/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107586",
+        "name": "cover from Thanos: Infinity Abyss (2013)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107587",
+        "name": "story from Thanos: Infinity Abyss (2013)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17981/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47653",
+        "name": "Thanos: Infinity Abyss (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17981/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

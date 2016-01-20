@@ -1,0 +1,361 @@
+{
+  "id": 16325,
+  "title": "Captain America and... (2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16325",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16325/captain_america_and._2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2015-07-16T17:52:28-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/55a827857e3d3",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16325/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4994",
+        "name": "Kalman Andrasofszky",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+        "name": "Stuart Immonen",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+        "name": "Ed McGuinness",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/500",
+        "name": "Chris Sotomayor",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+        "name": "Patrick Zircher",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4427",
+        "name": "Marc Andreyko",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8658",
+        "name": "James Asmus",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+        "name": "Ed Brubaker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "Writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/585",
+        "name": "Will Conrad",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11886",
+        "name": "Francesco Francavilla",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+        "name": "Barry Kitson",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10124",
+        "name": "Alessandro Vitti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "Penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11680",
+        "name": "Gerry Duggan",
+        "role": "Colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+        "name": "Matt Hollingsworth",
+        "role": "Colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "Letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8221",
+        "name": "Chris Samnee",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8924",
+        "name": "Lauren Sankovitch",
+        "role": "editor"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16325/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010932",
+        "name": "Human Torch (Jim Hammond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 53,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16325/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79143",
+        "name": "Cover #79143",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79144",
+        "name": "Interior #79144",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79153",
+        "name": "Cover #79153",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79154",
+        "name": "Interior #79154",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79159",
+        "name": "Cover #79159",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79160",
+        "name": "Interior #79160",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79169",
+        "name": "Captain America and Bucky (2011) #624",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79170",
+        "name": "Interior #79170",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79179",
+        "name": "Cover #79179",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79180",
+        "name": "Captain America and Bucky (2011) #623",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79193",
+        "name": "Cover #79193",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79194",
+        "name": "Interior #79194",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79201",
+        "name": "Cover #79201",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79202",
+        "name": "Interior #79202",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79205",
+        "name": "Cover #79205",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79206",
+        "name": "Interior #79206",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79213",
+        "name": "Cover #79213",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79214",
+        "name": "Interior #79214",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79927",
+        "name": "Captain America and Bucky (2011) #622 Cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/79928",
+        "name": "Captain America and Bucky (2011) #622",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16325/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35789",
+        "name": "Captain America and... (2012) #620"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35788",
+        "name": "Captain America and... (2012) #621"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36117",
+        "name": "Captain America and... (2012) #622"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35793",
+        "name": "Captain America and... (2012) #623"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35791",
+        "name": "Captain America and... (2012) #624"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/35786",
+        "name": "Captain America and... (2012) #625"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40379",
+        "name": "Captain America and... (2012) #626"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40539",
+        "name": "Captain America and... (2012) #627"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40533",
+        "name": "Captain America and... (2012) #628"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40534",
+        "name": "Captain America and... (2012) #629"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40529",
+        "name": "Captain America and... (2012) #630"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40532",
+        "name": "Captain America and... (2012) #631"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40531",
+        "name": "Captain America and... (2012) #632"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40530",
+        "name": "Captain America and... (2012) #633"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40528",
+        "name": "Captain America and... (2012) #634"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40538",
+        "name": "Captain America and... (2012) #635"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42685",
+        "name": "Captain America and... (2012) #635.1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40537",
+        "name": "Captain America and... (2012) #636"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40536",
+        "name": "Captain America and... (2012) #637"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40535",
+        "name": "Captain America and... (2012) #638"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16325/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

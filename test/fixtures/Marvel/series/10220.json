@@ -1,0 +1,95 @@
+{
+  "id": 10220,
+  "title": "Guardians of the Galaxy Vol. 4:  Realm of Kings (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10220",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10220/guardians_of_the_galaxy_vol_4_realm_of_kings_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4ba944fb8fbcf",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10220/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8003",
+        "name": "Alex Garner",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8138",
+        "name": "Brad Walker",
+        "role": "penciler"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10220/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10220/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63899",
+        "name": "Cover #63899",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63900",
+        "name": "Interior #63900",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10220/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29373",
+        "name": "Guardians of the Galaxy Vol. 4:  Realm of Kings (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10220/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/295",
+        "name": "Realm of Kings"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

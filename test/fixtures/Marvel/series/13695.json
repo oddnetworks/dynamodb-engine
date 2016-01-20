@@ -1,0 +1,93 @@
+{
+  "id": 13695,
+  "title": "SPIDER-MAN UNLIMITED (1993)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13695",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13695/spider-man_unlimited_1993?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1993,
+  "endYear": 1993,
+  "rating": "",
+  "type": "",
+  "modified": "2012-03-15T14:55:16-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13695/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13695/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13695/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106557",
+        "name": "cover from SPIDER-MAN UNLIMITED #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106558",
+        "name": "cover from SPIDER-MAN UNLIMITED #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106559",
+        "name": "cover from SPIDER-MAN UNLIMITED #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106560",
+        "name": "cover from SPIDER-MAN UNLIMITED #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106561",
+        "name": "cover from SPIDER-MAN UNLIMITED #9",
+        "type": "cover"
+      }
+    ],
+    "returned": 5
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13695/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38033",
+        "name": "SPIDER-MAN UNLIMITED (1993) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38034",
+        "name": "SPIDER-MAN UNLIMITED (1993) #2"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13695/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+        "name": "Maximum Carnage"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

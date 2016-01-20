@@ -1,0 +1,329 @@
+{
+  "id": 1166,
+  "title": "New X-Men Vol. 2: Imperial (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1166",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1166/new_x-men_vol_2_imperial_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 23,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1166/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4225",
+        "name": "Jimmy Betancourt",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4753",
+        "name": "Harris",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/66",
+        "name": "Frank Quitely",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1329",
+        "name": "Ethan Van Sciver",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4755",
+        "name": "Mettier",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4496",
+        "name": "Hi Fi Design",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/449",
+        "name": "Brian Haberlin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/363",
+        "name": "Dan Kemp",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4207",
+        "name": "Avalon Studio",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4754",
+        "name": "Snyder",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+        "name": "Danny K. Miki",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+        "name": "Mike Marts",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3710",
+        "name": "Mark Powers",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/379",
+        "name": "Greg Capullo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/986",
+        "name": "Tom Derenick",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/116",
+        "name": "Igor Kordey",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/64",
+        "name": "Grant Morrison",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1166/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009174",
+        "name": "Beak"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+        "name": "Emma Frost"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+        "name": "Gladiator (Kallark)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009327",
+        "name": "Jean Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009402",
+        "name": "Lilandra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009423",
+        "name": "Manta"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009484",
+        "name": "Oracle"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009504",
+        "name": "Professor X"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009603",
+        "name": "Smasher (Vril Rokk)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009625",
+        "name": "Stepford Cuckoos"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009734",
+        "name": "Xorn (Kuan-Yin Xorn)"
+      }
+    ],
+    "returned": 17
+  },
+  "stories": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1166/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6319",
+        "name": "New X-Men 118-126",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30453",
+        "name": "Cover #30453",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30454",
+        "name": "All Hell",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30455",
+        "name": "Interior #30455",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30456",
+        "name": "Cover #30456",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30457",
+        "name": "Losers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30458",
+        "name": "Cover #30458",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30459",
+        "name": "Superdestroyer",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30460",
+        "name": "Cover #30460",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30461",
+        "name": "Testament",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30462",
+        "name": "Cover #30462",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30463",
+        "name": "Imperial",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30468",
+        "name": "Cover #30468",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30469",
+        "name": "Silence",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30470",
+        "name": "",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30471",
+        "name": "Cover #30471",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30472",
+        "name": "Germ Free Generation: three of three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30473",
+        "name": "Cover #30473",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30474",
+        "name": "Germ Free Generation: two of three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/30475",
+        "name": "Cover #30475",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1166/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2592",
+        "name": "New X-Men Vol. 2: Imperial (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1166/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,105 @@
+{
+  "id": 18063,
+  "title": "Wolverine by Jason Aaron: The Complete Collection (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18063",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18063/wolverine_by_jason_aaron_the_complete_collection_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "collection",
+  "modified": "2013-12-04T16:54:27-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18063/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+        "name": "Jason Aaron",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+        "name": "Ron Garney",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+        "name": "Adam Kubert",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3820",
+        "name": "Paco Diaz Luque",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9468",
+        "name": "Stephen Segovia",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6170",
+        "name": "Olivier Coipel",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18063/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18063/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107869",
+        "name": "cover from Wolverine by Jason Aaron: The Complete Collection (2013)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107870",
+        "name": "story from Wolverine by Jason Aaron: The Complete Collection (2013)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18063/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47806",
+        "name": "Wolverine by Jason Aaron: The Complete Collection (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18063/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,205 @@
+{
+  "id": 2415,
+  "title": "Sub-Mariner (2007 - 2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2415",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2415/sub-mariner_2007_-_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2008,
+  "rating": "T",
+  "type": "",
+  "modified": "2011-06-01T14:01:40-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bad33728f17c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2415/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1122",
+        "name": "Philippe Briones",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/849",
+        "name": "Matt Cherniss",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/848",
+        "name": "Peter Johnson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/248",
+        "name": "David Finch",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/856",
+        "name": "Michael Turner",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+        "name": "Leinil Francis Yu",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+        "name": "Scott Hanna",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+        "name": "Paul Mounts",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2415/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2415/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32444",
+        "name": "1 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32445",
+        "name": "1 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32663",
+        "name": "2 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32664",
+        "name": "2 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33048",
+        "name": "3 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33049",
+        "name": "3 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33434",
+        "name": "4 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33435",
+        "name": "4 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33436",
+        "name": "5 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33437",
+        "name": "5 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36197",
+        "name": "6 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36198",
+        "name": "6 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2415/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15886",
+        "name": "Sub-Mariner (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15995",
+        "name": "Sub-Mariner (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16179",
+        "name": "Sub-Mariner (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16578",
+        "name": "Sub-Mariner (2007) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16579",
+        "name": "Sub-Mariner (2007) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17273",
+        "name": "Sub-Mariner (2007) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2415/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

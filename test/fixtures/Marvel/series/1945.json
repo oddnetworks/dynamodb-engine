@@ -1,0 +1,438 @@
+{
+  "id": 1945,
+  "title": "Avengers: The Initiative (2007 - 2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1945",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1945/avengers_the_initiative_2007_-_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2010,
+  "rating": "T",
+  "type": "",
+  "modified": "2013-03-20T17:51:27-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/514a2ed3302f5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 32,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1945/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9018",
+        "name": "Mahmud Asrar",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+        "name": "Stefano Caselli",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1400",
+        "name": "Bong Dazo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4981",
+        "name": "Steve Kurth",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8825",
+        "name": "Jorge Molina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9368",
+        "name": "Roger Bonet",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10091",
+        "name": "Rebecca Buchman",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/548",
+        "name": "Andrew Hennessy",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/447",
+        "name": "Victor Olazaba",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10072",
+        "name": "Matteo De Longis",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1054",
+        "name": "Juan Doe",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8949",
+        "name": "Luca Malisan",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+        "name": "Matt Milla",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11765",
+        "name": "Christos Gage",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 61,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1945/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011334",
+        "name": "3-D Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010802",
+        "name": "Ant-Man (Eric O'Grady)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010829",
+        "name": "Bengal"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009180",
+        "name": "Beta-Ray Bill"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010325",
+        "name": "Betty Brant"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010371",
+        "name": "Boomerang"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010823",
+        "name": "Cloud 9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009245",
+        "name": "Constrictor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+        "name": "Dazzler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+        "name": "Deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009274",
+        "name": "Diamondback (Rachel Leighton)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009284",
+        "name": "Dum Dum Dugan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009316",
+        "name": "Gauntlet (Joseph Green)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010702",
+        "name": "Gravity"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011400",
+        "name": "H.A.M.M.E.R."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 90,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1945/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8381",
+        "name": "Cover #8381",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8382",
+        "name": "Interior #8382",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8705",
+        "name": "2 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8706",
+        "name": "2 of 6 - 6XLS; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32405",
+        "name": "Avengers: The Initiative (2007) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32406",
+        "name": "Avengers: The Initiative (2007) #3 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32626",
+        "name": "Avengers: The Initiative (2007) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32627",
+        "name": "Avengers: The Initiative (2007) #4 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33014",
+        "name": "Avengers: The Initiative (2007) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33015",
+        "name": "Avengers: The Initiative (2007) #5 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33361",
+        "name": "Avengers: The Initiative (2007) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33362",
+        "name": "Avengers: The Initiative (2007) #6 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33363",
+        "name": "Avengers: The Initiative (2007) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33364",
+        "name": "Avengers: The Initiative (2007) #7 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36469",
+        "name": "Avengers: The Initiative (2007) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36470",
+        "name": "Avengers: The Initiative (2007) #8 - Int",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36907",
+        "name": "Avengers: The Initiative (2007) #9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36908",
+        "name": "Killed in Action 1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44343",
+        "name": "Avengers: The Initiative (2007) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44344",
+        "name": "Avengers: The Initiative (2007) #10 - Int",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 42,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1945/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/6232",
+        "name": "Avengers: The Initiative (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21843",
+        "name": "Avengers: The Initiative (2007) #1 (50/50 Cover (left))"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21844",
+        "name": "Avengers: The Initiative (2007) #1 (50/50 Cover (right))"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/13489",
+        "name": "Avengers: The Initiative (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15869",
+        "name": "Avengers: The Initiative (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15976",
+        "name": "Avengers: The Initiative (2007) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16162",
+        "name": "Avengers: The Initiative (2007) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16542",
+        "name": "Avengers: The Initiative (2007) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16543",
+        "name": "Avengers: The Initiative (2007) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17397",
+        "name": "Avengers: The Initiative (2007) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17638",
+        "name": "Avengers: The Initiative (2007) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20679",
+        "name": "Avengers: The Initiative (2007) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20877",
+        "name": "Avengers: The Initiative (2007) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21012",
+        "name": "Avengers: The Initiative (2007) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21226",
+        "name": "Avengers: The Initiative (2007) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21366",
+        "name": "Avengers: The Initiative (2007) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24571",
+        "name": "Avengers: The Initiative (2007) #14 (SPOTLIGHT VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21546",
+        "name": "Avengers: The Initiative (2007) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21741",
+        "name": "Avengers: The Initiative (2007) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21975",
+        "name": "Avengers: The Initiative (2007) #17"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1945/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
+        "name": "Dark Reign"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "name": "Secret Invasion"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/273",
+        "name": "Siege"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/277",
+        "name": "World War Hulk"
+      }
+    ],
+    "returned": 5
+  },
+  "next": null,
+  "previous": null
+}

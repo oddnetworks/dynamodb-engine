@@ -1,0 +1,165 @@
+{
+  "id": 2921,
+  "title": "Iron Man: Hypervelocity (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2921",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2921/iron_man_hypervelocity_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/b0/4bc3958d88776",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2921/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1068",
+        "name": "Brian Denham",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/840",
+        "name": "Adam Warren",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2921/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2921/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5704",
+        "name": "1 of 6 - Iron Man: Hypervelocity",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5705",
+        "name": "1 of 6 - Iron Man: Hypervelocity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7799",
+        "name": "2 of 6 - Iron Man: Hypervelocity",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7800",
+        "name": "2 of 6 - Iron Man: Hypervelocity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7801",
+        "name": "3 of 6 - Iron Man: Hypervelocity",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/7802",
+        "name": "3 of 6 - Iron Man: Hypervelocity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8266",
+        "name": "3 of 6 - Iron Man: Hypervelocity",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8267",
+        "name": "3 of 6 - Iron Man: Hypervelocity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8268",
+        "name": "4 of 6 - Iron Man: Hypervelocity",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8269",
+        "name": "4 of 6 - Iron Man: Hypervelocity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8650",
+        "name": "5 of 6 - Iron Man: Hypervelocity",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8651",
+        "name": "5 of 6 - Iron Man: Hypervelocity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32349",
+        "name": "6 of 6 - Iron Man: Hypervelocity",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32350",
+        "name": "6 of 6 - Iron Man: Hypervelocity",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33514",
+        "name": "Iron Man: Hypervelocity 1-6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33515",
+        "name": "Iron Man: Hypervelocity 1-6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 16
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2921/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16620",
+        "name": "Iron Man: Hypervelocity (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2921/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

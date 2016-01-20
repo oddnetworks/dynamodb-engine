@@ -1,0 +1,233 @@
+{
+  "id": 1407,
+  "title": "Spider-Girl Vol. 3: Avenging Allies (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1407",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1407/spider-girl_vol_3_avenging_allies_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/4bc649076e81d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1407/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4064",
+        "name": "Steve Behling",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4055",
+        "name": "Pete Franco",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4152",
+        "name": "Michael Stewart",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2983",
+        "name": "Richard Case",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/397",
+        "name": "Al Williamson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+        "name": "Janice Chiang",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4048",
+        "name": "Chris Dickey",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2296",
+        "name": "Glenn Herdling",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+        "name": "Adam Kubert",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4065",
+        "name": "Gregg Schigiel",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/479",
+        "name": "Paul Mounts",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+        "name": "Christie Scheele",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5107",
+        "name": "Patrick Olliffe",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1407/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+        "name": "Spider-Girl (May Parker)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1407/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24795",
+        "name": "Cover #24795",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24796",
+        "name": "Duel With Darkdevil",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24797",
+        "name": "Cover #24797",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24798",
+        "name": "And Now.. The Avengers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24799",
+        "name": "Cover #24799",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24800",
+        "name": "A Man Called..... Kaine!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24801",
+        "name": "Media Blitz (Fast Lane pt. 1)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24802",
+        "name": "Cover #24802",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24803",
+        "name": "Swingin' N' Slammin' With Speedball",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24804",
+        "name": "Got Milk?",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24805",
+        "name": "Cover #24805",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24806",
+        "name": "The Question..!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24807",
+        "name": "Feel the Rush (Fast Lane part 2 of 4)",
+        "type": "story/psa"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24808",
+        "name": "Got Milk?",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45051",
+        "name": "Cover #45051",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45052",
+        "name": "Interior #45052",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65793",
+        "name": "SPIDER-GIRL VOL. 3: AVENGING ALLIES 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 17
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1407/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1766",
+        "name": "Spider-Girl Vol. 3: Avenging Allies (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1407/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

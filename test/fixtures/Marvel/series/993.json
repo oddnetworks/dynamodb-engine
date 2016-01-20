@@ -1,0 +1,151 @@
+{
+  "id": 993,
+  "title": "New Mangaverse (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/993",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/993/new_mangaverse_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "T",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc60cdb15284",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/993/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/759",
+        "name": "C. B. Cebulski",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/274",
+        "name": "Tommy Ohtsuka",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/993/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/993/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5602",
+        "name": "1 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5603",
+        "name": "1 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5604",
+        "name": "2 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5605",
+        "name": "2 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5606",
+        "name": "3 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5607",
+        "name": "3 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5608",
+        "name": "4 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5609",
+        "name": "4 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5610",
+        "name": "5 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5611",
+        "name": "5 of 5 xLS",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/993/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3217",
+        "name": "New Mangaverse (2006) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3546",
+        "name": "New Mangaverse (2006) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3952",
+        "name": "New Mangaverse (2006) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4078",
+        "name": "New Mangaverse (2006) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4192",
+        "name": "New Mangaverse (2006) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/993/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

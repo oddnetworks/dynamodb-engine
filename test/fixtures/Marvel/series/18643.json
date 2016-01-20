@@ -1,0 +1,70 @@
+{
+  "id": 18643,
+  "title": "new series (2014 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18643",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18643/new_series_2014_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2099,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2014-07-01T10:56:18-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18643/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18643/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18643/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111098",
+        "name": "cover from new series (2014) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/111099",
+        "name": "story from new series (2014) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18643/comics",
+    "items": [],
+    "returned": 0
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18643/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

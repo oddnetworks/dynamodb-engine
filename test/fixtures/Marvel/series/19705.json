@@ -1,0 +1,127 @@
+{
+  "id": 19705,
+  "title": "JOURNEY TO STAR WARS: THE FORCE AWAKENS - SHATTERED EMPIRE (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19705",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19705/journey_to_star_wars_the_force_awakens_-_shattered_empire_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2015-09-29T16:38:18-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19705/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+        "name": "Marco Checchetto",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+        "name": "Phil Noto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/28",
+        "name": "Greg Rucka",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19705/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19705/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116933",
+        "name": "cover from Star Wars: Journey to Episode VII (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116934",
+        "name": "story from Star Wars: Journey to Episode VII (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116937",
+        "name": "cover from Star Wars: Journey to Episode VII (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116938",
+        "name": "story from Star Wars: Journey to Episode VII (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116939",
+        "name": "cover from Star Wars: Journey to Episode VII (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116940",
+        "name": "story from Star Wars: Journey to Episode VII (2015) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116941",
+        "name": "cover from Star Wars: Journey to Episode VII (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/116942",
+        "name": "story from Star Wars: Journey to Episode VII (2015) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19705/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52678",
+        "name": "JOURNEY TO STAR WARS: THE FORCE AWAKENS - SHATTERED EMPIRE (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52680",
+        "name": "JOURNEY TO STAR WARS: THE FORCE AWAKENS - SHATTERED EMPIRE (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52681",
+        "name": "JOURNEY TO STAR WARS: THE FORCE AWAKENS - SHATTERED EMPIRE (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52682",
+        "name": "JOURNEY TO STAR WARS: THE FORCE AWAKENS - SHATTERED EMPIRE (2015) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19705/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,127 @@
+{
+  "id": 20147,
+  "title": "Star Wars: Darth Maul - Son Of Dathomir (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20147",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20147/star_wars_darth_maul_-_son_of_dathomir_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "",
+  "modified": "2015-09-21T10:39:25-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/20/55f971f317f5d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20147/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12600",
+        "name": "Jeremy Barlow",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12624",
+        "name": "Juan Frigeri",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12612",
+        "name": "Chris Scalf",
+        "role": "artist (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20147/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20147/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119448",
+        "name": "story from Star Wars: Darth Maul - Son Of Dathomir (2014) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119449",
+        "name": "cover from Star Wars: Darth Maul - Son Of Dathomir (2014) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119450",
+        "name": "story from Star Wars: Darth Maul - Son Of Dathomir (2014) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119451",
+        "name": "cover from Star Wars: Darth Maul - Son Of Dathomir (2014) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119452",
+        "name": "story from Star Wars: Darth Maul - Son Of Dathomir (2014) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119453",
+        "name": "cover from Star Wars: Darth Maul - Son Of Dathomir (2014) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119454",
+        "name": "story from Star Wars: Darth Maul - Son Of Dathomir (2014) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/119455",
+        "name": "cover from Star Wars: Darth Maul - Son Of Dathomir (2014) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20147/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54111",
+        "name": "Star Wars: Darth Maul - Son Of Dathomir (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54112",
+        "name": "Star Wars: Darth Maul - Son Of Dathomir (2014) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54113",
+        "name": "Star Wars: Darth Maul - Son Of Dathomir (2014) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54114",
+        "name": "Star Wars: Darth Maul - Son Of Dathomir (2014) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20147/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

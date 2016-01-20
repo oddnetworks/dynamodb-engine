@@ -1,0 +1,366 @@
+{
+  "id": 9924,
+  "title": "Iron Man 2.0 (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9924",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9924/iron_man_2.0_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2013-04-05T16:17:38-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/515f311d37ca7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9924/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1406",
+        "name": "Kano",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/481",
+        "name": "Barry Kitson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1082",
+        "name": "Ariel Olivetti",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8000",
+        "name": "Alejandro Arbona",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+        "name": "Clayton Cowles",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8933",
+        "name": "Lee Garbett",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/827",
+        "name": "Carmine Di Giandomenico",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10107",
+        "name": "Mirco Pierfederici",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11757",
+        "name": "Salvador Larroca",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10283",
+        "name": "Dheeraj Verma",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8843",
+        "name": "Joshua Fialkov",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9677",
+        "name": "Will Pfeifer",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+        "name": "Nick Spencer",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "Writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/581",
+        "name": "Rob Schwager",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4267",
+        "name": "Andy Troy",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9924/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+        "name": "Absorbing Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011236",
+        "name": "Bride of Nine Spiders (Immortal Weapons)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011235",
+        "name": "Dog Brother #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011233",
+        "name": "Fat Cobra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+        "name": "Iron Fist (Danny Rand)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009538",
+        "name": "Iron Patriot (James Rhodes)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009494",
+        "name": "Pepper Potts"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011234",
+        "name": "Prince of Orphans"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011237",
+        "name": "Tiger's Beautiful Daughter"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010669",
+        "name": "Titania"
+      }
+    ],
+    "returned": 11
+  },
+  "stories": {
+    "available": 28,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9924/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64720",
+        "name": "Iron Man 2.0 #1 ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64721",
+        "name": "Iron Man 2.0 #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64722",
+        "name": "Iron Man 2.0 (2011) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64723",
+        "name": "Interior #64723",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64724",
+        "name": "Iron Man 2.0 (2011) #11",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64725",
+        "name": "Interior #64725",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64726",
+        "name": "Cover #64726",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64727",
+        "name": "Interior #64727",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64728",
+        "name": "IRON MAN 2.0 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64729",
+        "name": "Interior #64729",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64730",
+        "name": "Iron Man 2.0 (2011) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64731",
+        "name": "Iron Man 2.0 (2011) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64732",
+        "name": "Iron Man 2.0 (2011) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64733",
+        "name": "Iron Man 2.0 (2011) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64734",
+        "name": "Iron Man 2.0 (2011) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64735",
+        "name": "Iron Man 2.0 (2011) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64736",
+        "name": "Iron Man 2.0 #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64737",
+        "name": "Interior #64737",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64738",
+        "name": "Cover #64738",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/64739",
+        "name": "Interior #64739",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9924/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29787",
+        "name": "Iron Man 2.0 (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29850",
+        "name": "Iron Man 2.0 (2011) #1 (VERMA VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29851",
+        "name": "Iron Man 2.0 (2011) #1 (DJURDJEVIC VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29791",
+        "name": "Iron Man 2.0 (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29792",
+        "name": "Iron Man 2.0 (2011) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29793",
+        "name": "Iron Man 2.0 (2011) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29794",
+        "name": "Iron Man 2.0 (2011) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29795",
+        "name": "Iron Man 2.0 (2011) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29796",
+        "name": "Iron Man 2.0 (2011) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39331",
+        "name": "Iron Man 2.0 (2011) #7.1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29797",
+        "name": "Iron Man 2.0 (2011) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29798",
+        "name": "Iron Man 2.0 (2011) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29788",
+        "name": "Iron Man 2.0 (2011) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29789",
+        "name": "Iron Man 2.0 (2011) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29790",
+        "name": "Iron Man 2.0 (2011) #12"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9924/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

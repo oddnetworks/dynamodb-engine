@@ -1,0 +1,422 @@
+{
+  "id": 2060,
+  "title": "Peter Parker: Spider-Man (1999 - 2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2060",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2060/peter_parker_spider-man_1999_-_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 2003,
+  "rating": "",
+  "type": "",
+  "modified": "2015-03-17T14:55:41-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 46,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2060/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2529",
+        "name": "Liz Agraphiotis",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4048",
+        "name": "Chris Dickey",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+        "name": "Joe Andreani",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4064",
+        "name": "Steve Behling",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1945",
+        "name": "Mark Bernardo",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5075",
+        "name": "Bobbie Chase",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2296",
+        "name": "Glenn Herdling",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/200",
+        "name": "Claudio Castellini",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3916",
+        "name": "Dan Fraga",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3074",
+        "name": "Ralph Cabrera",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2536",
+        "name": "Robert Campanella",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+        "name": "Harry Candelario",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2983",
+        "name": "Richard Case",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+        "name": "Mark Farmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+        "name": "Scott Hanna",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/409",
+        "name": "Liquid Graphics",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 31,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2060/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009177",
+        "name": "Bedlam"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009489",
+        "name": "Ben Parker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009185",
+        "name": "Black Cat"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+        "name": "Blade"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009212",
+        "name": "Bullseye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009217",
+        "name": "Callisto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009227",
+        "name": "Carnage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009287",
+        "name": "Electro"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009334",
+        "name": "Hammerhead"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+        "name": "Hydra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+        "name": "Iceman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+        "name": "Juggernaut"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009389",
+        "name": "Kingpin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009425",
+        "name": "Marrow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009490",
+        "name": "May Parker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009454",
+        "name": "Morbius"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009464",
+        "name": "Mysterio"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 149,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2060/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23710",
+        "name": "Cover #23710",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23711",
+        "name": "A Prelude in Red",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23712",
+        "name": "Post It to Peter!",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23713",
+        "name": "Cover #23713",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23714",
+        "name": "The Night of the Goblin! (Revelations, Part 4)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23715",
+        "name": "Cover #23715",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23716",
+        "name": "SHOC",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23717",
+        "name": "Cover #23717",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23718",
+        "name": "The Vampire's Kiss",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23719",
+        "name": "Crawl Space",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23720",
+        "name": "Cover #23720",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23721",
+        "name": "The Love of a Woman",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23722",
+        "name": "Crawl Space",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23723",
+        "name": "Cover #23723",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23724",
+        "name": "After the Fall",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23725",
+        "name": "Crawl Space",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23726",
+        "name": "Cover #23726",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23727",
+        "name": "Blood Simple",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23728",
+        "name": "Crawl Space",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/23729",
+        "name": "Cover #23729",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 68,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2060/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10506",
+        "name": "Peter Parker: Spider-Man (1999)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10517",
+        "name": "Peter Parker: Spider-Man (1999) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10528",
+        "name": "Peter Parker: Spider-Man (1999) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10539",
+        "name": "Peter Parker: Spider-Man (1999) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10550",
+        "name": "Peter Parker: Spider-Man (1999) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10561",
+        "name": "Peter Parker: Spider-Man (1999) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10570",
+        "name": "Peter Parker: Spider-Man (1999) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10571",
+        "name": "Peter Parker: Spider-Man (1999) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10572",
+        "name": "Peter Parker: Spider-Man (1999) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10573",
+        "name": "Peter Parker: Spider-Man (1999) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10518",
+        "name": "Peter Parker: Spider-Man (1999) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10519",
+        "name": "Peter Parker: Spider-Man (1999) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10520",
+        "name": "Peter Parker: Spider-Man (1999) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10521",
+        "name": "Peter Parker: Spider-Man (1999) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10522",
+        "name": "Peter Parker: Spider-Man (1999) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10523",
+        "name": "Peter Parker: Spider-Man (1999) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10524",
+        "name": "Peter Parker: Spider-Man (1999) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10525",
+        "name": "Peter Parker: Spider-Man (1999) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10526",
+        "name": "Peter Parker: Spider-Man (1999) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10527",
+        "name": "Peter Parker: Spider-Man (1999) #19"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2060/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/37",
+        "name": "Maximum Security"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

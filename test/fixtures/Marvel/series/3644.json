@@ -1,0 +1,236 @@
+{
+  "id": 3644,
+  "title": "X-Calibre (1995)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3644",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3644/x-calibre_1995?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1995,
+  "endYear": 1995,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/60/4bb79a1a060b2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5992",
+        "name": "Richard StarkinUs",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5991",
+        "name": "Toinay",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/937",
+        "name": "Renato Arlem",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+        "name": "Roger Cruz",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1248",
+        "name": "Ken Lashley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+        "name": "Carlos Pacheco",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+        "name": "Warren Ellis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+        "name": "Suzanne Gaffney",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2086",
+        "name": "Joe Rosas",
+        "role": "colorist"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009217",
+        "name": "Callisto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+        "name": "Deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009271",
+        "name": "Destiny"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+        "name": "Juggernaut"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009465",
+        "name": "Mystique"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009472",
+        "name": "Nightcrawler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38813",
+        "name": "Interior #38813",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38814",
+        "name": "The Infernal Gallop",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38815",
+        "name": "X-Facts",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38816",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38817",
+        "name": "Burn",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38818",
+        "name": "X-Facts: Reality Checked",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38819",
+        "name": "Cover #38819",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38820",
+        "name": "Body Heat",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38821",
+        "name": "X-Facts: Where Have All The Heroes Gone?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38822",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38823",
+        "name": "On Fire",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38824",
+        "name": "?",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67819",
+        "name": "X-Calibre 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67820",
+        "name": "X-Calibre 2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67821",
+        "name": "X-Calibre 4 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 15
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18253",
+        "name": "X-Calibre (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18254",
+        "name": "X-Calibre (1995) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18255",
+        "name": "X-Calibre (1995) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18256",
+        "name": "X-Calibre (1995) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3644/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/227",
+        "name": "Age of Apocalypse"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

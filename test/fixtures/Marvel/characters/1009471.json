@@ -9,7 +9,7 @@
   },
   "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
   "comics": {
-    "available": 271,
+    "available": 270,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009471/comics",
     "items": [
       {
@@ -120,12 +120,12 @@
         "name": "Astonishing X-Men Vol. 1: Gifted (2004)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
-        "name": "Avengers (1996 - 1997)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
         "name": "Avengers (1998 - 2004)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/3621",
+        "name": "Avengers (1996 - 1997)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/14985",
@@ -339,7 +339,7 @@
   "urls": [
     {
       "type": "detail",
-      "url": "http://marvel.com/comics/characters/1009471/nick_fury?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+      "url": "http://marvel.com/characters/2782/nick_fury?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
     },
     {
       "type": "wiki",

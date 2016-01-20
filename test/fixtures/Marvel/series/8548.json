@@ -1,0 +1,123 @@
+{
+  "id": 8548,
+  "title": "Ultimatum: Spider-Man Requiem (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8548",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8548/ultimatum_spider-man_requiem_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-01T16:31:22-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4bae819d4f62c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8548/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+        "name": "Wade von Grawbadger",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+        "name": "Stuart Immonen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+        "name": "Justin Ponsor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8548/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8548/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/59197",
+        "name": "Cover #59197",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/59198",
+        "name": "Interior #59198",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62497",
+        "name": "Cover #62497",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62498",
+        "name": "Interior #62498",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68679",
+        "name": "ULTIMATUM: SPIDER-MAN REQUIEM 1 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 5
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8548/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29906",
+        "name": "Ultimatum: Spider-Man Requiem (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28651",
+        "name": "Ultimatum: Spider-Man Requiem (2009) #1 (2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26943",
+        "name": "Ultimatum: Spider-Man Requiem (2009) #2"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8548/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

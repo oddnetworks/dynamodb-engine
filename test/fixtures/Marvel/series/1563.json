@@ -1,0 +1,163 @@
+{
+  "id": 1563,
+  "title": "Exiles Vol. 12: World Tour Book 1 (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1563",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1563/exiles_vol_12_world_tour_book_1_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED A",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4bc6031e87b1a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1563/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/352",
+        "name": "Tony Bedard",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/560",
+        "name": "Rick Magyar",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/559",
+        "name": "Paul Pelletier",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+        "name": "Wil Quintana",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1563/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009294",
+        "name": "Exiles"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009445",
+        "name": "Mimic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010969",
+        "name": "Sabretooth (Age of Apocalypse)"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1563/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1550",
+        "name": "Exiles (2001) #70",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1551",
+        "name": "2 of 3 - World Tour: House of M",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1552",
+        "name": "Exiles (2001) #71",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1553",
+        "name": "3 of 3 - World Tour: House of M",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1554",
+        "name": "1 of 3 - World Tour: House of M",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1555",
+        "name": "1 of 3 - World Tour: House of M",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1556",
+        "name": "1 of 3 - World Tour: New Universe",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1557",
+        "name": "1 of 3 - World Tour: New Universe",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1558",
+        "name": "2 of 3 - World Tour: New Universe",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1559",
+        "name": "2 of 3 - World Tour: New Universe",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1560",
+        "name": "3 of 3 - World Tour: New Universe",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1561",
+        "name": "3 of 3 - World Tour: New Universe",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65915",
+        "name": "EXILES VOL. 12: WORLD TOUR BOOK 1 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1563/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3499",
+        "name": "Exiles Vol. 12: World Tour Book 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1563/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

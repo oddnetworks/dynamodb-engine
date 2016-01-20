@@ -1,0 +1,345 @@
+{
+  "id": 375,
+  "title": "Marvel Age Spider-Man (2004 - 2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/375",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/375/marvel_age_spider-man_2004_-_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2005,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/b0/4bc6a5dca017e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 34,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/375/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6147",
+        "name": "HiFi Colour",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+        "name": "Udon Comics",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4496",
+        "name": "Hi Fi Design",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/415",
+        "name": "Derec Aucoin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/663",
+        "name": "Shane Davis",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/778",
+        "name": "Valentine De Landro",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/700",
+        "name": "Logan Lubera",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/356",
+        "name": "Roger Cruz",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/605",
+        "name": "Rob Campanella",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/692",
+        "name": "Pat Davidson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9271",
+        "name": "Pierre-Andre Dery",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/689",
+        "name": "Derek Fridolfs",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/699",
+        "name": "Norman Lee",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2988",
+        "name": "Nathan Massengill",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+        "name": "Todd Dezago",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/375/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 40,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/375/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2751",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2752",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2753",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2754",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2755",
+        "name": "Cover #2755",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2756",
+        "name": "Interior #2756",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2757",
+        "name": "Cover #2757",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2758",
+        "name": "Interior #2758",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2759",
+        "name": "Cover #2759",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2760",
+        "name": "Interior #2760",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2761",
+        "name": "Cover #2761",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2762",
+        "name": "Interior #2762",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2763",
+        "name": "Cover #2763",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2764",
+        "name": "Interior #2764",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2765",
+        "name": "Cover #2765",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2766",
+        "name": "Interior #2766",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2767",
+        "name": "Cover #2767",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2768",
+        "name": "Interior #2768",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2769",
+        "name": "Cover #2769",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2770",
+        "name": "Interior #2770",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/375/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/222",
+        "name": "Marvel Age Spider-Man (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/452",
+        "name": "Marvel Age Spider-Man (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/620",
+        "name": "Marvel Age Spider-Man (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/653",
+        "name": "Marvel Age Spider-Man (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/681",
+        "name": "Marvel Age Spider-Man (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/728",
+        "name": "Marvel Age Spider-Man (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/610",
+        "name": "Marvel Age Spider-Man (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/546",
+        "name": "Marvel Age Spider-Man (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/564",
+        "name": "Marvel Age Spider-Man (2004) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/753",
+        "name": "Marvel Age Spider-Man (2004) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/793",
+        "name": "Marvel Age Spider-Man (2004) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/819",
+        "name": "Marvel Age Spider-Man (2004) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/870",
+        "name": "Marvel Age Spider-Man (2004) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/900",
+        "name": "Marvel Age Spider-Man (2004) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58",
+        "name": "Marvel Age Spider-Man (2004) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/59",
+        "name": "Marvel Age Spider-Man (2004) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1454",
+        "name": "Marvel Age Spider-Man (2004) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1455",
+        "name": "Marvel Age Spider-Man (2004) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1551",
+        "name": "Marvel Age Spider-Man (2004) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1552",
+        "name": "Marvel Age Spider-Man (2004) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/375/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

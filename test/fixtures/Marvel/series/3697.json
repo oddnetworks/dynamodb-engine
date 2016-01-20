@@ -1,0 +1,119 @@
+{
+  "id": 3697,
+  "title": "Punisher Kills the Marvel Universe (1995)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3697",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3697/punisher_kills_the_marvel_universe_1995?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1995,
+  "endYear": 1995,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/f0/4bb6f7605eee9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3697/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4135",
+        "name": "Shannon Blanchard",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1066",
+        "name": "Tom Smith",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/128",
+        "name": "Doug Braithwaite",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3412",
+        "name": "Marcus McLaurin",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7842",
+        "name": "Nancy Poletti",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1894",
+        "name": "Bill Oakley",
+        "role": "letterer"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3697/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3697/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40529",
+        "name": "Cover #40529",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40530",
+        "name": "Punisher Kills the Marvel Universe",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57608",
+        "name": "Cover #57608",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57609",
+        "name": "Interior #57609",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3697/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/18956",
+        "name": "Punisher Kills the Marvel Universe (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26157",
+        "name": "Punisher Kills the Marvel Universe (1995) #1 (DILLON 2ND PRINTING VARIANT)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3697/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

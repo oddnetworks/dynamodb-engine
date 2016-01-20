@@ -1,0 +1,189 @@
+{
+  "id": 8853,
+  "title": "Nick Fury, Agent of Shield (1983 - 1984)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8853",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8853/nick_fury_agent_of_shield_1983_-_1984?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1983,
+  "endYear": 1984,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8853/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+        "name": "Joe Sinnott",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5430",
+        "name": "John Tartag",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+        "name": "Archie Goodwin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/61",
+        "name": "Jim Steranko",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2036",
+        "name": "Andy Yanchus",
+        "role": "colorist"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8853/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8853/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60731",
+        "name": "Cover #60731",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60732",
+        "name": "A Few Words About Jim Steranko",
+        "type": "text feature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60733",
+        "name": "Who Is Scorpio?",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60734",
+        "name": "-----",
+        "type": "cover reprint"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60735",
+        "name": "-----",
+        "type": "cover reprint"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60736",
+        "name": "Fun House",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60737",
+        "name": "Today Earth Died",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60738",
+        "name": "Cover #60738",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60739",
+        "name": "Why I failed to Become a Super-Star My First Year at Marvel",
+        "type": "text feature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60740",
+        "name": "Whatever Happened to Scorpio?",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60741",
+        "name": "Nick Fury",
+        "type": "text feature"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60742",
+        "name": "-----",
+        "type": "cover gallery"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60743",
+        "name": "Dark Moon Rise, Hell Hound Kill",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60744",
+        "name": "Today Earth Died",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60745",
+        "name": "-----",
+        "type": "back cover"
+      }
+    ],
+    "returned": 15
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8853/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27757",
+        "name": "Nick Fury, Agent of Shield (1983) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27758",
+        "name": "Nick Fury, Agent of Shield (1983) #2"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8853/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

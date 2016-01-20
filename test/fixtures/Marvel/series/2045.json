@@ -1,0 +1,417 @@
+{
+  "id": 2045,
+  "title": "Marvel Premiere (1972 - 1981)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2045",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2045/marvel_premiere_1972_-_1981?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1972,
+  "endYear": 1981,
+  "rating": "",
+  "type": "",
+  "modified": "2014-06-19T12:25:20-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bad3e5c10849",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 139,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2045/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3094",
+        "name": "Aubrey Bradford",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3109",
+        "name": "Crusty Bunkers",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+        "name": "Vince Colletta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1288",
+        "name": "Jerry Bingham",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1185",
+        "name": "Pat Broderick",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/106",
+        "name": "Bob Brown",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/125",
+        "name": "Frank Brunner",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1394",
+        "name": "Bob Budiansky",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+        "name": "Dave Cockrum",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1758",
+        "name": "Jan Brunner",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+        "name": "Janice Cohen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3135",
+        "name": "Alice Cooper",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 21,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2045/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011334",
+        "name": "3-D Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+        "name": "Adam Warlock"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009284",
+        "name": "Dum Dum Dugan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+        "name": "Falcon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011024",
+        "name": "Invaders"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+        "name": "Iron Fist (Danny Rand)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010811",
+        "name": "Man-Wolf"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010873",
+        "name": "Paladin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011035",
+        "name": "Satana"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010733",
+        "name": "Star-Lord (Peter Quill)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009670",
+        "name": "Tigra (Greer Nelson)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010372",
+        "name": "Warhawk (Mitchell Tanner)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010765",
+        "name": "Werewolf By Night"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009719",
+        "name": "Wonder Man"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 135,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2045/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19887",
+        "name": "Cover #19887",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19888",
+        "name": "And Men Shall Call Him Warlock",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19889",
+        "name": "Cover #19889",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19890",
+        "name": "Finally, Shuma-Gorath!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19891",
+        "name": "Cover #19891",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19892",
+        "name": "Homecoming!",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19893",
+        "name": "The Origin of Dr. Strange",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19894",
+        "name": "The Many Traps of Baron Mordo",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19895",
+        "name": "No man walks twice thru the Doorway of Doom!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19896",
+        "name": "Portal to the Past!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19897",
+        "name": "Cover #19897",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19898",
+        "name": "Time Doom",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19899",
+        "name": "Cover #19899",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19900",
+        "name": "Sise-Neg Genesis",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19901",
+        "name": "Cover #19901",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19902",
+        "name": "The Fury of Iron Fist!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19903",
+        "name": "Cover #19903",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19904",
+        "name": "Heart of the Dragon!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19905",
+        "name": "Citadel of Vengeance!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19906",
+        "name": "Citadel On the Edge of Vengeance",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 61,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2045/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10195",
+        "name": "Marvel Premiere (1972) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10206",
+        "name": "Marvel Premiere (1972) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10217",
+        "name": "Marvel Premiere (1972) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10228",
+        "name": "Marvel Premiere (1972) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10239",
+        "name": "Marvel Premiere (1972) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10250",
+        "name": "Marvel Premiere (1972) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10253",
+        "name": "Marvel Premiere (1972) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10254",
+        "name": "Marvel Premiere (1972) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10255",
+        "name": "Marvel Premiere (1972) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10196",
+        "name": "Marvel Premiere (1972) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10197",
+        "name": "Marvel Premiere (1972) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10198",
+        "name": "Marvel Premiere (1972) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10199",
+        "name": "Marvel Premiere (1972) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10200",
+        "name": "Marvel Premiere (1972) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10201",
+        "name": "Marvel Premiere (1972) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10202",
+        "name": "Marvel Premiere (1972) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10203",
+        "name": "Marvel Premiere (1972) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10204",
+        "name": "Marvel Premiere (1972) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10205",
+        "name": "Marvel Premiere (1972) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10207",
+        "name": "Marvel Premiere (1972) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2045/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

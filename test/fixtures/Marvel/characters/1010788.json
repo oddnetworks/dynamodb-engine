@@ -112,12 +112,12 @@
         "name": "Avengers: The Initiative Vol. 1 - Basic Training Premiere (2007)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/1928",
-        "name": "Beyond! (2007)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/997",
         "name": "Beyond! (2006)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/1928",
+        "name": "Beyond! (2007)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/13259",
@@ -250,12 +250,16 @@
     "returned": 20
   },
   "events": {
-    "available": 4,
+    "available": 5,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1010788/events",
     "items": [
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/events/296",
         "name": "Chaos War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/238",
+        "name": "Civil War"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/events/318",
@@ -270,7 +274,7 @@
         "name": "Spider-Island"
       }
     ],
-    "returned": 4
+    "returned": 5
   },
   "urls": [
     {

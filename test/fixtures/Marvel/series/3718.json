@@ -1,0 +1,377 @@
+{
+  "id": 3718,
+  "title": "Marvel Preview (1977 - 1981)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3718",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3718/marvel_preview_1977_-_1981?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1977,
+  "endYear": 1981,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/f0/4bb689fe1656b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 125,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3718/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6535",
+        "name": "B.K.",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6564",
+        "name": "Fuller",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1258",
+        "name": "Alfredo Alcala",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3186",
+        "name": "Vicente Alcazar",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6531",
+        "name": "Janet Elizabeth Aulisio",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6507",
+        "name": "Ken Barr",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6546",
+        "name": "Steve Bissette",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1223",
+        "name": "John Bolton",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/106",
+        "name": "Bob Brown",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3166",
+        "name": "Rick Bryant",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6541",
+        "name": "Romas",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1185",
+        "name": "Pat Broderick",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6503",
+        "name": "Josef Rubinstein as The Crusty Bunkers",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6566",
+        "name": "Edward S. Barkan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1352",
+        "name": "Mike W. Barr",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3718/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+        "name": "Blade"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010677",
+        "name": "Dracula"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011074",
+        "name": "Lilith"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009420",
+        "name": "Man-Thing"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009454",
+        "name": "Morbius"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011035",
+        "name": "Satana"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010733",
+        "name": "Star-Lord (Peter Quill)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 10
+  },
+  "stories": {
+    "available": 206,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3718/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41886",
+        "name": "Good Lord!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41887",
+        "name": "pin-up",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41888",
+        "name": "Man-Gods From Beyond The Stars",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41889",
+        "name": "textpiece: Erich von Daniken: The Man Behind A Phenomenon",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41890",
+        "name": "textpiece: The Chariots Of Erich von Daniken",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41891",
+        "name": "\"textpiece: Facts On \"\"Danikenitis\"\"- The von Daniken Phenomenon\"",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41892",
+        "name": "textpiece: The Books Of The Gods",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41893",
+        "name": "pin-up",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41894",
+        "name": "Good Lord!",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41895",
+        "name": "ad (subscription)",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41896",
+        "name": "ad (next issue)",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41897",
+        "name": "Cover #41897",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41898",
+        "name": "pin-up",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41899",
+        "name": "pin-up",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41900",
+        "name": "Thor The Mighty!",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41901",
+        "name": "ad (next issue)",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41902",
+        "name": "The Isle Of Fear",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41903",
+        "name": "pin-up",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41904",
+        "name": "Cover #41904",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41905",
+        "name": "pin-up",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3718/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19758",
+        "name": "Marvel Preview (1977) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19769",
+        "name": "Marvel Preview (1977) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19775",
+        "name": "Marvel Preview (1977) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19776",
+        "name": "Marvel Preview (1977) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19777",
+        "name": "Marvel Preview (1977) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19778",
+        "name": "Marvel Preview (1977) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19779",
+        "name": "Marvel Preview (1977) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19780",
+        "name": "Marvel Preview (1977) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19781",
+        "name": "Marvel Preview (1977) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19759",
+        "name": "Marvel Preview (1977) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19760",
+        "name": "Marvel Preview (1977) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19761",
+        "name": "Marvel Preview (1977) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19762",
+        "name": "Marvel Preview (1977) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19763",
+        "name": "Marvel Preview (1977) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19764",
+        "name": "Marvel Preview (1977) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19765",
+        "name": "Marvel Preview (1977) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19766",
+        "name": "Marvel Preview (1977) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19767",
+        "name": "Marvel Preview (1977) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19768",
+        "name": "Marvel Preview (1977) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19770",
+        "name": "Marvel Preview (1977) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3718/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

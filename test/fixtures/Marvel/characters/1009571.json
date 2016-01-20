@@ -9,7 +9,7 @@
   },
   "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009571",
   "comics": {
-    "available": 61,
+    "available": 59,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009571/comics",
     "items": [
       {
@@ -96,15 +96,15 @@
     "returned": 20
   },
   "series": {
-    "available": 26,
+    "available": 25,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009571/series",
     "items": [
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
         "name": "Adam: Legend of the Blue Marvel (2008)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/6079",
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/7524",
         "name": "Adam: Legend of the Blue Marvel (2008)"
       },
       {
@@ -327,7 +327,7 @@
   "urls": [
     {
       "type": "detail",
-      "url": "http://marvel.com/characters/2048/sentry?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+      "url": "http://marvel.com/comics/characters/1009571/sentry_robert_reynolds?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
     },
     {
       "type": "wiki",

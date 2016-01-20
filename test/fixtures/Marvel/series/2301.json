@@ -1,0 +1,397 @@
+{
+  "id": 2301,
+  "title": "Marvel Super-Heroes (1992 - 1993)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2301",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2301/marvel_super-heroes_1992_-_1993?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1992,
+  "endYear": 1993,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 136,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2301/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2278",
+        "name": "Paul Abrams",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2112",
+        "name": "Larry Alexander",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+        "name": "Steve Buccellato",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4874",
+        "name": "Joe Barney",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1394",
+        "name": "Bob Budiansky",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2707",
+        "name": "Jeff Albrecht",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2684",
+        "name": "Jim Amash",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2939",
+        "name": "Dell Barras",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4862",
+        "name": "Pat Breeding",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3850",
+        "name": "Hollis Bright",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3074",
+        "name": "Ralph Cabrera",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4871",
+        "name": "Brian Bauer",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4864",
+        "name": "Richard Bensam",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4860",
+        "name": "Connie Buitelman",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 52,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2301/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009146",
+        "name": "Abomination (Emil Blonsky)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+        "name": "Absorbing Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+        "name": "Adam Warlock"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009169",
+        "name": "Baron Strucker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+        "name": "Black Knight (Sir Percy of Scandia)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009273",
+        "name": "Diablo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+        "name": "Falcon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+        "name": "Havok"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010351",
+        "name": "Hellcat (Patsy Walker)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+        "name": "Hercules"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+        "name": "Hydra"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 75,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2301/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31575",
+        "name": "Cover #31575",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31576",
+        "name": "Old Business",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31577",
+        "name": "I Shot an Arrow into the Sky!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31578",
+        "name": "The Sacrifice",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31579",
+        "name": "Don't Do that Voodoo You do so Well",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31580",
+        "name": "Pulitzer Patty",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31581",
+        "name": "Who Wants to Live Forever?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31582",
+        "name": "Conflagration",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31583",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31584",
+        "name": "Cover #31584",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31585",
+        "name": "",
+        "type": "foreword"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31586",
+        "name": "Fireworks",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31587",
+        "name": "Not To Touch The Earth",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31588",
+        "name": "Cry Vengeance",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31589",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31590",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31591",
+        "name": "Cover #31591",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31592",
+        "name": "Ludd Conquers All",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31593",
+        "name": "",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/31594",
+        "name": "The Education of Augustyne Phyffe",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2301/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15511",
+        "name": "Marvel Super-Heroes (1992) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15518",
+        "name": "Marvel Super-Heroes (1992) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15519",
+        "name": "Marvel Super-Heroes (1992) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15520",
+        "name": "Marvel Super-Heroes (1992) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15521",
+        "name": "Marvel Super-Heroes (1992) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15522",
+        "name": "Marvel Super-Heroes (1992) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15523",
+        "name": "Marvel Super-Heroes (1992) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15524",
+        "name": "Marvel Super-Heroes (1992) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15525",
+        "name": "Marvel Super-Heroes (1992) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15512",
+        "name": "Marvel Super-Heroes (1992) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15513",
+        "name": "Marvel Super-Heroes (1992) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15514",
+        "name": "Marvel Super-Heroes (1992) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15515",
+        "name": "Marvel Super-Heroes (1992) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15516",
+        "name": "Marvel Super-Heroes (1992) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15517",
+        "name": "Marvel Super-Heroes (1992) #15"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2301/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

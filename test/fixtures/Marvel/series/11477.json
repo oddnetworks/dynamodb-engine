@@ -1,0 +1,406 @@
+{
+  "id": 11477,
+  "title": "New Mutants (2010 - 2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/11477",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/11477/new_mutants_2010_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T14:34:22-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/51310267ef1fe",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 31,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11477/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/366",
+        "name": "Mike Carey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10405",
+        "name": "John Tyler Christopher",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+        "name": "Jason Keith",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/241",
+        "name": "Dale Keown",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4981",
+        "name": "Steve Kurth",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+        "name": "Kris Anka",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10433",
+        "name": "Alvaro Lopez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8349",
+        "name": "David Lopez Lopez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "Letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/273",
+        "name": "Leandro Fernandez",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/827",
+        "name": "Carmine Di Giandomenico",
+        "role": "Inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11486",
+        "name": "Sebastian Girner",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11737",
+        "name": "Daniel Ketchum",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5363",
+        "name": "John Lowe",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10785",
+        "name": "Stephanie Hans",
+        "role": "Penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12320",
+        "name": "Klebs Junior",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11477/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011385",
+        "name": "Cypher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009453",
+        "name": "Dani Moonstar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+        "name": "Emma Frost"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011386",
+        "name": "Karma"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009399",
+        "name": "Legion"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009415",
+        "name": "Magik (Illyana Rasputin)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009416",
+        "name": "Magma (Amara Aquilla)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011336",
+        "name": "New Mutants"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011212",
+        "name": "Sugar Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009638",
+        "name": "Sunspot"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011287",
+        "name": "Warlock (Technarchy)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009725",
+        "name": "X-Man"
+      }
+    ],
+    "returned": 16
+  },
+  "stories": {
+    "available": 56,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11477/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81020",
+        "name": "New Mutants #22 ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81034",
+        "name": "NEW MUTANTS #23 ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89149",
+        "name": "Cover #89149",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89150",
+        "name": "Interior #89150",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89196",
+        "name": "Cover #89196",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89204",
+        "name": "Interior #89204",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89835",
+        "name": "New Mutants #22 Mann Variant",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89981",
+        "name": "New Mutants (2010) #22, 2nd Printing Variant",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90001",
+        "name": "New Mutants (2010) #22, 2nd Printing Variant",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90792",
+        "name": "New Mutants (2010) #27, I Am Captain America Variant",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90793",
+        "name": "Interior #90793",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91137",
+        "name": "Cover #91137",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92250",
+        "name": "Cover #92250",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92251",
+        "name": "Interior #92251",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92252",
+        "name": "Cover #92252",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92253",
+        "name": "Interior #92253",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92254",
+        "name": "Cover #92254",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92255",
+        "name": "Interior #92255",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92256",
+        "name": "New Mutants (2010) #40",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92257",
+        "name": "Interior #92257",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11477/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38520",
+        "name": "New Mutants (2010) #22 (MANN VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39647",
+        "name": "New Mutants (2010) #22 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40170",
+        "name": "New Mutants (2010) #23 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39280",
+        "name": "New Mutants (2010) #25 (Adams Variant )"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40011",
+        "name": "New Mutants (2010) #27 (I Am Captain America Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38080",
+        "name": "New Mutants (2010) #33"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41448",
+        "name": "New Mutants (2010) #33 (Keown Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38079",
+        "name": "New Mutants (2010) #34"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40721",
+        "name": "New Mutants (2010) #35"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41874",
+        "name": "New Mutants (2010) #35 (Pearson Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40717",
+        "name": "New Mutants (2010) #36"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40726",
+        "name": "New Mutants (2010) #37"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40728",
+        "name": "New Mutants (2010) #38"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40725",
+        "name": "New Mutants (2010) #39"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40716",
+        "name": "New Mutants (2010) #40"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40724",
+        "name": "New Mutants (2010) #41"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40718",
+        "name": "New Mutants (2010) #42"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40720",
+        "name": "New Mutants (2010) #43"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40723",
+        "name": "New Mutants (2010) #44"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42933",
+        "name": "New Mutants (2010) #44 (Asm in Motion Variant)"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/11477/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+        "name": "X-Men: Regenesis"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

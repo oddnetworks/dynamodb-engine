@@ -1,0 +1,195 @@
+{
+  "id": 648,
+  "title": "Hulk: Nightmerica (2003 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/648",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/648/hulk_nightmerica_2003_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/4bc36a37ab7b7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/648/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/546",
+        "name": "Brian Ashmore",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/211",
+        "name": "Mark Bright",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4421",
+        "name": "MacKenzie Cadenhead",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/759",
+        "name": "C. B. Cebulski",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1282",
+        "name": "Ralph Macchio",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4411",
+        "name": "Stephanie Moore",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5089",
+        "name": "Dolly Setton",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5091",
+        "name": "Robin D. Laws",
+        "role": "writer"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/648/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/648/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1304",
+        "name": "Cover #1304",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1305",
+        "name": "Interior #1305",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2261",
+        "name": "Cover #2261",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2262",
+        "name": "Interior #2262",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32872",
+        "name": "Cover #32872",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32873",
+        "name": "Nightmerica The Quarry",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32874",
+        "name": "Cover #32874",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32875",
+        "name": "Interior #32875",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32876",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32877",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67524",
+        "name": "Hulk: Nightmerica 3 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67525",
+        "name": "Hulk: Nightmerica 4 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/648/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16090",
+        "name": "Hulk: Nightmerica (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16091",
+        "name": "Hulk: Nightmerica (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16092",
+        "name": "Hulk: Nightmerica (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16093",
+        "name": "Hulk: Nightmerica (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/382",
+        "name": "Hulk: Nightmerica (2003) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/288",
+        "name": "Hulk: Nightmerica (2003) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/648/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

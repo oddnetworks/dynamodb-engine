@@ -1,0 +1,213 @@
+{
+  "id": 262,
+  "title": "Wolverine Vol. I: The Brothers (2003)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/262",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/262/wolverine_vol_i_the_brothers_2003?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2003,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/d0/4bc36546cc104",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/262/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+        "name": "John Miesegaes",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4593",
+        "name": "Warren Simons",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4258",
+        "name": "Studio F",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+        "name": "Esad Ribic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/49",
+        "name": "Darick Robertson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/28",
+        "name": "Greg Rucka",
+        "role": "writer"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/262/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+        "name": "A.I.M."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/262/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/336",
+        "name": "Interior #336",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1498",
+        "name": "Cover #1498",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1499",
+        "name": "Interior #1499",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28969",
+        "name": "Cover #28969",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28970",
+        "name": "[Credits and Recap]",
+        "type": "credits"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28971",
+        "name": "[The Brothers Part I]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28988",
+        "name": "Brotherhood Part II",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28989",
+        "name": "[Credits and Recap]",
+        "type": "credits"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28990",
+        "name": "[The Brothers Part II]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29019",
+        "name": "Brotherhood Part III",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29020",
+        "name": "[Credits and Recap]",
+        "type": "credits"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29021",
+        "name": "[The Brothers Part III]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29055",
+        "name": "Brotherhood Part IV",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29056",
+        "name": "[Credits and Recap]",
+        "type": "credits"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29057",
+        "name": "The Brothers Part IV",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29062",
+        "name": "Brotherhood Part V",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29063",
+        "name": "[Credits and Recap]",
+        "type": "credits"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/29064",
+        "name": "The Brothers Part V",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65295",
+        "name": "WOLVERINE VOL. I: THE BROTHERS TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 19
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/262/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1205",
+        "name": "Wolverine Vol. I: The Brothers (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/262/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

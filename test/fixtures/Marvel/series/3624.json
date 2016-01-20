@@ -1,0 +1,310 @@
+{
+  "id": 3624,
+  "title": "Avengers West Coast Annual (1989 - 1993)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3624",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3624/avengers_west_coast_annual_1989_-_1993?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1989,
+  "endYear": 1993,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 76,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3624/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1937",
+        "name": "Jon Babcock",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2309",
+        "name": "Susan Crespi",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2112",
+        "name": "Larry Alexander",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5830",
+        "name": "David Ammerman",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5826",
+        "name": "Al Bigley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4794",
+        "name": "Steve Carr",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8018",
+        "name": "Amanda Conner",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3456",
+        "name": "Gavin Curtis",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5833",
+        "name": "Mike Barriero",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5834",
+        "name": "Maria Beccari",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5823",
+        "name": "Danny Bulanadi",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2713",
+        "name": "Gary Barnum",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5822",
+        "name": "Carrie Barre",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+        "name": "Paul Becton",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2048",
+        "name": "Paty Cockrum",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3624/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010868",
+        "name": "Firebird"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009538",
+        "name": "Iron Patriot (James Rhodes)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010854",
+        "name": "Living Lightning"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+        "name": "Scarlet Witch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009707",
+        "name": "Wasp"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 34,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3624/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37904",
+        "name": "Avengers West Coast Annual (1989) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37905",
+        "name": "Gather Now Ye Seven Brides",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37906",
+        "name": "Rate The Hunks",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37907",
+        "name": "The Last Good Soldier",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37908",
+        "name": "So What Are You Going To Do After You Conquer the World?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37909",
+        "name": "Saga of the Serpent Crown: Crisis Management",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37910",
+        "name": "Cover #37910",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37911",
+        "name": "When Titans Trash",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37912",
+        "name": "Media Watch",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37913",
+        "name": "Tanks for Nothing",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37914",
+        "name": "Don't You Daaare Miss It!",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37915",
+        "name": "Honey, I Shrunk the Hyperatomic Anti-Proton Cannon",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37916",
+        "name": "Cover #37916",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37917",
+        "name": "Storm in Subterranea",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37918",
+        "name": "West Side Story",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37919",
+        "name": "A Wasp In Hollywood",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37920",
+        "name": "Justice, Like Lightning",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37921",
+        "name": "Cover #37921",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37922",
+        "name": "[Assault of Armor City] Pt. II Locate",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37923",
+        "name": "A Study In Scarlet",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3624/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17842",
+        "name": "Avengers West Coast Annual (1989) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17843",
+        "name": "Avengers West Coast Annual (1989) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17844",
+        "name": "Avengers West Coast Annual (1989) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17845",
+        "name": "Avengers West Coast Annual (1989) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17846",
+        "name": "Avengers West Coast Annual (1989) #8"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3624/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+        "name": "Evolutionary War"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

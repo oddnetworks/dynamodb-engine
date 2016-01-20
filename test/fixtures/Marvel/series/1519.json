@@ -1,0 +1,151 @@
+{
+  "id": 1519,
+  "title": "Ultimate X-Men Vol. 12: Hard Lessons (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1519",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1519/ultimate_x-men_vol_12_hard_lessons_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "ALL AGES",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/4bc615f80d028",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1519/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+        "name": "Wade von Grawbadger",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+        "name": "Stuart Immonen",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+        "name": "Justin Ponsor",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/190",
+        "name": "Brian K. Vaughan",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1519/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014997",
+        "name": "Deathstrike (Ultimate)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010958",
+        "name": "Professor X (Ultimate)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010978",
+        "name": "Storm (Ultimate)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011006",
+        "name": "Wolverine (Ultimate)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011109",
+        "name": "X-Men (Ultimate)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1519/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1448",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1449",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1450",
+        "name": "1 of 2 - Wolverine & Storm",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1451",
+        "name": "1 of 2 - Wolverine & Storm",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1452",
+        "name": "2 of 2 - Wolverine & Storm",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1453",
+        "name": "2 of 2 - Wolverine & Storm",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36757",
+        "name": "Cover #36757",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36758",
+        "name": "Interior #36758",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65879",
+        "name": "ULTIMATE X-MEN VOL. 12: HARD LESSONS 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1519/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3038",
+        "name": "Ultimate X-Men Vol. 12: Hard Lessons (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1519/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

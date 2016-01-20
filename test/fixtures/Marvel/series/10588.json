@@ -1,0 +1,80 @@
+{
+  "id": 10588,
+  "title": "UNCANNY X-FORCE VOL. 2: DEATHLOK NATION TPB (2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10588",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10588/uncanny_x-force_vol_2_deathlok_nation_tpb_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2011-11-21T09:47:20-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10588/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11835",
+        "name": "Rick Remender",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+        "name": "Esad Ribic",
+        "role": "penciller"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10588/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10588/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74515",
+        "name": "Cover #74515",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74517",
+        "name": "Interior #74517",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10588/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33096",
+        "name": "UNCANNY X-FORCE VOL. 2: DEATHLOK NATION TPB (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10588/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

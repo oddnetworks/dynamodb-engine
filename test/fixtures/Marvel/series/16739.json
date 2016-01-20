@@ -1,0 +1,166 @@
+{
+  "id": 16739,
+  "title": "Ultimate Comics Iron Man (2012 - 2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16739",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16739/ultimate_comics_iron_man_2012_-_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2013,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2013-01-22T16:43:50-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/e0/50ff0747d1678",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16739/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11841",
+        "name": "Sana Amanat",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11798",
+        "name": "Matteo Buffagni",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11799",
+        "name": "Nathan Edmondson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11716",
+        "name": "Franklin J. Stockton",
+        "role": "artist (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11453",
+        "name": "Andrew J. Troy",
+        "role": "colorist"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16739/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16739/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/99751",
+        "name": "cover from Ultimate Comics Iron Man (2012) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/99752",
+        "name": "story from Ultimate Comics Iron Man (2012) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/102273",
+        "name": "cover from Ultimate Comics Iron Man (2012) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/102274",
+        "name": "story from Ultimate Comics Iron Man (2012) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104672",
+        "name": "cover from Ultimate Comics Iron Man (2012) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104673",
+        "name": "story from Ultimate Comics Iron Man (2012) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104676",
+        "name": "cover from Ultimate Comics Iron Man (2012) #1 (DELL'OTTO VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104677",
+        "name": "story from Ultimate Comics Iron Man (2012) #1 (DELL'OTTO VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104678",
+        "name": "cover from Ultimate Comics Iron Man (2012) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/104679",
+        "name": "story from Ultimate Comics Iron Man (2012) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105450",
+        "name": "Ultimate Comics Iron Man #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16739/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45715",
+        "name": "Ultimate Comics Iron Man (2012) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46543",
+        "name": "Ultimate Comics Iron Man (2012) #1 (Dell'otto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/44254",
+        "name": "Ultimate Comics Iron Man (2012) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/45421",
+        "name": "Ultimate Comics Iron Man (2012) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46544",
+        "name": "Ultimate Comics Iron Man (2012) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16739/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,307 @@
+{
+  "id": 116,
+  "title": "Exiles Vol. II: A World Apart (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/116",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/116/exiles_vol_ii_a_world_apart_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bc66a2aebe82",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/116/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5281",
+        "name": "Christopher Butcher",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/618",
+        "name": "Transparency Digital",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/176",
+        "name": "J. Calafiore",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5268",
+        "name": "Jim Calafiore",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9137",
+        "name": "Mike McKone",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2120",
+        "name": "Liam Sharp",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5280",
+        "name": "Anne Timmons",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/622",
+        "name": "Eric Cannon",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/558",
+        "name": "Mark McKenna",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+        "name": "Mike Marts",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/684",
+        "name": "Mike Raicht",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+        "name": "Tom Orzechowski",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4210",
+        "name": "Paul Tutrone",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5278",
+        "name": "Trina Robbins",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/132",
+        "name": "Judd Winick",
+        "role": "writer"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/116/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009197",
+        "name": "Blink"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009294",
+        "name": "Exiles"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+        "name": "Galactus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009445",
+        "name": "Mimic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+        "name": "Mister Sinister"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009456",
+        "name": "Morph"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009459",
+        "name": "Mr. Fantastic"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009474",
+        "name": "Nocturne"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009560",
+        "name": "Sasquatch (Walter Langkowski)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009599",
+        "name": "Skrulls"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011051",
+        "name": "Strong Guy"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009636",
+        "name": "Sunfire"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009651",
+        "name": "Terrax"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009666",
+        "name": "Thunderbird (John Proudstar)"
+      }
+    ],
+    "returned": 19
+  },
+  "stories": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/116/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/564",
+        "name": "Interior #564",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34028",
+        "name": "A World Apart Part 3 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34029",
+        "name": "A World Apart Part Three Of Three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34030",
+        "name": "Cover #34030",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34031",
+        "name": "Play Date",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34032",
+        "name": "[Reality Check]",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34063",
+        "name": "Cover #34063",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34064",
+        "name": "Up North and In the Green (part 2)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34065",
+        "name": "'Nuff Said",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34066",
+        "name": "A Chance To Dream . . .",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34067",
+        "name": "'Nuff Said",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34068",
+        "name": "Never-Before-Seen Cover by Liam McCormack-Sharp",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34069",
+        "name": "Exiles",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34070",
+        "name": "A World Apart Part 1 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34071",
+        "name": "A World Apart Part One Of Three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34072",
+        "name": "A World Apart Part 2 of 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34073",
+        "name": "A World Apart Part Two Of Three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/34074",
+        "name": "[Reality Check]",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65194",
+        "name": "EXILES VOL. II: A WORLD APART TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 19
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/116/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1056",
+        "name": "Exiles Vol. II: A World Apart (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/116/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

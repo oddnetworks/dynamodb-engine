@@ -1,0 +1,83 @@
+{
+  "id": 5099,
+  "title": "Wolverine: Enemy of the State Ultimate Collection (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5099",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5099/wolverine_enemy_of_the_state_ultimate_collection_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/60/4bb7c608c7416",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5099/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5099/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5099/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47385",
+        "name": "Wolverine 20-32",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47386",
+        "name": "Wolverine 20-32",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106713",
+        "name": "",
+        "type": "cover"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5099/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21455",
+        "name": "Wolverine: Enemy of the State Ultimate Collection (Trade Paperback)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42787",
+        "name": "Wolverine: Enemy of the State Ultimate Collection (2008)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5099/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/245",
+        "name": "Enemy of the State"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

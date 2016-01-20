@@ -1,0 +1,114 @@
+{
+  "id": 17719,
+  "title": "Age of Ultron: AI (2013)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17719",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17719/age_of_ultron_ai_2013?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2013,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2015-08-27T12:53:16-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/5384f3bcb86ef",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17719/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12297",
+        "name": "Andre Araujo",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+        "name": "Sara Pichelli",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/272",
+        "name": "Paolo Rivera",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8924",
+        "name": "Lauren Sankovitch",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+        "name": "Mark Waid",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17719/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17719/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105737",
+        "name": "cover from Age of Ultron: Epilogue (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105738",
+        "name": "story from Age of Ultron: Epilogue (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107634",
+        "name": "cover from Age of Ultron: Epilogue (2013) #1 (RIVERA VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107635",
+        "name": "story from Age of Ultron: Epilogue (2013) #1 (RIVERA VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17719/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47072",
+        "name": "Age of Ultron: AI (2013) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47677",
+        "name": "Age of Ultron: AI (2013) #10 (Rivera Variant)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17719/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/314",
+        "name": "Age of Ultron"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

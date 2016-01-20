@@ -1,0 +1,104 @@
+{
+  "id": 10301,
+  "title": "Luke Cage Noir (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10301",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10301/luke_cage_noir_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4bcc6d7abde5e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10301/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9127",
+        "name": "Mike Benson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7978",
+        "name": "Adam Glass",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/970",
+        "name": "Dennis Calero",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5026",
+        "name": "Shawn Martinbrough",
+        "role": "penciller"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10301/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10301/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75289",
+        "name": "Cover #75289",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75290",
+        "name": "Cover #75290",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75291",
+        "name": "Interior #75291",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75292",
+        "name": "Interior #75292",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10301/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33487",
+        "name": "Luke Cage Noir (Graphic Novel)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33488",
+        "name": "Luke Cage Noir (Graphic Novel)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10301/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

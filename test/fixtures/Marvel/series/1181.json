@@ -1,0 +1,220 @@
+{
+  "id": 1181,
+  "title": "Fantastic Four: Unstable Molecules (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1181",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1181/fantastic_four_unstable_molecules_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc62e8e0bd36",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1181/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4371",
+        "name": "Andy Schmidt",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+        "name": "Marc Sumerak",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/255",
+        "name": "Guy Davis",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/196",
+        "name": "Jack Kirby",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8128",
+        "name": "Bob Sikoryak",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1240",
+        "name": "Joe Sinnott",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/254",
+        "name": "James Sturm",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/253",
+        "name": "Craig Thompson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4210",
+        "name": "Paul Tutrone",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9120",
+        "name": "Michel Vrana",
+        "role": "colorist"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1181/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1181/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6342",
+        "name": "Unstable Molecules 1-4, Fantastic Four 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/6343",
+        "name": "Unstable Molecules 1-4, Fantastic Four 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40283",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40284",
+        "name": "Rock Hard in the Company of Men",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40285",
+        "name": "Notes and Sources: Unstable Molecules Number 1",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40286",
+        "name": "[House Advertisement]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40287",
+        "name": "[Marvel Subscription Form]",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40288",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40289",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40290",
+        "name": "Disappearing Acts",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40291",
+        "name": "Notes and Sources: Unstable Molecules Number 2",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40292",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40293",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40294",
+        "name": "Roman Candle",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40295",
+        "name": "Notes and Sources: Unstable Molecules Number 3",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40296",
+        "name": "[Ads]",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40297",
+        "name": "[untitled]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40298",
+        "name": "Model Behavior",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40299",
+        "name": "Notes and Sources: Unstable Molecules Number 4",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/40300",
+        "name": "[Ads]",
+        "type": "ad"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1181/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2211",
+        "name": "Fantastic Four: Unstable Molecules (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1181/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

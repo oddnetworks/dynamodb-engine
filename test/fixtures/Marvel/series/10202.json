@@ -1,0 +1,109 @@
+{
+  "id": 10202,
+  "title": "Fantastic Four: Resurrection of Galactus (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10202",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10202/fantastic_four_resurrection_of_galactus_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4bed62fd3fedf",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10202/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/483",
+        "name": "Tom Grummett",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/380",
+        "name": "Jeff Johnson",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+        "name": "Carlos Pacheco",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/18",
+        "name": "Jeph Loeb",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4259",
+        "name": "Rafael Marin",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10202/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10202/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62446",
+        "name": "Fantastic Four: Resurrection of Galactus (2010) cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62447",
+        "name": "Fantastic Four: Resurrection of Galactus (2010) interior",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62448",
+        "name": "Fantastic Four: Resurrection of Galactus (2010) DM ONLY cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/62449",
+        "name": "Fantastic Four: Resurrection of Galactus (2010) DM ONLY interior",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10202/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28624",
+        "name": "Fantastic Four: Resurrection of Galactus (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28625",
+        "name": "Fantastic Four: Resurrection of Galactus (2010) (DM ONLY)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10202/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

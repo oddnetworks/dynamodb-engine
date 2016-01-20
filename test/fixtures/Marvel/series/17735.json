@@ -1,0 +1,316 @@
+{
+  "id": 17735,
+  "title": "Infinity (2013 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17735",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17735/infinity_2013_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2013-11-21T15:02:34-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/51c9dad6dc92c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17735/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12208",
+        "name": "Arthur Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10275",
+        "name": "Leonel Castellani",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/277",
+        "name": "Terry Dodson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8737",
+        "name": "Jerome Opena",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/648",
+        "name": "Simone Bianchi",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+        "name": "Adam Kubert",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+        "name": "Steve McNiven",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9408",
+        "name": "Sara Pichelli",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+        "name": "Ryan Stegman",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+        "name": "Jim Cheung",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+        "name": "Dustin Weaver",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+        "name": "Jonathan Hickman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12328",
+        "name": "In-Hyuk Lee",
+        "role": "artist (cover)"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17735/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 63,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17735/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105833",
+        "name": "cover from Thanos/Inhumans Event (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105834",
+        "name": "story from Thanos/Inhumans Event (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105839",
+        "name": "cover from Thanos/Inhumans Event (2013) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105840",
+        "name": "story from Thanos/Inhumans Event (2013) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105841",
+        "name": "cover from Thanos/Inhumans Event (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105842",
+        "name": "story from Thanos/Inhumans Event (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105843",
+        "name": "cover from Thanos/Inhumans Event (2013) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105844",
+        "name": "story from Thanos/Inhumans Event (2013) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105845",
+        "name": "cover from Thanos/Inhumans Event (2013) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105846",
+        "name": "story from Thanos/Inhumans Event (2013) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105847",
+        "name": "cover from Thanos/Inhumans Event (2013) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105848",
+        "name": "story from Thanos/Inhumans Event (2013) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107322",
+        "name": "cover from Thanos/Inhumans Event (2013) #1 (BLANK COVER VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107323",
+        "name": "story from Thanos/Inhumans Event (2013) #1 (BLANK COVER VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107326",
+        "name": "cover from Thanos/Inhumans Event (2013) #1 (YOUNG VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107327",
+        "name": "story from Thanos/Inhumans Event (2013) #1 (YOUNG VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107328",
+        "name": "cover from Thanos/Inhumans Event (2013) #1 (TBD ARTIST 1 VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107329",
+        "name": "story from Thanos/Inhumans Event (2013) #1 (TBD ARTIST 1 VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107330",
+        "name": "cover from Thanos/Inhumans Event (2013) #1 (TBD ARTIST 1 SKETCH VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107331",
+        "name": "story from Thanos/Inhumans Event (2013) #1 (TBD ARTIST 1 SKETCH VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 30,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17735/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47120",
+        "name": "Infinity (2013) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49554",
+        "name": "Infinity (2013) #1 (Cheung 2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48267",
+        "name": "Infinity (2013) #1 (Adams Hero Sketch Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47523",
+        "name": "Infinity (2013) #1 (Adams Hero Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47519",
+        "name": "Infinity (2013) #1 (Blank Cover Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47833",
+        "name": "Infinity (2013) #1 (Opena Design Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47521",
+        "name": "Infinity (2013) #1 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47123",
+        "name": "Infinity (2013) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48505",
+        "name": "Infinity (2013) #2 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47836",
+        "name": "Infinity (2013) #2 (Cheung Design Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47835",
+        "name": "Infinity (2013) #2 (Lee Generals Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47834",
+        "name": "Infinity (2013) #2 (Mcniven Hero Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47124",
+        "name": "Infinity (2013) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47837",
+        "name": "Infinity (2013) #3 (Bianchi Hero Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48956",
+        "name": "Infinity (2013) #3 (Castellani Lego Sketch Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48200",
+        "name": "Infinity (2013) #3 (Castellani Lego Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48506",
+        "name": "Infinity (2013) #3 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47839",
+        "name": "Infinity (2013) #3 (Opena Design Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47125",
+        "name": "Infinity (2013) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47842",
+        "name": "Infinity (2013) #4 (Opena Design Variant)"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17735/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/315",
+        "name": "Infinity"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

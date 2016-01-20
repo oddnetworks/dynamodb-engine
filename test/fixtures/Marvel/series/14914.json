@@ -1,0 +1,396 @@
+{
+  "id": 14914,
+  "title": "Uncanny X-Men (2011 - 2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14914",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14914/uncanny_x-men_2011_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2012,
+  "rating": "T+",
+  "type": "ongoing",
+  "modified": "2013-06-27T14:17:57-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/511c10a281821",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14914/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8571",
+        "name": "Guru-eFX",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+        "name": "Laura Martin",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+        "name": "Daniel Acuna",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+        "name": "Adam Kubert",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5015",
+        "name": "Rodney Buchemi",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4150",
+        "name": "Paco Diaz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+        "name": "Ron Garney",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+        "name": "Greg Land",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/616",
+        "name": "Jay Leisten",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+        "name": "Carlos Pacheco",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/532",
+        "name": "Brandon Peterson",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/448",
+        "name": "Billy Tan",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+        "name": "Dustin Weaver",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "Letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+        "name": "Kieron Gillen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11521",
+        "name": "Greg Horn",
+        "role": "Artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+        "name": "Justin Ponsor",
+        "role": "Colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/561",
+        "name": "Wil Quintana",
+        "role": "Colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/480",
+        "name": "Cam Smith",
+        "role": "Inker"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14914/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010813",
+        "name": "Celestials"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+        "name": "Emma Frost"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011428",
+        "name": "Hope Summers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009447",
+        "name": "Mister Sinister"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011360",
+        "name": "Red Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 11
+  },
+  "stories": {
+    "available": 56,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14914/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91093",
+        "name": "Cover #91093",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91094",
+        "name": "Interior #91094",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91095",
+        "name": "Cover #91095",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91096",
+        "name": "Interior #91096",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91097",
+        "name": "Cover #91097",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91098",
+        "name": "Interior #91098",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91099",
+        "name": "Cover #91099",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91100",
+        "name": "Interior #91100",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91101",
+        "name": "Cover #91101",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91102",
+        "name": "Interior #91102",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91103",
+        "name": "Cover #91103",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91104",
+        "name": "Interior #91104",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91105",
+        "name": "Cover #91105",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91106",
+        "name": "Interior #91106",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91107",
+        "name": "Cover #91107",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91108",
+        "name": "Interior #91108",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91109",
+        "name": "Cover #91109",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91110",
+        "name": "Interior #91110",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91111",
+        "name": "Cover #91111",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91112",
+        "name": "Interior #91112",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14914/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40166",
+        "name": "Uncanny X-Men (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41456",
+        "name": "Uncanny X-Men (2011) #1 (Keown Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41454",
+        "name": "Uncanny X-Men (2011) #1 (Blank Cover Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41455",
+        "name": "Uncanny X-Men (2011) #1 (Cho Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40154",
+        "name": "Uncanny X-Men (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42474",
+        "name": "Uncanny X-Men (2011) #2 (2nd Printing Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41125",
+        "name": "Uncanny X-Men (2011) #2 (Mc 50th Anniversary Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40159",
+        "name": "Uncanny X-Men (2011) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40164",
+        "name": "Uncanny X-Men (2011) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40158",
+        "name": "Uncanny X-Men (2011) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42112",
+        "name": "Uncanny X-Men (2011) #5 (Venom Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40161",
+        "name": "Uncanny X-Men (2011) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40157",
+        "name": "Uncanny X-Men (2011) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40162",
+        "name": "Uncanny X-Men (2011) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40156",
+        "name": "Uncanny X-Men (2011) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40163",
+        "name": "Uncanny X-Men (2011) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40160",
+        "name": "Uncanny X-Men (2011) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40155",
+        "name": "Uncanny X-Men (2011) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40152",
+        "name": "Uncanny X-Men (2011) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40153",
+        "name": "Uncanny X-Men (2011) #14"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14914/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/310",
+        "name": "Avengers VS X-Men"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/308",
+        "name": "X-Men: Regenesis"
+      }
+    ],
+    "returned": 2
+  },
+  "next": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/17602",
+    "name": "Uncanny X-Men (2013 - Present)"
+  },
+  "previous": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/2258",
+    "name": "Uncanny X-Men (1963 - 2011)"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": 6812,
+  "title": "Marvel: Your Universe (2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6812",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6812/marvel_your_universe_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2009,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4bb5d246458c1",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6812/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6812/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6812/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52402",
+        "name": "Cover #52402",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52403",
+        "name": "Interior #52403",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52886",
+        "name": "Cover #52886",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52887",
+        "name": "Interior #52887",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53294",
+        "name": "Interior #53294",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53702",
+        "name": "Interior #53702",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57177",
+        "name": "Cover #57177",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57178",
+        "name": "Cover #57178",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57179",
+        "name": "Cover #57179",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57180",
+        "name": "Interior #57180",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57181",
+        "name": "Cover #57181",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/57182",
+        "name": "Interior #57182",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/60337",
+        "name": "",
+        "type": ""
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6812/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23664",
+        "name": "Marvel: Your Universe (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23837",
+        "name": "Marvel: Your Universe (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24034",
+        "name": "Marvel: Your Universe (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24237",
+        "name": "Marvel: Your Universe (2009) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25946",
+        "name": "Marvel: Your Universe (2009) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/25947",
+        "name": "Marvel: Your Universe (2009) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6812/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

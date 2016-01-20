@@ -1,0 +1,148 @@
+{
+  "id": 5264,
+  "title": "Kitty Pryde and Wolverine (1984)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5264",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5264/kitty_pryde_and_wolverine_1984?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1984,
+  "endYear": 1984,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4c366a0883faf",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5264/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5264/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5264/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48832",
+        "name": "Cover #48832",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48833",
+        "name": "Interior #48833",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48834",
+        "name": "Cover #48834",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48835",
+        "name": "Interior #48835",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48836",
+        "name": "Cover #48836",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48837",
+        "name": "Interior #48837",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48838",
+        "name": "Cover #48838",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48839",
+        "name": "Interior #48839",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48840",
+        "name": "Cover #48840",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48841",
+        "name": "Interior #48841",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48842",
+        "name": "Cover #48842",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/48843",
+        "name": "Interior #48843",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5264/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21645",
+        "name": "Kitty Pryde and Wolverine (1984) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21646",
+        "name": "Kitty Pryde and Wolverine (1984) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21647",
+        "name": "Kitty Pryde and Wolverine (1984) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21648",
+        "name": "Kitty Pryde and Wolverine (1984) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21649",
+        "name": "Kitty Pryde and Wolverine (1984) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21650",
+        "name": "Kitty Pryde and Wolverine (1984) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5264/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

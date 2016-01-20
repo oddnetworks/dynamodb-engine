@@ -1,0 +1,90 @@
+{
+  "id": 19080,
+  "title": "Original Sin Annual (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19080",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19080/original_sin_annual_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "",
+  "modified": "2014-09-30T15:24:00-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/03/542b02c175296",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19080/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12425",
+        "name": "Enis Cisic",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11306",
+        "name": "Jason Latour",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+        "name": "Julian Totino Tedesco",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19080/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19080/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113824",
+        "name": "Original Sin Annual #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113825",
+        "name": "Original Sin Annual #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19080/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50967",
+        "name": "Original Sin Annual (2014) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19080/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/319",
+        "name": "Original Sin"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

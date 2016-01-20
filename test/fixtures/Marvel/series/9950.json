@@ -1,0 +1,238 @@
+{
+  "id": 9950,
+  "title": "The Thanos Imperative (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9950",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9950/the_thanos_imperative_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2013-05-17T10:51:54-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5196438498a7d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9950/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5634",
+        "name": "Aleksi Briclot",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9123",
+        "name": "Miguel Angel Sepulveda",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8706",
+        "name": "Jay David Ramos",
+        "role": "colorist"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9950/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+        "name": "Medusa"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010744",
+        "name": "Rocket Raccoon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010733",
+        "name": "Star-Lord (Peter Quill)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+        "name": "Thanos"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9950/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74276",
+        "name": "Cover #74276",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74277",
+        "name": "Interior #74277",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74282",
+        "name": "Cover #74282",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74283",
+        "name": "Interior #74283",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74286",
+        "name": "Cover #74286",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74287",
+        "name": "Interior #74287",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74290",
+        "name": "Cover #74290",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74291",
+        "name": "Interior #74291",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74294",
+        "name": "Cover #74294",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74295",
+        "name": "Interior #74295",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74296",
+        "name": "Cover #74296",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74297",
+        "name": "Interior #74297",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81536",
+        "name": "Cover #81536",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/81537",
+        "name": "Interior #81537",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82602",
+        "name": "Cover #82602",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82603",
+        "name": "Interior #82603",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83234",
+        "name": "Cover #83234",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83235",
+        "name": "Interior #83235",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 18
+  },
+  "comics": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9950/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32970",
+        "name": "The Thanos Imperative (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36768",
+        "name": "The Thanos Imperative (2010) #1 (2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32973",
+        "name": "The Thanos Imperative (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37286",
+        "name": "The Thanos Imperative (2010) #2 (2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32975",
+        "name": "The Thanos Imperative (2010) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37654",
+        "name": "The Thanos Imperative (2010) #3 (2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32977",
+        "name": "The Thanos Imperative (2010) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32979",
+        "name": "The Thanos Imperative (2010) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32980",
+        "name": "The Thanos Imperative (2010) #6"
+      }
+    ],
+    "returned": 9
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9950/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+        "name": "The Thanos Imperative"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

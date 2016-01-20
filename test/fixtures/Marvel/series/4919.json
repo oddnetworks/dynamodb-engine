@@ -1,0 +1,311 @@
+{
+  "id": 4919,
+  "title": "X-Men: The Complete Onslaught Epic Book 2 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4919",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4919/x-men_the_complete_onslaught_epic_book_2_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/f0/4bb82722b8b3b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 51,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4919/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2330",
+        "name": "Malibu",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2495",
+        "name": "Jim Hoston",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1224",
+        "name": "Marie Javins",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+        "name": "Ross Andru",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/422",
+        "name": "Randall Green",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1354",
+        "name": "Rob Haynes",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/393",
+        "name": "Casey Jones",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5729",
+        "name": "Anthony Castrillo",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7384",
+        "name": "JOSHUA HOOD",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+        "name": "Todd Dezago",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+        "name": "Warren Ellis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/42",
+        "name": "Larry Hama",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+        "name": "Jaye Gardner",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4524",
+        "name": "Chad Hunt",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6025",
+        "name": "Robert Jones",
+        "role": "inker"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 38,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4919/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596",
+        "name": "Banshee (Theresa Rourke)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009216",
+        "name": "Caliban"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009284",
+        "name": "Dum Dum Dugan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010771",
+        "name": "Excalibur"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009309",
+        "name": "Forge"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009315",
+        "name": "Gateway"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009337",
+        "name": "Havok"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009327",
+        "name": "Jean Grey"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009508",
+        "name": "Kitty Pryde"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009405",
+        "name": "Lockheed"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009417",
+        "name": "Magneto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009439",
+        "name": "Meltdown"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009465",
+        "name": "Mystique"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4919/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/13599",
+        "name": "The Kangaroo Bounces Back!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22145",
+        "name": "The Ticking Clock",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22146",
+        "name": "Free Fall",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22407",
+        "name": "London's Burning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/28574",
+        "name": "The Emperor of the Realm of Grief",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38328",
+        "name": "In the Company of Strangers Part 2: The Best Laid Plans...",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38672",
+        "name": "In the Company of Strangers",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38673",
+        "name": "Onslaught is Here",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38674",
+        "name": "Jim Lee on the Fantastic Four",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/38675",
+        "name": "Cap Rap!!!",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47031",
+        "name": "Excalibur 100, Wolverine 104, X-Factor 125-126, Amazing Spider-Man 415, Green Goblin 12, Spider-Man 72, Punisher 11, X-Man 18, X",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47032",
+        "name": "Excalibur 100, Wolverine 104, X-Factor 125-126, Amazing Spider-Man 415, Green Goblin 12, Spider-Man 72, Punisher 11, X-Man 18, X",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52164",
+        "name": "Manhattan Onslaught",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4919/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21295",
+        "name": "X-Men: The Complete Onslaught Epic Book 2 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4919/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

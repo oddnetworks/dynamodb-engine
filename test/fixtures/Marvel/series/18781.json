@@ -1,0 +1,85 @@
+{
+  "id": 18781,
+  "title": "Thor: Crown of Fools (2013 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18781",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18781/thor_crown_of_fools_2013_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2099,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2013-10-24T14:43:17-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18781/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8174",
+        "name": "Bryan J.L. Glass",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/474",
+        "name": "Andrea Di Vito",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18781/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18781/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112008",
+        "name": "cover from Thor: Crown of Fools (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/112009",
+        "name": "story from Thor: Crown of Fools (2013) #1 (JRJR EL CAPITAN VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18781/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49982",
+        "name": "Thor: Crown of Fools (2013) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18781/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

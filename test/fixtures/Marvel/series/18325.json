@@ -1,0 +1,127 @@
+{
+  "id": 18325,
+  "title": "Cataclysm: Ultimate Comics Spider-Man (2013 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18325",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18325/cataclysm_ultimate_comics_spider-man_2013_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2014-05-29T16:24:35-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/5387975d7fa5a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18325/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8520",
+        "name": "Gabriel Hardman",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+        "name": "David Marquez",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18325/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18325/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108955",
+        "name": "cover from Nullification: Ultimate Spider-Man (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108956",
+        "name": "story from Nullification: Ultimate Spider-Man (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108957",
+        "name": "cover from Nullification: Ultimate Spider-Man (2013) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108958",
+        "name": "story from Nullification: Ultimate Spider-Man (2013) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108959",
+        "name": "cover from Nullification: Ultimate Spider-Man (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108960",
+        "name": "story from Nullification: Ultimate Spider-Man (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110771",
+        "name": "cover from Nullification: Ultimate Spider-Man (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110772",
+        "name": "story from Nullification: Ultimate Spider-Man (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18325/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48406",
+        "name": "Cataclysm: Ultimate Comics Spider-Man (2013) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49345",
+        "name": "Cataclysm: Ultimate Comics Spider-Man (2013) #1 (Hardman Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48407",
+        "name": "Cataclysm: Ultimate Comics Spider-Man (2013) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48408",
+        "name": "Cataclysm: Ultimate Comics Spider-Man (2013) #3"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18325/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,174 @@
+{
+  "id": 1667,
+  "title": "New X-Men: Childhood's End Vol. 2 (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1667",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1667/new_x-men_childhoods_end_vol_2_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4bc5d131aec74",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1667/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/694",
+        "name": "Mark Brooks",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+        "name": "Paco Medina",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/801",
+        "name": "Craig Kyle",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/803",
+        "name": "Chris Yost",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/802",
+        "name": "Jaime Mendoza",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+        "name": "Juan Vlasco",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+        "name": "Brian Reber",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1667/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009285",
+        "name": "Dust"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011082",
+        "name": "Elixir"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010678",
+        "name": "Hellion"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010681",
+        "name": "Mercury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010692",
+        "name": "Rockslide"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009722",
+        "name": "X-23"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1667/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3403",
+        "name": "1 of 4 - Crusade",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3404",
+        "name": "1 of 4 - Crusade",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3405",
+        "name": "2 of 4 - Crusade",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3406",
+        "name": "2 of 4 - Crusade",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3407",
+        "name": "3 of 4 - Crusade",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3408",
+        "name": "3 of 4 - Crusade",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3409",
+        "name": "4 of 4 - Crusade",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3410",
+        "name": "4 of 4 - Crusade",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65987",
+        "name": "NEW X-MEN: CHILDHOOD'S END VOL. 2 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1667/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4767",
+        "name": "New X-Men: Childhood's End Vol. 2 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1667/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

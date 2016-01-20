@@ -1,0 +1,114 @@
+{
+  "id": 13857,
+  "title": "Fear Itself: Fellowship of Fear (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13857",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13857/fear_itself_fellowship_of_fear_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-08-05T16:17:26-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13857/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8028",
+        "name": "Andrew Crossley",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+        "name": "Patrick Scherberger",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10027",
+        "name": "Kevin Garcia",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10004",
+        "name": "Mike O'Sullivan",
+        "role": "editor"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13857/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009148",
+        "name": "Absorbing Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011420",
+        "name": "Grey Gargoyle"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+        "name": "Juggernaut"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010898",
+        "name": "Sin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009662",
+        "name": "Thing"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010669",
+        "name": "Titania"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13857/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92906",
+        "name": "Cover #38452",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13857/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38452",
+        "name": "Fear Itself: Fellowship of Fear (2011) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13857/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

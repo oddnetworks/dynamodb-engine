@@ -1,0 +1,234 @@
+{
+  "id": 548,
+  "title": "Thanos (2003 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/548",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/548/thanos_2003_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4bc6a92d2a3ef",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/548/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+        "name": "Keith Giffen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+        "name": "Ron Lim",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+        "name": "Al Milgrom",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+        "name": "Christie Scheele",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/146",
+        "name": "Jim Starlin",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/548/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+        "name": "Thanos"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/548/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/694",
+        "name": "Cover #694",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/695",
+        "name": "Interior #695",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1412",
+        "name": "Cover #1412",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1413",
+        "name": "Interior #1413",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1602",
+        "name": "Cover #1602",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1603",
+        "name": "Interior #1603",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1800",
+        "name": "Cover #1800",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1801",
+        "name": "Interior #1801",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1842",
+        "name": "Cover #1842",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1843",
+        "name": "Interior #1843",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2253",
+        "name": "Cover #2253",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2254",
+        "name": "Interior #2254",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2436",
+        "name": "Cover #2436",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2437",
+        "name": "Interior #2437",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2438",
+        "name": "Cover #2438",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2439",
+        "name": "Interior #2439",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2440",
+        "name": "Cover #2440",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2441",
+        "name": "Interior #2441",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2442",
+        "name": "Cover #2442",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2443",
+        "name": "Interior #2443",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/548/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/176",
+        "name": "Thanos (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/175",
+        "name": "Thanos (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/174",
+        "name": "Thanos (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/173",
+        "name": "Thanos (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/172",
+        "name": "Thanos (2003) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/171",
+        "name": "Thanos (2003) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/398",
+        "name": "Thanos (2003) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/424",
+        "name": "Thanos (2003) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/460",
+        "name": "Thanos (2003) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/625",
+        "name": "Thanos (2003) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/684",
+        "name": "Thanos (2003) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/598",
+        "name": "Thanos (2003) #12"
+      }
+    ],
+    "returned": 12
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/548/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

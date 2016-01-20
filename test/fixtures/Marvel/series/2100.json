@@ -1,0 +1,410 @@
+{
+  "id": 2100,
+  "title": "X-Men Annual (1970 - 1991)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2100",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2100/x-men_annual_1970_-_1991?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1970,
+  "endYear": 1991,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/4bad3a0fcc8e2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 73,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2100/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/651",
+        "name": "Brent Anderson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+        "name": "Dick Ayers",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1172",
+        "name": "Tony Dezuniga",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+        "name": "Bret Blevins",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3105",
+        "name": "Jerry DeCaire",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2062",
+        "name": "Jim Fern",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7231",
+        "name": "Michael Golden",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3104",
+        "name": "Mark Heike",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2043",
+        "name": "Eliot Brown",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1310",
+        "name": "Mary Jo Duffy",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+        "name": "Mark Gruenwald",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+        "name": "Dan Crespi",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3102",
+        "name": "Kevin Cunningham",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1892",
+        "name": "Michael Heisler",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1284",
+        "name": "Michael Higgins",
+        "role": "letterer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 61,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2100/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010354",
+        "name": "Adam Warlock"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009164",
+        "name": "Avalanche"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+        "name": "Banshee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009596",
+        "name": "Banshee (Theresa Rourke)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010366",
+        "name": "Boom Boom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+        "name": "Cable"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010813",
+        "name": "Celestials"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+        "name": "Dazzler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+        "name": "Domino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009310",
+        "name": "Emma Frost"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010807",
+        "name": "Eternals"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009306",
+        "name": "Firestar"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 42,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2100/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19844",
+        "name": "Cover #19844",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19845",
+        "name": "Enter, the Avengers",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19846",
+        "name": "The Triumph of Magneto",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19847",
+        "name": "Cover #19847",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19848",
+        "name": "Performance",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19849",
+        "name": "Cover #19849",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19850",
+        "name": "Lost In the Funhouse",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19851",
+        "name": "The Evolutionary War",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19852",
+        "name": "Resurrection",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19853",
+        "name": "I Want My X-Men!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19854",
+        "name": "Demon Night",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19855",
+        "name": "Atlantis Attacks Part 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19856",
+        "name": "Double Cross",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19857",
+        "name": "Jubilation Day",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19858",
+        "name": "The Saga of the Serpent Crown Part 3: Serpent In the Garden",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19859",
+        "name": "Days of Future Present Part 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19860",
+        "name": "You Must Remember This",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19861",
+        "name": "The Fundamental Thing",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19862",
+        "name": "X-Men Past and Present",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/19863",
+        "name": "Alternate Cover to X-Men Annual #14",
+        "type": "pinup"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2100/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12355",
+        "name": "X-Men Annual (1970) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12362",
+        "name": "X-Men Annual (1970) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12363",
+        "name": "X-Men Annual (1970) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12364",
+        "name": "X-Men Annual (1970) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12365",
+        "name": "X-Men Annual (1970) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12366",
+        "name": "X-Men Annual (1970) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12367",
+        "name": "X-Men Annual (1970) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12368",
+        "name": "X-Men Annual (1970) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12369",
+        "name": "X-Men Annual (1970) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12356",
+        "name": "X-Men Annual (1970) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12357",
+        "name": "X-Men Annual (1970) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12358",
+        "name": "X-Men Annual (1970) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12359",
+        "name": "X-Men Annual (1970) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12360",
+        "name": "X-Men Annual (1970) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12361",
+        "name": "X-Men Annual (1970) #15"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2100/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/240",
+        "name": "Days of Future Present"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+        "name": "Evolutionary War"
+      }
+    ],
+    "returned": 3
+  },
+  "next": null,
+  "previous": null
+}

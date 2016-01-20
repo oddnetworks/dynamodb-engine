@@ -1,0 +1,104 @@
+{
+  "id": 15239,
+  "title": "The Mighty Thor Annual (2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/15239",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/15239/the_mighty_thor_annual_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2014-10-21T16:47:09-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15239/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/661",
+        "name": "Patrick Zircher",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+        "name": "J. M. DeMatteis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9317",
+        "name": "Richard Elson",
+        "role": "artist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15239/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15239/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92923",
+        "name": "Interior #92923",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92928",
+        "name": "Cover #92928",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92929",
+        "name": "Interior #92929",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/97100",
+        "name": "Mighty Thor Annual #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15239/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41036",
+        "name": "The Mighty Thor Annual (2012) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41039",
+        "name": "The Mighty Thor Annual (2012) #1 (Adams Variant)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15239/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

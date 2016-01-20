@@ -1,0 +1,401 @@
+{
+  "id": 2722,
+  "title": "Cap Transport (2005 - 2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2722",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2722/cap_transport_2005_-_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2006,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 26,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2722/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5245",
+        "name": "Nathan Cosby",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5248",
+        "name": "Molly Lazer",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+        "name": "Mark Paniccia",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/367",
+        "name": "Ed Brubaker",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/400",
+        "name": "Keith Giffen",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7129",
+        "name": "Virtual Calligraphy",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+        "name": "Matt Milla",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/374",
+        "name": "Steve Epting",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1016",
+        "name": "Eduardo Francisco",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/334",
+        "name": "Joe Jusko",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/509",
+        "name": "Michael Lark",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/127",
+        "name": "John Paul Leon",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/708",
+        "name": "Mike Perkins",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/647",
+        "name": "Kris Justice",
+        "role": "inker"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2722/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009252",
+        "name": "Crossbones"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009284",
+        "name": "Dum Dum Dugan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+        "name": "Falcon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009475",
+        "name": "Nomad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+        "name": "Red Skull"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+        "name": "S.H.I.E.L.D."
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009565",
+        "name": "Scourge"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+        "name": "Sharon Carter"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010898",
+        "name": "Sin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010899",
+        "name": "Spitfire"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      }
+    ],
+    "returned": 16
+  },
+  "stories": {
+    "available": 53,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2722/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33978",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33979",
+        "name": "Cover #33979",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33980",
+        "name": "The House of M",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33981",
+        "name": "Freedom of Speech",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33982",
+        "name": "Creatures on the Loose!",
+        "type": "promo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33983",
+        "name": "The Winter Soldier, Part 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33984",
+        "name": "The Winter Soldier, Part 3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33985",
+        "name": "Freedom of Speech",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33986",
+        "name": "The Winter Soldier, Part 4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33987",
+        "name": "The Winter Soldier, Part 4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33988",
+        "name": "Freedom of Speech",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33989",
+        "name": "The Winter Soldier, Part 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33990",
+        "name": "The Winter Soldier, Part 5 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33991",
+        "name": "Freedom of Speech",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33992",
+        "name": "Cover #33992",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33993",
+        "name": "The Winter Soldier, Part 6 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33994",
+        "name": "Freedom of Speech",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33995",
+        "name": "Cover #33995",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33996",
+        "name": "Red is the Darkest Color",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33997",
+        "name": "Marvel Heroes Hotspot",
+        "type": "promo"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2722/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16229",
+        "name": "Cap Transport (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16240",
+        "name": "Cap Transport (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16242",
+        "name": "Cap Transport (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16243",
+        "name": "Cap Transport (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16244",
+        "name": "Cap Transport (2005) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16245",
+        "name": "Cap Transport (2005) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16246",
+        "name": "Cap Transport (2005) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16247",
+        "name": "Cap Transport (2005) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16248",
+        "name": "Cap Transport (2005) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16230",
+        "name": "Cap Transport (2005) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16231",
+        "name": "Cap Transport (2005) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16232",
+        "name": "Cap Transport (2005) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16233",
+        "name": "Cap Transport (2005) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16234",
+        "name": "Cap Transport (2005) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16235",
+        "name": "Cap Transport (2005) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16236",
+        "name": "Cap Transport (2005) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16237",
+        "name": "Cap Transport (2005) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16238",
+        "name": "Cap Transport (2005) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16239",
+        "name": "Cap Transport (2005) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16241",
+        "name": "Cap Transport (2005) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2722/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

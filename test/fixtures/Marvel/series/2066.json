@@ -1,0 +1,125 @@
+{
+  "id": 2066,
+  "title": "Sentry (2000 - 2001)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2066",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2066/sentry_2000_-_2001?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2000,
+  "endYear": 2001,
+  "rating": "",
+  "type": "",
+  "modified": "2015-04-27T15:47:21-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2066/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2066/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2066/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25552",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25553",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25554",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25555",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/25556",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66987",
+        "name": "SENTRY 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66988",
+        "name": "SENTRY 2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66989",
+        "name": "SENTRY 3 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66990",
+        "name": "SENTRY 4 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66991",
+        "name": "SENTRY 5 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2066/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10639",
+        "name": "Sentry (2000) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10640",
+        "name": "Sentry (2000) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10641",
+        "name": "Sentry (2000) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10642",
+        "name": "Sentry (2000) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10643",
+        "name": "Sentry (2000) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2066/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

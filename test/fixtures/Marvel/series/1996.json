@@ -1,0 +1,448 @@
+{
+  "id": 1996,
+  "title": "Captain America (1968 - 1996)",
+  "description": "The Star-Spangled Avenger fights for freedom! Emerging from years on ice following World War II, Steve Rogers must adapt to a world that has gone on without him while also protecting his nation from the forces that would conspire to tear it apart!",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1996",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1996/captain_america_1968_-_1996?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1968,
+  "endYear": 1996,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2013-03-01T13:26:08-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/50/5130f2104b29a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 252,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1996/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2813",
+        "name": "Hudson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2788",
+        "name": "Quickdraw Studios",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2830",
+        "name": "Williams",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+        "name": "Dick Ayers",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2383",
+        "name": "Charles Barnett",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1074",
+        "name": "Eduardo Barreto",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+        "name": "John Beatty",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2751",
+        "name": "D. Bruce Berry",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2815",
+        "name": "Kathryn Bolinger",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2148",
+        "name": "Title",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1352",
+        "name": "Mike W. Barr",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2112",
+        "name": "Larry Alexander",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+        "name": "Paul Becton",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2765",
+        "name": "Mary Beveridge",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1288",
+        "name": "Jerry Bingham",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 39,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1996/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009740",
+        "name": "Arnim Zola"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009169",
+        "name": "Baron Strucker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010906",
+        "name": "Baron Zemo (Helmut Zemo)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009172",
+        "name": "Batroc the Leaper"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009200",
+        "name": "Blockbuster"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009252",
+        "name": "Crossbones"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009274",
+        "name": "Diamondback (Rachel Leighton)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009297",
+        "name": "Falcon"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011036",
+        "name": "Living Mummy"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009411",
+        "name": "Mad Thinker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010811",
+        "name": "Man-Wolf"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010347",
+        "name": "Mr. Hyde"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 777,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1996/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17454",
+        "name": "Cover #17454",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17455",
+        "name": "This Monster Unmasked",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17456",
+        "name": "Cover #17456",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17457",
+        "name": "When Wakes the Sleeper",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17458",
+        "name": "Cover #17458",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17459",
+        "name": "The Sleeper Wakes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17460",
+        "name": "Cover #17460",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17461",
+        "name": "The Weakest Link",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17462",
+        "name": "Cover #17462",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17463",
+        "name": "Slave of the Skull",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17464",
+        "name": "Cover #17464",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17465",
+        "name": "In the Name of Batroc",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17466",
+        "name": "Cover #17466",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17467",
+        "name": "Cap Goes Wild",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17468",
+        "name": "Cover #17468",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17469",
+        "name": "If the Past Be Not Dead",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17470",
+        "name": "Cover #17470",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17471",
+        "name": "The Snares of the Trapster",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17472",
+        "name": "Cover #17472",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/17473",
+        "name": "The Hero That Was",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 355,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1996/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7481",
+        "name": "Captain America (1968) #100"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7482",
+        "name": "Captain America (1968) #101"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7483",
+        "name": "Captain America (1968) #102"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7484",
+        "name": "Captain America (1968) #103"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7485",
+        "name": "Captain America (1968) #104"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7486",
+        "name": "Captain America (1968) #105"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7487",
+        "name": "Captain America (1968) #106"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7488",
+        "name": "Captain America (1968) #107"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7489",
+        "name": "Captain America (1968) #108"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7490",
+        "name": "Captain America (1968) #109"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7491",
+        "name": "Captain America (1968) #110"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7492",
+        "name": "Captain America (1968) #111"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7493",
+        "name": "Captain America (1968) #112"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7494",
+        "name": "Captain America (1968) #113"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7495",
+        "name": "Captain America (1968) #114"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7496",
+        "name": "Captain America (1968) #115"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7497",
+        "name": "Captain America (1968) #116"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7498",
+        "name": "Captain America (1968) #117"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7499",
+        "name": "Captain America (1968) #118"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/7500",
+        "name": "Captain America (1968) #119"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1996/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/231",
+        "name": "Armor Wars"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/248",
+        "name": "Fall of the Mutants"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/29",
+        "name": "Infinity War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "name": "Secret Wars"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "name": "Secret Wars II"
+      }
+    ],
+    "returned": 6
+  },
+  "next": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/6478",
+    "name": "Captain America (1996 - 1998)"
+  },
+  "previous": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/2079",
+    "name": "Tales of Suspense (1959 - 1968)"
+  }
+}

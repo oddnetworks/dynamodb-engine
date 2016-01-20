@@ -1,0 +1,117 @@
+{
+  "id": 18338,
+  "title": "Marvel Universe Hulk: Agents of S.M.A.S.H. (2013 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18338",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18338/marvel_universe_hulk_agents_of_smash_2013_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2099,
+  "rating": "All Ages",
+  "type": "limited",
+  "modified": "2014-05-28T17:32:38-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18338/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "writer"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18338/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18338/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109093",
+        "name": "cover from Hulk: Agents of S.M.a.S.H. (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109094",
+        "name": "story from Hulk: Agents of S.M.a.S.H. (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109095",
+        "name": "cover from Hulk: Agents of S.M.a.S.H. (2013) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109096",
+        "name": "story from Hulk: Agents of S.M.a.S.H. (2013) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109097",
+        "name": "cover from Hulk: Agents of S.M.a.S.H. (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109098",
+        "name": "story from Hulk: Agents of S.M.a.S.H. (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109099",
+        "name": "cover from Hulk: Agents of S.M.a.S.H. (2013) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/109100",
+        "name": "story from Hulk: Agents of S.M.a.S.H. (2013) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18338/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48493",
+        "name": "Marvel Universe Hulk: Agents of S.M.A.S.H. (2013) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48494",
+        "name": "Marvel Universe Hulk: Agents of S.M.A.S.H. (2013) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48495",
+        "name": "Marvel Universe Hulk: Agents of S.M.A.S.H. (2013) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48496",
+        "name": "Marvel Universe Hulk: Agents of S.M.A.S.H. (2013) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18338/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

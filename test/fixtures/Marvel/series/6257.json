@@ -1,0 +1,122 @@
+{
+  "id": 6257,
+  "title": "Rocket Raccoon (1985)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6257",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6257/rocket_raccoon_1985?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1985,
+  "endYear": 1985,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T17:25:43-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bad430f50836",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6257/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/896",
+        "name": "Stuart Vandal",
+        "role": "other"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6257/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010744",
+        "name": "Rocket Raccoon"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6257/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50616",
+        "name": "Cover #50616",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50617",
+        "name": "Interior #50617",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50618",
+        "name": "Cover #50618",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50619",
+        "name": "Interior #50619",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50620",
+        "name": "Cover #50620",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50621",
+        "name": "Interior #50621",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50622",
+        "name": "Cover #50622",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/50623",
+        "name": "Interior #50623",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6257/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22811",
+        "name": "Rocket Raccoon (1985) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22812",
+        "name": "Rocket Raccoon (1985) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22813",
+        "name": "Rocket Raccoon (1985) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22814",
+        "name": "Rocket Raccoon (1985) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6257/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

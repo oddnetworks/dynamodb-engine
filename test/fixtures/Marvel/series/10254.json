@@ -1,0 +1,90 @@
+{
+  "id": 10254,
+  "title": "Hulk: World War Hulks - Hulked-Out Heroes (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10254",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10254/hulk_world_war_hulks_-_hulked-out_heroes_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/4ba944f25417a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10254/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10254/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10254/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75100",
+        "name": "Cover #75100",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75101",
+        "name": "Interior #75101",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75102",
+        "name": "Cover #75102",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/75819",
+        "name": "Interior #75819",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10254/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33418",
+        "name": "Hulk: World War Hulks - Hulked-Out Heroes (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10254/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/60",
+        "name": "World War Hulks"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

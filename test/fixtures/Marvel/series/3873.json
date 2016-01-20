@@ -1,0 +1,120 @@
+{
+  "id": 3873,
+  "title": "Marvel Fanfare Vol. 1 (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3873",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3873/marvel_fanfare_vol_1_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4bc3167bb6a57",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3873/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1352",
+        "name": "Mike W. Barr",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7230",
+        "name": "ROGER STERN STEVEN GRANT BILL MANTLO",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7227",
+        "name": "CHRIS CLAREMONT ROGER MCKENZIE",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+        "name": "David Michelinie",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3733",
+        "name": "Sandy Plunkett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7228",
+        "name": "CHARLIE BOATNER DAVID ANTHONY KRAFT DAVID WINN",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7234",
+        "name": "Joe Barney George Freeman",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7232",
+        "name": "DAVE COCKRUM MARSHALL ROGERS P. CRAIG RUSSELL",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7233",
+        "name": "LUKE MCDONNELL SANDY PLUNKETT CHARLES VESS",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7231",
+        "name": "Michael Golden",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3873/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3873/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44470",
+        "name": "Marvel Fanfare 1-7 --- CLASSIC TPB",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44471",
+        "name": "Marvel Fanfare 1-7 --- CLASSIC TPB",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3873/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20730",
+        "name": "Marvel Fanfare Vol. 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3873/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

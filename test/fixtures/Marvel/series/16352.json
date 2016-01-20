@@ -1,0 +1,91 @@
+{
+  "id": 16352,
+  "title": "Starjammers (1995 - 1996)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16352",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16352/starjammers_1995_-_1996?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1995,
+  "endYear": 1996,
+  "rating": "",
+  "type": "",
+  "modified": "2015-10-23T16:52:06-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/562a9de881cb4",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16352/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16352/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16352/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106600",
+        "name": "cover from Starjammers #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106601",
+        "name": "cover from Starjammers #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106602",
+        "name": "cover from Starjammers #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127459",
+        "name": "Cover to Starjammers (1995) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16352/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42873",
+        "name": "Starjammers (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42874",
+        "name": "Starjammers (1995) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42875",
+        "name": "Starjammers (1995) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42879",
+        "name": "Starjammers (1995) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16352/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,137 @@
+{
+  "id": 12206,
+  "title": "Shadowland: Daughters of the Shadow (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/12206",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/12206/shadowland_daughters_of_the_shadow_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4beabfb25e76d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12206/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11196",
+        "name": "JEAN-BAPTISTE ANDREAE",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8687",
+        "name": "Jason Henderson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10859",
+        "name": "JORGE FARES MAESE RAMIREZ",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11226",
+        "name": "IVAN RODRIGUEZ",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10592",
+        "name": "DAVID L. SHARPE",
+        "role": "letterer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12206/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12206/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80115",
+        "name": "Cover #80115",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80116",
+        "name": "Interior #80116",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80117",
+        "name": "Cover #80117",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80118",
+        "name": "Interior #80118",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80121",
+        "name": "Cover #80121",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80122",
+        "name": "Interior #80122",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83373",
+        "name": "Cover #83373",
+        "type": "cover"
+      }
+    ],
+    "returned": 7
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12206/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36190",
+        "name": "Shadowland: Daughters of the Shadow (2010) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37744",
+        "name": "Shadowland: Daughters of the Shadow (2010) #1 (2ND PRINTING VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36189",
+        "name": "Shadowland: Daughters of the Shadow (2010) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/34918",
+        "name": "Shadowland: Daughters of the Shadow (2010) #3"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/12206/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/59",
+        "name": "Shadowland"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

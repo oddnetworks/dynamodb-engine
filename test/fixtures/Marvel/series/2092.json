@@ -1,0 +1,382 @@
+{
+  "id": 2092,
+  "title": "Web of Spider-Man (1985 - 1995)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2092",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2092/web_of_spider-man_1985_-_1995?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1985,
+  "endYear": 1995,
+  "rating": "",
+  "type": "",
+  "modified": "2014-09-19T16:35:18-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/519bbb871cb36",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 154,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2092/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3488",
+        "name": "Coscripter",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3539",
+        "name": "Hologram",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3538",
+        "name": "Sculpture",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3483",
+        "name": "Mark Beachum",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/211",
+        "name": "Mark Bright",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3482",
+        "name": "Krol",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3485",
+        "name": "Powell",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1937",
+        "name": "Jon Babcock",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3540",
+        "name": "Stegbauer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/300",
+        "name": "Kyle Baker",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3480",
+        "name": "Stephen Baskerville",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1251",
+        "name": "Brett Breeding",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2939",
+        "name": "Dell Barras",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/406",
+        "name": "Mark Beagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+        "name": "Paul Becton",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3524",
+        "name": "Adam Blaustein",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2092/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011052",
+        "name": "Cardiac"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009347",
+        "name": "Hobgoblin (Roderick Kingsley)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009514",
+        "name": "Puma"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009692",
+        "name": "Toxin (Eddie Brock)"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 362,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2092/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21669",
+        "name": "Cover #21669",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21670",
+        "name": "'Til Death Do Us Part!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21671",
+        "name": "Web-Zingers",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21672",
+        "name": "Cover #21672",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21673",
+        "name": "There, But for Fortune!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21674",
+        "name": "Cover #21674",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21675",
+        "name": "Total War (My Enemy's Enemy ..., conclusion)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21676",
+        "name": "The Origin of Nightwatch",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21677",
+        "name": "Cover #21677",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21678",
+        "name": "Darklight  (Maximum Carnage, Part 2)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21679",
+        "name": "Web-Zingers",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21680",
+        "name": "Cover #21680",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21681",
+        "name": "Sinking Fast  (Maximum Carnage, Part 6)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21682",
+        "name": "Cover #21682",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21683",
+        "name": "Sin City (Maximum Carnage, Part 10)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21684",
+        "name": "Cover #21684",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21685",
+        "name": "Infinity Crusader (Crisis of Conscience, Part 1)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21686",
+        "name": "Deathmask",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21687",
+        "name": "Web-Zingers",
+        "type": "letters"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21688",
+        "name": "Cover #21688",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 129,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2092/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11973",
+        "name": "Web of Spider-Man (1985) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12014",
+        "name": "Web of Spider-Man (1985) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12025",
+        "name": "Web of Spider-Man (1985) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12036",
+        "name": "Web of Spider-Man (1985) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12047",
+        "name": "Web of Spider-Man (1985) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12058",
+        "name": "Web of Spider-Man (1985) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12069",
+        "name": "Web of Spider-Man (1985) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12080",
+        "name": "Web of Spider-Man (1985) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12091",
+        "name": "Web of Spider-Man (1985) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11974",
+        "name": "Web of Spider-Man (1985) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11985",
+        "name": "Web of Spider-Man (1985) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/11996",
+        "name": "Web of Spider-Man (1985) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12007",
+        "name": "Web of Spider-Man (1985) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12008",
+        "name": "Web of Spider-Man (1985) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12009",
+        "name": "Web of Spider-Man (1985) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12010",
+        "name": "Web of Spider-Man (1985) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12011",
+        "name": "Web of Spider-Man (1985) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12012",
+        "name": "Web of Spider-Man (1985) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12013",
+        "name": "Web of Spider-Man (1985) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/12015",
+        "name": "Web of Spider-Man (1985) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2092/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/116",
+        "name": "Acts of Vengeance!"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+        "name": "Inferno"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/258",
+        "name": "Kraven's Last Hunt"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/151",
+        "name": "Maximum Carnage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/271",
+        "name": "Secret Wars II"
+      }
+    ],
+    "returned": 5
+  },
+  "next": null,
+  "previous": null
+}

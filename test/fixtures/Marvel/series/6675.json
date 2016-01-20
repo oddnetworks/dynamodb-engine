@@ -1,0 +1,162 @@
+{
+  "id": 6675,
+  "title": "Magik (1983 - 1984)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6675",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6675/magik_1983_-_1984?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1983,
+  "endYear": 1984,
+  "rating": "",
+  "type": "",
+  "modified": "2011-05-31T15:48:17-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bb5cd8392f50",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6675/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+        "name": "Bret Blevins",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5764",
+        "name": "Ron Frenz",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7018",
+        "name": "Ken Fedunieiwicz",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+        "name": "Glynis Oliver",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2406",
+        "name": "Louise Jones",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/791",
+        "name": "Tom Orzechowski",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "inker"
+      }
+    ],
+    "returned": 10
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6675/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6675/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51852",
+        "name": "Cover #51852",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51853",
+        "name": "Little Girl Lost",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51854",
+        "name": "Cover #51854",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51855",
+        "name": "Cold Iron Hot Blood!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51856",
+        "name": "Cover #51856",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51857",
+        "name": "Soulquest",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51858",
+        "name": "Cover #51858",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51859",
+        "name": "Darkchild",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6675/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23315",
+        "name": "Magik (1983) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23316",
+        "name": "Magik (1983) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23317",
+        "name": "Magik (1983) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23318",
+        "name": "Magik (1983) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6675/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

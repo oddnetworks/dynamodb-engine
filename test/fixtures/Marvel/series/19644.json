@@ -1,0 +1,64 @@
+{
+  "id": 19644,
+  "title": "Secret Avengers Vol. 3: God Level (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19644",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19644/secret_avengers_vol_3_god_level_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-06-23T16:14:59-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/5589b90db28e5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19644/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19644/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19644/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123600",
+        "name": "TPB cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19644/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52440",
+        "name": "Secret Avengers Vol. 3: God Level (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19644/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

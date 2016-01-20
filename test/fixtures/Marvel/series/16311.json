@@ -1,0 +1,169 @@
+{
+  "id": 16311,
+  "title": "Superior Carnage (2012 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16311",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16311/superior_carnage_2012_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2014-05-28T14:08:03-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/538625d974ddb",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16311/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+        "name": "Marco Checchetto",
+        "role": "penciler (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+        "name": "Clayton Crain",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1018",
+        "name": "Rafa Garres",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9468",
+        "name": "Stephen Segovia",
+        "role": "artist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16311/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16311/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96234",
+        "name": "Cover #96234",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96235",
+        "name": "Interior #96235",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96252",
+        "name": "Cover #96252",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96253",
+        "name": "Interior #96253",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96276",
+        "name": "Cover #96276",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96277",
+        "name": "Interior #96277",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96278",
+        "name": "Cover #96278",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96279",
+        "name": "Interior #96279",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96286",
+        "name": "Cover #96286",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96287",
+        "name": "Interior #96287",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108021",
+        "name": "cover from Carnage: TBD (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108022",
+        "name": "story from Carnage: TBD (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108625",
+        "name": "cover from Carnage: TBD (2013) #2 (GARRES VARIANT)",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16311/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42783",
+        "name": "Superior Carnage (2012) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47887",
+        "name": "Superior Carnage (2012) #1 (Checchetto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42757",
+        "name": "Superior Carnage (2012) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48206",
+        "name": "Superior Carnage (2012) #2 (Garres Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42766",
+        "name": "Superior Carnage (2012) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42779",
+        "name": "Superior Carnage (2012) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42778",
+        "name": "Superior Carnage (2012) #5"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16311/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,336 @@
+{
+  "id": 813,
+  "title": "Marvel Team-Up (2004 - 2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/813",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/813/marvel_team-up_2004_-_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2006,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/4bc6b0a29653a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/813/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/868",
+        "name": "Bill Crabtree",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+        "name": "Marte Gracia",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/869",
+        "name": "Phil Hester",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/380",
+        "name": "Jeff Johnson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/871",
+        "name": "Andy Kuhn",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+        "name": "Paco Medina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/553",
+        "name": "Robert Kirkman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/194",
+        "name": "Scott Kolins",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/867",
+        "name": "Cory Walker",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/870",
+        "name": "Ande Parks",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+        "name": "Juan Vlasco",
+        "role": "inker"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/813/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+        "name": "Captain Marvel (Carol Danvers)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+        "name": "Luke Cage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+        "name": "Moon Knight"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 50,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/813/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4103",
+        "name": "1 of 2 - Spider-Man & Wolverine",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4104",
+        "name": "1 of 2 - Spider-Man & Wolverine",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4105",
+        "name": "2 of 2 - Spider-Man & Wolverine",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4106",
+        "name": "2 of 2 - Spider-Man & Wolverine",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4107",
+        "name": "1 of 1 - Fantastic Four & Dr. Strange",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4108",
+        "name": "1 of 1 - Fantastic Four & Dr. Strange",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4109",
+        "name": "1 of 1 - Iron Man & Hulk",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4110",
+        "name": "1 of 1 - Iron Man & Hulk",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4111",
+        "name": "1 of 1 - Spider-Man & X-23",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4112",
+        "name": "1 of 1 - Spider-Man & X-23",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4113",
+        "name": "1 of 1 - Captain America & Black Widow",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4114",
+        "name": "1 of 1 - Captain America & Black Widow",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4115",
+        "name": "1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4116",
+        "name": "1 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4117",
+        "name": "2 of 6 - Master of the Ring",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4118",
+        "name": "2 of 6 - Master of the Ring",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4119",
+        "name": "3 of 6 - Master of the Ring",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4120",
+        "name": "3 of 6 - Master of the Ring",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4121",
+        "name": "4 of 6 - Master of the Ring",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4122",
+        "name": "4 of 6 - Master of the Ring",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 25,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/813/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/76",
+        "name": "Marvel Team-Up (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77",
+        "name": "Marvel Team-Up (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1479",
+        "name": "Marvel Team-Up (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1564",
+        "name": "Marvel Team-Up (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1654",
+        "name": "Marvel Team-Up (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1747",
+        "name": "Marvel Team-Up (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1854",
+        "name": "Marvel Team-Up (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1955",
+        "name": "Marvel Team-Up (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2061",
+        "name": "Marvel Team-Up (2004) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2170",
+        "name": "Marvel Team-Up (2004) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2295",
+        "name": "Marvel Team-Up (2004) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2813",
+        "name": "Marvel Team-Up (2004) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2556",
+        "name": "Marvel Team-Up (2004) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3090",
+        "name": "Marvel Team-Up (2004) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3204",
+        "name": "Marvel Team-Up (2004) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3412",
+        "name": "Marvel Team-Up (2004) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3528",
+        "name": "Marvel Team-Up (2004) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3932",
+        "name": "Marvel Team-Up (2004) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4073",
+        "name": "Marvel Team-Up (2004) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4185",
+        "name": "Marvel Team-Up (2004) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/813/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,155 @@
+{
+  "id": 20070,
+  "title": "Korvac Saga (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20070",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20070/korvac_saga_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2015-06-16T14:03:34-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/5564973b0589c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20070/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8003",
+        "name": "Alex Garner",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12493",
+        "name": "Otto Schmidt",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12456",
+        "name": "Katie Kubert",
+        "role": "editor"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20070/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20070/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118537",
+        "name": "cover from The Korvac Saga (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118538",
+        "name": "story from The Korvac Saga (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118541",
+        "name": "cover from The Korvac Saga (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118542",
+        "name": "story from The Korvac Saga (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118543",
+        "name": "cover from The Korvac Saga (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118545",
+        "name": "cover from The Korvac Saga (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118546",
+        "name": "story from The Korvac Saga (2015) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121209",
+        "name": "cover from The Korvac Saga (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121210",
+        "name": "story from The Korvac Saga (2015) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121524",
+        "name": "cover from The Korvac Saga (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121525",
+        "name": "story from The Korvac Saga (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20070/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53631",
+        "name": "Korvac Saga (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55023",
+        "name": "Korvac Saga (2015) #1 (Lieber Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53633",
+        "name": "Korvac Saga (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55216",
+        "name": "Korvac Saga (2015) #2 (Garner Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53634",
+        "name": "Korvac Saga (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53635",
+        "name": "Korvac Saga (2015) #4"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20070/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,154 @@
+{
+  "id": 20365,
+  "title": "Marvel Universe Guardians of the Galaxy (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20365",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20365/marvel_universe_guardians_of_the_galaxy_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "All Ages",
+  "type": "ongoing",
+  "modified": "2016-01-15T14:20:09-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20365/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+        "name": "Mark Basso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20365/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20365/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121340",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121341",
+        "name": "story from Marvel Universe Guardians of the Galaxy (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121344",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121348",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121349",
+        "name": "story from Marvel Universe Guardians of the Galaxy (2015) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121352",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121353",
+        "name": "story from Marvel Universe Guardians of the Galaxy (2015) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121354",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121355",
+        "name": "story from Marvel Universe Guardians of the Galaxy (2015) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121356",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121357",
+        "name": "story from Marvel Universe Guardians of the Galaxy (2015) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121358",
+        "name": "cover from Marvel Universe Guardians of the Galaxy (2015) #7",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20365/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55102",
+        "name": "Marvel Universe Guardians of the Galaxy (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55104",
+        "name": "Marvel Universe Guardians of the Galaxy (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55106",
+        "name": "Marvel Universe Guardians of the Galaxy (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55108",
+        "name": "Marvel Universe Guardians of the Galaxy (2015) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55109",
+        "name": "Marvel Universe Guardians of the Galaxy (2015) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55110",
+        "name": "Marvel Universe Guardians of the Galaxy (2015) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/55111",
+        "name": "Marvel Universe Guardians of the Galaxy (2015) #7"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20365/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

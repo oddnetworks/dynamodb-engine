@@ -1,0 +1,75 @@
+{
+  "id": 17,
+  "title": "Daredevil Visionaries: Frank Miller Vol. III (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17/daredevil_visionaries_frank_miller_vol_iii_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/4bc670bfc843f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/17",
+        "name": "Frank Miller",
+        "role": "writer"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/18",
+        "name": "Concluding Miller's complete run,  the Man Without Fear faces the Kingpin of Crime and the Hand Ñ and must come  to grips with t",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65095",
+        "name": "DAREDEVIL VISIONARIES: FRANK MILLER VOL. III TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/952",
+        "name": "Daredevil Visionaries: Frank Miller Vol. III (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

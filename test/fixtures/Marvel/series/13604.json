@@ -1,0 +1,141 @@
+{
+  "id": 13604,
+  "title": "The Thanos Imperative: Devastation (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13604",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13604/the_thanos_imperative_devastation_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2013-05-21T17:32:04-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/519be79b089d0",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13604/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1107",
+        "name": "Dan Abnett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8003",
+        "name": "Alex Garner",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/123",
+        "name": "Bill Rosemann",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9123",
+        "name": "Miguel Angel Sepulveda",
+        "role": "penciller"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13604/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009180",
+        "name": "Beta-Ray Bill"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011353",
+        "name": "Cosmo (dog)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010763",
+        "name": "Gamora"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009321",
+        "name": "Gladiator (Kallark)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009385",
+        "name": "Karnak"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+        "name": "Medusa"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010778",
+        "name": "Quasar (Wendell Vaughn)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010344",
+        "name": "Ronan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009592",
+        "name": "Silver Surfer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+        "name": "Thanos"
+      }
+    ],
+    "returned": 10
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13604/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83506",
+        "name": "Interior From The Thanos Imperative: Devestation (2010) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/83507",
+        "name": "Cover From The Thanos Imperative: Devestation (2010) #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13604/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37979",
+        "name": "The Thanos Imperative: Devastation (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13604/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/294",
+        "name": "The Thanos Imperative"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

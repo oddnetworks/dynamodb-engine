@@ -1,0 +1,318 @@
+{
+  "id": 433,
+  "title": "Venom (2003 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/433",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/433/venom_2003_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2003,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/00/4bc37cb1e60c8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 17,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/433/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4014",
+        "name": "Axel Alonso",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6229",
+        "name": "John Miesegaes",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+        "name": "Clayton Crain",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/343",
+        "name": "Sam Kieth",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/607",
+        "name": "Damion Scott",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/429",
+        "name": "Carlos Alberto cruz Cuevas",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/423",
+        "name": "Rick Ketcham",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+        "name": "Juan Vlasco",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4258",
+        "name": "Studio F",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/345",
+        "name": "Francisco Herrera",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+        "name": "Paco Medina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/410",
+        "name": "Rus Wooton",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+        "name": "Daniel Way",
+        "role": "writer"
+      }
+    ],
+    "returned": 17
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/433/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009692",
+        "name": "Toxin (Eddie Brock)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 39,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/433/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/906",
+        "name": "Cover #906",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/907",
+        "name": "Interior #907",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1014",
+        "name": "Cover #1014",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1015",
+        "name": "Interior #1015",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1661",
+        "name": "Cover #1661",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1662",
+        "name": "Interior #1662",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1946",
+        "name": "Interior #1946",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1984",
+        "name": "Cover #1984",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1985",
+        "name": "Interior #1985",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1986",
+        "name": "Cover #1986",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1987",
+        "name": "Interior #1987",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1988",
+        "name": "Cover #1988",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1989",
+        "name": "Interior #1989",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1990",
+        "name": "Cover #1990",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1991",
+        "name": "Interior #1991",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1992",
+        "name": "Cover #1992",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1993",
+        "name": "Interior #1993",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1994",
+        "name": "Cover #1994",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1995",
+        "name": "Interior #1995",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1996",
+        "name": "Cover #1996",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/433/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14512",
+        "name": "Venom (2003) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14522",
+        "name": "Venom (2003) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14523",
+        "name": "Venom (2003) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/14524",
+        "name": "Venom (2003) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/217",
+        "name": "Venom (2003) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/216",
+        "name": "Venom (2003) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/232",
+        "name": "Venom (2003) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/215",
+        "name": "Venom (2003) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/265",
+        "name": "Venom (2003) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/248",
+        "name": "Venom (2003) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/264",
+        "name": "Venom (2003) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/436",
+        "name": "Venom (2003) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/505",
+        "name": "Venom (2003) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/641",
+        "name": "Venom (2003) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/673",
+        "name": "Venom (2003) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/732",
+        "name": "Venom (2003) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/575",
+        "name": "Venom (2003) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/777",
+        "name": "Venom (2003) #18"
+      }
+    ],
+    "returned": 18
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/433/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

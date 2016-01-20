@@ -1,0 +1,80 @@
+{
+  "id": 911,
+  "title": "John Romita Jr. 30th Anniversary (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/911",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/911/john_romita_jr_30th_anniversary_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "RATED T+",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c361e1d313d7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/911/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/567",
+        "name": "Neil Gaiman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/911/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/911/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4844",
+        "name": "NO ADS! Takes place of Milestones 21.  JRJR's first work sketches everything David Gabriel wants",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4845",
+        "name": "NO ADS! Takes place of Milestones 21.  JRJR's first work sketches everything David Gabriel wants",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/911/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/5673",
+        "name": "John Romita Jr. 30th Anniversary (2006) #21"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/911/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

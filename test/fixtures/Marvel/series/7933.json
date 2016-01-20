@@ -1,0 +1,222 @@
+{
+  "id": 7933,
+  "title": "Kick-Ass (2008 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7933",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7933/kick-ass_2008_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2009,
+  "rating": "EXPLICIT CONTENT",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb7c69dd0334",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7933/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7639",
+        "name": "John Barber",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+        "name": "Dean White",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+        "name": "Mark Millar",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/214",
+        "name": "John Romita JR.",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7933/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 35,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7933/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44429",
+        "name": "10XLS 1 of 10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44430",
+        "name": "10XLS 1 of 10",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44774",
+        "name": "10XLS 2 of 10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44775",
+        "name": "10XLS 2 of 10",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45906",
+        "name": "3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/45907",
+        "name": "3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46965",
+        "name": "4 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46966",
+        "name": "4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47292",
+        "name": "1 of 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47572",
+        "name": "5 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47573",
+        "name": "5 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47870",
+        "name": "6 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51317",
+        "name": "8XLS 7 of 8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51318",
+        "name": "8XLS 7 of 8",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53471",
+        "name": "8XLS 7 of 8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53472",
+        "name": "8XLS 7 of 8",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56414",
+        "name": "Cover #56414",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56415",
+        "name": "Interior #56415",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56416",
+        "name": "Cover #56416",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/56417",
+        "name": "Interior #56417",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7933/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20717",
+        "name": "Kick-Ass (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21420",
+        "name": "Kick-Ass (2008) #1 (Director's Cut)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20910",
+        "name": "Kick-Ass (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21046",
+        "name": "Kick-Ass (2008) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21266",
+        "name": "Kick-Ass (2008) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21583",
+        "name": "Kick-Ass (2008) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21780",
+        "name": "Kick-Ass (2008) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23142",
+        "name": "Kick-Ass (2008) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24128",
+        "name": "Kick-Ass (2008) #8"
+      }
+    ],
+    "returned": 9
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7933/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

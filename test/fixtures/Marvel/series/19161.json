@@ -1,0 +1,114 @@
+{
+  "id": 19161,
+  "title": "Death of Wolverine: Life After Logan (2014 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19161",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19161/death_of_wolverine_life_after_logan_2014_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2014-11-03T16:19:47-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/5457f07a10b53",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19161/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10445",
+        "name": "Iban Coello",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/690",
+        "name": "Patrick Scherberger",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8843",
+        "name": "Joshua Fialkov",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12438",
+        "name": "Jeff Loveness",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2985",
+        "name": "Javier Pulido",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11488",
+        "name": "Julian Totino Tedesco",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19161/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19161/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113877",
+        "name": "Death of Wolverine: Life After Logan (2014) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113947",
+        "name": "DEATH OF WOLVERINE: LIFE AFTER LOGAN 1 (WITH DIGITAL CODE)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113948",
+        "name": "DEATH OF WOLVERINE: LIFE AFTER LOGAN 1 TEDESCO VARIANT (WITH DIGITAL CODE)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113949",
+        "name": "DEATH OF WOLVERINE: LIFE AFTER LOGAN 1 TEDESCO VARIANT (WITH DIGITAL CODE)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19161/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51050",
+        "name": "Death of Wolverine: Life After Logan (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51116",
+        "name": "Death of Wolverine: Life After Logan (2014) #1 (Tedesco Variant)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19161/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

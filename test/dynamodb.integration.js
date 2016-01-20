@@ -2,6 +2,7 @@
 const Promise = require('bluebird');
 const test = require('tape');
 const debug = require('debug')('integration');
+const FilePath = require('filepath');
 const U = require('../lib/utils');
 
 const DynamoDBEngine = require('../lib/dynamodb-engine');
@@ -39,7 +40,7 @@ const SCHEMA = U.deepFreeze({
 			}
 		}
 	},
-	Comic: {
+	Series: {
 		indexes: {
 			ByTitle: {
 				keys: {
@@ -67,6 +68,33 @@ function die(err) {
 	process.exit(1);
 }
 
+function createSeries(data) {
+	return {
+		id: data.id.toString(),
+		type: 'Series',
+		title: data.title || 'EMPTY',
+		description: data.description || 'EMPTY',
+		resourceURI: data.resourceURI || 'EMPTY',
+		startYear: data.startYear || 0,
+		endYear: data.endYear || 0,
+		characters: (data.characters.items || []).map(function (item) {
+			return item.resourceURI || 'EMPTY';
+		})
+	};
+}
+
+function createCharacter(data) {
+	var thumb = (data.thumbnail).path ? data.thumbnail : null;
+	return {
+		id: data.id.toString(),
+		type: 'Character',
+		name: data.name || 'EMPTY',
+		description: data.description || 'EMPTY',
+		resourceURI: data.resourceURI || 'EMPTY',
+		thumbnail: thumb ? (thumb.path + '.' + thumb.extension) : 'EMPTY'
+	};
+}
+
 // test('manually cleanup from failed tests', function (t) {
 
 // 	function onsuccess(res) {
@@ -82,7 +110,7 @@ function die(err) {
 // 	debugger;
 // });
 
-test('remove leftover test tables if any', function (t) {
+test.skip('remove leftover test tables if any', function (t) {
 	var tableNames = Object.keys(SCHEMA).map(function (key) {
 		return DB.dynamodb.table(key);
 	});
@@ -99,7 +127,7 @@ test('remove leftover test tables if any', function (t) {
 		.then(t.end);
 });
 
-test('sanity check to make sure tables do not exist', function (t) {
+test.skip('sanity check to make sure tables do not exist', function (t) {
 	var tableNames = Object.keys(SCHEMA).map(function (key) {
 		return DB.dynamodb.table(key);
 	});
@@ -117,7 +145,7 @@ test('sanity check to make sure tables do not exist', function (t) {
 		.then(t.end);
 });
 
-test('createRecord on table that does not exist', function (t) {
+test.skip('createRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.createRecord({id: 'foo', type: 'Character'})
@@ -133,7 +161,7 @@ test('createRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test('updateRecord on table that does not exist', function (t) {
+test.skip('updateRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.updateRecord({id: 'foo', type: 'Character'})
@@ -149,7 +177,7 @@ test('updateRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test('createRelation on table that does not exist', function (t) {
+test.skip('createRelation on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.createRelation('bar', {id: 'foo', type: 'Character'})
@@ -165,7 +193,7 @@ test('createRelation on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test('getRecord on table that does not exist', function (t) {
+test.skip('getRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.getRecord('Character', 'foo')
@@ -181,7 +209,7 @@ test('getRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test('removeRecord on table that does not exist', function (t) {
+test.skip('removeRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.removeRecord('Character', 'foo')
@@ -197,7 +225,7 @@ test('removeRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test('migrateUp', function (t) {
+test.skip('migrateUp', function (t) {
 	t.plan(4);
 
 	DB.migrateUp()
@@ -210,7 +238,33 @@ test('migrateUp', function (t) {
 		.catch(die);
 });
 
-test('add a new table', function (t) {
+test('populate series data', function (t) {
+	var dir = FilePath.create(__dirname).append('fixtures', 'Marvel', 'series');
+
+	function processDocument(file) {
+		return file.read()
+			.then(JSON.parse)
+			.then(createSeries)
+			.then(DB.createRecord.bind(DB));
+	}
+
+	dir
+		.list()
+		.reduce(function (promise, file) {
+			return promise.then(function () {
+				return processDocument(file);
+			});
+		}, Promise.resolve(null))
+		.catch(function (err) {
+			debugger;
+		})
+		.catch(die)
+		.then(function () {
+			t.end();
+		});
+});
+
+test.skip('add a new table', function (t) {
 	const thisSchema = U.extend(Object.create(null), {
 		Widget: {}
 	}, SCHEMA);

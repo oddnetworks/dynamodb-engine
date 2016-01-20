@@ -1,0 +1,147 @@
+{
+  "id": 20093,
+  "title": "Star-Lord and Kitty Pryde (2015 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20093",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20093/star-lord_and_kitty_pryde_2015_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2099,
+  "rating": "Rated T",
+  "type": "limited",
+  "modified": "2015-08-27T12:48:40-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/55df3ef15888d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20093/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11575",
+        "name": "Kris Anka",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12698",
+        "name": "Yasmine Putri",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12707",
+        "name": "Alti Firmansyah",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11530",
+        "name": "Sam Humphries",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11921",
+        "name": "Jacob Thomas",
+        "role": "editor"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20093/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20093/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118660",
+        "name": "story from Star-Lord & Kitty Pryde (2015) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118663",
+        "name": "cover from Star-Lord & Kitty Pryde (2015) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118664",
+        "name": "story from Star-Lord & Kitty Pryde (2015) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118665",
+        "name": "cover from Star-Lord & Kitty Pryde (2015) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/118666",
+        "name": "story from Star-Lord & Kitty Pryde (2015) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/121520",
+        "name": "cover from Star-Lord & Kitty Pryde (2015) #2 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123499",
+        "name": "cover from Star-Lord & Kitty Pryde (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123500",
+        "name": "story from Star-Lord & Kitty Pryde (2015) #3 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123597",
+        "name": "Cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 9
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20093/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53710",
+        "name": "Star-Lord and Kitty Pryde (2015) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53712",
+        "name": "Star-Lord and Kitty Pryde (2015) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53713",
+        "name": "Star-Lord and Kitty Pryde (2015) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56268",
+        "name": "Star-Lord and Kitty Pryde (2015) #3 (ANKA VARIANT)"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20093/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/323",
+        "name": "Secret Wars (2015)"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

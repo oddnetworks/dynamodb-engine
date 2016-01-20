@@ -1,0 +1,430 @@
+{
+  "id": 2011,
+  "title": "Excalibur (1988 - 1998)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2011",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2011/excalibur_1988_-_1998?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1988,
+  "endYear": 1998,
+  "rating": "",
+  "type": "",
+  "modified": "2015-02-10T18:13:42-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4bad41932ca32",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 148,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2011/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3672",
+        "name": "Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3050",
+        "name": "Spike",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1937",
+        "name": "Jon Babcock",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3626",
+        "name": "Pat Brosseau",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3632",
+        "name": "Lois Buhalis",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4706",
+        "name": "Gcw",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2330",
+        "name": "Malibu",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3654",
+        "name": "Thomas Blackshear",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2278",
+        "name": "Paul Abrams",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3673",
+        "name": "Robert Brown",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+        "name": "Steve Buccellato",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2041",
+        "name": "Bill Anderson",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+        "name": "Bret Blevins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3640",
+        "name": "John Arcudi",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3667",
+        "name": "Richard Ashford",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3652",
+        "name": "Mark Badger",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/128",
+        "name": "Doug Braithwaite",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 53,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2011/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009158",
+        "name": "Arcade"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+        "name": "Banshee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009171",
+        "name": "Bastion"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+        "name": "Black Knight (Sir Percy of Scandia)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+        "name": "Black Panther"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+        "name": "Cable"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009226",
+        "name": "Cargill"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009688",
+        "name": "Carmella Unuscione"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011141",
+        "name": "Cerise"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009232",
+        "name": "Ch'od"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009247",
+        "name": "Corsair"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009453",
+        "name": "Dani Moonstar"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010771",
+        "name": "Excalibur"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 269,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2011/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22398",
+        "name": "Cover #22398",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22399",
+        "name": "A True & Terrible Sacrifice",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22400",
+        "name": "Cover #22400",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22401",
+        "name": "Warwolves Of London!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22402",
+        "name": "Back Cover",
+        "type": "backcovers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22403",
+        "name": "Captain Britain vs. Hauptmann Englande !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22404",
+        "name": "Widget",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22405",
+        "name": "Back Cover",
+        "type": "backcovers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22406",
+        "name": "Cover #22406",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22407",
+        "name": "London's Burning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22408",
+        "name": "Cover #22408",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22409",
+        "name": "Quiet",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22410",
+        "name": "Cover #22410",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22411",
+        "name": "After the Bomb",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22412",
+        "name": "Cover #22412",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22413",
+        "name": "Bend Sinister Reprise",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22414",
+        "name": "Cover #22414",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22415",
+        "name": "Buried Secret",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22416",
+        "name": "Cover #22416",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/22417",
+        "name": "Hard Truths",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 125,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2011/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8562",
+        "name": "Excalibur (1988) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8599",
+        "name": "Excalibur (1988) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8610",
+        "name": "Excalibur (1988) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8621",
+        "name": "Excalibur (1988) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8632",
+        "name": "Excalibur (1988) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8643",
+        "name": "Excalibur (1988) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8654",
+        "name": "Excalibur (1988) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8665",
+        "name": "Excalibur (1988) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8676",
+        "name": "Excalibur (1988) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8563",
+        "name": "Excalibur (1988) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8574",
+        "name": "Excalibur (1988) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8585",
+        "name": "Excalibur (1988) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8592",
+        "name": "Excalibur (1988) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8593",
+        "name": "Excalibur (1988) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8594",
+        "name": "Excalibur (1988) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8595",
+        "name": "Excalibur (1988) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8596",
+        "name": "Excalibur (1988) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8597",
+        "name": "Excalibur (1988) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8598",
+        "name": "Excalibur (1988) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8600",
+        "name": "Excalibur (1988) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2011/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/249",
+        "name": "Fatal Attractions"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/252",
+        "name": "Inferno"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      }
+    ],
+    "returned": 3
+  },
+  "next": null,
+  "previous": null
+}

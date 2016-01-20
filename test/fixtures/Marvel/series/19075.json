@@ -1,0 +1,186 @@
+{
+  "id": 19075,
+  "title": "Edge of Spider-Verse (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19075",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19075/edge_of_spider-verse_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "",
+  "modified": "2014-09-30T15:14:06-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/f0/542b0083a73e6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19075/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12423",
+        "name": "Elia Bonnetti",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12399",
+        "name": "Robbi Rodriguez",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12422",
+        "name": "Garry Brown",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/798",
+        "name": "Richard Isanove",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8404",
+        "name": "Dustin Weaver",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12428",
+        "name": "Jake Wyatt",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11937",
+        "name": "Clay Mcleod Chapman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/371",
+        "name": "David Hine",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11306",
+        "name": "Jason Latour",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8487",
+        "name": "Fabrice Sapolsky",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12429",
+        "name": "Gerard Way",
+        "role": "writer"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19075/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19075/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113792",
+        "name": "EDGE OF SPIDER-VERSE 1 (EOSV, WITH DIGITAL CODE)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113793",
+        "name": "EDGE OF SPIDER-VERSE 1 (EOSV, WITH DIGITAL CODE)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113802",
+        "name": "interiors",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113804",
+        "name": "cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113818",
+        "name": "Edge of Spider-Verse #4 ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113819",
+        "name": "Edge of Spider-Verse (2014) #4",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113827",
+        "name": "EDGE OF SPIDER-VERSE 3 (EOSV, WITH DIGITAL CODE)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113828",
+        "name": "EDGE OF SPIDER-VERSE 3 (EOSV, WITH DIGITAL CODE)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113836",
+        "name": "Edge of Spider-Verse (2014) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113837",
+        "name": "Edge of Spider-Verse (2014) #5",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19075/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50954",
+        "name": "Edge of Spider-Verse (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50955",
+        "name": "Edge of Spider-Verse (2014) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50956",
+        "name": "Edge of Spider-Verse (2014) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50962",
+        "name": "Edge of Spider-Verse (2014) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50963",
+        "name": "Edge of Spider-Verse (2014) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19075/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/321",
+        "name": "Spider-Verse"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,64 @@
+{
+  "id": 6878,
+  "title": "Spider-Man: Brand New Day Yearbook (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6878",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6878/spider-man_brand_new_day_yearbook_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "",
+  "type": "",
+  "modified": "2014-06-12T12:27:47-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4bb5a44861f21",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6878/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6878/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6878/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68605",
+        "name": "SPIDER-MAN: BRAND NEW DAY YEARBOOK 1 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6878/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23726",
+        "name": "Spider-Man: Brand New Day Yearbook (2008) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6878/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,80 @@
+{
+  "id": 16804,
+  "title": "Ultimate Spider-Man Infinite (2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16804",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16804/ultimate_spider-man_infinite_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T12:44:04-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16804/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+        "name": "Ramon Bachs",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11922",
+        "name": "Yves Bigerel",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16804/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16804/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106671",
+        "name": "cover from Ultimate Spider-Man Infinite #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113653",
+        "name": "Ultimate Spider-Man Infinite",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16804/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/44528",
+        "name": "Ultimate Spider-Man Infinite (2012) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16804/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

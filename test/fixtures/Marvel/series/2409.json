@@ -1,0 +1,352 @@
+{
+  "id": 2409,
+  "title": "New Warriors (2007 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2409",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2409/new_warriors_2007_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2009,
+  "rating": "T",
+  "type": "",
+  "modified": "2013-03-20T17:46:35-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/50/514a2dbe6a89d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2409/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/665",
+        "name": "Reilly Brown",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/393",
+        "name": "Casey Jones",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8814",
+        "name": "Jon Malin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+        "name": "Paco Medina",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/857",
+        "name": "Koi Turnbull",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+        "name": "Edgar Delgado",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+        "name": "Marte Gracia",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8706",
+        "name": "Jay David Ramos",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5111",
+        "name": "Beth Sotelo",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/832",
+        "name": "Val Staples",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "other"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4990",
+        "name": "Kevin Grevioux",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4989",
+        "name": "Nic Klein",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9395",
+        "name": "Salvador Regla",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/563",
+        "name": "Vince Russell",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+        "name": "Juan Vlasco",
+        "role": "inker"
+      }
+    ],
+    "returned": 18
+  },
+  "characters": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2409/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010683",
+        "name": "New Warriors"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010684",
+        "name": "Night Thrasher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011009",
+        "name": "Wind Dancer"
+      }
+    ],
+    "returned": 4
+  },
+  "stories": {
+    "available": 40,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2409/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32432",
+        "name": "1 of 4; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32433",
+        "name": "1 of 4; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32653",
+        "name": "2 of 5; THE INITIATIVE BANNER; Annihilation Conquest Insert",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32654",
+        "name": "2 of 5; THE INITIATIVE BANNER; Annihilation Conquest Insert",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33041",
+        "name": "3 of 5; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33042",
+        "name": "3 of 5; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33420",
+        "name": "4 of 5; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33421",
+        "name": "4 of 5; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33422",
+        "name": "Defiant 5 of 6; THE INITIATIVE BANNER",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33423",
+        "name": "Defiant 5 of 6; THE INITIATIVE BANNER",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36191",
+        "name": "Defiant 6 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36192",
+        "name": "Defiant 6 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36491",
+        "name": "1 of 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36492",
+        "name": "1 of 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36931",
+        "name": "2 of 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36932",
+        "name": "2 of 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44362",
+        "name": "1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44363",
+        "name": "1 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44721",
+        "name": "2 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44722",
+        "name": "2 of 6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2409/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15881",
+        "name": "New Warriors (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15990",
+        "name": "New Warriors (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16175",
+        "name": "New Warriors (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16571",
+        "name": "New Warriors (2007) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16572",
+        "name": "New Warriors (2007) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17270",
+        "name": "New Warriors (2007) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17404",
+        "name": "New Warriors (2007) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17644",
+        "name": "New Warriors (2007) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20685",
+        "name": "New Warriors (2007) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20884",
+        "name": "New Warriors (2007) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21015",
+        "name": "New Warriors (2007) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21230",
+        "name": "New Warriors (2007) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21370",
+        "name": "New Warriors (2007) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21549",
+        "name": "New Warriors (2007) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21744",
+        "name": "New Warriors (2007) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21978",
+        "name": "New Warriors (2007) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22303",
+        "name": "New Warriors (2007) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22508",
+        "name": "New Warriors (2007) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22914",
+        "name": "New Warriors (2007) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23114",
+        "name": "New Warriors (2007) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2409/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/255",
+        "name": "Initiative"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/269",
+        "name": "Secret Invasion"
+      }
+    ],
+    "returned": 2
+  },
+  "next": null,
+  "previous": null
+}

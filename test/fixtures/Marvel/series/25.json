@@ -1,0 +1,80 @@
+{
+  "id": 25,
+  "title": "Elektra & Wolverine: The Redeemer (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/25",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/25/elektra_wolverine_the_redeemer_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR+",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4bc670a064280",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/25/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/29",
+        "name": "Yoshitaka Amano",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/28",
+        "name": "Greg Rucka",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/25/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/25/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26",
+        "name": "Haunted by her own father's death, Elektra finds that killing her latest target's daughter Ñ the only witness to the murder Ñ is",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65103",
+        "name": "ELEKTRA & WOLVERINE: THE REDEEMER HC 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/25/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/960",
+        "name": "Elektra & Wolverine: The Redeemer (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/25/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,305 @@
+{
+  "id": 674,
+  "title": "The Pulse (2004 - 2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/674",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/674/the_pulse_2004_-_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2006,
+  "rating": "Marvel Psr",
+  "type": "",
+  "modified": "2014-07-18T16:39:46-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4bc6aa9d3e8cd",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/674/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/651",
+        "name": "Brent Anderson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/177",
+        "name": "Michael Gaydos",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/509",
+        "name": "Michael Lark",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8522",
+        "name": "Gabriele Dell'Otto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/243",
+        "name": "Mike Mayhew",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+        "name": "Scott Hanna",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+        "name": "Matt Hollingsworth",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/652",
+        "name": "Peter Pantazis",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      }
+    ],
+    "returned": 11
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/674/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+        "name": "Hawkeye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009378",
+        "name": "Jessica Jones"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+        "name": "Luke Cage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 30,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/674/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1717",
+        "name": "Cover #1717",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1718",
+        "name": "Interior #1718",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2334",
+        "name": "1 of 5 - Secret War arc",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2337",
+        "name": "Cover #2337",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2338",
+        "name": "Interior #2338",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2339",
+        "name": "Cover #2339",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2340",
+        "name": "Interior #2340",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2341",
+        "name": "Cover #2341",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2342",
+        "name": "Interior #2342",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2343",
+        "name": "\"THIN AIR\" PART 5 (OF 5) The downfall of Norman Osborn – the shocking conclusion to the story that rocked the Spidey-verse!  Str",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2344",
+        "name": "\"THIN AIR\" PART 5 (OF 5) The downfall of Norman Osborn – the shocking conclusion to the story that rocked the Spidey-verse!  Str",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2345",
+        "name": "2 of 5 - Secret War arc",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2346",
+        "name": "2 of 5 - Secret War arc",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2347",
+        "name": "3 of 4 - Secret War arc",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2348",
+        "name": "3 of 4 - Secret War arc",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2349",
+        "name": "4 of 4 - Secret War arc",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2350",
+        "name": "4 of 4 - Secret War arc",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2351",
+        "name": "1 of 1 - House of M Tie-In",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2352",
+        "name": "1 of 1 - House of M Tie-In",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/2353",
+        "name": "1 of 5 -",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/674/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/168",
+        "name": "The Pulse (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/421",
+        "name": "The Pulse (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/638",
+        "name": "The Pulse (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/553",
+        "name": "The Pulse (2004) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/803",
+        "name": "The Pulse (2004) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2",
+        "name": "The Pulse (2004) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1508",
+        "name": "The Pulse (2004) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1707",
+        "name": "The Pulse (2004) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1935",
+        "name": "The Pulse (2004) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2157",
+        "name": "The Pulse (2004) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2989",
+        "name": "The Pulse (2004) #10 (Limited Edition)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2386",
+        "name": "The Pulse (2004) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/2992",
+        "name": "The Pulse (2004) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3414",
+        "name": "The Pulse (2004) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3935",
+        "name": "The Pulse (2004) #14"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/674/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/251",
+        "name": "House of M"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

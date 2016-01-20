@@ -1,0 +1,109 @@
+{
+  "id": 16413,
+  "title": "Minimum Carnage: Alpha (2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16413",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16413/minimum_carnage_alpha_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2014-05-27T17:08:17-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/5384fe9cc6529",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16413/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11647",
+        "name": "Tom Brennan",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11539",
+        "name": "Christopher Yost",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+        "name": "Clayton Crain",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/437",
+        "name": "Lan Medina",
+        "role": "artist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16413/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16413/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/97004",
+        "name": "Cover #97004",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/97005",
+        "name": "Interior #97005",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105536",
+        "name": "cover from Minimum Carnage: Alpha (2012) #1 (2ND PRINTING VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105537",
+        "name": "story from Minimum Carnage: Alpha (2012) #1 (2ND PRINTING VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16413/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43321",
+        "name": "Minimum Carnage: Alpha (2012) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46962",
+        "name": "Minimum Carnage: Alpha (2012) #1 (2nd Printing Variant)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16413/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

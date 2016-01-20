@@ -1,0 +1,154 @@
+{
+  "id": 21245,
+  "title": "Mockingbird (2016 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21245",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21245/mockingbird_2016_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2016,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "ongoing",
+  "modified": "2016-01-15T13:54:06-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21245/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+        "name": "Tom Brevoort",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21245/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21245/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127068",
+        "name": "cover from Mockingbird (2016) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127069",
+        "name": "story from Mockingbird (2016) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127070",
+        "name": "cover from Mockingbird (2016) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127187",
+        "name": "cover from Mockingbird (2016) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127188",
+        "name": "story from Mockingbird (2016) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128094",
+        "name": "cover from Mockingbird (2016) #1 (DEKAL HIP-HOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128095",
+        "name": "story from Mockingbird (2016) #1 (DEKAL HIP-HOP VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128096",
+        "name": "cover from Mockingbird (2016) #1 (FAGAN WOP VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128097",
+        "name": "story from Mockingbird (2016) #1 (FAGAN WOP VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128098",
+        "name": "cover from Mockingbird (2016) #1 (CHRISTOPHER ACTION FIGURE VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128099",
+        "name": "story from Mockingbird (2016) #1 (CHRISTOPHER ACTION FIGURE VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128100",
+        "name": "cover from Mockingbird (2016) #1 (YOUNG VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/128101",
+        "name": "story from Mockingbird (2016) #1 (YOUNG VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21245/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58219",
+        "name": "Mockingbird (2016) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58754",
+        "name": "Mockingbird (2016) #1 (Dekal Hip-&#8203;Hop Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58755",
+        "name": "Mockingbird (2016) #1 (Fagan Wop Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58756",
+        "name": "Mockingbird (2016) #1 (Christopher Action Figure Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58757",
+        "name": "Mockingbird (2016) #1 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58289",
+        "name": "Mockingbird (2016) #1 (Afu Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58220",
+        "name": "Mockingbird (2016) #2"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21245/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

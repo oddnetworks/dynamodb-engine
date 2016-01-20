@@ -1,0 +1,316 @@
+{
+  "id": 18467,
+  "title": "Moon Knight (2014 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18467",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18467/moon_knight_2014_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "ongoing",
+  "modified": "2014-10-01T16:44:47-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/542c66767daa4",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18467/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12389",
+        "name": "Ron Ackins",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11866",
+        "name": "Jordan Diane Bellaire",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12368",
+        "name": "Greg Smallwood",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/676",
+        "name": "Warren Ellis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11544",
+        "name": "Brian Wood",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12375",
+        "name": "Katie Cook",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+        "name": "Adi Granov",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+        "name": "Phil Noto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+        "name": "Declan Shalvey",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+        "name": "Bill Sienkiewicz",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+        "name": "Ryan Stegman",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+        "name": "Stephen Wacker",
+        "role": "editor"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18467/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 48,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18467/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110241",
+        "name": "cover from Moon Knight (2014) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110242",
+        "name": "story from Moon Knight (2014) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110243",
+        "name": "cover from Moon Knight (2014) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110244",
+        "name": "story from Moon Knight (2014) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110245",
+        "name": "cover from Moon Knight (2014) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110246",
+        "name": "story from Moon Knight (2014) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110247",
+        "name": "cover from Moon Knight (2014) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110248",
+        "name": "story from Moon Knight (2014) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110249",
+        "name": "cover from Moon Knight (2014) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110250",
+        "name": "story from Moon Knight (2014) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110251",
+        "name": "cover from Moon Knight (2014) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110252",
+        "name": "story from Moon Knight (2014) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110253",
+        "name": "cover from Moon Knight (2014) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110254",
+        "name": "story from Moon Knight (2014) #7",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110255",
+        "name": "cover from Moon Knight (2014) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110256",
+        "name": "story from Moon Knight (2014) #8",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110257",
+        "name": "cover from Moon Knight (2014) #9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110258",
+        "name": "story from Moon Knight (2014) #9",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110259",
+        "name": "cover from Moon Knight (2014) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/110260",
+        "name": "story from Moon Knight (2014) #10",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18467/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49077",
+        "name": "Moon Knight (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49748",
+        "name": "Moon Knight (2014) #1 (Cook Animal Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49750",
+        "name": "Moon Knight (2014) #1 (Granov Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50346",
+        "name": "Moon Knight (2014) #1 (Sienkiewicz Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49830",
+        "name": "Moon Knight (2014) #1 (Young Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49078",
+        "name": "Moon Knight (2014) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50029",
+        "name": "Moon Knight (2014) #2 (Noto Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49079",
+        "name": "Moon Knight (2014) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50030",
+        "name": "Moon Knight (2014) #3 (Stegman Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49080",
+        "name": "Moon Knight (2014) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49081",
+        "name": "Moon Knight (2014) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49082",
+        "name": "Moon Knight (2014) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49083",
+        "name": "Moon Knight (2014) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49084",
+        "name": "Moon Knight (2014) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49085",
+        "name": "Moon Knight (2014) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52234",
+        "name": "Moon Knight (2014) #9 (Shalvey Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49086",
+        "name": "Moon Knight (2014) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49087",
+        "name": "Moon Knight (2014) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49088",
+        "name": "Moon Knight (2014) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52235",
+        "name": "Moon Knight (2014) #13"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18467/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+        "name": "Marvel NOW!"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,170 @@
+{
+  "id": 998,
+  "title": "Marvel Zombies (2005 - 2006)",
+  "description": "Enter a world overrun by the flesh-eating monsters known as the Marvel Zombies! Spider-Man, Captain America, Iron Man, Wolverine and all your favorite heroes have fallen prey to an unstoppable virus, and the world's only savior may be none other than Magneto!",
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/998",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/998/marvel_zombies_2005_-_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2006,
+  "rating": "T",
+  "type": "",
+  "modified": "2013-02-13T16:22:01-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/a0/511c036a30549",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/998/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/529",
+        "name": "June Chung",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/553",
+        "name": "Robert Kirkman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/569",
+        "name": "Sean Phillips",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1057",
+        "name": "Arthur Suydam",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/998/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011002",
+        "name": "Marvel Zombies"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+        "name": "Wolverine"
+      }
+    ],
+    "returned": 3
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/998/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5633",
+        "name": "1 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5634",
+        "name": "2 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5635",
+        "name": "3 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5636",
+        "name": "3 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5637",
+        "name": "4 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5638",
+        "name": "4 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5639",
+        "name": "5 of 5 xLS",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/5640",
+        "name": "5 of 5 xLS",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65591",
+        "name": "MARVEL ZOMBIES 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65592",
+        "name": "MARVEL ZOMBIES 2 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/998/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3220",
+        "name": "Marvel Zombies (2005) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3430",
+        "name": "Marvel Zombies (2005) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3549",
+        "name": "Marvel Zombies (2005) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3956",
+        "name": "Marvel Zombies (2005) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/4082",
+        "name": "Marvel Zombies (2005) #5"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/998/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/2844",
+    "name": "Marvel Zombies 2 (2007 - 2008)"
+  },
+  "previous": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/702",
+    "name": "Ultimate Fantastic Four (2003 - 2009)"
+  }
+}

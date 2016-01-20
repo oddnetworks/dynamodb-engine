@@ -1,0 +1,75 @@
+{
+  "id": 10243,
+  "title": "Hit-Monkey: Year of the Monkey (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10243",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10243/hit-monkey_year_of_the_monkey_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2010-12-19T12:41:28-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4c90f0dad52ea",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10243/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+        "name": "Dave Johnson",
+        "role": "artist"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10243/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10243/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74479",
+        "name": "Cover From: Hit-Monkey: Year of the Monkey",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/74480",
+        "name": "Interior #74480",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10243/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/33077",
+        "name": "Hit-Monkey: Year of the Monkey (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10243/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

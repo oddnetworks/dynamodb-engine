@@ -1,0 +1,90 @@
+{
+  "id": 3881,
+  "title": "Laurell K. Hamilton's Anita Blake, Vampire Hunter: The First Death (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3881",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3881/laurell_k_hamiltons_anita_blake_vampire_hunter_the_first_death_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bc31652cef76",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3881/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5039",
+        "name": "Wellington Alves",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1148",
+        "name": "Brett Booth",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5038",
+        "name": "Jonathon Green",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1149",
+        "name": "Laurell K. Hamilton",
+        "role": "writer"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3881/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3881/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44486",
+        "name": "Laurell K. Hamilton's Anita Blake, Vampire Hunter: The First Death 1-2, Anita Blake: Guilty Pleasures Handbook",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44487",
+        "name": "Laurell K. Hamilton's Anita Blake, Vampire Hunter: The First Death 1-2, Anita Blake: Guilty Pleasures Handbook",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3881/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20738",
+        "name": "Laurell K. Hamilton's Anita Blake, Vampire Hunter: The First Death (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3881/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

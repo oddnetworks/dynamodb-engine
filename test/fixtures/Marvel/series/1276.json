@@ -1,0 +1,150 @@
+{
+  "id": 1276,
+  "title": "Madrox: Multiple Choice (2005)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1276",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1276/madrox_multiple_choice_2005?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2005,
+  "endYear": 2005,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4bc64ad45093e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1276/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/548",
+        "name": "Andrew Hennessy",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/813",
+        "name": "David Lloyd",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/814",
+        "name": "Pablo Raimondi",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/582",
+        "name": "Brian Reber",
+        "role": "colorist"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1276/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009413",
+        "name": "Madrox"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1276/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3578",
+        "name": "3 of 5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3579",
+        "name": "3 of 5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3580",
+        "name": "X-MEN: RELOAD ANOTHER CLIP!  Jamie Madrox, stabbed, staggering off a bus. Jamie Madrox, setting up a detective agency in the hea",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3581",
+        "name": "X-MEN: RELOAD ANOTHER CLIP!  Jamie Madrox, stabbed, staggering off a bus. Jamie Madrox, setting up a detective agency in the hea",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3582",
+        "name": "PART 2 (OF 5) The murder of one of Madrox’s dupes sends the original Jamie on a quest to the Windy City of Chicago to determine ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3583",
+        "name": "PART 2 (OF 5) The murder of one of Madrox’s dupes sends the original Jamie on a quest to the Windy City of Chicago to determine ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3584",
+        "name": "4 of 5 - Multiple Choice",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3585",
+        "name": "4 of 5 - Multiple Choice",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3586",
+        "name": "5 of 5 - Multiple Choice",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3587",
+        "name": "5 of 5 - Multiple Choice",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65705",
+        "name": "MADROX: MULTIPLE CHOICE 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 11
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1276/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1734",
+        "name": "Madrox: Multiple Choice (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1276/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,242 @@
+{
+  "id": 2038,
+  "title": "Marvel Comics (1939)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2038",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2038/marvel_comics_1939?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1939,
+  "endYear": 1939,
+  "rating": "",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/30/4bad3fd141ef9",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2038/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1304",
+        "name": "Al Anders",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/408",
+        "name": "Carl Burgos",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1436",
+        "name": "Tohm Dixon",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1437",
+        "name": "Ray Gill",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1303",
+        "name": "Paul Gustavson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/961",
+        "name": "Ben Thompson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1434",
+        "name": "Martin Goodman",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1435",
+        "name": "Frank Paul",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 9
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2038/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010932",
+        "name": "Human Torch (Jim Hammond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466",
+        "name": "Namor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2038/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8821",
+        "name": "Cover #8821",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8822",
+        "name": "[Origin of the Human Torch]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8823",
+        "name": "[The Six Big Men]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8824",
+        "name": "[Origin of the Sub-Mariner]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8825",
+        "name": "[Origin of the Masked Raider]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8826",
+        "name": "Jungle Terror",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8827",
+        "name": "Burning Rubber",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/8828",
+        "name": "[Origin of Ka-Zar]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26319",
+        "name": "Cover #26319",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26320",
+        "name": "[Origin of the Human Torch]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26321",
+        "name": "[The Six Big Men]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26322",
+        "name": "[Origin of the Sub-Mariner]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26323",
+        "name": "[Origin of the Masked Raider]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26324",
+        "name": "Jungle Terror",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26325",
+        "name": "Burning Rubber",
+        "type": "text story"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/26326",
+        "name": "[Origin of Ka-Zar]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44935",
+        "name": "Cover #44935",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44936",
+        "name": "Interior #44936",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44937",
+        "name": "Cover #44937",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44938",
+        "name": "Interior #44938",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2038/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10008",
+        "name": "Marvel Comics (1939) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10009",
+        "name": "Marvel Comics (1939) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15060",
+        "name": "Marvel Comics (1939) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15058",
+        "name": "Marvel Comics (1939) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15059",
+        "name": "Marvel Comics (1939) #8"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2038/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

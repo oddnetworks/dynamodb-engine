@@ -1,0 +1,85 @@
+{
+  "id": 10006,
+  "title": "Anita Blake: Circus of the Damned Book 2 Premiere HC (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/10006",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/10006/anita_blake_circus_of_the_damned_book_2_premiere_hc_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-09-02T14:36:42-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10006/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+        "name": "Ron Lim",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4352",
+        "name": "Jessica Ruffner",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10006/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10006/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/70426",
+        "name": "Anita Blake: Circus of the Damned Book 2 Premiere HC (2011) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/80624",
+        "name": "Cover #80624",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/93617",
+        "name": "Anita Blake: Circus of the Damned Book 2 Premiere HC (2011) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 3
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10006/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/30804",
+        "name": "Anita Blake: Circus of the Damned Book 2 Premiere HC (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/10006/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

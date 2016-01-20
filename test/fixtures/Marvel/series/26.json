@@ -1,0 +1,75 @@
+{
+  "id": 26,
+  "title": "Elektra Lives Again (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/26",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/26/elektra_lives_again_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "PARENTAL ADVISORY/EXPLICIT CONTENT",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4bc6709c2d6f4",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/26/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/17",
+        "name": "Frank Miller",
+        "role": "writer"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/26/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/26/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/27",
+        "name": "Despite the fact that Elektra died in his arms, Daredevil is plagued by recurring nightmares and terrible premonitions that his ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65104",
+        "name": "ELEKTRA LIVES AGAIN HC 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/26/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/961",
+        "name": "Elektra Lives Again (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/26/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

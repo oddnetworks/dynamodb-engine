@@ -1,0 +1,64 @@
+{
+  "id": 7078,
+  "title": "Hulk Vs. Hercules: When Titans Collide (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/7078",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/7078/hulk_vs_hercules_when_titans_collide_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "",
+  "type": "one shot",
+  "modified": "2011-05-31T15:36:51-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/4bb583d038fe5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7078/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7078/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7078/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68612",
+        "name": "HULK VS. HERCULES: WHEN TITANS COLLIDE 1 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7078/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23911",
+        "name": "Hulk Vs. Hercules: When Titans Collide (2008) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/7078/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,373 @@
+{
+  "id": 3717,
+  "title": "Marvel Spotlight (1971 - 1977)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3717",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3717/marvel_spotlight_1971_-_1977?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1971,
+  "endYear": 1977,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/4c363c096f9d8",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 79,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3717/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3198",
+        "name": "Howard Bender",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2350",
+        "name": "Herb Cooper",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+        "name": "Dan Crespi",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3816",
+        "name": "Diane Buscema",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+        "name": "Janice Cohen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2151",
+        "name": "Frank Chiaramonte",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1295",
+        "name": "Mike Esposito",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1273",
+        "name": "Scott Edelman",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3133",
+        "name": "Gardner F. Fox",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1209",
+        "name": "Gary Friedrich",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3717/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010890",
+        "name": "Deathlok"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+        "name": "Moon Knight"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009471",
+        "name": "Nick Fury"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010837",
+        "name": "Red Wolf"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010861",
+        "name": "Scarecrow (Ebenezer Laughton)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011106",
+        "name": "Venus (Siren)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010765",
+        "name": "Werewolf By Night"
+      }
+    ],
+    "returned": 9
+  },
+  "stories": {
+    "available": 67,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3717/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41819",
+        "name": "Cover #41819",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41820",
+        "name": "[The Origin of Red Wolf]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41821",
+        "name": "Cover #41821",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41822",
+        "name": "The Coming of Witch-Woman",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41823",
+        "name": "The Spells of the Witch-Woman!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41824",
+        "name": "Season of the Witch-Woman",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41825",
+        "name": "Cover #41825",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41826",
+        "name": "From Hell He Came",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41827",
+        "name": "Cover #41827",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41828",
+        "name": "When Satan Walked the Earth",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41829",
+        "name": "Cover #41829",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41830",
+        "name": "Ice and Hellfire!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41831",
+        "name": "Cover #41831",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41832",
+        "name": "Black Sabbath!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41833",
+        "name": "Cover #41833",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41834",
+        "name": "4000 Holes in Forest Park!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41835",
+        "name": "Cover #41835",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41836",
+        "name": "In the Shadow of the Serpent!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41837",
+        "name": "Cover #41837",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41838",
+        "name": "Madhouse!",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 33,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3717/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19725",
+        "name": "Marvel Spotlight (1971) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19736",
+        "name": "Marvel Spotlight (1971) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19747",
+        "name": "Marvel Spotlight (1971) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19752",
+        "name": "Marvel Spotlight (1971) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19753",
+        "name": "Marvel Spotlight (1971) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19754",
+        "name": "Marvel Spotlight (1971) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19755",
+        "name": "Marvel Spotlight (1971) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19756",
+        "name": "Marvel Spotlight (1971) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19757",
+        "name": "Marvel Spotlight (1971) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19726",
+        "name": "Marvel Spotlight (1971) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19727",
+        "name": "Marvel Spotlight (1971) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19728",
+        "name": "Marvel Spotlight (1971) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19729",
+        "name": "Marvel Spotlight (1971) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19730",
+        "name": "Marvel Spotlight (1971) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19731",
+        "name": "Marvel Spotlight (1971) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19732",
+        "name": "Marvel Spotlight (1971) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19733",
+        "name": "Marvel Spotlight (1971) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19734",
+        "name": "Marvel Spotlight (1971) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19735",
+        "name": "Marvel Spotlight (1971) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19737",
+        "name": "Marvel Spotlight (1971) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3717/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

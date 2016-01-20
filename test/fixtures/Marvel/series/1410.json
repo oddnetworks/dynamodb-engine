@@ -1,0 +1,169 @@
+{
+  "id": 1410,
+  "title": "New Warriors: Reality Check (2006)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/1410",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/1410/new_warriors_reality_check_2006?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2006,
+  "endYear": 2006,
+  "rating": "Rated A",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/30/4bc624268ccdc",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1410/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8635",
+        "name": "Randy Gentile",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7190",
+        "name": "Skottie Young",
+        "role": "penciller (cover)"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1410/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010717",
+        "name": "Debrii"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010690",
+        "name": "Microbe"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009469",
+        "name": "Namorita"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010683",
+        "name": "New Warriors"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010684",
+        "name": "Night Thrasher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009477",
+        "name": "Nova"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009493",
+        "name": "Penance (Robert Baldwin)"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1410/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4314",
+        "name": "1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4315",
+        "name": "1 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4316",
+        "name": "2 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4317",
+        "name": "2 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4318",
+        "name": "3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4319",
+        "name": "3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4320",
+        "name": "4 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4321",
+        "name": "4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4322",
+        "name": "5 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4323",
+        "name": "5 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4324",
+        "name": "6 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/4325",
+        "name": "6 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65796",
+        "name": "NEW WARRIORS: REALITY CHECK 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 13
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1410/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/3462",
+        "name": "New Warriors: Reality Check (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/1410/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

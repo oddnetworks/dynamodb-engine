@@ -1,0 +1,64 @@
+{
+  "id": 16367,
+  "title": "Silver Sable & the Wild Pack (1992)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16367",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16367/silver_sable_the_wild_pack_1992?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1992,
+  "endYear": 1992,
+  "rating": "All Ages",
+  "type": "ongoing",
+  "modified": "2015-03-11T11:20:34-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16367/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16367/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16367/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106538",
+        "name": "cover from Silver Sable and the Wild Pack #1",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16367/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43037",
+        "name": "Silver Sable & the Wild Pack (1992) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16367/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

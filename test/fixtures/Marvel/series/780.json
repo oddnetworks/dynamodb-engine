@@ -1,0 +1,127 @@
+{
+  "id": 780,
+  "title": "Venom Vs. Carnage (2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/780",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/780/venom_vs_carnage_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2004,
+  "endYear": 2004,
+  "rating": "Marvel Psr",
+  "type": "",
+  "modified": "2013-06-20T17:09:35-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/51311197470be",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/780/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/600",
+        "name": "Clayton Crain",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/94",
+        "name": "Peter Milligan",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/780/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/780/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3774",
+        "name": "Cover #3774",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3775",
+        "name": "Interior #3775",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3776",
+        "name": "Cover #3776",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3777",
+        "name": "Interior #3777",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3778",
+        "name": "It’s round three of the three-way battle between Venom, Carnage, and a new and possibly even more deadly symbiote.",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3779",
+        "name": "It’s round three of the three-way battle between Venom, Carnage, and a new and possibly even more deadly symbiote.",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3780",
+        "name": "It's a symbiote battle royale as Venom, Carnage and their new offspring  –  Toxin  –  go head-to-head in the teeth-shattering cl",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/3781",
+        "name": "It's a symbiote battle royale as Venom, Carnage and their new offspring  –  Toxin  –  go head-to-head in the teeth-shattering cl",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/780/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/576",
+        "name": "Venom Vs. Carnage (2004) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/778",
+        "name": "Venom Vs. Carnage (2004) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/841",
+        "name": "Venom Vs. Carnage (2004) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/929",
+        "name": "Venom Vs. Carnage (2004) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/780/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

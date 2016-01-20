@@ -1,0 +1,70 @@
+{
+  "id": 19250,
+  "title": "All-New Captain America Vol. 1: Hydra Ascendant (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19250",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19250/all-new_captain_america_vol_1_hydra_ascendant_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-06-23T12:50:21-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/f0/55898e36ed8ff",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19250/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 1
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19250/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19250/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/114033",
+        "name": "cover from All-New Captain America (2015)",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19250/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51228",
+        "name": "All-New Captain America Vol. 1: Hydra Ascendant (Hardcover)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19250/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

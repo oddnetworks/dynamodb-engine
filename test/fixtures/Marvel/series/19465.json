@@ -1,0 +1,64 @@
+{
+  "id": 19465,
+  "title": "Howard the Duck: The Complete Collection Vol. 1 (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19465",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19465/howard_the_duck_the_complete_collection_vol_1_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "collection",
+  "modified": "2015-06-23T15:45:49-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/5589b627565f3",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19465/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19465/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19465/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/123599",
+        "name": "TPB cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 1
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19465/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/56344",
+        "name": "Howard the Duck: The Complete Collection Vol. 1 (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19465/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

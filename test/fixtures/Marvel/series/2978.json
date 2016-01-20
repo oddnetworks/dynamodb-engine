@@ -1,0 +1,366 @@
+{
+  "id": 2978,
+  "title": "Thor Annual (1966 - 2001)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2978",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2978/thor_annual_1966_-_2001?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1966,
+  "endYear": 2001,
+  "rating": "",
+  "type": "",
+  "modified": "2011-06-01T10:47:11-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/4bad2db4c7bf4",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 140,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5235",
+        "name": "Orz",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3166",
+        "name": "Rick Bryant",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+        "name": "Harry Candelario",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+        "name": "Vince Colletta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2379",
+        "name": "Darren Auck",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2666",
+        "name": "John Babcock",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+        "name": "Joe Caramagna",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1887",
+        "name": "Janice Chiang",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1950",
+        "name": "Joe Andreani",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4469",
+        "name": "Richard Bennett",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1394",
+        "name": "Bob Budiansky",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2713",
+        "name": "Gary Barnum",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1289",
+        "name": "Robert Bernstein",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2381",
+        "name": "George Caragonne",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1935",
+        "name": "Paul Becton",
+        "role": "colorist"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+        "name": "Inhumans"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+        "name": "Kang"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009407",
+        "name": "Loki"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009440",
+        "name": "Mephisto"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009480",
+        "name": "Odin"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010358",
+        "name": "Ulik"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 74,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33724",
+        "name": "Cover #33724",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33725",
+        "name": "The Hammer, the Cross, and the Eye",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33726",
+        "name": "The Ten Most Heinous Enemies of the Mighty Thor",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33727",
+        "name": "Looking For Trouble",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33728",
+        "name": "Paradise Lost (Part 2)",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33729",
+        "name": "Take Hold of the Flame",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33730",
+        "name": "Forged in Fire",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33731",
+        "name": "The Flame Rekindled",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33732",
+        "name": "Stormbreaker",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33733",
+        "name": "Thunder in the Underworld",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33734",
+        "name": "The Flame and the Lightning",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33735",
+        "name": "Estranged  Relations",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33736",
+        "name": "Thor vs. a Storm Giant",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33737",
+        "name": "Thor in a Rainstorm",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33738",
+        "name": "Thor vs. Karnivore",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33739",
+        "name": "Thor on a Sidestreet",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33740",
+        "name": "Thor Annual (1966) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33741",
+        "name": "If Asgard Falls",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33742",
+        "name": "Mad Merlin",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33743",
+        "name": "The Enchantress and the Executioner",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 19,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/26701",
+        "name": "Thor Annual (1966) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16681",
+        "name": "Thor Annual (1966) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16682",
+        "name": "Thor Annual (1966) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16683",
+        "name": "Thor Annual (1966) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16684",
+        "name": "Thor Annual (1966) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16685",
+        "name": "Thor Annual (1966) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16686",
+        "name": "Thor Annual (1966) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16687",
+        "name": "Thor Annual (1966) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16688",
+        "name": "Thor Annual (1966) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16671",
+        "name": "Thor Annual (1966) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16672",
+        "name": "Thor Annual (1966) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16673",
+        "name": "Thor Annual (1966) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16674",
+        "name": "Thor Annual (1966) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16675",
+        "name": "Thor Annual (1966) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16676",
+        "name": "Thor Annual (1966) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16677",
+        "name": "Thor Annual (1966) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16678",
+        "name": "Thor Annual (1966) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16679",
+        "name": "Thor Annual (1966) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16680",
+        "name": "Thor Annual (1966) #19"
+      }
+    ],
+    "returned": 19
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2978/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

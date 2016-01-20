@@ -100,12 +100,12 @@
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009268/series",
     "items": [
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/15276",
-        "name": "5 Ronin (2011)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/12429",
         "name": "5 Ronin (2010)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/15276",
+        "name": "5 Ronin (2011)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/454",
@@ -176,8 +176,8 @@
         "name": "Dark Reign:Deadpool/Thunderbolts (2009 - Present)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/16542",
-        "name": "Deadpool (2012 - Present)"
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/11601",
+        "name": "Deadpool (2010)"
       }
     ],
     "returned": 20

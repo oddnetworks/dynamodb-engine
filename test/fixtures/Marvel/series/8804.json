@@ -1,0 +1,96 @@
+{
+  "id": 8804,
+  "title": "Wolverine & Gambit: Victims (1995)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/8804",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/8804/wolverine_gambit_victims_1995?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1995,
+  "endYear": 1995,
+  "rating": "T",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/4bb4ac2633297",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8804/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8804/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8804/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68662",
+        "name": "WOLVERINE & GAMBIT: VICTIMS 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68663",
+        "name": "WOLVERINE & GAMBIT: VICTIMS 2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68664",
+        "name": "Cover #68664",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68665",
+        "name": "WOLVERINE & GAMBIT: VICTIMS 4 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/68666",
+        "name": "WOLVERINE & GAMBIT: VICTIMS 3 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 5
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8804/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27519",
+        "name": "Wolverine & Gambit: Victims (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27520",
+        "name": "Wolverine & Gambit: Victims (1995) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27523",
+        "name": "Wolverine & Gambit: Victims (1995) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/27522",
+        "name": "Wolverine & Gambit: Victims (1995) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/8804/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,109 @@
+{
+  "id": 13252,
+  "title": "Shadowland:After the Fall (2010)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/13252",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/13252/shadowlandafter_the_fall_2010?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2010,
+  "endYear": 2010,
+  "rating": "",
+  "type": "",
+  "modified": "2010-12-06T11:13:19-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4c91292e26db5",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13252/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11748",
+        "name": "Marco Checchetto",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10157",
+        "name": "Antony Johnston",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13252/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009367",
+        "name": "Iron Fist (Danny Rand)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+        "name": "Luke Cage"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010682",
+        "name": "Misty Knight"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452",
+        "name": "Moon Knight"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009577",
+        "name": "Shang-Chi"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13252/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82153",
+        "name": "Cover #82153",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/82154",
+        "name": "Interior #82154",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13252/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/37059",
+        "name": "Shadowland:After the Fall (2010) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/13252/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

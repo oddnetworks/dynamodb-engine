@@ -1,0 +1,377 @@
+{
+  "id": 6666,
+  "title": "Amazing Adventures (1970 - 1976)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6666",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6666/amazing_adventures_1970_-_1976?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1970,
+  "endYear": 1976,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4bb53ab5bd79f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 83,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6666/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2751",
+        "name": "D. Bruce Berry",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2151",
+        "name": "Frank Chiaramonte",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+        "name": "Gerry Conway",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/60",
+        "name": "Arnold Drake",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7762",
+        "name": "Tom Cooke",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1261",
+        "name": "Tony Dipreta",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1651",
+        "name": "Richard Doxsee",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+        "name": "Janice Cohen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2350",
+        "name": "Herb Cooper",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+        "name": "Dan Crespi",
+        "role": "letterer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6666/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009365",
+        "name": "Inhumans"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+        "name": "Juggernaut"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011116",
+        "name": "Killraven"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009434",
+        "name": "Mastermind"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009687",
+        "name": "Unus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+        "name": "X-Men"
+      }
+    ],
+    "returned": 10
+  },
+  "stories": {
+    "available": 103,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6666/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51602",
+        "name": "Beware the Inhumans!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51603",
+        "name": "Beware the Inhumans",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51604",
+        "name": "Then Came the Black Widow",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51605",
+        "name": "Cover #51605",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51606",
+        "name": "Tn This Hand, the World",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51607",
+        "name": "The Origin of the Incomparable Inhumans",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51608",
+        "name": "Cover #51608",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51609",
+        "name": "Lo!  A Beast Is Born",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51610",
+        "name": "One Avenger: Dead on Arrival!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51611",
+        "name": "Iron Man:  D.O.A.",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51612",
+        "name": "Cover #51612",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51613",
+        "name": "Evil Is All In Your Mind!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51614",
+        "name": "Behind the Mask...a Monster!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51615",
+        "name": "The Vampire Machine",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51616",
+        "name": "The Coming of...The Griffin!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51617",
+        "name": "Murder In Mid-Air",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51618",
+        "name": "Cover #51618",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51619",
+        "name": "And the Juggernaut Will Get You If You Don't Watch Out",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51620",
+        "name": "Origin of the Beast!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51621",
+        "name": "Birth of the Beast",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 39,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6666/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23245",
+        "name": "Amazing Adventures (1970) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23256",
+        "name": "Amazing Adventures (1970) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23267",
+        "name": "Amazing Adventures (1970) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23278",
+        "name": "Amazing Adventures (1970) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23279",
+        "name": "Amazing Adventures (1970) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23280",
+        "name": "Amazing Adventures (1970) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23281",
+        "name": "Amazing Adventures (1970) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23282",
+        "name": "Amazing Adventures (1970) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23283",
+        "name": "Amazing Adventures (1970) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23246",
+        "name": "Amazing Adventures (1970) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23247",
+        "name": "Amazing Adventures (1970) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23248",
+        "name": "Amazing Adventures (1970) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23249",
+        "name": "Amazing Adventures (1970) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23250",
+        "name": "Amazing Adventures (1970) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23251",
+        "name": "Amazing Adventures (1970) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23252",
+        "name": "Amazing Adventures (1970) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23253",
+        "name": "Amazing Adventures (1970) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23254",
+        "name": "Amazing Adventures (1970) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23255",
+        "name": "Amazing Adventures (1970) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23257",
+        "name": "Amazing Adventures (1970) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6666/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,328 @@
+{
+  "id": 6681,
+  "title": "Punisher (1995 - 1996)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/6681",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/6681/punisher_1995_-_1996?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1995,
+  "endYear": 1996,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/4bb56c3a578e0",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 14,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6681/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7849",
+        "name": "Malibu",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7848",
+        "name": "John Kaliz Colors",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1038",
+        "name": "John Kalisz",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3578",
+        "name": "Matt Webb",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1945",
+        "name": "Mark Bernardo",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5075",
+        "name": "Bobbie Chase",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3671",
+        "name": "Chris Cooper",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2520",
+        "name": "Jaye Gardner",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2261",
+        "name": "Chris Ivy",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6025",
+        "name": "Robert Jones",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1163",
+        "name": "Tom Lyle",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/113",
+        "name": "John Ostrander",
+        "role": "writer"
+      }
+    ],
+    "returned": 14
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6681/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009212",
+        "name": "Bullseye"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009284",
+        "name": "Dum Dum Dugan"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009374",
+        "name": "Jigsaw"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009723",
+        "name": "X-Cutioner"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 36,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6681/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52160",
+        "name": "Electrifying First Issue!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52161",
+        "name": "Condemned!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52162",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52163",
+        "name": "Onslaught Impact 2: The Fall of the SHIELD Helicarrier!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52164",
+        "name": "Manhattan Onslaught",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52165",
+        "name": "Total X-Tinction Part 1: Stalked by the X-Cutioner",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52166",
+        "name": "Capitol Offenses",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52167",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52168",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52169",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52170",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52171",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52172",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52173",
+        "name": "Punisher - - Joins The Mob?!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52174",
+        "name": "Family",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52175",
+        "name": "Cover #52175",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52176",
+        "name": "Hatchet Job",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52177",
+        "name": "Dardevil And The Punisher VS ... Jigsaw!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52178",
+        "name": "Clash",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52179",
+        "name": "",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 18,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6681/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23389",
+        "name": "Punisher (1995) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23399",
+        "name": "Punisher (1995) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23400",
+        "name": "Punisher (1995) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23401",
+        "name": "Punisher (1995) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23402",
+        "name": "Punisher (1995) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23403",
+        "name": "Punisher (1995) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23404",
+        "name": "Punisher (1995) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23405",
+        "name": "Punisher (1995) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23406",
+        "name": "Punisher (1995) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23390",
+        "name": "Punisher (1995) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23391",
+        "name": "Punisher (1995) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23392",
+        "name": "Punisher (1995) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23393",
+        "name": "Punisher (1995) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23394",
+        "name": "Punisher (1995) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23395",
+        "name": "Punisher (1995) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23396",
+        "name": "Punisher (1995) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23397",
+        "name": "Punisher (1995) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23398",
+        "name": "Punisher (1995) #18"
+      }
+    ],
+    "returned": 18
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/6681/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/154",
+        "name": "Onslaught"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

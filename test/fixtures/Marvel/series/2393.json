@@ -1,0 +1,127 @@
+{
+  "id": 2393,
+  "title": "Daredevil: Battlin' Jack Murdock (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2393",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2393/daredevil_battlin_jack_murdock_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "PARENTAL ADVISORY",
+  "type": "",
+  "modified": "2011-05-25T14:41:43-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4bad3397573cb",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2393/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/827",
+        "name": "Carmine Di Giandomenico",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/878",
+        "name": "Dave Lanphear",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+        "name": "Zeb Wells",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2393/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2393/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32401",
+        "name": "1 of 4 - 4XLS - Marvel Knights branding",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32402",
+        "name": "1 of 4 - 4XLS - Marvel Knights branding",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32624",
+        "name": "2 of 4 - 4XLS - Marvel Knights branding",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/32625",
+        "name": "2 of 4 - 4XLS - Marvel Knights branding",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33012",
+        "name": "3 of 4 - 4XLS - Marvel Knights branding",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33013",
+        "name": "3 of 4 - 4XLS - Marvel Knights branding",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33353",
+        "name": "4 of 4 - 4XLS - Marvel Knights branding",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33354",
+        "name": "4 of 4 - 4XLS - Marvel Knights branding",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2393/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15867",
+        "name": "Daredevil: Battlin' Jack Murdock (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15975",
+        "name": "Daredevil: Battlin' Jack Murdock (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16161",
+        "name": "Daredevil: Battlin' Jack Murdock (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16538",
+        "name": "Daredevil: Battlin' Jack Murdock (2007) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2393/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,125 @@
+{
+  "id": 2842,
+  "title": "Daily Bugle: October (2007 - 2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2842",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2842/daily_bugle_october_2007_-_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/70/4bc33f653f48a",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2842/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2842/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2842/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33368",
+        "name": "Interior #33368",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36174",
+        "name": "Interior #36174",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36471",
+        "name": "Interior #36471",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36909",
+        "name": "Interior #36909",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36971",
+        "name": "1 of 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67566",
+        "name": "DAILY BUGLE 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67638",
+        "name": "DAILY BUGLE 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67653",
+        "name": "DAILY BUGLE 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67696",
+        "name": "DAILY BUGLE 0 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/67699",
+        "name": "DAILY BUGLE 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2842/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17398",
+        "name": "Daily Bugle: October (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17639",
+        "name": "Daily Bugle: October (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17662",
+        "name": "Daily Bugle: October (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16546",
+        "name": "Daily Bugle: October (2007)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17261",
+        "name": "Daily Bugle: October (2007)"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2842/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

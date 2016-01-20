@@ -1,0 +1,422 @@
+{
+  "id": 3716,
+  "title": "Marvel Team-Up (1972 - 1985)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3716",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3716/marvel_team-up_1972_-_1985?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1972,
+  "endYear": 1985,
+  "rating": "",
+  "type": "",
+  "modified": "2014-05-19T12:22:13-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4bb87f701091e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 156,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3716/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6445",
+        "name": "VCY",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3374",
+        "name": "Jeff Aclin",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+        "name": "Ross Andru",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1074",
+        "name": "Eduardo Barreto",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1288",
+        "name": "Jerry Bingham",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1277",
+        "name": "Bret Blevins",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1185",
+        "name": "Pat Broderick",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2043",
+        "name": "Eliot Brown",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2038",
+        "name": "John Beatty",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1461",
+        "name": "Frank Bolle",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3094",
+        "name": "Aubrey Bradford",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2141",
+        "name": "June Braverman",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6447",
+        "name": "Bedlam in the Balkans",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1352",
+        "name": "Mike W. Barr",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3054",
+        "name": "Allyn Brodsky",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 31,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3716/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+        "name": "Archangel"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009168",
+        "name": "Banshee"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009175",
+        "name": "Beast"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009189",
+        "name": "Black Widow"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009198",
+        "name": "Blizzard"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009219",
+        "name": "Cannonball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009243",
+        "name": "Colossus"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009257",
+        "name": "Cyclops"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009267",
+        "name": "Dazzler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009287",
+        "name": "Electro"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009362",
+        "name": "Iceman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
+        "name": "Invisible Woman"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009382",
+        "name": "Juggernaut"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009404",
+        "name": "Lizard"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 308,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3716/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41511",
+        "name": "Cover #41511",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41512",
+        "name": "Have Yourself A Sandman Little Christmas",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41513",
+        "name": "Cover #41513",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41514",
+        "name": "Time Bomb",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41515",
+        "name": "Cover #41515",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41516",
+        "name": "And Introducing--Karma! She Possesses People!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41517",
+        "name": "Cry--Vengeance!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41518",
+        "name": "Cover #41518",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41519",
+        "name": "\"To Judge A Nighthawk!\"",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41520",
+        "name": "Don't Let the Sun Come Up on Me!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41521",
+        "name": "Cover #41521",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41522",
+        "name": "Samson and Delilah!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41523",
+        "name": "Cover #41523",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41524",
+        "name": "The Assassin Academy",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41525",
+        "name": "Cover #41525",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41526",
+        "name": "no title",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41527",
+        "name": "Cover #41527",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41528",
+        "name": "A Small Circle of Hate!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41529",
+        "name": "\"Wolves In Designer's Clothing\"",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/41530",
+        "name": "Cover #41530",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 150,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3716/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19575",
+        "name": "Marvel Team-Up (1972) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19637",
+        "name": "Marvel Team-Up (1972) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19648",
+        "name": "Marvel Team-Up (1972) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19659",
+        "name": "Marvel Team-Up (1972) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19670",
+        "name": "Marvel Team-Up (1972) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19681",
+        "name": "Marvel Team-Up (1972) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19692",
+        "name": "Marvel Team-Up (1972) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19703",
+        "name": "Marvel Team-Up (1972) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19714",
+        "name": "Marvel Team-Up (1972) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19576",
+        "name": "Marvel Team-Up (1972) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19587",
+        "name": "Marvel Team-Up (1972) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19598",
+        "name": "Marvel Team-Up (1972) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19609",
+        "name": "Marvel Team-Up (1972) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19620",
+        "name": "Marvel Team-Up (1972) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19631",
+        "name": "Marvel Team-Up (1972) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19633",
+        "name": "Marvel Team-Up (1972) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19634",
+        "name": "Marvel Team-Up (1972) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19635",
+        "name": "Marvel Team-Up (1972) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19636",
+        "name": "Marvel Team-Up (1972) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19638",
+        "name": "Marvel Team-Up (1972) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3716/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/270",
+        "name": "Secret Wars"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,281 @@
+{
+  "id": 459,
+  "title": "Agent X (2002 - 2004)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/459",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/459/agent_x_2002_-_2004?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2002,
+  "endYear": 2004,
+  "rating": "MARVEL PSR",
+  "type": "ongoing",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/d0/4bb82b2cb5a9b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/459/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/424",
+        "name": "Udon Comics",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/575",
+        "name": "Brian Stelfreeze",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4926",
+        "name": "Alvin Lee",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4009",
+        "name": "Andrew Lis",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4174",
+        "name": "Mike Marts",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/361",
+        "name": "Cory Petit",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+        "name": "Dave Sharpe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/519",
+        "name": "Gail Simone",
+        "role": "writer"
+      }
+    ],
+    "returned": 8
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/459/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011031",
+        "name": "Agent X (Nijo)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009158",
+        "name": "Arcade"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009245",
+        "name": "Constrictor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515",
+        "name": "Punisher"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009537",
+        "name": "Rhino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+        "name": "Taskmaster"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 30,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/459/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1135",
+        "name": "Cover #1135",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/1136",
+        "name": "Interior #1136",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37514",
+        "name": "Cover #37514",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37515",
+        "name": "Dead Man's Switch Part One",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37516",
+        "name": "Cover #37516",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37517",
+        "name": "At First You Don't Succeed...Die, Die Again!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37518",
+        "name": "Cover #37518",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37519",
+        "name": "?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37520",
+        "name": "",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37521",
+        "name": "Cover #37521",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37522",
+        "name": "Deadpool Walkin': Part 1 Our Lives In Fracture",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37523",
+        "name": "Cover #37523",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37524",
+        "name": "Deadpool Walkin': Part  2 Foul Brain Stew",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37525",
+        "name": "Cover #37525",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37526",
+        "name": "Dead Man's Switch Part Two",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37527",
+        "name": "Cover #37527",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37528",
+        "name": "Dead Man's Switch Part Three",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37529",
+        "name": "Cover #37529",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37530",
+        "name": "Dead Man's Switch Part Four",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/37531",
+        "name": "Cover #37531",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/459/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17702",
+        "name": "Agent X (2002) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17709",
+        "name": "Agent X (2002) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17710",
+        "name": "Agent X (2002) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17711",
+        "name": "Agent X (2002) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17712",
+        "name": "Agent X (2002) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17713",
+        "name": "Agent X (2002) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17714",
+        "name": "Agent X (2002) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17715",
+        "name": "Agent X (2002) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17716",
+        "name": "Agent X (2002) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17703",
+        "name": "Agent X (2002) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17704",
+        "name": "Agent X (2002) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17705",
+        "name": "Agent X (2002) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17706",
+        "name": "Agent X (2002) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17707",
+        "name": "Agent X (2002) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/394",
+        "name": "Agent X (2002) #15"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/459/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

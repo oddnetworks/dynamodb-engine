@@ -9,7 +9,7 @@
   },
   "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009366",
   "comics": {
-    "available": 389,
+    "available": 388,
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1009366/comics",
     "items": [
       {
@@ -140,12 +140,12 @@
         "name": "Atlantis Attacks (DM Only) (2011)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
-        "name": "Avengers (1998 - 2004)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
         "name": "Avengers (1963 - 1996)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/354",
+        "name": "Avengers (1998 - 2004)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/1340",

@@ -1,0 +1,290 @@
+{
+  "id": 2985,
+  "title": "Doctor Strange (1968 - 1969)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2985",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2985/doctor_strange_1968_-_1969?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1968,
+  "endYear": 1969,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bad2d93f2e1d",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2985/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/527",
+        "name": "Tom Palmer",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11419",
+        "name": "Barry Windsor-Smith",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2350",
+        "name": "Herb Cooper",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2139",
+        "name": "Jean Izzo",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1553",
+        "name": "Sam Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1548",
+        "name": "Artie Simek",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5205",
+        "name": "Irving Watanabe",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/30",
+        "name": "Stan Lee",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+        "name": "Roy Thomas",
+        "role": "writer"
+      }
+    ],
+    "returned": 13
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2985/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011061",
+        "name": "Eternity"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 30,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2985/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35474",
+        "name": "The Coming of...  Dr. Strange",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35475",
+        "name": "The Coming of...  Dr. Strange",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35476",
+        "name": "To Dream-- Perchance to Die!",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35477",
+        "name": "To Dream-- Perchance to Die!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35478",
+        "name": "Cover #35478",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35479",
+        "name": "In the Shadow of...  Death!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35480",
+        "name": "Cover #35480",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35481",
+        "name": "I, Dormammu",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35482",
+        "name": "Cover #35482",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35483",
+        "name": "While a World Waits!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35484",
+        "name": "Cover #35484",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35485",
+        "name": "The Power and the Pendulum",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35486",
+        "name": "Cover #35486",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35487",
+        "name": "Unto Us...  The Sons of Satannish",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35488",
+        "name": "Cover #35488",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35489",
+        "name": "O Grave Where Is Thy Victory?",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35490",
+        "name": "The Cult and the Curse",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35491",
+        "name": "The Cult and the Curse",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35492",
+        "name": "Cover #35492",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/35493",
+        "name": "With One Beside Him",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2985/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16911",
+        "name": "Doctor Strange (1968) #169"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16912",
+        "name": "Doctor Strange (1968) #170"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16913",
+        "name": "Doctor Strange (1968) #171"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16914",
+        "name": "Doctor Strange (1968) #172"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16915",
+        "name": "Doctor Strange (1968) #173"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16916",
+        "name": "Doctor Strange (1968) #174"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16917",
+        "name": "Doctor Strange (1968) #175"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16918",
+        "name": "Doctor Strange (1968) #176"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16919",
+        "name": "Doctor Strange (1968) #177"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16920",
+        "name": "Doctor Strange (1968) #178"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16921",
+        "name": "Doctor Strange (1968) #179"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16922",
+        "name": "Doctor Strange (1968) #180"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16923",
+        "name": "Doctor Strange (1968) #181"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16924",
+        "name": "Doctor Strange (1968) #182"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16925",
+        "name": "Doctor Strange (1968) #183"
+      }
+    ],
+    "returned": 15
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2985/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

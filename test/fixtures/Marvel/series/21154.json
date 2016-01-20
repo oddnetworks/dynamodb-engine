@@ -1,0 +1,85 @@
+{
+  "id": 21154,
+  "title": "What If? Infinity- Guardians of the Galaxy (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21154",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21154/what_if_infinity-_guardians_of_the_galaxy_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "one shot",
+  "modified": "2015-10-16T13:33:07-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5605b4c2ba7a7",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21154/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12776",
+        "name": "Jason Copland",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12703",
+        "name": "Dave Rapoza",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8847",
+        "name": "Joshua Williamson",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21154/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21154/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117377",
+        "name": "cover from What If? Infinity (2020) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117378",
+        "name": "story from What If? Infinity (2020) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21154/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/52900",
+        "name": "What If? Infinity- Guardians of the Galaxy (2015) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21154/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

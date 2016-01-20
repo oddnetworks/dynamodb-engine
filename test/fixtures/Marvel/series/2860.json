@@ -1,0 +1,169 @@
+{
+  "id": 2860,
+  "title": "Iron Man: Enter the Mandarin (2007)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2860",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2860/iron_man_enter_the_mandarin_2007?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2007,
+  "endYear": 2007,
+  "rating": "Rated a",
+  "type": "limited",
+  "modified": "2013-05-21T17:15:33-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/519be362f0f4c",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2860/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/807",
+        "name": "Comicraft",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1017",
+        "name": "Eric Canete",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/159",
+        "name": "Joe Casey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/501",
+        "name": "Dave Stewart",
+        "role": "colorist"
+      }
+    ],
+    "returned": 4
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2860/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009421",
+        "name": "Mandarin"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2860/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33400",
+        "name": "6XLS - 1 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33401",
+        "name": "6XLS - 1 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33402",
+        "name": "6XLS - 2 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/33403",
+        "name": "6XLS - 2 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36183",
+        "name": "Enter The Mandarin 6XLS - 3 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36184",
+        "name": "Enter The Mandarin 6XLS - 3 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36481",
+        "name": "Enter The Mandarin 6XLS - 4 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36482",
+        "name": "Enter The Mandarin 6XLS - 4 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36921",
+        "name": "Enter The Mandarin 6XLS - 5 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/36922",
+        "name": "Enter The Mandarin 6XLS - 5 of 6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44352",
+        "name": "Enter The Mandarin 6XLS - 6 of 6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/44353",
+        "name": "Enter The Mandarin 6XLS - 6 of 6",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2860/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16561",
+        "name": "Iron Man: Enter the Mandarin (2007) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/16562",
+        "name": "Iron Man: Enter the Mandarin (2007) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17266",
+        "name": "Iron Man: Enter the Mandarin (2007) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17401",
+        "name": "Iron Man: Enter the Mandarin (2007) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/17641",
+        "name": "Iron Man: Enter the Mandarin (2007) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20682",
+        "name": "Iron Man: Enter the Mandarin (2007) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2860/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,151 @@
+{
+  "id": 17739,
+  "title": "Ultimate Comics Wolverine (2013 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17739",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17739/ultimate_comics_wolverine_2013_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2013-07-23T15:11:17-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/51eed51e87f75",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17739/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11984",
+        "name": "Axel Torvenius",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+        "name": "Cullen Bunn",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12120",
+        "name": "David Messina",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9286",
+        "name": "Ramon Rosanas",
+        "role": "artist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17739/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17739/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105855",
+        "name": "cover from Ultimate Comics Wolverine (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105856",
+        "name": "story from Ultimate Comics Wolverine (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105859",
+        "name": "cover from Ultimate Comics Wolverine (2013) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105860",
+        "name": "story from Ultimate Comics Wolverine (2013) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105861",
+        "name": "cover from Ultimate Comics Wolverine (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105862",
+        "name": "story from Ultimate Comics Wolverine (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105863",
+        "name": "cover from Ultimate Comics Wolverine (2013) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/105864",
+        "name": "story from Ultimate Comics Wolverine (2013) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106011",
+        "name": "cover from Ultimate Comics Wolverine (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106012",
+        "name": "story from Ultimate Comics Wolverine (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17739/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47131",
+        "name": "Ultimate Comics Wolverine (2013) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47217",
+        "name": "Ultimate Comics Wolverine (2013) #1 (Torvenius Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47133",
+        "name": "Ultimate Comics Wolverine (2013) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47134",
+        "name": "Ultimate Comics Wolverine (2013) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47135",
+        "name": "Ultimate Comics Wolverine (2013) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17739/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

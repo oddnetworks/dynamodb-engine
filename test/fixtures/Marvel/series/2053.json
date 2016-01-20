@@ -1,0 +1,330 @@
+{
+  "id": 2053,
+  "title": "New Mutants Annual (1984 - 1991)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2053",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2053/new_mutants_annual_1984_-_1991?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1984,
+  "endYear": 1991,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/4bad3e448ecb6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 54,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2053/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/87",
+        "name": "Mark Bagley",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1279",
+        "name": "Jon Bogdanove",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1298",
+        "name": "June Brigman",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3456",
+        "name": "Gavin Curtis",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3457",
+        "name": "Jimmy Hoffa",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/571",
+        "name": "Rob Liefeld",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+        "name": "Ron Lim",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2077",
+        "name": "Hilary Barta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+        "name": "Harry Candelario",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2319",
+        "name": "Tim Dzon",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3459",
+        "name": "Judy Bogdanove",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/44",
+        "name": "Chris Claremont",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/121",
+        "name": "Peter David",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/259",
+        "name": "Mark Gruenwald",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1909",
+        "name": "Steve Buccellato",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+        "name": "Alan Davis",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+        "name": "Suzanne Gaffney",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/375",
+        "name": "Bob Harras",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2700",
+        "name": "Kenny Lopez",
+        "role": "letterer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2053/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010366",
+        "name": "Boom Boom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009214",
+        "name": "Cable"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+        "name": "Domino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009364",
+        "name": "Impossible Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009469",
+        "name": "Namorita"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011336",
+        "name": "New Mutants"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009705",
+        "name": "Warpath"
+      }
+    ],
+    "returned": 7
+  },
+  "stories": {
+    "available": 33,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2053/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21612",
+        "name": "Cover #21612",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21613",
+        "name": "The Cosmic Cannonball Caper",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21614",
+        "name": "Cover #21614",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21615",
+        "name": "Why Do We Do These Things We Do?!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21616",
+        "name": "Cover #21616",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21617",
+        "name": "Anything You Can Do--!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21618",
+        "name": "Cover #21618",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21619",
+        "name": "Mind Games",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21620",
+        "name": "If Wishes Were Horses",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21621",
+        "name": "Blood Drawn, Blood Spilt.",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21622",
+        "name": "Cover #21622",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21623",
+        "name": "",
+        "type": "table of contents"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21624",
+        "name": "Here Be Monsters!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21625",
+        "name": "Gallery of Former Members of the New Mutants",
+        "type": "pin-up"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21626",
+        "name": "[Gallery of Former Members of the New Mutants, page 2]",
+        "type": "pin-up"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21627",
+        "name": "A Case of the Cutes",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21628",
+        "name": "The New Mutants",
+        "type": "pin-up"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21629",
+        "name": "[Namorita and Surf]",
+        "type": "pin-up"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21630",
+        "name": "Crowned Heads",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21631",
+        "name": "Days of Future Present Part Three",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2053/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10335",
+        "name": "New Mutants Annual (1984) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10336",
+        "name": "New Mutants Annual (1984) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10337",
+        "name": "New Mutants Annual (1984) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10338",
+        "name": "New Mutants Annual (1984) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10339",
+        "name": "New Mutants Annual (1984) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10340",
+        "name": "New Mutants Annual (1984) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10341",
+        "name": "New Mutants Annual (1984) #7"
+      }
+    ],
+    "returned": 7
+  },
+  "events": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2053/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/233",
+        "name": "Atlantis Attacks"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/240",
+        "name": "Days of Future Present"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/246",
+        "name": "Evolutionary War"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/32",
+        "name": "Kings of Pain"
+      }
+    ],
+    "returned": 4
+  },
+  "next": null,
+  "previous": null
+}

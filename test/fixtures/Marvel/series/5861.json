@@ -1,0 +1,195 @@
+{
+  "id": 5861,
+  "title": "Longshot (1985 - 1986)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5861",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5861/longshot_1985_-_1986?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1985,
+  "endYear": 1986,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/70/4bb6db619fdbf",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5861/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/249",
+        "name": "Art Adams",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2406",
+        "name": "Louise Jones",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+        "name": "Ann Nocenti",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1336",
+        "name": "Whilce Portacio",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1759",
+        "name": "Joe Rosen",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6758",
+        "name": "Christie Scheele",
+        "role": "colorist"
+      }
+    ],
+    "returned": 6
+  },
+  "characters": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5861/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009408",
+        "name": "Longshot"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009448",
+        "name": "Mojo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+        "name": "She-Hulk (Jennifer Walters)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009614",
+        "name": "Spiral (Rita Wayword)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009720",
+        "name": "Wong"
+      }
+    ],
+    "returned": 6
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5861/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49540",
+        "name": "Cover #49540",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49541",
+        "name": "A Man Without A Past",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49542",
+        "name": "Cover #49542",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49543",
+        "name": "...I'll Wave To You From The Top",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49544",
+        "name": "Cover #49544",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49545",
+        "name": "Just Let Me Die",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49546",
+        "name": "Cover #49546",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49547",
+        "name": "Can't Give It All Away!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49548",
+        "name": "Cover #49548",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49549",
+        "name": "Deadly Lies",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49550",
+        "name": "Cover #49550",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49551",
+        "name": "A Snake Coils...",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5861/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22242",
+        "name": "Longshot (1985) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22243",
+        "name": "Longshot (1985) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22244",
+        "name": "Longshot (1985) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22245",
+        "name": "Longshot (1985) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22246",
+        "name": "Longshot (1985) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22247",
+        "name": "Longshot (1985) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5861/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

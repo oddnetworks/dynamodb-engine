@@ -1,0 +1,122 @@
+{
+  "id": 19073,
+  "title": "Death of Wolverine (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19073",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19073/death_of_wolverine_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "",
+  "modified": "2014-09-30T12:53:17-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/542adfa68293f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19073/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+        "name": "Steve McNiven",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19073/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19073/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113765",
+        "name": "Death of Wolverine #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113766",
+        "name": "Death of Wolverine #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113790",
+        "name": "DEATH OF WOLVERINE 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113791",
+        "name": "DEATH OF WOLVERINE 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113842",
+        "name": "DEATH OF WOLVERINE 3 ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113843",
+        "name": "DEATH OF WOLVERINE 3 ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113932",
+        "name": "DEATH OF WOLVERINE 4 (WITH DIGITAL CODE)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/113933",
+        "name": "DEATH OF WOLVERINE 4 (WITH DIGITAL CODE)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19073/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50946",
+        "name": "Death of Wolverine (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50947",
+        "name": "Death of Wolverine (2014) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50948",
+        "name": "Death of Wolverine (2014) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50949",
+        "name": "Death of Wolverine (2014) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19073/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

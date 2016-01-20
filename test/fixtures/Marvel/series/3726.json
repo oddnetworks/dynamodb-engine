@@ -1,0 +1,373 @@
+{
+  "id": 3726,
+  "title": "Invaders (1975 - 1979)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3726",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3726/invaders_1975_-_1979?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1975,
+  "endYear": 1979,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/4c3649c16090b",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 54,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3726/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+        "name": "Dan Crespi",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1358",
+        "name": "Al Avison",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+        "name": "Dick Ayers",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6257",
+        "name": "Ernie Chan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6731",
+        "name": "Carl Burgos Bill Everett",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/387",
+        "name": "Bill Black",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+        "name": "Dave Cockrum",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+        "name": "Vince Colletta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1439",
+        "name": "Al Gabriele",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+        "name": "Janice Cohen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6688",
+        "name": "Don Dickens",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1828",
+        "name": "Carl Gafford",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1747",
+        "name": "Petra Goldberg",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5345",
+        "name": "John Compton",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+        "name": "Bill Everett",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/385",
+        "name": "Don Glut",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 9,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3726/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010932",
+        "name": "Human Torch (Jim Hammond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011024",
+        "name": "Invaders"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+        "name": "Sub-Mariner"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011309",
+        "name": "Toro (Thomas Raymond)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+        "name": "Winter Soldier"
+      }
+    ],
+    "returned": 9
+  },
+  "stories": {
+    "available": 90,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3726/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42607",
+        "name": "Cover #42607",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42608",
+        "name": "Five Against the Flying Death",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42609",
+        "name": "Cover #42609",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42610",
+        "name": "Blitzkrieg at Bermuda",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42611",
+        "name": "Cover #42611",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42612",
+        "name": "Attack of the Teutonic Knight",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42613",
+        "name": "Cover #42613",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42614",
+        "name": "Calling the Kid Commandos",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42615",
+        "name": "untitled",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42616",
+        "name": "The Battle of Berlin pt 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42617",
+        "name": "untitled",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42618",
+        "name": "Cover #42618",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42619",
+        "name": "The Battle of Berlin",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42620",
+        "name": "Sub-Mariner",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42621",
+        "name": "Cover #42621",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42622",
+        "name": "Twilight of the Star-Gods!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42635",
+        "name": "Cover #42635",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42636",
+        "name": "Agent Axis, Master of Murder",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42665",
+        "name": "Cover #42665",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42666",
+        "name": "Day of Infamy, Day of Shame",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 41,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3726/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19969",
+        "name": "Invaders (1975) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19980",
+        "name": "Invaders (1975) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19991",
+        "name": "Invaders (1975) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20002",
+        "name": "Invaders (1975) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20005",
+        "name": "Invaders (1975) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20006",
+        "name": "Invaders (1975) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20007",
+        "name": "Invaders (1975) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20008",
+        "name": "Invaders (1975) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20009",
+        "name": "Invaders (1975) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19970",
+        "name": "Invaders (1975) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19971",
+        "name": "Invaders (1975) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19972",
+        "name": "Invaders (1975) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19973",
+        "name": "Invaders (1975) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19974",
+        "name": "Invaders (1975) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19975",
+        "name": "Invaders (1975) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19976",
+        "name": "Invaders (1975) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19977",
+        "name": "Invaders (1975) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19978",
+        "name": "Invaders (1975) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19979",
+        "name": "Invaders (1975) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/19981",
+        "name": "Invaders (1975) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3726/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

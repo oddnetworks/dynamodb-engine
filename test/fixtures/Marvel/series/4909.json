@@ -1,0 +1,105 @@
+{
+  "id": 4909,
+  "title": "Marvel Adventures Fantastic Four Vol. 8: Monsters, Moles, Cowboys & Coupons (2008)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4909",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4909/marvel_adventures_fantastic_four_vol_8_monsters_moles_cowboys_coupons_2008?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2008,
+  "rating": "ALL AGES",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/c0/4bb82760988a2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4909/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1430",
+        "name": "Ronan Cliquet",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4550",
+        "name": "Steve Scott",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+        "name": "Leonard Kirk",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/835",
+        "name": "Joe Lansdale",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/831",
+        "name": "Steve Niles",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1087",
+        "name": "Kirsten Sinclair",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/344",
+        "name": "Daniel Way",
+        "role": "writer"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4909/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4909/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47011",
+        "name": "Marvel Adventures Fantastic Four 29-32",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47012",
+        "name": "Marvel Adventures Fantastic Four 29-32",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4909/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21285",
+        "name": "Marvel Adventures Fantastic Four Vol. 8: Monsters, Moles, Cowboys & Coupons (Digest)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4909/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,357 @@
+{
+  "id": 4767,
+  "title": "Howard the Duck (1976 - 1979)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/4767",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/4767/howard_the_duck_1976_-_1979?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1976,
+  "endYear": 1979,
+  "rating": "",
+  "type": "limited",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/d0/4bb825ed7ee74",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 58,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4767/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/125",
+        "name": "Frank Brunner",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/46",
+        "name": "Dave Cockrum",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+        "name": "Gene Colan",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/404",
+        "name": "Dick Giordano",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1523",
+        "name": "Vince Colletta",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1519",
+        "name": "Frank Giacoia",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1767",
+        "name": "Janice Cohen",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10288",
+        "name": "Marko Djurdjevic",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7018",
+        "name": "Ken Fedunieiwicz",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7331",
+        "name": "Lynn Cohen",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+        "name": "Archie Goodwin",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1778",
+        "name": "Dan Crespi",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3131",
+        "name": "Mark Evanier",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/144",
+        "name": "Steve Gerber",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1293",
+        "name": "Steven Grant",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4767/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009239",
+        "name": "Clea"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010373",
+        "name": "Howard The Duck"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009372",
+        "name": "J. Jonah Jameson"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009420",
+        "name": "Man-Thing"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 74,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4767/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46506",
+        "name": "Cover #46506",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46507",
+        "name": "Howard the Barbarian",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46508",
+        "name": "Cover #46508",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46509",
+        "name": "Swan-song ...of the Living Dead Duck!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46510",
+        "name": "Cover #46510",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46511",
+        "name": "Quack-Up!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46512",
+        "name": "Cover #46512",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46513",
+        "name": "Mind-Mush!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46514",
+        "name": "Cover #46514",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46515",
+        "name": "Rock, Roll Over, and Writhe!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46516",
+        "name": "Cover #46516",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46517",
+        "name": "A Duck Possessed!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46518",
+        "name": "Cover #46518",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46519",
+        "name": "The Island of Dr. Bong!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46520",
+        "name": "Cover #46520",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46521",
+        "name": "[Welcome to the Island of Dr. Bong!]",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46522",
+        "name": "Zen and the Art of Comic Book Writing: A Communique from Colorado",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46523",
+        "name": "I.  writers are like people",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46524",
+        "name": "II.  Turn Left at the Fork in the Tongue",
+        "type": "text article"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/46525",
+        "name": "III. obligatory comic book fight scene",
+        "type": "text article"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 33,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4767/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21096",
+        "name": "Howard the Duck (1976) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21107",
+        "name": "Howard the Duck (1976) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21118",
+        "name": "Howard the Duck (1976) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21121",
+        "name": "Howard the Duck (1976) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21122",
+        "name": "Howard the Duck (1976) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21123",
+        "name": "Howard the Duck (1976) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21124",
+        "name": "Howard the Duck (1976) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21125",
+        "name": "Howard the Duck (1976) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21126",
+        "name": "Howard the Duck (1976) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21097",
+        "name": "Howard the Duck (1976) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21098",
+        "name": "Howard the Duck (1976) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21099",
+        "name": "Howard the Duck (1976) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21100",
+        "name": "Howard the Duck (1976) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21101",
+        "name": "Howard the Duck (1976) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21102",
+        "name": "Howard the Duck (1976) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21103",
+        "name": "Howard the Duck (1976) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21104",
+        "name": "Howard the Duck (1976) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21105",
+        "name": "Howard the Duck (1976) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21106",
+        "name": "Howard the Duck (1976) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21108",
+        "name": "Howard the Duck (1976) #20"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/4767/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

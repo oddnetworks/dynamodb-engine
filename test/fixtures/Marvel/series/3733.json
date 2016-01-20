@@ -1,0 +1,210 @@
+{
+  "id": 3733,
+  "title": "Ghost Rider (2001 - 2002)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/3733",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/3733/ghost_rider_2001_-_2002?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2001,
+  "endYear": 2002,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-01T13:57:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/00/5130f944b9d79",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3733/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4728",
+        "name": "Kelly Lamy",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6298",
+        "name": "Nanci Dakesian",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/643",
+        "name": "Stuart Moore",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4334",
+        "name": "Bronwyn Taggart",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4225",
+        "name": "Jimmy Betancourt",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6792",
+        "name": "John L",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4409",
+        "name": "Jason Levine",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/350",
+        "name": "Richard Starkings",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8738",
+        "name": "Jeromy Cox",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/363",
+        "name": "Dan Kemp",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/97",
+        "name": "Devin Grayson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/143",
+        "name": "Trent Kaniuga",
+        "role": "penciler"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11553",
+        "name": "Danny K. Miki",
+        "role": "inker"
+      }
+    ],
+    "returned": 13
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3733/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3733/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42906",
+        "name": "Cover #42906",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42907",
+        "name": "The Hammer Lane Part 1: One Bad Day",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42908",
+        "name": "Cover #42908",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42909",
+        "name": "The Hammer Lane Part 2: Hard Brake",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42910",
+        "name": "Cover #42910",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42911",
+        "name": "The Hammer Lane Part 3: Chain of Fools",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42912",
+        "name": "Cover #42912",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42913",
+        "name": "The Hammer Lane Part 4: Being the Bumper",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42914",
+        "name": "Cover #42914",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42915",
+        "name": "The Hammer Lane Part 5: 20,000 Revs",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42916",
+        "name": "Cover #42916",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/42917",
+        "name": "The Hammer Lane Part 6: Spirit of Forgiveness",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3733/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20032",
+        "name": "Ghost Rider (2001) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20033",
+        "name": "Ghost Rider (2001) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20034",
+        "name": "Ghost Rider (2001) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20035",
+        "name": "Ghost Rider (2001) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20036",
+        "name": "Ghost Rider (2001) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/20037",
+        "name": "Ghost Rider (2001) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/3733/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

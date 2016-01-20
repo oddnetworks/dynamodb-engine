@@ -1,0 +1,85 @@
+{
+  "id": 19866,
+  "title": "MARVEL’S ANT-MAN– SCOTT LANG: SMALL TIME MCU INFINITE COMIC (2015)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/19866",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/19866/marvels_ant-man_scott_lang_small_time_mcu_infinite_comic_2015?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2015,
+  "endYear": 2015,
+  "rating": "",
+  "type": "one shot",
+  "modified": "2016-01-11T17:47:49-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/03/56943102d69d6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19866/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5039",
+        "name": "Wellington Alves",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12501",
+        "name": "Corona Pilgrim",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12341",
+        "name": "Emily Shaw",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19866/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19866/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117798",
+        "name": "Ant-Man: Cinematic Infinite Comic (2015) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/117799",
+        "name": "story from Ant-Man: Cinematic Infinite Comic (2015) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19866/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/53123",
+        "name": "MARVEL’S ANT-MAN– SCOTT LANG: SMALL TIME MCU INFINITE COMIC (2015) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/19866/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

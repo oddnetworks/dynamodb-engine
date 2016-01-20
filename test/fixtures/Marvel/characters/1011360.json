@@ -13,16 +13,16 @@
     "collectionURI": "http://gateway.marvel.com/v1/public/characters/1011360/comics",
     "items": [
       {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41817",
+        "name": "Amazing Spider-Man (1999) #669 (Slott Variant)"
+      },
+      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/41318",
         "name": "Amazing Spider-Man (1999) #669 (Architect Variant)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/41319",
         "name": "Amazing Spider-Man (1999) #669 (Architect Sketch Variant)"
-      },
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41817",
-        "name": "Amazing Spider-Man (1999) #669 (Slott Variant)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/39981",
@@ -73,6 +73,10 @@
         "name": "Avenging Spider-Man (2011) #1"
       },
       {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41095",
+        "name": "Avenging Spider-Man (2011) #1 (Quesada Variant )"
+      },
+      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/42260",
         "name": "Avenging Spider-Man (2011) #1 (Quesada Sketch Variant)"
       },
@@ -87,10 +91,6 @@
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/41092",
         "name": "Avenging Spider-Man (2011) #1 (Blank Cover Variant)"
-      },
-      {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41095",
-        "name": "Avenging Spider-Man (2011) #1 (Quesada Variant )"
       }
     ],
     "returned": 20
@@ -307,7 +307,7 @@
   "urls": [
     {
       "type": "detail",
-      "url": "http://marvel.com/comics/characters/1011360/red_hulk?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+      "url": "http://marvel.com/characters/45/red_hulk?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
     },
     {
       "type": "wiki",

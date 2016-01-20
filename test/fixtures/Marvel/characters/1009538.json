@@ -85,12 +85,12 @@
         "name": "Invincible Iron Man (2008) #2"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/comics/31240",
-        "name": "Invincible Iron Man (2008) #25 (MOVIE VARIANT)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/comics/32779",
         "name": "Invincible Iron Man (2008) #25 (IRON MAN BY DESIGN VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/32780",
+        "name": "Invincible Iron Man (2008) #25 (TRIMPE VARIANT)"
       }
     ],
     "returned": 20
@@ -152,12 +152,12 @@
         "name": "Iron Man (1968 - 1996)"
       },
       {
-        "resourceURI": "http://gateway.marvel.com/v1/public/series/13385",
-        "name": "Iron Man 2.0 (2010 - 2011)"
-      },
-      {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/9924",
         "name": "Iron Man 2.0 (2011)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/series/13385",
+        "name": "Iron Man 2.0 (2010 - 2011)"
       },
       {
         "resourceURI": "http://gateway.marvel.com/v1/public/series/15101",
@@ -315,7 +315,7 @@
   "urls": [
     {
       "type": "detail",
-      "url": "http://marvel.com/comics/characters/1009538/iron_patriot_james_rhodes?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+      "url": "http://marvel.com/characters/30/iron_patriot?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
     },
     {
       "type": "wiki",

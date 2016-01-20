@@ -1,0 +1,73 @@
+{
+  "id": 15561,
+  "title": "AMAZING SPIDER-MAN BY DAVID MICHELINIE & TODD MCFARLANE OMNIBUS HC (2011)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/15561",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/15561/amazing_spider-man_by_david_michelinie_todd_mcfarlane_omnibus_hc_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2011,
+  "rating": "",
+  "type": "",
+  "modified": "2011-08-05T16:58:23-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15561/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15561/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15561/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94410",
+        "name": "AMAZING SPIDER-MAN BY DAVID MICHELINIE & TODD MCFARLANE OMNIBUS HC",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/94411",
+        "name": "AMAZING SPIDER-MAN BY DAVID MICHELINIE & TODD MCFARLANE OMNIBUS HC VARIANT (DM ONLY)",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15561/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41736",
+        "name": "AMAZING SPIDER-MAN BY DAVID MICHELINIE & TODD MCFARLANE OMNIBUS HC (Hardcover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/41737",
+        "name": "AMAZING SPIDER-MAN BY DAVID MICHELINIE & TODD MCFARLANE OMNIBUS HC (Hardcover)"
+      }
+    ],
+    "returned": 2
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/15561/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,205 @@
+{
+  "id": 16288,
+  "title": "Secret Service (2012 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16288",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16288/secret_service_2012_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2012,
+  "endYear": 2099,
+  "rating": "",
+  "type": "",
+  "modified": "2014-05-27T17:23:48-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5385023c13b9e",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16288/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11854",
+        "name": "Nicole Boose",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/293",
+        "name": "Dave Gibbons",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/485",
+        "name": "Andy Lanning",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11915",
+        "name": "Angus Mckie",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/88",
+        "name": "Mark Millar",
+        "role": "writer"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16288/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 20,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16288/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96144",
+        "name": "Cover #96144",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96145",
+        "name": "Interior #96145",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96146",
+        "name": "Cover #96146",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96147",
+        "name": "Interior #96147",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96148",
+        "name": "Cover #96148",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96149",
+        "name": "Interior #96149",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96150",
+        "name": "Cover #96150",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96151",
+        "name": "Interior #96151",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96152",
+        "name": "Cover #96152",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96153",
+        "name": "Interior #96153",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96154",
+        "name": "Cover #96154",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96155",
+        "name": "Interior #96155",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96156",
+        "name": "Cover #96156",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96157",
+        "name": "Interior #96157",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96158",
+        "name": "Cover #96158",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96159",
+        "name": "Interior #96159",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96409",
+        "name": "Cover #96409",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96410",
+        "name": "Interior #96410",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96587",
+        "name": "Cover #96587",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/96588",
+        "name": "Interior #96588",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16288/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42701",
+        "name": "Secret Service (2012) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42700",
+        "name": "Secret Service (2012) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42699",
+        "name": "Secret Service (2012) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42703",
+        "name": "Secret Service (2012) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42705",
+        "name": "Secret Service (2012) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42704",
+        "name": "Secret Service (2012) #6"
+      }
+    ],
+    "returned": 6
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16288/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

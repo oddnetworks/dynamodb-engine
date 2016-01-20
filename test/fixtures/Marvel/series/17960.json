@@ -1,0 +1,85 @@
+{
+  "id": 17960,
+  "title": "THE SUPERIOR FOES OF SPIDER-MAN VOL. 1: GETTING THE BAND BACK TOGETHER TPB (2014)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/17960",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/17960/the_superior_foes_of_spider-man_vol_1_getting_the_band_back_together_tpb_2014?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2014,
+  "rating": "",
+  "type": "collection",
+  "modified": "2014-02-25T12:41:01-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17960/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9482",
+        "name": "Steve Lieber",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/894",
+        "name": "Marcos Martin",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+        "name": "Nick Spencer",
+        "role": "writer"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17960/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17960/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107487",
+        "name": "cover from The Deadly Foes of Spider-Man (2014)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107488",
+        "name": "story from The Deadly Foes of Spider-Man (2014)",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17960/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47603",
+        "name": "THE SUPERIOR FOES OF SPIDER-MAN VOL. 1: GETTING THE BAND BACK TOGETHER TPB (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/17960/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

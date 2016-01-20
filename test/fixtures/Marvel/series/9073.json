@@ -1,0 +1,224 @@
+{
+  "id": 9073,
+  "title": "Powers (2009 - 2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/9073",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/9073/powers_2009_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2009,
+  "endYear": 2012,
+  "rating": "Explicit Content",
+  "type": "ongoing",
+  "modified": "2012-08-21T12:02:53-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4bb406d7eb835",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9073/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+        "name": "Brian Michael Bendis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1433",
+        "name": "Mike Avon Oeming",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+        "name": "Jeff Youngquist",
+        "role": "editor"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9073/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011187",
+        "name": "Christian Walker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011188",
+        "name": "Deena Pilgrim"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 22,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9073/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63177",
+        "name": "Cover #63177",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63178",
+        "name": "Interior #63178",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63179",
+        "name": "Cover #63179",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63180",
+        "name": "Interior #63180",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63189",
+        "name": "Powers #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63190",
+        "name": "Interior #63190",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63191",
+        "name": "Cover #63191",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63192",
+        "name": "Interior #63192",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63195",
+        "name": "Cover #63195",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63196",
+        "name": "Interior #63196",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63197",
+        "name": "Cover #63197",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63198",
+        "name": "Interior #63198",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63199",
+        "name": "Cover #63199",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63200",
+        "name": "Interior #63200",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63201",
+        "name": "Cover #63201",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63202",
+        "name": "Interior #63202",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63203",
+        "name": "Cover #63203",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63204",
+        "name": "Interior #63204",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63205",
+        "name": "Cover #63205",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/63206",
+        "name": "Interior #63206",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9073/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28991",
+        "name": "Powers (2009) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28992",
+        "name": "Powers (2009) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29002",
+        "name": "Powers (2009) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29003",
+        "name": "Powers (2009) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29004",
+        "name": "Powers (2009) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29005",
+        "name": "Powers (2009) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29006",
+        "name": "Powers (2009) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29007",
+        "name": "Powers (2009) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29008",
+        "name": "Powers (2009) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/28999",
+        "name": "Powers (2009) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/29000",
+        "name": "Powers (2009) #11"
+      }
+    ],
+    "returned": 11
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/9073/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

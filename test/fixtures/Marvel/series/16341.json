@@ -1,0 +1,92 @@
+{
+  "id": 16341,
+  "title": "New Warriors (1990 - 1996)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/16341",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/16341/new_warriors_1990_-_1996?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1990,
+  "endYear": 1996,
+  "rating": "",
+  "type": "",
+  "modified": "2015-01-08T11:38:21-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16341/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16341/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 6,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16341/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106419",
+        "name": "New Warriors #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106420",
+        "name": "cover from New Warriors #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106421",
+        "name": "cover from New Warriors #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106422",
+        "name": "cover from New Warriors #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106423",
+        "name": "cover from New Warriors #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/106424",
+        "name": "cover from New Warriors #6",
+        "type": "cover"
+      }
+    ],
+    "returned": 6
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16341/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/42854",
+        "name": "New Warriors (1990) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/16341/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": {
+    "resourceURI": "http://gateway.marvel.com/v1/public/series/839",
+    "name": "New Warriors (2005)"
+  },
+  "previous": null
+}

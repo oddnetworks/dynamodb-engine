@@ -1,0 +1,127 @@
+{
+  "id": 20215,
+  "title": "Star Wars: Return Of The Jedi (1983 - 1984)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/20215",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/20215/star_wars_return_of_the_jedi_1983_-_1984?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1983,
+  "endYear": 1984,
+  "rating": "",
+  "type": "",
+  "modified": "2015-02-03T10:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20215/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+        "name": "Archie Goodwin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/26",
+        "name": "Bill Sienkiewicz",
+        "role": "artist (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/397",
+        "name": "Al Williamson",
+        "role": "artist"
+      }
+    ],
+    "returned": 3
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20215/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20215/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120285",
+        "name": "story from Star Wars: Return Of The Jedi (1983) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120286",
+        "name": "cover from Star Wars: Return Of The Jedi (1983) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120287",
+        "name": "story from Star Wars: Return Of The Jedi (1983) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120288",
+        "name": "cover from Star Wars: Return Of The Jedi (1983) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120289",
+        "name": "story from Star Wars: Return Of The Jedi (1983) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120290",
+        "name": "cover from Star Wars: Return Of The Jedi (1983) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120291",
+        "name": "story from Star Wars: Return Of The Jedi (1983) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/120292",
+        "name": "cover from Star Wars: Return Of The Jedi (1983) #4",
+        "type": "cover"
+      }
+    ],
+    "returned": 8
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20215/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54530",
+        "name": "Star Wars: Return Of The Jedi (1983) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54531",
+        "name": "Star Wars: Return Of The Jedi (1983) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54532",
+        "name": "Star Wars: Return Of The Jedi (1983) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/54533",
+        "name": "Star Wars: Return Of The Jedi (1983) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/20215/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

@@ -1,0 +1,156 @@
+{
+  "id": 18248,
+  "title": "Hunger (2013 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18248",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18248/hunger_2013_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2013,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "limited",
+  "modified": "2013-09-26T16:23:46-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/51eed0ae463cf",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18248/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/436",
+        "name": "Adi Granov",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8843",
+        "name": "Joshua Fialkov",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12253",
+        "name": "Joshua Hale Fialkov",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+        "name": "Leonard Kirk",
+        "role": "artist"
+      }
+    ],
+    "returned": 5
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18248/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 10,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18248/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108557",
+        "name": "cover from Age of Ultron 10uc (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108558",
+        "name": "story from Age of Ultron 10uc (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108559",
+        "name": "cover from Age of Ultron 10uc (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108560",
+        "name": "story from Age of Ultron 10uc (2013) #1 (TBD ARTIST VARIANT)",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108561",
+        "name": "cover from Age of Ultron 10uc (2013) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108562",
+        "name": "story from Age of Ultron 10uc (2013) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108563",
+        "name": "cover from Age of Ultron 10uc (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108564",
+        "name": "story from Age of Ultron 10uc (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108565",
+        "name": "cover from Age of Ultron 10uc (2013) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/108566",
+        "name": "story from Age of Ultron 10uc (2013) #4",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 10
+  },
+  "comics": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18248/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48172",
+        "name": "Hunger (2013) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48174",
+        "name": "Hunger (2013) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48173",
+        "name": "Hunger (2013) #1 (Neal Adams Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48175",
+        "name": "Hunger (2013) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48176",
+        "name": "Hunger (2013) #4"
+      }
+    ],
+    "returned": 5
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18248/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/314",
+        "name": "Age of Ultron"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

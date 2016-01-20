@@ -1,0 +1,167 @@
+{
+  "id": 2003,
+  "title": "Deadpool (1993)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2003",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2003/deadpool_1993?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1993,
+  "endYear": 1993,
+  "rating": "",
+  "type": "",
+  "modified": "2013-04-09T13:21:29-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/51644dc55901f",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 7,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2003/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2386",
+        "name": "Harry Candelario",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+        "name": "Mark Farmer",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+        "name": "Chris Eliopoulos",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2099",
+        "name": "Suzanne Gaffney",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+        "name": "Joe Madureira",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6001",
+        "name": "Fabian Nicieza",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+        "name": "Glynis Oliver",
+        "role": "colorist"
+      }
+    ],
+    "returned": 7
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2003/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2003/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24397",
+        "name": "",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24398",
+        "name": "The Circle Chase Round 1: Ducks in a Row",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24399",
+        "name": "",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24400",
+        "name": "The Circle Chase Round 2: Rabbit Season, Duck Season",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24401",
+        "name": "",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24402",
+        "name": "The Circle Chase Round 3: \"...and Quacks Like a Duck",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24403",
+        "name": "",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/24404",
+        "name": "The Circle Chase Round 3: Duck Soup",
+        "type": "deadpool"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66376",
+        "name": "Deadpool 1 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66377",
+        "name": "Deadpool 2 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66378",
+        "name": "Deadpool 3 cover",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/66379",
+        "name": "Deadpool 4 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 12
+  },
+  "comics": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2003/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8453",
+        "name": "Deadpool (1993) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8454",
+        "name": "Deadpool (1993) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8455",
+        "name": "Deadpool (1993) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/8456",
+        "name": "Deadpool (1993) #4"
+      }
+    ],
+    "returned": 4
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2003/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

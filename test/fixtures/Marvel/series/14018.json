@@ -1,0 +1,293 @@
+{
+  "id": 14018,
+  "title": "Ghost Rider (2011 - 2012)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14018",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14018/ghost_rider_2011_-_2012?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2011,
+  "endYear": 2012,
+  "rating": "",
+  "type": "",
+  "modified": "2013-03-05T10:56:41-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/513614bb9e9c2",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 15,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14018/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2879",
+        "name": "Adam Kubert",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10116",
+        "name": "Arturo Lozzi",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+        "name": "Stefano Caselli",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2986",
+        "name": "Sean Parsons",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/637",
+        "name": "Matthew Clark",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+        "name": "Justin Ponsor",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+        "name": "Clayton Cowles",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+        "name": "Frank D'Armata",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8027",
+        "name": "Andres Mossa",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/581",
+        "name": "Rob Schwager",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8933",
+        "name": "Lee Garbett",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11486",
+        "name": "Sebastian Girner",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9471",
+        "name": "Stephen Wacker",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/646",
+        "name": "Rob Williams",
+        "role": "writer"
+      }
+    ],
+    "returned": 15
+  },
+  "characters": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14018/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318",
+        "name": "Ghost Rider (Johnny Blaze)"
+      }
+    ],
+    "returned": 1
+  },
+  "stories": {
+    "available": 28,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14018/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/88715",
+        "name": "Interior #88715",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89288",
+        "name": "Cover #89288",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89289",
+        "name": "Interior #89289",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90129",
+        "name": "Cover #90129",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90177",
+        "name": "Interior #90177",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90452",
+        "name": "Cover #90452",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90453",
+        "name": "Interior #90453",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90567",
+        "name": "Ghost Rider (2011) #1, Blank Cover Variant",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90570",
+        "name": "Interior #90570",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90615",
+        "name": "Cover #90615",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90616",
+        "name": "Interior #90616",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90617",
+        "name": "Cover #90617",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90618",
+        "name": "Interior #90618",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90619",
+        "name": "Ghost Rider (2011) #9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/90620",
+        "name": "Interior #90620",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91003",
+        "name": "GHOST RIDER #1 interior",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91139",
+        "name": "Ghost Rider #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91142",
+        "name": "Ghost Rider #1 Wraparound Variant ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/91439",
+        "name": "Interior #91439",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/92850",
+        "name": "Cover #38847",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14018/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39333",
+        "name": "Ghost Rider (2011) #0.1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38849",
+        "name": "Ghost Rider (2011) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39709",
+        "name": "Ghost Rider (2011) #1 (Adams Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39900",
+        "name": "Ghost Rider (2011) #1 (Blank Cover Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/40171",
+        "name": "Ghost Rider (2011) #1 (Lozzi Wraparound Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38847",
+        "name": "Ghost Rider (2011) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38846",
+        "name": "Ghost Rider (2011) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38848",
+        "name": "Ghost Rider (2011) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38851",
+        "name": "Ghost Rider (2011) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/38857",
+        "name": "Ghost Rider (2011) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39925",
+        "name": "Ghost Rider (2011) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39924",
+        "name": "Ghost Rider (2011) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39926",
+        "name": "Ghost Rider (2011) #9"
+      }
+    ],
+    "returned": 13
+  },
+  "events": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14018/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/302",
+        "name": "Fear Itself"
+      }
+    ],
+    "returned": 1
+  },
+  "next": null,
+  "previous": null
+}

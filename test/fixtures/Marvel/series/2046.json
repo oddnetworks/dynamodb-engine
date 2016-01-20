@@ -1,0 +1,321 @@
+{
+  "id": 2046,
+  "title": "Marvel Spotlight (1979 - 1981)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2046",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2046/marvel_spotlight_1979_-_1981?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1979,
+  "endYear": 1981,
+  "rating": "",
+  "type": "",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/00/4bad3e572f3da",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 37,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2046/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3374",
+        "name": "Jeff Aclin",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/32",
+        "name": "Steve Ditko",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1746",
+        "name": "John Costanza",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2195",
+        "name": "Elaine Heinl",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1284",
+        "name": "Michael Higgins",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1806",
+        "name": "Annette Kawecki",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/399",
+        "name": "Jim Novak",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2010",
+        "name": "Gene Day",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8125",
+        "name": "Bob McLeod",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1352",
+        "name": "Mike W. Barr",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1178",
+        "name": "Archie Goodwin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/966",
+        "name": "Bill Mantlo",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/223",
+        "name": "Doug Moench",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1185",
+        "name": "Pat Broderick",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/17",
+        "name": "Frank Miller",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1828",
+        "name": "Carl Gafford",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1872",
+        "name": "Glynis Oliver",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/435",
+        "name": "Al Milgrom",
+        "role": "editor"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 5,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2046/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+        "name": "Captain Marvel (Mar-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011027",
+        "name": "Captain Universe"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011247",
+        "name": "Dragon Lord"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010733",
+        "name": "Star-Lord (Peter Quill)"
+      }
+    ],
+    "returned": 5
+  },
+  "stories": {
+    "available": 24,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2046/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21001",
+        "name": "Cover #21001",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21002",
+        "name": "The Saturn Storm!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21003",
+        "name": "Cover #21003",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21004",
+        "name": "Double Jeopardy!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21005",
+        "name": "Buy This Book!",
+        "type": "ad"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21006",
+        "name": "Claws of the Cat !",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21007",
+        "name": "The Big Time",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21008",
+        "name": "Captain Universe: The Hero Who Could Be You !",
+        "type": "pinup"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21009",
+        "name": "Cover #21009",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21010",
+        "name": "The Dark Corners!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21011",
+        "name": "Cover #21011",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21012",
+        "name": "Blue--Red--Blue!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21013",
+        "name": "Cover #21013",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21014",
+        "name": "Shadow Doom!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21015",
+        "name": "Cover #21015",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21016",
+        "name": "A Hero Is Also a Man!",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21017",
+        "name": "Cover #21017",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21018",
+        "name": "The Saga of Star-Lord",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21019",
+        "name": "Cover #21019",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21020",
+        "name": "Tears for the World Called Heaven",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 11,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2046/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10256",
+        "name": "Marvel Spotlight (1979) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10259",
+        "name": "Marvel Spotlight (1979) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10260",
+        "name": "Marvel Spotlight (1979) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10261",
+        "name": "Marvel Spotlight (1979) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10262",
+        "name": "Marvel Spotlight (1979) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10263",
+        "name": "Marvel Spotlight (1979) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10264",
+        "name": "Marvel Spotlight (1979) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10265",
+        "name": "Marvel Spotlight (1979) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10266",
+        "name": "Marvel Spotlight (1979) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10257",
+        "name": "Marvel Spotlight (1979) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10258",
+        "name": "Marvel Spotlight (1979) #11"
+      }
+    ],
+    "returned": 11
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2046/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

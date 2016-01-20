@@ -1,0 +1,317 @@
+{
+  "id": 5376,
+  "title": "Amazing Spider-Man Family (2008 - 2009)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/5376",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/5376/amazing_spider-man_family_2008_-_2009?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2008,
+  "endYear": 2009,
+  "rating": "RATED A",
+  "type": "",
+  "modified": "2010-12-14T14:46:29-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/50/4c3617c8207ec",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 65,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5376/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3640",
+        "name": "John Arcudi",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5021",
+        "name": "Paul Benjamin",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/159",
+        "name": "Joe Casey",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9565",
+        "name": "Tom DeFalco",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+        "name": "J. M. DeMatteis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/7973",
+        "name": "Abigail Denson",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1045",
+        "name": "Ramon Bachs",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8253",
+        "name": "Colleen Coover",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/733",
+        "name": "Adam Dekraker",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/520",
+        "name": "Rainier Beredo",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8028",
+        "name": "Andrew Crossley",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/428",
+        "name": "Antonio Fabela",
+        "role": "colorist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4992",
+        "name": "Simon Bowland",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8678",
+        "name": "Jared Fletcher",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8002",
+        "name": "Alex Cal",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/605",
+        "name": "Rob Campanella",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3675",
+        "name": "Keith Champagne",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+        "name": "Mike Deodato",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9461",
+        "name": "Stephanie Buscema",
+        "role": "other"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 12,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5376/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011258",
+        "name": "Carlie Cooper"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009334",
+        "name": "Hammerhead"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009486",
+        "name": "Harry Osborn"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011259",
+        "name": "Jackpot"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009708",
+        "name": "Mary Jane Watson"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009490",
+        "name": "May Parker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009537",
+        "name": "Rhino"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011242",
+        "name": "Screwball"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009609",
+        "name": "Spider-Girl (May Parker)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011347",
+        "name": "Spider-Ham (Larval Earth)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+        "name": "Spider-Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009663",
+        "name": "Venom (Flash Thompson)"
+      }
+    ],
+    "returned": 12
+  },
+  "stories": {
+    "available": 16,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5376/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47905",
+        "name": "Venom: Lethal Protector 4, Spider-Man: Mysterio Manifesto 1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/47906",
+        "name": "Venom: Lethal Protector 4, Spider-Man: Mysterio Manifesto 1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49246",
+        "name": "Venom: Lethal Protector 5, Spider-Man: Mysterio Manifesto 2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/49247",
+        "name": "Venom: Lethal Protector 5, Spider-Man: Mysterio Manifesto 2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51003",
+        "name": "Venom: Lethal Protector 6, Spider-Man: Mysterio Manifesto 3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/51004",
+        "name": "Venom: Lethal Protector 6, Spider-Man: Mysterio Manifesto 3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52357",
+        "name": "Cover #52357",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/52358",
+        "name": "Interior #52358",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53218",
+        "name": "Cover #53218",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53219",
+        "name": "Interior #53219",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53627",
+        "name": "Cover #53627",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53628",
+        "name": "Interior #53628",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53971",
+        "name": "Cover #53971",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53972",
+        "name": "Interior #53972",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53973",
+        "name": "Cover #53973",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/53974",
+        "name": "Interior #53974",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 16
+  },
+  "comics": {
+    "available": 8,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5376/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/21798",
+        "name": "Amazing Spider-Man Family (2008) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22372",
+        "name": "Amazing Spider-Man Family (2008) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/22979",
+        "name": "Amazing Spider-Man Family (2008) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23642",
+        "name": "Amazing Spider-Man Family (2008) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/23993",
+        "name": "Amazing Spider-Man Family (2008) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24199",
+        "name": "Amazing Spider-Man Family (2008) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24439",
+        "name": "Amazing Spider-Man Family (2008) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/24440",
+        "name": "Amazing Spider-Man Family (2008) #8"
+      }
+    ],
+    "returned": 8
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/5376/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

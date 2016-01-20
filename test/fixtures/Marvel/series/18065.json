@@ -1,0 +1,323 @@
+{
+  "id": 18065,
+  "title": "Inhuman (2014 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/18065",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/18065/inhuman_2014_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2014,
+  "endYear": 2099,
+  "rating": "Rated T+",
+  "type": "ongoing",
+  "modified": "2015-03-06T12:09:37-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/542ae08a6a2a0",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 13,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18065/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12297",
+        "name": "Andre Araujo",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+        "name": "Pepe Larraz",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1222",
+        "name": "Joe Madureira",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+        "name": "Ryan Stegman",
+        "role": "artist"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/11559",
+        "name": "Jeff Scott Campbell",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+        "name": "Frank Cho",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/798",
+        "name": "Richard Isanove",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/9146",
+        "name": "Milo Manara",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/5160",
+        "name": "Phil Noto",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/72",
+        "name": "Humberto Ramos",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/8748",
+        "name": "Jill Thompson",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+        "name": "Nick Lowe",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/12371",
+        "name": "Charles Soule",
+        "role": "writer"
+      }
+    ],
+    "returned": 13
+  },
+  "characters": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18065/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009438",
+        "name": "Medusa"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664",
+        "name": "Thor"
+      }
+    ],
+    "returned": 2
+  },
+  "stories": {
+    "available": 55,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18065/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107873",
+        "name": "cover from Inhumans (2013) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107874",
+        "name": "story from Inhumans (2013) #1",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107877",
+        "name": "cover from Inhumans (2013) #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107878",
+        "name": "story from Inhumans (2013) #2",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107881",
+        "name": "cover from Inhumans (2013) #3",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107882",
+        "name": "story from Inhumans (2013) #3",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107883",
+        "name": "cover from Inhumans (2013) #4",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107884",
+        "name": "story from Inhumans (2013) #4",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107885",
+        "name": "cover from Inhumans (2013) #5",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107886",
+        "name": "story from Inhumans (2013) #5",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107887",
+        "name": "cover from Inhumans (2013) #6",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107888",
+        "name": "story from Inhumans (2013) #6",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107889",
+        "name": "cover from Inhumans (2013) #7",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107890",
+        "name": "story from Inhumans (2013) #7",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107891",
+        "name": "cover from Inhumans (2013) #8",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107892",
+        "name": "story from Inhumans (2013) #8",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107893",
+        "name": "cover from Inhumans (2013) #9",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107894",
+        "name": "story from Inhumans (2013) #9",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107895",
+        "name": "cover from Inhumans (2013) #10",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/107897",
+        "name": "cover from Inhumans (2013) #11",
+        "type": "cover"
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 25,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18065/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47808",
+        "name": "Inhuman (2014) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49569",
+        "name": "Inhuman (2014) #1 (Blank Cover Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49570",
+        "name": "Inhuman (2014) #1 (Manara Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49572",
+        "name": "Inhuman (2014) #1 (Ramos Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49573",
+        "name": "Inhuman (2014) #1 (Campbell Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/49823",
+        "name": "Inhuman (2014) #1 (MADUREIRA DESIGN VARIANT)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47810",
+        "name": "Inhuman (2014) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/50019",
+        "name": "Inhuman (2014) #2 (Cho Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47812",
+        "name": "Inhuman (2014) #3"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47813",
+        "name": "Inhuman (2014) #4"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47814",
+        "name": "Inhuman (2014) #5"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47815",
+        "name": "Inhuman (2014) #6"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47816",
+        "name": "Inhuman (2014) #7"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47817",
+        "name": "Inhuman (2014) #8"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47818",
+        "name": "Inhuman (2014) #9"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47819",
+        "name": "Inhuman (2014) #10"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47820",
+        "name": "Inhuman (2014) #11"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51985",
+        "name": "Inhuman (2014) #11 (Larroca Welcome Home Variant)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/47821",
+        "name": "Inhuman (2014) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/51986",
+        "name": "Inhuman (2014) #12 (Noto Variant)"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/18065/events",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/320",
+        "name": "Axis"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/317",
+        "name": "Inhumanity"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/events/311",
+        "name": "Marvel NOW!"
+      }
+    ],
+    "returned": 3
+  },
+  "next": null,
+  "previous": null
+}

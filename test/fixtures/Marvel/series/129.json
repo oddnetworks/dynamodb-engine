@@ -1,0 +1,80 @@
+{
+  "id": 129,
+  "title": "Spider-Man Legends Vol. I: Kraven's Last Hunt (1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/129",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/129/spider-man_legends_vol_i_kravens_last_hunt_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1999,
+  "endYear": 1999,
+  "rating": "MARVEL PSR",
+  "type": "collection",
+  "modified": "-0001-11-30T00:00:00-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/40/4bc668a38f9e6",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/129/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/6986",
+        "name": "J. M. DeMatteis",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3447",
+        "name": "Michael Zeck",
+        "role": "penciller"
+      }
+    ],
+    "returned": 2
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/129/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/129/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/130",
+        "name": "Kraven the Hunter has stalked and killed every animal known to man. But there is one beast that has eluded him. One quarry that ",
+        "type": "interiorStory"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/65207",
+        "name": "SPIDER-MAN LEGENDS VOL. I: KRAVEN'S LAST HUNT TPB 0 cover",
+        "type": "cover"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/129/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/1069",
+        "name": "Spider-Man Legends Vol. I: Kraven's Last Hunt (Trade Paperback)"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/129/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

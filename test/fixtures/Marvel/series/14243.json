@@ -1,0 +1,87 @@
+{
+  "id": 14243,
+  "title": "Ka-Zar (1997 - 1999)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/14243",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/14243/ka-zar_1997_-_1999?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1997,
+  "endYear": 1999,
+  "rating": "T+",
+  "type": "ongoing",
+  "modified": "2011-01-20T10:00:56-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14243/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14243/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 4,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14243/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89036",
+        "name": "Ka-Zar #1    ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89038",
+        "name": "Ka-Zar #2",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89040",
+        "name": "Ka-Zar #3   ",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/89045",
+        "name": "Ka-Zar #3: Interior story  ",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 4
+  },
+  "comics": {
+    "available": 3,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14243/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39231",
+        "name": "Ka-Zar (1997) #1"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39233",
+        "name": "Ka-Zar (1997) #2"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/39235",
+        "name": "Ka-Zar (1997) #3"
+      }
+    ],
+    "returned": 3
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/14243/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

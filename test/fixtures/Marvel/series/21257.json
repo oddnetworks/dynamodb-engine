@@ -1,0 +1,69 @@
+{
+  "id": 21257,
+  "title": "True Believers: Deadpool (2016 - Present)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/21257",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/21257/true_believers_deadpool_2016_-_present?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 2016,
+  "endYear": 2099,
+  "rating": "",
+  "type": "ongoing",
+  "modified": "2016-01-04T13:41:47-0500",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/568abcdfd8b76",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21257/creators",
+    "items": [],
+    "returned": 0
+  },
+  "characters": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21257/characters",
+    "items": [],
+    "returned": 0
+  },
+  "stories": {
+    "available": 2,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21257/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127237",
+        "name": "cover from True Believers: Deadpool (2016) #1",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/127238",
+        "name": "story from True Believers: Deadpool (2016) #1",
+        "type": "interiorStory"
+      }
+    ],
+    "returned": 2
+  },
+  "comics": {
+    "available": 1,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21257/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/58314",
+        "name": "True Believers: Deadpool (2016) #1"
+      }
+    ],
+    "returned": 1
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/21257/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}

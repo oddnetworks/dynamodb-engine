@@ -1,0 +1,417 @@
+{
+  "id": 2300,
+  "title": "Marvel Super-Heroes (1967 - 1982)",
+  "description": null,
+  "resourceURI": "http://gateway.marvel.com/v1/public/series/2300",
+  "urls": [
+    {
+      "type": "detail",
+      "url": "http://marvel.com/comics/series/2300/marvel_super-heroes_1967_-_1982?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0"
+    }
+  ],
+  "startYear": 1967,
+  "endYear": 1982,
+  "rating": "",
+  "type": "",
+  "modified": "2014-06-11T16:10:02-0400",
+  "thumbnail": {
+    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+    "extension": "jpg"
+  },
+  "creators": {
+    "available": 137,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2300/creators",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/2943",
+        "name": "Rubinstein",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1212",
+        "name": "Dan Adkins",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1489",
+        "name": "Jack Alderman",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1836",
+        "name": "Terry Austin",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1089",
+        "name": "Sol Brodsky",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1216",
+        "name": "Rich Buckler",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/105",
+        "name": "Sal Buscema",
+        "role": "inker"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/4849",
+        "name": "Wilson",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/314",
+        "name": "Neal Adams",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1452",
+        "name": "Vince Alascia",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1358",
+        "name": "Al Avison",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/263",
+        "name": "Dick Ayers",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1612",
+        "name": "John Buscema",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1827",
+        "name": "John Byrne",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/808",
+        "name": "Howard Chaykin",
+        "role": "penciller"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1186",
+        "name": "Jack Abel",
+        "role": "editor"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1865",
+        "name": "Diana Albers",
+        "role": "letterer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1167",
+        "name": "Ross Andru",
+        "role": "penciller (cover)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/1499",
+        "name": "Otto Binder",
+        "role": "writer"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/creators/3388",
+        "name": "Pittsburgh Comics Club",
+        "role": "writer"
+      }
+    ],
+    "returned": 20
+  },
+  "characters": {
+    "available": 35,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2300/characters",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+        "name": "Avengers"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009548",
+        "name": "Betty Ross"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009186",
+        "name": "Black Knight (Sir Percy of Scandia)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+        "name": "Captain America"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009223",
+        "name": "Captain Britain"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+        "name": "Captain Marvel (Mar-Vell)"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009255",
+        "name": "Crystal"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009262",
+        "name": "Daredevil"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009273",
+        "name": "Diablo"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009275",
+        "name": "Doc Samson"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+        "name": "Doctor Doom"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282",
+        "name": "Doctor Strange"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010677",
+        "name": "Dracula"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009299",
+        "name": "Fantastic Four"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011299",
+        "name": "Guardians of the Galaxy"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+        "name": "Hank Pym"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+        "name": "Hulk"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+        "name": "Human Torch"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+        "name": "Iron Man"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011081",
+        "name": "Ka-Zar"
+      }
+    ],
+    "returned": 20
+  },
+  "stories": {
+    "available": 441,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2300/stories",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21025",
+        "name": "[A New Life]",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21026",
+        "name": "Honour Thy Father",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21027",
+        "name": "Before I'd Be Slave",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21028",
+        "name": "[A New Life]",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21029",
+        "name": "Outcasts",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21030",
+        "name": "The Redoubtable Return of Crusher Creel",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21031",
+        "name": "Let Sleeping Dragons Lie",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21032",
+        "name": "Outcasts",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21033",
+        "name": "The Junkheap That Walked Like a Man",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21034",
+        "name": "The Junkheap That Walked Like a Man",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21035",
+        "name": "Death On the Hudson",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21036",
+        "name": "The Plan and the Power",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21037",
+        "name": "Cover #21037",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21038",
+        "name": "In Support of Darwin",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21039",
+        "name": "The Yesterday Quest",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21040",
+        "name": "The Red Guardian",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21041",
+        "name": "Re-Birth",
+        "type": "cover"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21042",
+        "name": "Re-Birth",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21043",
+        "name": "Nights of Wundagore",
+        "type": ""
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/21044",
+        "name": "The Valiant Also Die",
+        "type": ""
+      }
+    ],
+    "returned": 20
+  },
+  "comics": {
+    "available": 118,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2300/comics",
+    "items": [
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15423",
+        "name": "Marvel Super-Heroes (1967) #12"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15424",
+        "name": "Marvel Super-Heroes (1967) #13"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15425",
+        "name": "Marvel Super-Heroes (1967) #14"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15426",
+        "name": "Marvel Super-Heroes (1967) #15"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15427",
+        "name": "Marvel Super-Heroes (1967) #16"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15428",
+        "name": "Marvel Super-Heroes (1967) #17"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15429",
+        "name": "Marvel Super-Heroes (1967) #18"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15430",
+        "name": "Marvel Super-Heroes (1967) #19"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15431",
+        "name": "Marvel Super-Heroes (1967) #20"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15432",
+        "name": "Marvel Super-Heroes (1967) #21"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15433",
+        "name": "Marvel Super-Heroes (1967) #22"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15434",
+        "name": "Marvel Super-Heroes (1967) #23"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15435",
+        "name": "Marvel Super-Heroes (1967) #24"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15436",
+        "name": "Marvel Super-Heroes (1967) #25"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15437",
+        "name": "Marvel Super-Heroes (1967) #26"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15438",
+        "name": "Marvel Super-Heroes (1967) #27"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15439",
+        "name": "Marvel Super-Heroes (1967) #28"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15440",
+        "name": "Marvel Super-Heroes (1967) #29"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15441",
+        "name": "Marvel Super-Heroes (1967) #30"
+      },
+      {
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/15442",
+        "name": "Marvel Super-Heroes (1967) #31"
+      }
+    ],
+    "returned": 20
+  },
+  "events": {
+    "available": 0,
+    "collectionURI": "http://gateway.marvel.com/v1/public/series/2300/events",
+    "items": [],
+    "returned": 0
+  },
+  "next": null,
+  "previous": null
+}
