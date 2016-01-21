@@ -239,7 +239,7 @@ test.skip('migrateUp', function (t) {
 });
 
 test.skip('populate series data', function (t) {
-	var dir = FilePath
+	const dir = FilePath
 		.create(__dirname)
 		.append('fixtures', 'Marvel', 'series');
 
@@ -264,7 +264,7 @@ test.skip('populate series data', function (t) {
 });
 
 test.skip('populate character data', function (t) {
-	var dir = FilePath
+	const dir = FilePath
 		.create(__dirname)
 		.append('fixtures', 'Marvel', 'characters');
 
