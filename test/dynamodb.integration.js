@@ -301,15 +301,35 @@ test.skip('populate character data', function (t) {
 		});
 });
 
-test('get related items', function (t) {
-	t.plan(2);
+test('get and delete related items', function (t) {
+	t.plan(5);
 
-	DB.getRelations('10051', 'Character')
+	function getInitialRelations() {
+		return DB.getRelations('10051', 'Character')
+			.then(function (res) {
+				t.notEqual(res.indexOf('1011360'), -1);
+				t.notEqual(res.indexOf('1009608'), -1);
+			});
+	}
+
+	function removeOneRelation() {
+		return DB.removeRelation('10051', '1011360').then(function (res) {
+			t.equal(res, true, 'removeRelation response is true');
+		});
+	}
+
+	function getFinalRelations() {
+		return DB.getRelations('10051', 'Character')
+			.then(function (res) {
+				t.equal(res.indexOf('1011360'), -1);
+				t.notEqual(res.indexOf('1009608'), -1);
+			});
+	}
+
+	getInitialRelations()
+		.then(removeOneRelation)
+		.then(getFinalRelations)
 		.catch(die)
-		.then(function (res) {
-			t.notEqual(res.indexOf('1011360'), -1);
-			t.notEqual(res.indexOf('1009608'), -1);
-		})
 		.then(t.end);
 });
 
