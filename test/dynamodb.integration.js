@@ -301,7 +301,7 @@ test.skip('populate character data', function (t) {
 		});
 });
 
-test('get and delete related items', function (t) {
+test.skip('get and delete related items', function (t) {
 	t.plan(5);
 
 	function getInitialRelations() {
@@ -329,6 +329,31 @@ test('get and delete related items', function (t) {
 	getInitialRelations()
 		.then(removeOneRelation)
 		.then(getFinalRelations)
+		.catch(die)
+		.then(t.end);
+});
+
+test('batch get items', function (t) {
+	const files = FilePath
+		.create(__dirname)
+		.append('fixtures', 'Marvel', 'characters')
+		.list();
+
+	t.plan(1);
+
+	const records = DB.batchGetRecords({
+		// Add a record id 'foobar' that will not be found -- should be
+		// silently ignored.
+		Character: ['foobar'].concat(files.map(function (file) {
+			return file.basename('.json');
+		}))
+	});
+
+	records
+		.then(function (res) {
+			// The not found item 'foobar' is not included in the results.
+			t.equal(res.Character.length, files.length);
+		})
 		.catch(die)
 		.then(t.end);
 });
