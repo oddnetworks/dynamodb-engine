@@ -339,7 +339,7 @@ test('batch get items', function (t) {
 		.append('fixtures', 'Marvel', 'characters')
 		.list();
 
-	t.plan(1);
+	t.plan(3);
 
 	const records = DB.batchGetRecords({
 		// Add a record id 'foobar' that will not be found -- should be
@@ -353,6 +353,8 @@ test('batch get items', function (t) {
 		.then(function (res) {
 			// The not found item 'foobar' is not included in the results.
 			t.equal(res.Character.length, files.length);
+			t.equal(res.Character[0].id, '1009148');
+			t.equal(res.Character[0].type, 'Character');
 		})
 		.catch(die)
 		.then(t.end);
