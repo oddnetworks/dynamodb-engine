@@ -34,7 +34,7 @@ const SCHEMA = U.deepFreeze({
 		indexes: {
 			ByName: {
 				keys: {
-					hash: {name: 'id', type: 'String'},
+					hash: {name: 'type', type: 'String'},
 					range: {name: 'name', type: 'String'}
 				}
 			}
@@ -44,7 +44,7 @@ const SCHEMA = U.deepFreeze({
 		indexes: {
 			ByTitle: {
 				keys: {
-					hash: {name: 'id', type: 'String'},
+					hash: {name: 'type', type: 'String'},
 					range: {name: 'title', type: 'String'}
 				}
 			}
@@ -110,7 +110,7 @@ function createCharacter(data) {
 // 	debugger;
 // });
 
-test.skip('remove leftover test tables if any', function (t) {
+test('remove leftover test tables if any', function (t) {
 	var tableNames = Object.keys(SCHEMA).map(function (key) {
 		return DB.dynamodb.table(key);
 	});
@@ -127,7 +127,7 @@ test.skip('remove leftover test tables if any', function (t) {
 		.then(t.end);
 });
 
-test.skip('sanity check to make sure tables do not exist', function (t) {
+test('sanity check to make sure tables do not exist', function (t) {
 	var tableNames = Object.keys(SCHEMA).map(function (key) {
 		return DB.dynamodb.table(key);
 	});
@@ -145,7 +145,7 @@ test.skip('sanity check to make sure tables do not exist', function (t) {
 		.then(t.end);
 });
 
-test.skip('createRecord on table that does not exist', function (t) {
+test('createRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.createRecord({id: 'foo', type: 'Character'})
@@ -161,7 +161,7 @@ test.skip('createRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test.skip('updateRecord on table that does not exist', function (t) {
+test('updateRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.updateRecord({id: 'foo', type: 'Character'})
@@ -177,7 +177,7 @@ test.skip('updateRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test.skip('createRelation on table that does not exist', function (t) {
+test('createRelation on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.createRelation('bar', {id: 'foo', type: 'Character'})
@@ -193,7 +193,7 @@ test.skip('createRelation on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test.skip('getRecord on table that does not exist', function (t) {
+test('getRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.getRecord('Character', 'foo')
@@ -209,7 +209,7 @@ test.skip('getRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test.skip('removeRecord on table that does not exist', function (t) {
+test('removeRecord on table that does not exist', function (t) {
 	t.plan(2);
 
 	DB.removeRecord('Character', 'foo')
@@ -225,7 +225,28 @@ test.skip('removeRecord on table that does not exist', function (t) {
 		.then(t.end);
 });
 
-test.skip('migrateUp', function (t) {
+test('query invalid table', function (t) {
+	var query = DB.query({
+		type: 'Character',
+		index: 'ByName'
+	});
+
+	var tableName = DB.dynamodb.table('Character');
+	t.plan(2);
+
+	query
+		.hashEqual(47)
+		.rangeEqual('baz')
+		.fetchAll()
+		.catch(DB.OperationalError, function (err) {
+			t.ok(tableName.length > 0, 'tableName exists');
+			t.notEqual(err.message.indexOf(tableName), -1, 'err message');
+		})
+		.catch(die)
+		.then(t.end);
+});
+
+test('migrateUp', function (t) {
 	t.plan(4);
 
 	DB.migrateUp()
@@ -238,7 +259,18 @@ test.skip('migrateUp', function (t) {
 		.catch(die);
 });
 
-test.skip('populate series data', function (t) {
+test('query invalid index', function (t) {
+	t.plan(1);
+
+	t.throws(function () {
+		DB.query({
+			type: 'Character',
+			index: 'ByFoobar'
+		});
+	}, DB.OperationalError);
+});
+
+test('populate series data', function (t) {
 	const dir = FilePath
 		.create(__dirname)
 		.append('fixtures', 'Marvel', 'series');
@@ -263,7 +295,7 @@ test.skip('populate series data', function (t) {
 		});
 });
 
-test.skip('populate character data', function (t) {
+test('populate character data', function (t) {
 	const dir = FilePath
 		.create(__dirname)
 		.append('fixtures', 'Marvel', 'characters');
@@ -360,7 +392,27 @@ test('batch get items', function (t) {
 		.then(t.end);
 });
 
-test.skip('add a new table', function (t) {
+test('query an index', function (t) {
+	var query = DB.query({
+		type: 'Character',
+		index: 'ByName'
+	});
+
+	t.plan(2);
+
+	query
+		.hashEqual('Character')
+		.rangeBeginsWith('A')
+		.fetchAll()
+		.then(function (results) {
+			t.equal(results.length, 77, 'results length');
+			t.equal(results[0].name, 'A-Bomb (HAS)');
+		})
+		.catch(die)
+		.then(t.end);
+});
+
+test('add a new table', function (t) {
 	const thisSchema = U.extend(Object.create(null), {
 		Widget: {}
 	}, SCHEMA);
