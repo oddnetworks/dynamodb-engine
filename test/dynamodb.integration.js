@@ -301,7 +301,7 @@ test.skip('populate character data', function (t) {
 		});
 });
 
-test.skip('get and delete related items', function (t) {
+test('get and delete related items', function (t) {
 	t.plan(5);
 
 	function getInitialRelations() {
