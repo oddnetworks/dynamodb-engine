@@ -15,17 +15,17 @@
   },
   "homepage": "https://github.com/oddnetworks/dynamodb-engine/",
   "dependencies": {
-    "aws-sdk"   : "~2.2.26",
-    "bluebird"  : "~3.1.1",
-    "brixx"     : "~1.3.0",
-    "debug"     : "2.2.0",
-    "lodash"    : "4.0.0"
+    "aws-sdk"   : "~2.2.0",
+    "bluebird"  : "~3.2.0",
+    "brixx"     : "~1.6.0",
+    "debug"     : "~2.2.0",
+    "lodash"    : "~4.2.0"
   },
   "devDependencies": {
     "filepath" : "~1.1.0",
-    "sinon"    : "~1.17.2",
+    "sinon"    : "~1.17.0",
     "tape"     : "~4.4.0",
-    "xo"       : "~0.12.1"
+    "xo"       : "~0.12.0"
   },
   "bugs": {"url": "https://github.com/oddnetworks/dynamodb-engine/issues"},
   "license": "MIT"
