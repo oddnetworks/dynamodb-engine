@@ -76,7 +76,9 @@ function createSeries(data) {
 		description: data.description || 'EMPTY',
 		resourceURI: data.resourceURI || 'EMPTY',
 		startYear: data.startYear || 0,
-		endYear: data.endYear || 0
+		endYear: data.endYear || 0,
+		urls: data.urls || [],
+		creators: data.creators || {}
 	};
 }
 
@@ -88,7 +90,12 @@ function createCharacter(data) {
 		name: data.name || 'EMPTY',
 		description: data.description || 'EMPTY',
 		resourceURI: data.resourceURI || 'EMPTY',
-		thumbnail: thumb ? (thumb.path + '.' + thumb.extension) : 'EMPTY',
+		emptyArray: [],
+		emptyObject: {},
+		thumbnail: {
+			url: thumb ? (thumb.path + '.' + thumb.extension) : 'EMPTY',
+			def: data.thumbnail
+		},
 		series: (data.series.items || []).map(function (item) {
 			return item.resourceURI ? item.resourceURI.split('/').pop() : 'EMPTY';
 		})
