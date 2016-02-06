@@ -340,6 +340,32 @@ test('populate character data', function (t) {
 		});
 });
 
+test('with deeply nested attributes', function (t) {
+	t.plan(5);
+
+	function testCharacter() {
+		return DB.getRecord('Character', '1009168').then(function (res) {
+			t.equal(res.series[0], '2116');
+			const thumbnail = res.thumbnail;
+			t.equal(thumbnail.def.path, 'http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54');
+			t.equal(thumbnail.def.extension, 'jpg');
+		});
+	}
+
+	function testSeries() {
+		return DB.getRecord('Series', '10028').then(function (res) {
+			const url = res.urls[0];
+			t.equal(url.type, 'detail');
+			t.equal(url.url, 'http://marvel.com/comics/series/10028/astonishing_x-men_vol_7_2011?utm_campaign=apiRef&utm_source=826a54df0e2b1b28d1a2585efcf9e2b0');
+		});
+	}
+
+	testCharacter()
+		.then(testSeries)
+		.catch(die)
+		.then(t.end);
+});
+
 test('get and delete related items', function (t) {
 	t.plan(5);
 
