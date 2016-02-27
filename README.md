@@ -2,6 +2,8 @@ DynamoDB Engine
 ===============
 A promisified Node.js engine for AWS DynamoDB.
 
+DynamoDB Endpoints: http://docs.aws.amazon.com/general/latest/gr/rande.html#ddb_region
+
 Testing
 -------
 ### Integration Testing
