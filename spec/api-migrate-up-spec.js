@@ -84,7 +84,7 @@ describe('API migrateUp()', function () {
 			// Complete setup
 			.then(U.returnUndefined)
 			.then(done, done.fail);
-	}, 120 * 1000); // Allow setup to run longer
+	}, 240 * 1000); // Allow setup to run longer
 
 	it('initializes with no tables', function () {
 		var list = subject.get('initialTableList');
@@ -201,6 +201,7 @@ describe('API migrateUp()', function () {
 			var KeySchema = gsiDesc.KeySchema.sort(sortByAttributeName);
 			return {
 				IndexName: gsiDesc.IndexName,
+				IndexStatus: gsiDesc.IndexStatus,
 				KeySchema: KeySchema
 			};
 		}
@@ -217,6 +218,7 @@ describe('API migrateUp()', function () {
 
 					return {
 						TableName: desc.Table.TableName,
+						TableStatus: desc.Table.TableStatus,
 						AttributeDefinitions: AttributeDefinitions,
 						GlobalSecondaryIndexes: GSI
 					};
@@ -296,6 +298,26 @@ describe('API migrateUp()', function () {
 			expect(keys[1]).toEqual({AttributeName: 'type', KeyType: 'HASH'});
 			expect(keys[2]).toEqual({AttributeName: 'title', KeyType: 'RANGE'});
 			expect(keys[3]).toEqual({AttributeName: 'type', KeyType: 'HASH'});
+		});
+
+		it('waits for tables and indexes to become active', function () {
+			var status = this.tables
+				.filter(function (desc) {
+					return /entities$/.test(desc.TableName);
+				})
+				.reduce(function (keys, desc) {
+					keys.push(desc.TableStatus);
+					return keys.concat(
+						U.flatten(desc.GlobalSecondaryIndexes.map(pluckIndexStatus))
+					);
+				}, []);
+
+			function pluckIndexStatus(gsi) {
+				return gsi.IndexStatus;
+			}
+
+			expect(status.length).toBe(4);
+			expect(status).toEqual(['ACTIVE', 'ACTIVE', 'ACTIVE', 'ACTIVE']);
 		});
 	});
 });
