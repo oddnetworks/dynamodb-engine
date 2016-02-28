@@ -86,7 +86,7 @@ describe('API migrateUp()', function () {
 			// Complete setup
 			.then(U.returnUndefined)
 			.then(done, done.fail);
-	}, 240 * 1000); // Allow setup to run longer
+	}, 300 * 1000); // Allow setup to run longer
 
 	it('initializes with no tables', function () {
 		var list = subject.get('initialTableList');
