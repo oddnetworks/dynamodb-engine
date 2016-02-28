@@ -14,8 +14,32 @@ var env = Object.keys(envDefaults).reduce(function (env, key) {
 	return env;
 }, Object.create(null));
 
+var schema = {
+	Character: {
+		indexes: {
+			ByName: {
+				keys: {
+					hash: {name: 'type', type: 'String'},
+					range: {name: 'name', type: 'String'}
+				}
+			}
+		}
+	},
+	Series: {
+		indexes: {
+			ByTitle: {
+				keys: {
+					hash: {name: 'type', type: 'String'},
+					range: {name: 'title', type: 'String'}
+				}
+			}
+		}
+	}
+};
+
 var constants = U.deepFreeze({
-	TABLE_PREFIX: 'ddb_engine_tests'
+	TABLE_PREFIX: 'ddb_engine_tests',
+	SCHEMA: schema
 });
 
 beforeAll(function () {

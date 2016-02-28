@@ -5,7 +5,7 @@ var Map = Immutable.Map;
 var List = Immutable.List;
 
 var U = require('../lib/utils');
-var DynamoDBEngine = require('../lib/dynamodb-engine');
+var lib = require('./support/lib');
 
 describe('API migrateUp()', function () {
 	var subject = new Map();
@@ -17,8 +17,8 @@ describe('API migrateUp()', function () {
 		var args = new Map(constants);
 
 		// Initial DB schema without indexes.
-		args = args.set('db', createDbInstance(
-			constants,
+		args = args.set('db', lib.createDbInstance(
+			args,
 			{Character: {}, Series: {}}
 		));
 
@@ -29,26 +29,26 @@ describe('API migrateUp()', function () {
 		Promise.resolve(args)
 
 			// Clean up from previous tests.
-			.then(removeTestTables)
+			.then(lib.removeTestTables)
 			.then(returnArgs)
-			.then(listTestTables)
+			.then(lib.listTestTables)
 			.then(function (res) {
 				subject = subject.set('initialTableList', new List(res));
 			})
 
 			// Run the first migrateUp() without indexes.
 			.then(returnArgs)
-			.then(migrateUp)
+			.then(lib.migrateUp)
 			.then(returnArgs)
-			.then(describeTestTables)
+			.then(lib.describeTestTables)
 			.then(function (res) {
 				subject = subject.set('tables', Immutable.fromJS(res));
 			})
 
 			// Run the second migrateUp() adding new indexes.
 			.then(function () {
-				args = args.set('db', createDbInstance(
-					constants,
+				args = args.set('db', lib.createDbInstance(
+					args,
 					{
 						Character: {
 							indexes: {
@@ -74,9 +74,9 @@ describe('API migrateUp()', function () {
 				));
 			})
 			.then(returnArgs)
-			.then(migrateUp)
+			.then(lib.migrateUp)
 			.then(returnArgs)
-			.then(describeTestTables)
+			.then(lib.describeTestTables)
 			.then(function (res) {
 				subject = subject.set('withIndexes', Immutable.fromJS(res));
 			})
@@ -149,9 +149,9 @@ describe('API migrateUp()', function () {
 		expect(tables.length).toBe(1);
 
 		var desc = tables[0];
-		var KeySchema = desc.Table.KeySchema.sort(sortByAttributeName);
+		var KeySchema = desc.Table.KeySchema.sort(lib.sortByAttributeName);
 		var AttributeDefinitions = desc.Table.AttributeDefinitions
-			.sort(sortByAttributeName);
+			.sort(lib.sortByAttributeName);
 
 		expect(KeySchema[0])
 			.toEqual({AttributeName: 'object', KeyType: 'RANGE'});
@@ -198,7 +198,7 @@ describe('API migrateUp()', function () {
 
 	describe('after indexes added', function () {
 		function mapGsi(gsiDesc) {
-			var KeySchema = gsiDesc.KeySchema.sort(sortByAttributeName);
+			var KeySchema = gsiDesc.KeySchema.sort(lib.sortByAttributeName);
 			return {
 				IndexName: gsiDesc.IndexName,
 				IndexStatus: gsiDesc.IndexStatus,
@@ -212,7 +212,7 @@ describe('API migrateUp()', function () {
 				.toJS()
 				.map(function (desc) {
 					var AttributeDefinitions = desc.Table.AttributeDefinitions
-						.sort(sortByAttributeName);
+						.sort(lib.sortByAttributeName);
 
 					var GSI = desc.Table.GlobalSecondaryIndexes.map(mapGsi);
 
@@ -321,58 +321,3 @@ describe('API migrateUp()', function () {
 		});
 	});
 });
-
-function createDbInstance(constants, schema) {
-	return DynamoDBEngine.create({
-		accessKeyId: constants.AWS_ACCESS_KEY_ID,
-		secretAccessKey: constants.AWS_SECRET_ACCESS_KEY,
-		region: constants.AWS_REGION,
-		endpoint: constants.DYNAMODB_ENDPOINT,
-		tablePrefix: constants.TABLE_PREFIX
-	}, schema);
-}
-
-function removeTestTables(args) {
-	return listTestTables(args).then(function (tableNames) {
-		if (tableNames.length) {
-			return Promise.all(tableNames.map(U.partial(deleteTable, args)))
-				.then(U.constant(tableNames));
-		}
-		return tableNames;
-	});
-}
-
-function deleteTable(args, tableName) {
-	var dynamodb = args.get('db').dynamodb;
-	return dynamodb.deleteTable({TableName: tableName});
-}
-
-function listTestTables(args) {
-	var dynamodb = args.get('db').dynamodb;
-	var tablePrefix = args.get('TABLE_PREFIX');
-
-	return dynamodb.listTables().then(function (res) {
-		return res.TableNames.filter(function (tableName) {
-			return tableName.indexOf(tablePrefix) >= 0;
-		});
-	});
-}
-
-function migrateUp(args) {
-	var db = args.get('db');
-	return db.migrateUp();
-}
-
-function describeTestTables(args) {
-	var dynamodb = args.get('db').dynamodb;
-
-	return listTestTables(args).then(function (tableNames) {
-		return Promise.all(tableNames.map(function (tableName) {
-			return dynamodb.describeTable({TableName: tableName});
-		}));
-	});
-}
-
-function sortByAttributeName(a, b) {
-	return a.AttributeName > b.AttributeName ? 1 : -1;
-}
