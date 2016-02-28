@@ -4,15 +4,16 @@ var Immutable = require('immutable');
 var Map = Immutable.Map;
 var List = Immutable.List;
 
-var U = require('../lib/utils');
-var lib = require('./support/lib');
-
 describe('API migrateUp()', function () {
 	var subject = new Map();
 	var constants;
+	var lib;
+	var U;
 
 	beforeAll(function (done) {
 		constants = this.constants;
+		lib = this.lib;
+		U = this.U;
 
 		var args = new Map(constants);
 

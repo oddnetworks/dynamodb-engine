@@ -1,9 +1,27 @@
+'use strict';
+
 var U = require('../../lib/utils');
 var DynamoDBEngine = require('../../lib/dynamodb-engine');
+var debug = require('debug')('dynamodb-engine:test');
 
 var lib = exports;
 
+lib.initializeDb = function (args) {
+	args = args.set('db', lib.createDbInstance(args));
+
+	function returnArgs() {
+		return args;
+	}
+
+	return Promise.resolve(args)
+		.then(lib.removeTestTables)
+		.then(returnArgs)
+		.then(lib.migrateUp);
+};
+
 lib.createDbInstance = function (args, schema) {
+	schema = schema || args.get('SCHEMA');
+
 	return DynamoDBEngine.create({
 		accessKeyId: args.get('AWS_ACCESS_KEY_ID'),
 		secretAccessKey: args.get('AWS_SECRET_ACCESS_KEY'),
@@ -14,6 +32,7 @@ lib.createDbInstance = function (args, schema) {
 };
 
 lib.removeTestTables = function (args) {
+	debug('removeTestTables');
 	return lib.listTestTables(args).then(function (tableNames) {
 		if (tableNames.length) {
 			return Promise.all(tableNames.map(U.partial(lib.deleteTable, args)))
@@ -24,6 +43,7 @@ lib.removeTestTables = function (args) {
 };
 
 lib.deleteTable = function (args, tableName) {
+	debug('deleteTable %s', tableName);
 	var dynamodb = args.get('db').dynamodb;
 	return dynamodb.deleteTable({TableName: tableName});
 };
@@ -40,6 +60,7 @@ lib.listTestTables = function (args) {
 };
 
 lib.migrateUp = function (args) {
+	debug('migrateUp');
 	var db = args.get('db');
 	return db.migrateUp();
 };
