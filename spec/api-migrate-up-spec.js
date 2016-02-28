@@ -1,5 +1,6 @@
 /* global describe, beforeAll, it, expect */
 'use strict';
+var Promise = require('bluebird');
 var Immutable = require('immutable');
 var Map = Immutable.Map;
 var List = Immutable.List;
