@@ -6,7 +6,7 @@
   "main"        : "./lib/dynamodb-engine",
   "scripts"     : {
     "lint": "xo",
-    "test": "xo && tape 'test/**/*.test.js'",
+    "test": "xo && jasmine",
     "integration-test": "xo && tape 'integration-test/**/*.test.js'"
   },
   "repository": {
@@ -23,8 +23,8 @@
   },
   "devDependencies": {
     "filepath" : "~1.1.0",
-    "sinon"    : "~1.17.0",
-    "tape"     : "~4.4.0",
+    "immutable": "~3.7.0",
+    "jasmine"  : "~2.4.0",
     "xo"       : "~0.12.0"
   },
   "bugs": {"url": "https://github.com/oddnetworks/dynamodb-engine/issues"},
