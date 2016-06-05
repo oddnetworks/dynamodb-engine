@@ -2,10 +2,10 @@
 
 var Promise = require('bluebird');
 var filepath = require('filepath');
+var debug = require('debug')('dynamodb-engine:test');
 
 var U = require('../../lib/utils');
 var DynamoDBEngine = require('../../lib/dynamodb-engine');
-var debug = require('debug')('dynamodb-engine:test');
 
 var lib = exports;
 
