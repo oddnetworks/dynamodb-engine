@@ -9,7 +9,8 @@ var lib = require('./support/lib');
 
 describe('API relationships', function () {
 	var SUBJECT = new Map({
-		limit: 200,
+		seriesLimit: 300,
+		characterLimit: 200,
 		series: null,
 		characters: null,
 		links: null,
@@ -35,9 +36,9 @@ describe('API relationships', function () {
 			})
 
 			// Load the fixtures from files
-			.then(U.partial(loadFixtures, SUBJECT.get('limit')))
+			.then(U.partial(loadFixtures, SUBJECT.get('characterLimit'), SUBJECT.get('seriesLimit')))
 			.then(function (docs) {
-				SUBJECT = SUBJECT.set('series', Immutable.fromJS(docs.filter(filterBySeries)[0]));
+				SUBJECT = SUBJECT.set('series', Immutable.fromJS(docs.filter(filterBySeries)));
 				SUBJECT = SUBJECT.set('characters', Immutable.fromJS(docs.filter(filterByCharacter)));
 				return docs;
 			})
@@ -49,17 +50,26 @@ describe('API relationships', function () {
 
 			// Create relationships for the records
 			.then(function () {
+				var singleSeries = SUBJECT.get('series').toJS()[0];
 				return Promise.all(SUBJECT.get('characters').toJS().map(U.partial(
 					createRelation,
 					args.db,
-					SUBJECT.get('series').toJS()
+					singleSeries
 				)));
+			})
+
+			// Create reverse relationships for the records
+			.then(function () {
+				var character = SUBJECT.get('characters').toJS()[0];
+				return Promise.all(SUBJECT.get('series').toJS().map(function (series) {
+					return createRelation(args.db, series, character);
+				}));
 			})
 
 			// Fetch relationship links
 			.then(function () {
-				var series = SUBJECT.get('series').toJS();
-				return args.db.getRelations(series.id, 'Character');
+				var singleSeries = SUBJECT.get('series').toJS()[0];
+				return args.db.getRelations(singleSeries.id, 'Character');
 			})
 			.then(function (res) {
 				SUBJECT = SUBJECT.set('links', Immutable.fromJS(res));
@@ -76,6 +86,26 @@ describe('API relationships', function () {
 				SUBJECT = SUBJECT.set('relatedRecords', Immutable.fromJS(records));
 			})
 
+			// Fetch reverse relationship links
+			.then(function () {
+				var character = SUBJECT.get('characters').toJS()[0];
+				return args.db.getReverseRelations(character.id, 'Series');
+			})
+			.then(function (res) {
+				SUBJECT = SUBJECT.set('reverseLinks', Immutable.fromJS(res));
+				return res;
+			})
+
+			// Fetch reverse relationship records
+			.then(function (links) {
+				return Promise.all(links.map(function (link) {
+					return args.db.getRecord(link.type, link.id);
+				}));
+			})
+			.then(function (records) {
+				SUBJECT = SUBJECT.set('reverseRecords', Immutable.fromJS(records));
+			})
+
 			// Finis
 			.then(done)
 			.catch(done.fail);
@@ -83,7 +113,7 @@ describe('API relationships', function () {
 
 	it('fetches correct number of related records', function () {
 		var relatedRecords = SUBJECT.get('relatedRecords');
-		expect(relatedRecords.size).toBe(SUBJECT.get('limit'));
+		expect(relatedRecords.size).toBe(SUBJECT.get('characterLimit'));
 	});
 
 	it('returns valid records as related records', function () {
@@ -92,6 +122,19 @@ describe('API relationships', function () {
 		expect(record.type).toBe('Character');
 		expect(record.name).toBeTruthy();
 		expect(record.series).toBeTruthy();
+	});
+
+	it('fetches correct number of reverse relations', function () {
+		var relatedRecords = SUBJECT.get('reverseRecords');
+		expect(relatedRecords.size).toBe(SUBJECT.get('seriesLimit'));
+	});
+
+	it('returns valid records as related records', function () {
+		var record = U.sample(SUBJECT.get('reverseRecords').toJS());
+		expect(record.id).toBeTruthy();
+		expect(record.type).toBe('Series');
+		expect(record.title).toBeTruthy();
+		expect(record.creators).toBeTruthy();
 	});
 });
 
@@ -107,13 +150,13 @@ function filterBySeries(item) {
 	return item.type === 'Series';
 }
 
-function loadFixtures(characterLimit) {
-	var series;
+function loadFixtures(characterLimit, seriesLimit) {
+	var seriesCount = 0;
 	var characterCount = 0;
 
 	var filePaths = lib.listFixturePaths(function (pathPart) {
-		if (!series && pathPart.indexOf('series') >= 0) {
-			series = 1;
+		if (seriesCount < seriesLimit && pathPart.indexOf('series') >= 0) {
+			seriesCount += 1;
 			return true;
 		}
 		if (characterCount < characterLimit && pathPart.indexOf('characters') >= 0) {
