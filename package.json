@@ -6,8 +6,7 @@
   "main"        : "./lib/dynamodb-engine",
   "scripts"     : {
     "lint": "xo",
-    "test": "xo && jasmine",
-    "integration-test": "xo && tape 'integration-test/**/*.test.js'"
+    "test": "xo && jasmine"
   },
   "repository": {
     "type" : "git",
