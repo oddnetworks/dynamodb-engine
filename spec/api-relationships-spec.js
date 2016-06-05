@@ -96,7 +96,7 @@ describe('API relationships', function () {
 });
 
 function createRelation(db, subject, character) {
-	return db.createRelation(subject.id, character);
+	return db.createRelation(subject, character);
 }
 
 function filterByCharacter(item) {
