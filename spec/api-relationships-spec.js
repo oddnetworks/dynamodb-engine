@@ -108,9 +108,29 @@ describe('API relationships', function () {
 
 			// Remove a relation
 			.then(function () {
-				var character = SUBJECT.get('series').toJS()[0];
+				var series = SUBJECT.get('series').toJS()[0];
 				var character = SUBJECT.get('characters').toJS()[0];
-				args.db.removeRelation(series.id, character.id);
+				return args.db.removeRelation(series.id, character.id);
+			})
+
+			// Fetch relationship links
+			.then(function () {
+				var singleSeries = SUBJECT.get('series').toJS()[0];
+				return args.db.getRelations(singleSeries.id, 'Character');
+			})
+			.then(function (res) {
+				SUBJECT = SUBJECT.set('linksAfterRm', Immutable.fromJS(res));
+				return res;
+			})
+
+			// Fetch reverse relationship links
+			.then(function () {
+				var character = SUBJECT.get('characters').toJS()[0];
+				return args.db.getReverseRelations(character.id, 'Series');
+			})
+			.then(function (res) {
+				SUBJECT = SUBJECT.set('reverseLinksAfterRm', Immutable.fromJS(res));
+				return res;
 			})
 
 			// Finis
@@ -142,6 +162,13 @@ describe('API relationships', function () {
 		expect(record.type).toBe('Series');
 		expect(record.title).toBeTruthy();
 		expect(record.creators).toBeTruthy();
+	});
+
+	it('fetches correct number of relations after removal', function () {
+		var related = SUBJECT.get('linksAfterRm');
+		var reverse = SUBJECT.get('reverseLinksAfterRm');
+		expect(related.size).toBe(SUBJECT.get('characterLimit') - 1);
+		expect(reverse.size).toBe(SUBJECT.get('seriesLimit') - 1);
 	});
 });
 
