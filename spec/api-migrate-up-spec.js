@@ -154,16 +154,18 @@ describe('API migrateUp()', function () {
 			.sort(lib.sortByAttributeName);
 
 		expect(KeySchema[0])
-			.toEqual({AttributeName: 'object', KeyType: 'RANGE'});
+			.toEqual({AttributeName: 'objectId', KeyType: 'RANGE'});
 		expect(KeySchema[1])
-			.toEqual({AttributeName: 'subject', KeyType: 'HASH'});
+			.toEqual({AttributeName: 'subjectId', KeyType: 'HASH'});
 
 		expect(AttributeDefinitions[0])
-			.toEqual({AttributeName: 'object', AttributeType: 'S'});
+			.toEqual({AttributeName: 'objectId', AttributeType: 'S'});
 		expect(AttributeDefinitions[1])
-			.toEqual({AttributeName: 'predicate', AttributeType: 'S'});
+			.toEqual({AttributeName: 'objectType', AttributeType: 'S'});
 		expect(AttributeDefinitions[2])
-			.toEqual({AttributeName: 'subject', AttributeType: 'S'});
+			.toEqual({AttributeName: 'subjectId', AttributeType: 'S'});
+		expect(AttributeDefinitions[3])
+			.toEqual({AttributeName: 'subjectType', AttributeType: 'S'});
 	});
 
 	it('creates indexes for relations', function () {

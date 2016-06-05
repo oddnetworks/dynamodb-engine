@@ -106,6 +106,13 @@ describe('API relationships', function () {
 				SUBJECT = SUBJECT.set('reverseRecords', Immutable.fromJS(records));
 			})
 
+			// Remove a relation
+			.then(function () {
+				var character = SUBJECT.get('series').toJS()[0];
+				var character = SUBJECT.get('characters').toJS()[0];
+				args.db.removeRelation(series.id, character.id);
+			})
+
 			// Finis
 			.then(done)
 			.catch(done.fail);
