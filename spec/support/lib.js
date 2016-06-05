@@ -2,41 +2,50 @@
 
 var Promise = require('bluebird');
 var filepath = require('filepath');
-var debug = require('debug')('dynamodb-engine:test');
 
 var U = require('../../lib/utils');
 var DynamoDBEngine = require('../../lib/dynamodb-engine');
 
 var lib = exports;
 
+// args.AWS_ACCESS_KEY_ID
+// args.AWS_SECRET_ACCESS_KEY
+// args.AWS_REGION
+// args.DYNAMODB_ENDPOINT
+// args.TABLE_PREFIX
+// args.SCHEMA
 lib.initializeDb = function (args) {
-	args = args.set('db', lib.createDbInstance(args));
-
-	function returnArgs() {
-		return args;
-	}
+	args = U.cloneDeep(args);
+	args.db = lib.createDbInstance(args);
 
 	return Promise.resolve(args)
 		.then(lib.removeTestTables)
-		.then(returnArgs)
+		.then(U.constant(args))
 		.then(lib.migrateUp)
-		.then(returnArgs);
+		.then(U.constant(args));
 };
 
+// args.AWS_ACCESS_KEY_ID
+// args.AWS_SECRET_ACCESS_KEY
+// args.AWS_REGION
+// args.DYNAMODB_ENDPOINT
+// args.TABLE_PREFIX
+// args.SCHEMA
 lib.createDbInstance = function (args, schema) {
-	schema = schema || args.get('SCHEMA');
+	schema = schema || args.SCHEMA;
 
 	return DynamoDBEngine.create({
-		accessKeyId: args.get('AWS_ACCESS_KEY_ID'),
-		secretAccessKey: args.get('AWS_SECRET_ACCESS_KEY'),
-		region: args.get('AWS_REGION'),
-		endpoint: args.get('DYNAMODB_ENDPOINT'),
-		tablePrefix: args.get('TABLE_PREFIX')
+		accessKeyId: args.AWS_ACCESS_KEY_ID,
+		secretAccessKey: args.AWS_SECRET_ACCESS_KEY,
+		region: args.AWS_REGION,
+		endpoint: args.DYNAMODB_ENDPOINT,
+		tablePrefix: args.TABLE_PREFIX
 	}, schema);
 };
 
+// args.db.dynamodb
+// args.TABLE_PREFIX
 lib.removeTestTables = function (args) {
-	debug('removeTestTables');
 	return lib.listTestTables(args).then(function (tableNames) {
 		if (tableNames.length) {
 			return Promise.all(tableNames.map(U.partial(lib.deleteTable, args)))
@@ -46,31 +55,32 @@ lib.removeTestTables = function (args) {
 	});
 };
 
+// args.db.dynamodb
 lib.deleteTable = function (args, tableName) {
-	debug('deleteTable %s', tableName);
-	var dynamodb = args.get('db').dynamodb;
-	return dynamodb.deleteTable({TableName: tableName});
+	return args.db.dynamodb.deleteTable({TableName: tableName});
 };
 
+// args.db.dynamodb
+// args.TABLE_PREFIX
 lib.listTestTables = function (args) {
-	var dynamodb = args.get('db').dynamodb;
-	var tablePrefix = args.get('TABLE_PREFIX');
+	var tablePrefix = args.TABLE_PREFIX;
 
-	return dynamodb.listTables().then(function (res) {
+	return args.db.dynamodb.listTables().then(function (res) {
 		return res.TableNames.filter(function (tableName) {
 			return tableName.indexOf(tablePrefix) >= 0;
 		});
 	});
 };
 
+// args.db
 lib.migrateUp = function (args) {
-	debug('migrateUp');
-	var db = args.get('db');
-	return db.migrateUp();
+	return args.db.migrateUp();
 };
 
+// args.db.dynamodb
+// args.TABLE_PREFIX
 lib.describeTestTables = function describeTestTables(args) {
-	var dynamodb = args.get('db').dynamodb;
+	var dynamodb = args.db.dynamodb;
 
 	return lib.listTestTables(args).then(function (tableNames) {
 		return Promise.all(tableNames.map(function (tableName) {
@@ -79,6 +89,7 @@ lib.describeTestTables = function describeTestTables(args) {
 	});
 };
 
+// path - A Filepath instance
 lib.readJsonFile = function (path) {
 	return path.read().then(function (text) {
 		return JSON.parse(text);
@@ -123,8 +134,9 @@ lib.createCharacter = function (data) {
 	};
 };
 
+// args.db
 lib.putItem = function (args, record) {
-	return args.get('db').updateRecord(record);
+	return args.db.updateRecord(record);
 };
 
 lib.listFixturePaths = function (filter) {

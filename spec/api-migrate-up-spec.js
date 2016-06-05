@@ -3,53 +3,51 @@
 var Promise = require('bluebird');
 var Immutable = require('immutable');
 var Map = Immutable.Map;
-var List = Immutable.List;
+
+var U = require('../lib/utils');
+var lib = require('./support/lib');
 
 describe('API migrateUp()', function () {
-	var subject = new Map();
-	var constants;
-	var lib;
-	var U;
+	var SUBJECT = new Map({
+		initialTableList: null,
+		tables: null,
+		withIndexes: null
+	});
 
 	beforeAll(function (done) {
-		constants = this.constants;
-		lib = this.lib;
-		U = this.U;
+		var args = {
+			AWS_ACCESS_KEY_ID: this.AWS_ACCESS_KEY_ID,
+			AWS_SECRET_ACCESS_KEY: this.AWS_SECRET_ACCESS_KEY,
+			AWS_REGION: this.AWS_REGION,
+			DYNAMODB_ENDPOINT: this.DYNAMODB_ENDPOINT,
+			TABLE_PREFIX: this.TABLE_PREFIX
+		};
 
-		var args = new Map(constants);
-
-		// Initial DB schema without indexes.
-		args = args.set('db', lib.createDbInstance(
-			args,
-			{Character: {}, Series: {}}
-		));
-
-		function returnArgs() {
-			return args;
-		}
+		args.db = lib.createDbInstance(args, {Character: {}, Series: {}});
 
 		Promise.resolve(args)
 
 			// Clean up from previous tests.
 			.then(lib.removeTestTables)
-			.then(returnArgs)
+			.then(U.constant(args))
 			.then(lib.listTestTables)
 			.then(function (res) {
-				subject = subject.set('initialTableList', new List(res));
+				SUBJECT = SUBJECT.set('initialTableList', Immutable.fromJS(res));
 			})
+			.then(U.constant(args))
 
 			// Run the first migrateUp() without indexes.
-			.then(returnArgs)
 			.then(lib.migrateUp)
-			.then(returnArgs)
+			.then(U.constant(args))
 			.then(lib.describeTestTables)
 			.then(function (res) {
-				subject = subject.set('tables', Immutable.fromJS(res));
+				SUBJECT = SUBJECT.set('tables', Immutable.fromJS(res));
 			})
+			.then(U.constant(args))
 
 			// Run the second migrateUp() adding new indexes.
 			.then(function () {
-				args = args.set('db', lib.createDbInstance(
+				args.db = lib.createDbInstance(
 					args,
 					{
 						Character: {
@@ -73,40 +71,40 @@ describe('API migrateUp()', function () {
 							}
 						}
 					}
-				));
+				);
 			})
-			.then(returnArgs)
+			.then(U.constant(args))
 			.then(lib.migrateUp)
-			.then(returnArgs)
+			.then(U.constant(args))
 			.then(lib.describeTestTables)
 			.then(function (res) {
-				subject = subject.set('withIndexes', Immutable.fromJS(res));
+				SUBJECT = SUBJECT.set('withIndexes', Immutable.fromJS(res));
 			})
 
 			// Complete setup
-			.then(U.returnUndefined)
-			.then(done, done.fail);
+			.then(done)
+			.catch(done.fail);
 	}, 300 * 1000); // Allow setup to run longer
 
 	it('initializes with no tables', function () {
-		var list = subject.get('initialTableList');
+		var list = SUBJECT.get('initialTableList');
 		expect(list.size).toBe(0);
 	});
 
 	it('creates expected number of new tables', function () {
-		var tables = subject.get('tables');
+		var tables = SUBJECT.get('tables');
 		expect(tables.size).toBe(3);
 	});
 
 	it('waits for new tables to become active', function () {
-		var tables = subject.get('tables').toJS();
+		var tables = SUBJECT.get('tables').toJS();
 		tables.forEach(function (desc) {
 			expect(desc.Table.TableStatus).toBe('ACTIVE');
 		});
 	});
 
 	it('names tables correctly', function () {
-		var tables = subject.get('tables')
+		var tables = SUBJECT.get('tables')
 			.toJS()
 			.map(function (desc) {
 				return desc.Table.TableName;
@@ -121,7 +119,7 @@ describe('API migrateUp()', function () {
 	});
 
 	it('sets the entity table key schemas correctly', function () {
-		var tables = subject.get('tables')
+		var tables = SUBJECT.get('tables')
 			.toJS()
 			.filter(function (desc) {
 				return /entities$/.test(desc.Table.TableName);
@@ -142,7 +140,7 @@ describe('API migrateUp()', function () {
 	});
 
 	it('sets the relationship table key schemas correctly', function () {
-		var tables = subject.get('tables')
+		var tables = SUBJECT.get('tables')
 			.toJS()
 			.filter(function (desc) {
 				return /relations$/.test(desc.Table.TableName);
@@ -169,7 +167,7 @@ describe('API migrateUp()', function () {
 	});
 
 	it('creates indexes for relations', function () {
-		var tables = subject.get('tables')
+		var tables = SUBJECT.get('tables')
 			.toJS()
 			.filter(function (desc) {
 				return /relations$/.test(desc.Table.TableName);
@@ -210,7 +208,7 @@ describe('API migrateUp()', function () {
 
 		beforeAll(function () {
 			// Map the AWS responses into something we can more easily test.
-			this.tables = subject.get('withIndexes')
+			this.tables = SUBJECT.get('withIndexes')
 				.toJS()
 				.map(function (desc) {
 					var AttributeDefinitions = desc.Table.AttributeDefinitions

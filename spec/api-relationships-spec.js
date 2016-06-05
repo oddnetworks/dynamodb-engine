@@ -4,22 +4,27 @@ var Promise = require('bluebird');
 var Immutable = require('immutable');
 var Map = Immutable.Map;
 
+var U = require('../lib/utils');
+var lib = require('./support/lib');
+
 describe('API relationships', function () {
-	var subject = new Map({
-		limit: 200
+	var SUBJECT = new Map({
+		limit: 200,
+		series: null,
+		characters: null,
+		links: null,
+		relatedRecords: null
 	});
-	var constants;
-	var lib;
-	var U;
 
 	beforeAll(function (done) {
-		constants = this.constants;
-		lib = this.lib;
-		U = this.U;
-
-		var args = new Map(constants);
-		args = args.set('lib', lib);
-		args = args.set('U', U);
+		var args = {
+			AWS_ACCESS_KEY_ID: this.AWS_ACCESS_KEY_ID,
+			AWS_SECRET_ACCESS_KEY: this.AWS_SECRET_ACCESS_KEY,
+			AWS_REGION: this.AWS_REGION,
+			DYNAMODB_ENDPOINT: this.DYNAMODB_ENDPOINT,
+			TABLE_PREFIX: this.TABLE_PREFIX,
+			SCHEMA: this.SCHEMA
+		};
 
 		Promise.resolve(args)
 			// Setup a fresh database.
@@ -30,10 +35,10 @@ describe('API relationships', function () {
 			})
 
 			// Load the fixtures from files
-			.then(U.partial(loadFixtures, subject.get('limit')))
+			.then(U.partial(loadFixtures, SUBJECT.get('limit')))
 			.then(function (docs) {
-				subject = subject.set('series', docs.filter(filterBySeries)[0]);
-				subject = subject.set('characters', docs.filter(filterByCharacter));
+				SUBJECT = SUBJECT.set('series', Immutable.fromJS(docs.filter(filterBySeries)[0]));
+				SUBJECT = SUBJECT.set('characters', Immutable.fromJS(docs.filter(filterByCharacter)));
 				return docs;
 			})
 
@@ -44,46 +49,45 @@ describe('API relationships', function () {
 
 			// Create relationships for the records
 			.then(function () {
-				return Promise.all(subject.get('characters').map(U.partial(
+				return Promise.all(SUBJECT.get('characters').toJS().map(U.partial(
 					createRelation,
-					args.get('db'),
-					subject.get('series')
+					args.db,
+					SUBJECT.get('series').toJS()
 				)));
 			})
 
 			// Fetch relationship links
 			.then(function () {
-				var db = args.get('db');
-				var series = subject.get('series');
-				return db.getRelations(series.id, 'Character');
+				var series = SUBJECT.get('series').toJS();
+				return args.db.getRelations(series.id, 'Character');
 			})
 			.then(function (res) {
-				subject = subject.set('links', res);
+				SUBJECT = SUBJECT.set('links', Immutable.fromJS(res));
 				return res;
 			})
 
 			// Fetch relationship records
 			.then(function (links) {
-				var db = args.get('db');
 				return Promise.all(links.map(function (link) {
-					return db.getRecord(link.type, link.id);
+					return args.db.getRecord(link.type, link.id);
 				}));
 			})
 			.then(function (records) {
-				subject = subject.set('relatedRecords', records);
+				SUBJECT = SUBJECT.set('relatedRecords', Immutable.fromJS(records));
 			})
 
 			// Finis
-			.then(done, done.fail);
+			.then(done)
+			.catch(done.fail);
 	}, 300 * 1000); // Allow to run for a long time
 
 	it('fetches correct number of related records', function () {
-		var relatedRecords = subject.get('relatedRecords');
-		expect(relatedRecords.length).toBe(200);
+		var relatedRecords = SUBJECT.get('relatedRecords');
+		expect(relatedRecords.size).toBe(SUBJECT.get('limit'));
 	});
 
 	it('returns valid records as related records', function () {
-		var record = U.sample(subject.get('relatedRecords'));
+		var record = U.sample(SUBJECT.get('relatedRecords').toJS());
 		expect(record.id).toBeTruthy();
 		expect(record.type).toBe('Character');
 		expect(record.name).toBeTruthy();
@@ -103,8 +107,7 @@ function filterBySeries(item) {
 	return item.type === 'Series';
 }
 
-function loadFixtures(characterLimit, args) {
-	var lib = args.get('lib');
+function loadFixtures(characterLimit) {
 	var series;
 	var characterCount = 0;
 
