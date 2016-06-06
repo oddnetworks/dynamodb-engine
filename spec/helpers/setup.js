@@ -5,9 +5,9 @@ var debug = require('debug')('dynamodb-engine:test-setup');
 var U = require('../../lib/utils');
 
 var envDefaults = {
-	AWS_ACCESS_KEY_ID: 'default AWS_ACCESS_KEY_ID',
-	AWS_SECRET_ACCESS_KEY: 'default AWS_SECRET_ACCESS_KEY',
-	AWS_REGION: 'default AWS_REGION',
+	AWS_ACCESS_KEY_ID: 'default-AWS_ACCESS_KEY_ID',
+	AWS_SECRET_ACCESS_KEY: 'default-AWS_SECRET_ACCESS_KEY',
+	AWS_REGION: 'default-AWS_REGION',
 	DYNAMODB_ENDPOINT: 'http://localhost:8000',
 	TABLE_PREFIX: 'ddb_engine_tests'
 };
