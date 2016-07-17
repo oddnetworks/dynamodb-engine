@@ -24,7 +24,8 @@ describe('API relationships', function () {
 			AWS_REGION: this.AWS_REGION,
 			DYNAMODB_ENDPOINT: this.DYNAMODB_ENDPOINT,
 			TABLE_PREFIX: this.TABLE_PREFIX,
-			SCHEMA: this.SCHEMA
+			SCHEMA: this.SCHEMA,
+			DEFAULT_THROUGHPUT: {read: 50, write: 50}
 		};
 
 		Promise.resolve(args)
