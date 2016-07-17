@@ -14,6 +14,7 @@ var lib = exports;
 // args.DYNAMODB_ENDPOINT
 // args.TABLE_PREFIX
 // args.SCHEMA
+// args.DEFAULT_THROUGHPUT
 lib.initializeDb = function (args) {
 	args = U.cloneDeep(args);
 	args.db = lib.createDbInstance(args);
@@ -31,6 +32,7 @@ lib.initializeDb = function (args) {
 // args.DYNAMODB_ENDPOINT
 // args.TABLE_PREFIX
 // args.SCHEMA
+// args.DEFAULT_THROUGHPUT
 lib.createDbInstance = function (args, schema) {
 	schema = schema || args.SCHEMA;
 
@@ -39,7 +41,8 @@ lib.createDbInstance = function (args, schema) {
 		secretAccessKey: args.AWS_SECRET_ACCESS_KEY,
 		region: args.AWS_REGION,
 		endpoint: args.DYNAMODB_ENDPOINT,
-		tablePrefix: args.TABLE_PREFIX
+		tablePrefix: args.TABLE_PREFIX,
+		defaultThroughput: args.DEFAULT_THROUGHPUT
 	}, schema);
 };
 
