@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/oddnetworks/dynamodb-engine/",
   "dependencies": {
-    "aws-sdk"   : "~2.3.0",
+    "aws-sdk"   : "~2.4.0",
     "bluebird"  : "~3.4.0",
     "brixx"     : "~1.6.0",
     "debug"     : "~2.2.0",
@@ -24,7 +24,7 @@
     "filepath" : "~1.1.0",
     "immutable": "~3.8.0",
     "jasmine"  : "~2.4.0",
-    "xo"       : "~0.15.0"
+    "xo"       : "~0.16.0"
   },
   "bugs": {"url": "https://github.com/oddnetworks/dynamodb-engine/issues"},
   "license": "MIT"
