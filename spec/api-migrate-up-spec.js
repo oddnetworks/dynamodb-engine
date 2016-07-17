@@ -1,11 +1,13 @@
 /* global describe, beforeAll, it, expect */
+/* eslint max-lines: 0 */
+
 'use strict';
 var Promise = require('bluebird');
 var Immutable = require('immutable');
-var Map = Immutable.Map;
-
 var U = require('../lib/utils');
 var lib = require('./support/lib');
+
+var Map = Immutable.Map;
 
 describe('API migrateUp()', function () {
 	var SUBJECT = new Map({

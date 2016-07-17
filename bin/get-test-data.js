@@ -47,7 +47,7 @@ ItemStream.prototype._doRead = function () {
 	this._isReading = true;
 	ItemStream
 		.getCharactersPage(this.path, this._pageIndex)
-		.then((res) => {
+		.then(res => {
 			if (!res.length) {
 				return this.push(null);
 			}
@@ -55,7 +55,7 @@ ItemStream.prototype._doRead = function () {
 			this._pageIndex += 1;
 			this._doRead();
 		})
-		.catch((err) => {
+		.catch(err => {
 			this.emit('error', err);
 		});
 };

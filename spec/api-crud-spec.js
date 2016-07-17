@@ -1,5 +1,7 @@
 /* global describe, beforeAll, it, expect */
 /* eslint-disable max-nested-callbacks */
+/* eslint max-lines: 0 */
+
 'use strict';
 
 var Promise = require('bluebird');
