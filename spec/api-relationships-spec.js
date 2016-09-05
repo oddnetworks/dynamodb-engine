@@ -15,7 +15,13 @@ describe('API relationships', function () {
 		series: null,
 		characters: null,
 		links: null,
-		relatedRecords: null
+		reverseLinks: null,
+		relatedRecords: null,
+		reverseRecords: null,
+		allLinks: null,
+		reverseAllLinks: null,
+		linksAfterRm: null,
+		reverseLinksAfterRm: null
 	});
 
 	beforeAll(function (done) {
@@ -108,6 +114,26 @@ describe('API relationships', function () {
 				SUBJECT = SUBJECT.set('reverseRecords', Immutable.fromJS(records));
 			})
 
+			// Fetch all links (no predicate)
+			.then(function () {
+				var singleSeries = SUBJECT.get('series').toJS()[0];
+				return args.db.getRelations(singleSeries.id);
+			})
+			.then(function (res) {
+				SUBJECT = SUBJECT.set('allLinks', Immutable.fromJS(res));
+				return res;
+			})
+
+			// Fetch reverse all links (no predicate)
+			.then(function () {
+				var character = SUBJECT.get('characters').toJS()[0];
+				return args.db.getReverseRelations(character.id);
+			})
+			.then(function (res) {
+				SUBJECT = SUBJECT.set('reverseAllLinks', Immutable.fromJS(res));
+				return res;
+			})
+
 			// Remove a relation
 			.then(function () {
 				var series = SUBJECT.get('series').toJS()[0];
@@ -164,6 +190,22 @@ describe('API relationships', function () {
 		expect(record.type).toBe('Series');
 		expect(record.title).toBeTruthy();
 		expect(record.creators).toBeTruthy();
+	});
+
+	it('can fetch all links without a predicate', function () {
+		var records = SUBJECT.get('allLinks').toJS();
+		expect(records.length).toBe(200);
+		var record = U.sample(records);
+		expect(record.id).toMatch(/[\d]+/);
+		expect(record.type).toBe('Character');
+	});
+
+	it('can fetch all reverse links without a predicate', function () {
+		var records = SUBJECT.get('reverseAllLinks').toJS();
+		expect(records.length).toBe(300);
+		var record = U.sample(records);
+		expect(record.id).toMatch(/[\d]+/);
+		expect(record.type).toBe('Series');
 	});
 
 	it('fetches correct number of relations after removal', function () {
