@@ -218,7 +218,7 @@ describe('API migrateUp()', function () {
 					var AttributeDefinitions = desc.Table.AttributeDefinitions
 						.sort(lib.sortByAttributeName);
 
-					var GSI = desc.Table.GlobalSecondaryIndexes.map(mapGsi);
+					var GSI = (desc.Table.GlobalSecondaryIndexes || []).map(mapGsi);
 
 					return {
 						TableName: desc.Table.TableName,
