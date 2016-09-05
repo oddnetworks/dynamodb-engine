@@ -105,6 +105,45 @@ Returns a Promise for an Array of Objects like `{type, id}`.
 
 Returns a Promise for a Boolean `true`.
 
+### query
+`.query(type, index)` -- Returns a new [Query class](#query-class) instance.
+
+Query Class
+-----------
+```JS
+const db = DynamoDBEngine.create(config, schema);
+
+const query = db.query('character', 'byName');
+
+query.rangeEqual('Captain America').fetchAll().then(function (records) {
+  records.forEach(function (rec) {
+    console.log(rec);
+  })
+});
+```
+
+TODO: Document the Query Class.
+
+Events
+------
+### Listen for Events
+```JS
+const db = DynamoDBEngine.create(config, schema);
+
+db.log.on('request', function (req) {
+  console.log('%s %s %s %s %s', ev.apiCall, ev.operation, ev.method, ev.href, ev.body);
+});
+```
+
+Events are emitted on the instance `.log` object (a Node.js EventEmitter).
+
+### Event "request"
+- .apiCall - The DynamoDB instance method used.
+- .operation - The DynamoDB API operation.
+- .metho - The HTTP method string.
+- .href - The full request URL string.
+- .body - The request body string.
+
 Testing
 -------
 Testing is done using the [XO Linter](https://github.com/sindresorhus/xo) and the [Jasmine](http://jasmine.github.io/) test framework. Tests can be run with
