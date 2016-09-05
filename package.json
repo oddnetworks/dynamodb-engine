@@ -1,35 +1,31 @@
 {
-  "name": "dynamodb-engine",
-  "version": "0.8.0",
-  "description": "A promisified Node.js engine for AWS DynamoDB.",
-  "author": "Odd Networks (http://oddnetworks.co)",
-  "main": "./lib/dynamodb-engine",
-  "scripts": {
+  "name"        : "dynamodb-engine",
+  "version"     : "0.8.0",
+  "description" : "A promisified Node.js engine for AWS DynamoDB.",
+  "author"      : "Odd Networks (http://oddnetworks.co)",
+  "main"        : "./lib/dynamodb-engine",
+  "scripts"     : {
     "lint": "xo",
-    "test": "xo && jasmine",
-    "dynalite": "dynalite --port 8000 --path data"
+    "test": "xo && jasmine"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/oddnetworks/dynamodb-engine.git"
+    "type" : "git",
+    "url"  : "https://github.com/oddnetworks/dynamodb-engine.git"
   },
   "homepage": "https://github.com/oddnetworks/dynamodb-engine/",
   "dependencies": {
-    "aws-sdk": "~2.5.0",
-    "bluebird": "~3.4.0",
-    "brixx": "~1.6.0",
-    "debug": "~2.2.0",
-    "lodash": "~4.15.0"
+    "aws-sdk"   : "~2.5.0",
+    "bluebird"  : "~3.4.0",
+    "brixx"     : "~1.6.0",
+    "debug"     : "~2.2.0",
+    "lodash"    : "~4.15.0"
   },
   "devDependencies": {
-    "dynalite": "~1.0.0",
-    "filepath": "~1.1.0",
+    "filepath" : "~1.1.0",
     "immutable": "~3.8.0",
-    "jasmine": "~2.4.0",
-    "xo": "~0.16.0"
+    "jasmine"  : "~2.4.0",
+    "xo"       : "~0.16.0"
   },
-  "bugs": {
-    "url": "https://github.com/oddnetworks/dynamodb-engine/issues"
-  },
+  "bugs": {"url": "https://github.com/oddnetworks/dynamodb-engine/issues"},
   "license": "MIT"
 }
