@@ -122,6 +122,35 @@ query.rangeEqual('Captain America').fetchAll().then(function (records) {
 });
 ```
 
+### Fetch by page, order ascending
+```JS
+const db = DynamoDBEngine.create(config, schema);
+
+const query = db.query('character', 'byName').ascending().setLimit(10);
+
+query.fetchPage().then(function (page1) {
+  // Results are in the "items" attribute.
+  page1.items.forEach(function (rec) {
+    console.log(rec);
+  });
+
+  // The last key is in the "lastEvaluatedKey" attribute.
+  // Use the "lastEvaluatedKey" to tell the query where to start from for
+  // the next page.
+  return query.fetchPage(page1.lastEvaluatedKey).then(function (page1) {
+    page2.items.forEach(function (rec) {
+      console.log(rec);
+    });
+  });
+});
+
+query.setLimit('Captain America').fetchAll().then(function (records) {
+  records.forEach(function (rec) {
+    console.log(rec);
+  })
+});
+```
+
 TODO: Document the Query Class.
 
 Events
