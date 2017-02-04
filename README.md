@@ -105,6 +105,11 @@ Returns a Promise for an Array of Objects like `{type, id}`.
 
 Returns a Promise for a Boolean `true`.
 
+### batchGet
+`.batchGet(type, IDs)` -- Get a batch of records by IDs.
+
+Returns a Promise for an Array of results.
+
 ### query
 `.query(type, index)` -- Returns a new [Query class](#query-class) instance.
 
