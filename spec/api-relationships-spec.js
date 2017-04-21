@@ -1,4 +1,4 @@
-/* global describe, beforeAll, it, expect */
+/* global describe, beforeAll, afterAll, it, expect */
 /* eslint max-lines: 0 */
 'use strict';
 var Promise = require('bluebird');
@@ -24,6 +24,8 @@ describe('API relationships', function () {
 		reverseLinksAfterRm: null
 	});
 
+	var testServer;
+
 	beforeAll(function (done) {
 		var args = {
 			AWS_ACCESS_KEY_ID: this.AWS_ACCESS_KEY_ID,
@@ -36,6 +38,13 @@ describe('API relationships', function () {
 		};
 
 		Promise.resolve(args)
+			// Setup a new server instance.
+			.then(function () {
+				return lib.startTestServer().then(server => {
+					testServer = server;
+					return args;
+				});
+			})
 			// Setup a fresh database.
 			.then(lib.initializeDb)
 			.then(function (newArgs) {
@@ -165,6 +174,12 @@ describe('API relationships', function () {
 			.then(done)
 			.catch(done.fail);
 	}, 300 * 1000); // Allow to run for a long time
+
+	afterAll(function (done) {
+		testServer.close(function () {
+			done();
+		});
+	});
 
 	it('fetches correct number of related records', function () {
 		var relatedRecords = SUBJECT.get('relatedRecords');

@@ -1,4 +1,4 @@
-/* global describe, beforeAll, it, expect */
+/* global describe, beforeAll, afterAll, it, expect */
 /* eslint max-lines: 0 */
 'use strict';
 var Promise = require('bluebird');
@@ -28,7 +28,7 @@ describe('API batchGet()', function () {
 
 		return Promise.resolve(args)
 			// Setup a fresh database.
-			.then(() => {
+			.then(function () {
 				return lib.startTestServer().then(server => {
 					testServer = server;
 					return args;
