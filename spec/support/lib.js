@@ -2,6 +2,7 @@
 
 var Promise = require('bluebird');
 var filepath = require('filepath');
+var dynalite = require('dynalite');
 
 var U = require('../../lib/utils');
 var DynamoDBEngine = require('../../lib/dynamodb-engine');
@@ -24,6 +25,19 @@ lib.initializeDb = function (args) {
 		.then(U.constant(args))
 		.then(lib.migrateUp)
 		.then(U.constant(args));
+};
+
+lib.startTestServer = function () {
+	var server = dynalite();
+
+	return new Promise(function (resolve, reject) {
+		server.listen(8000, function (err) {
+			if (err) {
+				return reject(err);
+			}
+			return resolve(server);
+		});
+	});
 };
 
 // args.AWS_ACCESS_KEY_ID

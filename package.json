@@ -21,6 +21,7 @@
     "lodash"    : "~4.17.0"
   },
   "devDependencies": {
+    "dynalite" : "~1.2.0",
     "filepath" : "~1.1.0",
     "immutable": "~3.8.0",
     "jasmine"  : "~2.5.0",

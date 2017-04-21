@@ -1,4 +1,4 @@
-/* global describe, beforeAll, it, expect */
+/* global describe, beforeAll, afterAll, it, expect */
 /* eslint-disable max-nested-callbacks */
 /* eslint max-lines: 0 */
 
@@ -13,6 +13,7 @@ var lib = require('./support/lib');
 describe('API CRUD operations', function () {
 	var DB;
 	var ARGS;
+	var testServer;
 
 	beforeAll(function (done) {
 		ARGS = {
@@ -26,6 +27,12 @@ describe('API CRUD operations', function () {
 
 		Promise.resolve(ARGS)
 			// Setup a fresh database.
+			.then(function () {
+				return lib.startTestServer().then(server => {
+					testServer = server;
+					return ARGS;
+				});
+			})
 			.then(lib.initializeDb)
 			.then(function (newArgs) {
 				ARGS = newArgs;
@@ -35,6 +42,12 @@ describe('API CRUD operations', function () {
 			.then(done)
 			.catch(done.fail);
 	}, 50000);
+
+	afterAll(function (done) {
+		testServer.close(function () {
+			done();
+		});
+	});
 
 	describe('CRUD with valid data', function () {
 		var SUBJECT = new Immutable.Map({

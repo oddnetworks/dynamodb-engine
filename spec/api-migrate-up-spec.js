@@ -1,4 +1,4 @@
-/* global describe, beforeAll, it, expect */
+/* global describe, beforeAll, afterAll, it, expect */
 /* eslint max-lines: 0 */
 
 'use strict';
@@ -16,6 +16,8 @@ describe('API migrateUp()', function () {
 		withIndexes: null
 	});
 
+	var testServer;
+
 	beforeAll(function (done) {
 		var args = {
 			AWS_ACCESS_KEY_ID: this.AWS_ACCESS_KEY_ID,
@@ -28,26 +30,49 @@ describe('API migrateUp()', function () {
 		args.db = lib.createDbInstance(args, {Character: {}, Series: {}});
 
 		Promise.resolve(args)
-
-			// Clean up from previous tests.
-			.then(lib.removeTestTables)
-			.then(U.constant(args))
-			.then(lib.listTestTables)
-			.then(function (res) {
-				SUBJECT = SUBJECT.set('initialTableList', Immutable.fromJS(res));
+			// Setup a new server instance.
+			.then(function () {
+				return lib.startTestServer().then(server => {
+					testServer = server;
+					return args;
+				});
 			})
-			.then(U.constant(args))
+			.then(function () {
+				return lib.listTestTables(args).then(function (res) {
+					SUBJECT = SUBJECT.set('initialTableList', Immutable.fromJS(res));
+					return null;
+				});
+			})
 
 			// Run the first migrateUp() without indexes.
-			.then(lib.migrateUp)
-			.then(U.constant(args))
-			.then(lib.describeTestTables)
-			.then(function (res) {
-				SUBJECT = SUBJECT.set('tables', Immutable.fromJS(res));
+			.then(function () {
+				return lib.migrateUp(args);
 			})
-			.then(U.constant(args))
+			.then(function () {
+				return lib.describeTestTables(args).then(function (res) {
+					SUBJECT = SUBJECT.set('tables', Immutable.fromJS(res));
+					return null;
+				});
+			})
 
 			// Run the second migrateUp() adding new indexes.
+			//
+			// Because of the way Dynalite works, we need to close the test server,
+			// and restart it for the next migration.
+			.then(function () {
+				return new Promise(function (resolve) {
+					testServer.close(function () {
+						resolve(null);
+					});
+				});
+			})
+			// Setup a new server instance.
+			.then(() => {
+				return lib.startTestServer().then(server => {
+					testServer = server;
+					return args;
+				});
+			})
 			.then(function () {
 				args.db = lib.createDbInstance(
 					args,
@@ -75,18 +100,26 @@ describe('API migrateUp()', function () {
 					}
 				);
 			})
-			.then(U.constant(args))
-			.then(lib.migrateUp)
-			.then(U.constant(args))
-			.then(lib.describeTestTables)
-			.then(function (res) {
-				SUBJECT = SUBJECT.set('withIndexes', Immutable.fromJS(res));
+			.then(function () {
+				return lib.migrateUp(args);
+			})
+			.then(function () {
+				return lib.describeTestTables(args).then(function (res) {
+					SUBJECT = SUBJECT.set('withIndexes', Immutable.fromJS(res));
+					return null;
+				});
 			})
 
 			// Complete setup
 			.then(done)
 			.catch(done.fail);
 	}, 500 * 1000); // Allow setup to run longer
+
+	afterAll(function (done) {
+		testServer.close(function () {
+			done();
+		});
+	});
 
 	it('initializes with no tables', function () {
 		var list = SUBJECT.get('initialTableList');
