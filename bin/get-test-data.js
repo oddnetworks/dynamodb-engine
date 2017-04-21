@@ -48,7 +48,7 @@ ItemStream.prototype._doRead = function () {
 	ItemStream
 		.getCharactersPage(this.path, this._pageIndex)
 		.then(res => {
-			if (!res.length) {
+			if (res.length === 0) {
 				return this.push(null);
 			}
 			res.forEach(this.push.bind(this));

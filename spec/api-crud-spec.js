@@ -30,7 +30,7 @@ describe('API CRUD operations', function () {
 			.then(function (newArgs) {
 				ARGS = newArgs;
 				DB = ARGS.db;
-				return;
+				return null;
 			})
 			.then(done)
 			.catch(done.fail);
