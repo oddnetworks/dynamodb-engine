@@ -50,7 +50,7 @@ lib.createDbInstance = function (args, schema) {
 // args.TABLE_PREFIX
 lib.removeTestTables = function (args) {
 	return lib.listTestTables(args).then(function (tableNames) {
-		if (tableNames.length) {
+		if (tableNames.length > 0) {
 			return Promise.all(tableNames.map(U.partial(lib.deleteTable, args)))
 				.then(U.constant(tableNames));
 		}

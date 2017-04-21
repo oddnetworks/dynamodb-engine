@@ -24,8 +24,23 @@
     "filepath" : "~1.1.0",
     "immutable": "~3.8.0",
     "jasmine"  : "~2.4.0",
-    "xo"       : "~0.16.0"
+    "xo"       : "~0.18.0"
   },
   "bugs": {"url": "https://github.com/oddnetworks/dynamodb-engine/issues"},
-  "license": "MIT"
+  "license": "MIT",
+  "xo": {
+    "esnext": false,
+    "ignores": [
+      "data/**"
+    ],
+    "envs": [
+      "node"
+    ],
+    "rules": {
+      "func-names": 0,
+      "unicorn/prefer-starts-ends-with": 0,
+      "no-use-extend-native/no-use-extend-native": 0,
+      "capitalized-comments": 0
+    }
+  }
 }
