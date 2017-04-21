@@ -13,6 +13,7 @@ describe('API batchGet()', function () {
 	var missing;
 	var keys;
 	var results;
+	var testServer;
 
 	beforeAll(function (done) {
 		args = {
@@ -27,6 +28,12 @@ describe('API batchGet()', function () {
 
 		return Promise.resolve(args)
 			// Setup a fresh database.
+			.then(() => {
+				return lib.startTestServer().then(server => {
+					testServer = server;
+					return args;
+				});
+			})
 			.then(lib.initializeDb)
 			.then(function (newArgs) {
 				args = newArgs;
@@ -69,6 +76,12 @@ describe('API batchGet()', function () {
 
 			.then(done)
 			.catch(done.fail);
+	});
+
+	afterAll(function (done) {
+		testServer.close(function () {
+			done();
+		});
 	});
 
 	it('returns all items that could be found', function () {
